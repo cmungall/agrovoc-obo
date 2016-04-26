@@ -1,0 +1,1886 @@
+format-version: 1.2
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10053
+name: conception rate
+xref: http://cat.aii.caas.cn/concept/c_19424
+xref: http://cat.aii.caas.cn/concept/c_19426
+xref: http://cat.aii.caas.cn/concept/c_37675
+xref: http://cat.aii.caas.cn/concept/c_41636
+xref: http://lod.nal.usda.gov/nalt/137863
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6510 ! reproductive performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10760
+name: fattening rations
+is_a: http://aims.fao.org/aos/agrovoc/c_6461  ! rations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10852
+name: finishing rations
+is_a: http://aims.fao.org/aos/agrovoc/c_6461  ! rations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11364
+name: gross national product
+synonym: "GNP" RELATED []
+synonym: "gross domestic product" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_16486
+xref: http://d-nb.info/gnd/4055884-8
+xref: http://eurovoc.europa.eu/2769
+xref: http://id.loc.gov/authorities/sh85057428#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/62500
+xref: http://lod.gesis.org/thesoz/concept/10039809
+xref: http://lod.nal.usda.gov/nalt/67924
+xref: http://www.eionet.europa.eu/gemet/concept/3777
+is_a: http://aims.fao.org/aos/agrovoc/c_15501  ! economic indicators
+is_a: http://aims.fao.org/aos/agrovoc/c_5078  ! national income
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_28668 ! domestic production
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11692
+name: hypothermia
+xref: http://aims.fao.org/aos/asfa/c_6513
+xref: http://cat.aii.caas.cn/concept/c_44649
+xref: http://d-nb.info/gnd/4140401-4
+xref: http://lod.nal.usda.gov/nalt/158
+is_a: http://aims.fao.org/aos/agrovoc/c_983  ! body temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12150
+name: lethal dose
+xref: http://cat.aii.caas.cn/concept/c_57941
+xref: http://cat.aii.caas.cn/concept/c_57942
+xref: http://lod.nal.usda.gov/nalt/34021
+is_a: http://aims.fao.org/aos/agrovoc/c_36906  ! dosage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12331
+name: maintenance rations
+xref: http://cat.aii.caas.cn/concept/c_46890
+xref: http://cat.aii.caas.cn/concept/c_46891
+is_a: http://aims.fao.org/aos/agrovoc/c_6461  ! rations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1358166351183
+name: food prices
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1823 ! consumer expenditure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3675 ! household expenditure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13669
+name: heart rate
+synonym: "pulse rate" RELATED []
+xref: http://d-nb.info/gnd/4125645-1
+xref: http://lod.nal.usda.gov/nalt/38887
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_961 ! blood circulation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13770
+name: rectal temperature
+is_a: http://aims.fao.org/aos/agrovoc/c_983  ! body temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13895
+name: retail prices
+xref: http://eurovoc.europa.eu/2652
+is_a: http://aims.fao.org/aos/agrovoc/c_28728  ! market prices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14324
+name: skin temperature
+xref: http://lod.nal.usda.gov/nalt/18366
+is_a: http://aims.fao.org/aos/agrovoc/c_983  ! body temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14325
+name: skin fold thickness
+is_a: http://aims.fao.org/aos/agrovoc/c_980  ! body measurements
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14568
+name: starter rations
+is_a: http://aims.fao.org/aos/agrovoc/c_6461  ! rations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14581
+name: stem length
+is_a: http://aims.fao.org/aos/agrovoc/c_4260  ! length
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14851
+name: thermal capacity
+def: "The ratio of the heat energy absorbed by a substance to the substance's increase in temperature." []
+xref: http://cat.aii.caas.cn/concept/c_37476
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_7718  ! thermal properties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15501
+name: economic indicators
+xref: http://cat.aii.caas.cn/concept/c_57566
+xref: http://cat.aii.caas.cn/concept/c_57580
+xref: http://d-nb.info/gnd/4139118-4
+xref: http://eurovoc.europa.eu/1352
+xref: http://id.loc.gov/authorities/sh85040831#concept
+xref: http://lod.nal.usda.gov/nalt/28677
+xref: http://zbw.eu/stw/descriptor/15075-1
+is_a: http://aims.fao.org/aos/agrovoc/c_330058  ! indicators
+relationship: influences http://aims.fao.org/aos/agrovoc/c_15521 ! social indicators
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2471 ! economic development
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28674 ! economic situation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4400 ! living standards
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15510
+name: overpopulation
+xref: http://eurovoc.europa.eu/4343
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/81600
+xref: http://lod.gesis.org/thesoz/concept/10057887
+xref: http://www.eionet.europa.eu/gemet/concept/5965
+is_a: http://aims.fao.org/aos/agrovoc/c_6112  ! population density
+relationship: causes http://aims.fao.org/aos/agrovoc/c_34888 ! population pressure
+relationship: causes http://aims.fao.org/aos/agrovoc/c_5082 ! disasters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15521
+name: social indicators
+xref: http://d-nb.info/gnd/4055746-7
+xref: http://eurovoc.europa.eu/1353
+xref: http://id.loc.gov/authorities/sh85123962#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/91570
+xref: http://lod.gesis.org/thesoz/concept/10047130
+xref: http://www.eionet.europa.eu/gemet/concept/7798
+xref: http://zbw.eu/stw/descriptor/15073-5
+is_a: http://aims.fao.org/aos/agrovoc/c_330058  ! indicators
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_29170 ! development indicators
+relationship: measures http://aims.fao.org/aos/agrovoc/c_7130 ! social change
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15846
+name: body weight
+synonym: "body mass" RELATED []
+synonym: "live weight" RELATED []
+synonym: "liveweight" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_4423
+xref: http://cat.aii.caas.cn/concept/c_44665
+xref: http://lod.gesis.org/thesoz/concept/10049109
+xref: http://lod.nal.usda.gov/nalt/119
+is_a: http://aims.fao.org/aos/agrovoc/c_8349  ! weight
+relationship: influences http://aims.fao.org/aos/agrovoc/c_980 ! body measurements
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1597
+name: chromosome number
+xref: http://cat.aii.caas.cn/concept/c_37359
+xref: http://lod.nal.usda.gov/nalt/25866
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_331011 ! ploidy
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1414 ! cell structure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16063
+name: water temperature
+xref: http://aims.fao.org/aos/asfa/c_9809
+xref: http://cat.aii.caas.cn/concept/c_42705
+xref: http://d-nb.info/gnd/4234773-7
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/91090
+xref: http://lod.nal.usda.gov/nalt/65553
+is_a: http://aims.fao.org/aos/agrovoc/c_7657  ! temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16072
+name: diameter
+xref: http://cat.aii.caas.cn/concept/c_57537
+xref: http://d-nb.info/gnd/4273067-3
+xref: http://lod.nal.usda.gov/nalt/33043
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16110
+name: leaf area
+xref: http://cat.aii.caas.cn/concept/c_53113
+xref: http://lod.nal.usda.gov/nalt/31998
+is_a: http://aims.fao.org/aos/agrovoc/c_330588  ! area
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1262 ! canopy
+relationship: influences http://aims.fao.org/aos/agrovoc/c_35196 ! Leaf Area Index
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16113
+name: application rates
+xref: http://cat.aii.caas.cn/concept/c_40801
+xref: http://cat.aii.caas.cn/concept/c_54659
+xref: http://lod.nal.usda.gov/nalt/11349
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_10795 ! fertilizer application
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36907 ! dosage effects
+relationship: influences http://aims.fao.org/aos/agrovoc/c_542 ! application methods
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16115
+name: birth weight
+xref: http://cat.aii.caas.cn/concept/c_6134
+xref: http://d-nb.info/gnd/4206988-9
+xref: http://lod.nal.usda.gov/nalt/17622
+is_a: http://aims.fao.org/aos/agrovoc/c_15846  ! body weight
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16117
+name: breeding value
+xref: http://cat.aii.caas.cn/concept/c_55700
+xref: http://d-nb.info/gnd/4212023-8
+xref: http://lod.nal.usda.gov/nalt/19694
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1078 ! selection criteria
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16038 ! sire evaluation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34003 ! genetic gain
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16130
+name: growth rate
+xref: http://aims.fao.org/aos/asfa/c_6286
+xref: http://cat.aii.caas.cn/concept/c_40665
+xref: http://d-nb.info/gnd/4188804-2
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16152
+name: weaning weight
+xref: http://cat.aii.caas.cn/concept/c_10459
+xref: http://cat.aii.caas.cn/concept/c_26501
+xref: http://lod.nal.usda.gov/nalt/18375
+is_a: http://aims.fao.org/aos/agrovoc/c_15846  ! body weight
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5698 ! animal performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16520
+name: autotetraploidy
+is_a: http://aims.fao.org/aos/agrovoc/c_7690  ! tetraploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16593
+name: price indices
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16599
+name: root temperature
+xref: http://cat.aii.caas.cn/concept/c_15043
+is_a: http://aims.fao.org/aos/agrovoc/c_7657  ! temperature
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6569 ! rhizosphere
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1743
+name: cold
+synonym: "low temperature" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_8826
+xref: http://id.loc.gov/authorities/sh85027909#concept
+xref: http://lod.nal.usda.gov/nalt/27767
+xref: http://www.eionet.europa.eu/gemet/concept/1556
+is_a: http://aims.fao.org/aos/agrovoc/c_7657  ! temperature
+relationship: causes http://aims.fao.org/aos/agrovoc/c_37531 ! cold stress
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3113 ! frost
+relationship: influences http://aims.fao.org/aos/agrovoc/c_9994 ! cold tolerance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1825
+name: consumer prices
+xref: http://d-nb.info/gnd/4187571-0
+xref: http://eurovoc.europa.eu/2636
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1844
+name: controlled prices
+synonym: "intervention prices" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2186
+name: density
+def: "Density defined in a qualitative manner as the measure of the relative " []
+synonym: "mass per volume" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5197
+xref: http://cat.aii.caas.cn/concept/c_30914
+xref: http://d-nb.info/gnd/4312764-2
+xref: http://id.loc.gov/authorities/sh85036848#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/36370
+xref: http://lod.nal.usda.gov/nalt/20350
+xref: http://www.eionet.europa.eu/gemet/concept/11116
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7281 ! specific gravity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2190
+name: depth
+synonym: "deepness" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5218
+xref: http://cat.aii.caas.cn/concept/c_40127
+xref: http://d-nb.info/gnd/4334905-5
+xref: http://lod.nal.usda.gov/nalt/32416
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2283
+name: dimensions
+def: "The magnitude of something in a particular direction (especially length or width or height)" []
+xref: http://aims.fao.org/aos/asfa/c_5280
+xref: http://d-nb.info/gnd/4149932-3
+xref: http://lod.nal.usda.gov/nalt/33650
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_230
+name: air temperature
+xref: http://aims.fao.org/aos/asfa/c_3871
+xref: http://cat.aii.caas.cn/concept/c_35662
+xref: http://d-nb.info/gnd/4168286-5
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/16250
+xref: http://lod.nal.usda.gov/nalt/5859
+xref: http://www.eionet.europa.eu/gemet/concept/281
+is_a: http://aims.fao.org/aos/agrovoc/c_7657  ! temperature
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3113 ! frost
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3892 ! insolation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7658 ! temperature inversion
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2313
+name: diploidy
+synonym: "diploids" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_11051
+xref: http://d-nb.info/gnd/4309086-2
+is_a: http://aims.fao.org/aos/agrovoc/c_331011  ! ploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24027
+name: fishing effort
+xref: http://aims.fao.org/aos/asfa/c_5870
+xref: http://cat.aii.caas.cn/concept/c_3498
+xref: http://cat.aii.caas.cn/concept/c_3499
+xref: http://cat.aii.caas.cn/concept/c_3500
+xref: http://cat.aii.caas.cn/concept/c_3504
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24098
+name: velocity
+def: "Distance travelled per unit time" []
+xref: http://aims.fao.org/aos/asfa/c_9672
+xref: http://cat.aii.caas.cn/concept/c_43467
+xref: http://d-nb.info/gnd/4020574-5
+xref: http://lod.nal.usda.gov/nalt/51791
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_4683  ! mechanical properties
+relationship: influences http://aims.fao.org/aos/agrovoc/c_25788 ! equipment performance
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4413 ! locomotion
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24186
+name: ecological indicators
+is_a: http://aims.fao.org/aos/agrovoc/c_330058  ! indicators
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24195
+name: litter size
+synonym: "litter performance" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_47384
+xref: http://cat.aii.caas.cn/concept/c_4997
+xref: http://d-nb.info/gnd/4372234-9
+xref: http://lod.nal.usda.gov/nalt/9474
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37246 ! litter weight
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5698 ! animal performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_242
+name: albedo (solar)
+xref: http://cat.aii.caas.cn/concept/c_11753
+xref: http://cat.aii.caas.cn/concept/c_11777
+is_a: http://aims.fao.org/aos/agrovoc/c_3892  ! insolation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24232
+name: root length
+is_a: http://aims.fao.org/aos/agrovoc/c_4260  ! length
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24248
+name: speed
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/35060
+xref: http://lod.gesis.org/thesoz/concept/10045253
+xref: http://www.eionet.europa.eu/gemet/concept/7994
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_4683  ! mechanical properties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24400
+name: hexaploidy
+synonym: "hexaploids" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_6094  ! polyploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24410
+name: stocking density
+synonym: "livestock density" RELATED []
+synonym: "stocking rate" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9050
+xref: http://cat.aii.caas.cn/concept/c_12011
+xref: http://cat.aii.caas.cn/concept/c_12065
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24418
+name: water potential
+def: "The difference in free energy or chemical potential (per unit molal volume) between pure water and water in cells and solutions." []
+synonym: "plant water potential" RELATED []
+synonym: "suction pressure" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_42665
+xref: http://lod.nal.usda.gov/nalt/49436
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_7210 ! soil water potential
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24423
+name: selection index
+xref: http://cat.aii.caas.cn/concept/c_44449
+xref: http://cat.aii.caas.cn/concept/c_51192
+xref: http://d-nb.info/gnd/4371040-2
+xref: http://lod.nal.usda.gov/nalt/62785
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16117 ! breeding value
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_1078 ! selection criteria
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24497
+name: osmotic potential
+def: "The potential of water molecules to move from a hypotonic solution (more water, less solutes) to a hypertonic solution (less water, more solutes) across a semi permeable membrane." []
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24549
+name: wood density
+xref: http://lod.nal.usda.gov/nalt/67395
+is_a: http://aims.fao.org/aos/agrovoc/c_2186  ! density
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24815
+name: aneuploidy
+synonym: "aneuploids" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_12185
+xref: http://d-nb.info/gnd/4112524-1
+is_a: http://aims.fao.org/aos/agrovoc/c_331011  ! ploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24852
+name: group size
+xref: http://lod.gesis.org/thesoz/concept/10046092
+xref: http://lod.nal.usda.gov/nalt/43976
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6115 ! population structure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24854
+name: harvest index
+def: "The ratio of grain weight to total plant weight." []
+xref: http://cat.aii.caas.cn/concept/c_41568
+xref: http://lod.nal.usda.gov/nalt/44668
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24864
+name: ion exchange capacity
+def: "Number of inorganic groups per specified amount of ion-exchanger." []
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3933 ! ion exchange
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24903
+name: stumpage value
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24921
+name: economic thresholds
+xref: http://cat.aii.caas.cn/concept/c_23827
+xref: http://lod.nal.usda.gov/nalt/30115
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16098 ! economic viability
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1919 ! cost benefit analysis
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28726 ! marginal farms
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34265 ! economic injury levels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24966
+name: anion exchange capacity
+def: "The total exchangeable anions that a soil can adsorb, measured as milliequivalents per 100 grams of soil." []
+xref: http://cat.aii.caas.cn/concept/c_54046
+xref: http://lod.nal.usda.gov/nalt/9594
+is_a: http://aims.fao.org/aos/agrovoc/c_24864  ! ion exchange capacity
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_16163 ! anions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24981
+name: cation exchange capacity
+def: "A measure of the fertility of soil which describes its ability to hold and supply nutrients." []
+xref: http://cat.aii.caas.cn/concept/c_52460
+xref: http://lod.nal.usda.gov/nalt/23045
+is_a: http://aims.fao.org/aos/agrovoc/c_24864  ! ion exchange capacity
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_16169 ! cations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2514
+name: electric potential
+def: "The work required to transfer a unit of positive electric charge from an infinite distance to a given point." []
+xref: http://aims.fao.org/aos/asfa/c_5513
+xref: http://cat.aii.caas.cn/concept/c_9378
+xref: http://cat.aii.caas.cn/concept/c_9442
+is_a: http://aims.fao.org/aos/agrovoc/c_2517  ! electrical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25307
+name: soil water deficit
+def: "The difference between the amount of water that is in a soil and the amount needed for crops to grow successfully." []
+xref: http://lod.nal.usda.gov/nalt/63463
+is_a: http://aims.fao.org/aos/agrovoc/c_7206  ! soil water balance
+relationship: causes http://aims.fao.org/aos/agrovoc/c_8390 ! wilting
+relationship: influences http://aims.fao.org/aos/agrovoc/c_25319 ! irrigation rates
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8323 ! water requirements
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25308
+name: precipitation deficit
+is_a: http://aims.fao.org/aos/agrovoc/c_8311  ! water balance
+relationship: causes http://aims.fao.org/aos/agrovoc/c_2391 ! drought
+relationship: causes http://aims.fao.org/aos/agrovoc/c_25334 ! water depletion
+relationship: causes http://aims.fao.org/aos/agrovoc/c_29687 ! low water
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25319
+name: irrigation rates
+xref: http://cat.aii.caas.cn/concept/c_15989
+xref: http://cat.aii.caas.cn/concept/c_15994
+xref: http://lod.nal.usda.gov/nalt/47771
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_25354 ! supplemental irrigation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25632
+name: biological indicators
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/88830
+xref: http://www.eionet.europa.eu/gemet/concept/856
+is_a: http://aims.fao.org/aos/agrovoc/c_330058  ! indicators
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25647
+name: hydrostatic pressure
+xref: http://aims.fao.org/aos/asfa/c_6492
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/97390
+is_a: http://aims.fao.org/aos/agrovoc/c_6174  ! pressure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2598
+name: environmental temperature
+xref: http://cat.aii.caas.cn/concept/c_19612
+xref: http://d-nb.info/gnd/4197822-5
+is_a: http://aims.fao.org/aos/agrovoc/c_7657  ! temperature
+relationship: includes http://aims.fao.org/aos/agrovoc/c_34204 ! environmental air temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26832
+name: vapour pressure
+synonym: "vapor pressure" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9662
+xref: http://cat.aii.caas.cn/concept/c_42612
+xref: http://d-nb.info/gnd/4148771-0
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/26040
+xref: http://www.eionet.europa.eu/gemet/concept/8898
+is_a: http://aims.fao.org/aos/agrovoc/c_6174  ! pressure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2739 ! evaporation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26835
+name: water yield
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8488 ! yields
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26855
+name: price elasticities
+xref: http://lod.gesis.org/thesoz/concept/10055131
+xref: http://zbw.eu/stw/descriptor/10055-4
+is_a: http://aims.fao.org/aos/agrovoc/c_6177  ! price formation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26869
+name: lactation number
+xref: http://lod.nal.usda.gov/nalt/48743
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24276 ! milk performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27004
+name: rotational speed
+is_a: http://aims.fao.org/aos/agrovoc/c_24248  ! speed
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2741
+name: evapotranspiration
+def: "Evapotranspiration (ET) is a term describing the transport of water into the atmosphere from surfaces, including soil (soil evaporation), and from vegetation (transpiration)." []
+xref: http://aims.fao.org/aos/asfa/c_5682
+xref: http://cat.aii.caas.cn/concept/c_44529
+xref: http://cat.aii.caas.cn/concept/c_57215
+xref: http://cat.aii.caas.cn/concept/c_57219
+xref: http://cat.aii.caas.cn/concept/c_57234
+xref: http://cat.aii.caas.cn/concept/c_59945
+xref: http://d-nb.info/gnd/4219549-4
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/35300
+xref: http://lod.nal.usda.gov/nalt/38819
+xref: http://www.eionet.europa.eu/gemet/concept/3022
+is_a: http://aims.fao.org/aos/agrovoc/c_8311  ! water balance
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2739 ! evaporation
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7871 ! transpiration
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7206 ! soil water balance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27926
+name: basal rations
+xref: http://cat.aii.caas.cn/concept/c_21130
+is_a: http://aims.fao.org/aos/agrovoc/c_6461  ! rations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27927
+name: daily rations
+is_a: http://aims.fao.org/aos/agrovoc/c_6461  ! rations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2794
+name: farm area
+synonym: "acreage" RELATED []
+xref: http://d-nb.info/gnd/4145043-7
+xref: http://lod.nal.usda.gov/nalt/138267
+is_a: http://aims.fao.org/aos/agrovoc/c_330588  ! area
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28412
+name: refractive index
+def: "The ratio of the speed of refracted light in a vacuum to its speed in the medium being studied." []
+xref: http://aims.fao.org/aos/asfa/c_8282
+xref: http://cat.aii.caas.cn/concept/c_56951
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/123330
+xref: http://lod.nal.usda.gov/nalt/55970
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_5371  ! optical properties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28503
+name: isoelectric point
+def: "Isoelectric point is the pH of a solution or dispersion at which the net charge on the macromolecules or colloidal particles is zero. In electrophoresis there is no motion of the particles in an electric field at the isoelectric point." []
+xref: http://cat.aii.caas.cn/concept/c_8738
+xref: http://lod.nal.usda.gov/nalt/47859
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_5753  ! pH
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28668
+name: domestic production
+xref: http://cat.aii.caas.cn/concept/c_16421
+is_a: http://aims.fao.org/aos/agrovoc/c_15501  ! economic indicators
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6957 ! self sufficiency
+relationship: usingValue http://aims.fao.org/aos/agrovoc/c_32548 ! production data
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28681
+name: exchange rate
+xref: http://cat.aii.caas.cn/concept/c_20637
+xref: http://d-nb.info/gnd/4064921-0
+xref: http://eurovoc.europa.eu/4390
+xref: http://lod.nal.usda.gov/nalt/67800
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12009929t
+xref: http://zbw.eu/stw/descriptor/10773-2
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2220 ! devaluation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28662 ! currencies
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4907 ! monetary policies
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_15501 ! economic indicators
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28691
+name: farm numbers
+synonym: "number of farms" RELATED []
+xref: http://lod.nal.usda.gov/nalt/39510
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_202 ! agricultural structure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28696
+name: gross agricultural product
+xref: http://cat.aii.caas.cn/concept/c_33727
+is_a: http://aims.fao.org/aos/agrovoc/c_11364  ! gross national product
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28728
+name: market prices
+xref: http://d-nb.info/gnd/4139135-4
+xref: http://eurovoc.europa.eu/2656
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/64950
+xref: http://lod.gesis.org/thesoz/concept/10051707
+xref: http://lod.nal.usda.gov/nalt/51533
+xref: http://www.eionet.europa.eu/gemet/concept/13255
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4623 ! marketing margins
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28920
+name: multipliers
+def: "Multipliers capture the size of the secondary effects in a given region, generally as a ratio of the total change in economic activity in the region relative to the direct change. - http://corpslakes.usace.army.mil/employees/economic/glossary.html" []
+xref: http://lod.gesis.org/thesoz/concept/10052756
+xref: http://lod.nal.usda.gov/nalt/35760
+xref: http://zbw.eu/stw/descriptor/10251-4
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28933
+name: preferential interest rates
+is_a: http://aims.fao.org/aos/agrovoc/c_3912  ! interest rates
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29170
+name: development indicators
+xref: http://zbw.eu/stw/descriptor/10494-6
+is_a: http://aims.fao.org/aos/agrovoc/c_330058  ! indicators
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2229 ! development projects
+relationship: measures http://aims.fao.org/aos/agrovoc/c_4385 ! literacy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29551
+name: atmospheric temperature
+is_a: http://aims.fao.org/aos/agrovoc/c_7657  ! temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29582
+name: wind speed
+xref: http://aims.fao.org/aos/asfa/c_9936
+xref: http://lod.nal.usda.gov/nalt/4651
+is_a: http://aims.fao.org/aos/agrovoc/c_24248  ! speed
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29685
+name: water levels
+xref: http://aims.fao.org/aos/asfa/c_9783
+xref: http://cat.aii.caas.cn/concept/c_42703
+xref: http://d-nb.info/gnd/4189260-4
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/21430
+xref: http://www.eionet.europa.eu/gemet/concept/9190
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29686
+name: high water
+synonym: "floods (rising water)" RELATED []
+synonym: "freshets" RELATED []
+xref: http://d-nb.info/gnd/4025289-9
+is_a: http://aims.fao.org/aos/agrovoc/c_29685  ! water levels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29687
+name: low water
+xref: http://d-nb.info/gnd/4171871-9
+is_a: http://aims.fao.org/aos/agrovoc/c_29685  ! water levels
+relationship: causes http://aims.fao.org/aos/agrovoc/c_2391 ! drought
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29767
+name: economic growth rate
+is_a: http://aims.fao.org/aos/agrovoc/c_15501  ! economic indicators
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2980
+name: flooding
+synonym: "floods (inundations)" RELATED []
+synonym: "inundation" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5906
+xref: http://cat.aii.caas.cn/concept/c_18515
+xref: http://cat.aii.caas.cn/concept/c_42785
+xref: http://d-nb.info/gnd/4186634-4
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/30820
+xref: http://www.eionet.europa.eu/gemet/concept/3301
+is_a: http://aims.fao.org/aos/agrovoc/c_10391  ! natural disasters
+is_a: http://aims.fao.org/aos/agrovoc/c_29686  ! high water
+relationship: causes http://aims.fao.org/aos/agrovoc/c_2978 ! flooded land
+relationship: causes http://aims.fao.org/aos/agrovoc/c_8318 ! water erosion
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36989 ! flooding tolerance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2989
+name: flow rate
+xref: http://cat.aii.caas.cn/concept/c_27982
+xref: http://cat.aii.caas.cn/concept/c_27994
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_298db0d3
+name: land area
+is_a: http://aims.fao.org/aos/agrovoc/c_330588  ! area
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3092
+name: freezing point
+def: "The temperature at which a liquid becomes solid." []
+synonym: "freezing temperature" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6018
+xref: http://cat.aii.caas.cn/concept/c_2998
+xref: http://cat.aii.caas.cn/concept/c_33048
+xref: http://cat.aii.caas.cn/concept/c_33049
+xref: http://d-nb.info/gnd/4318699-3
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/89300
+xref: http://lod.nal.usda.gov/nalt/41523
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3113 ! frost
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_316
+name: altitude
+def: "Elevation especially above sea level or above the earth's surface" []
+synonym: "high altitude" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_14596
+xref: http://cat.aii.caas.cn/concept/c_16731
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/41680
+xref: http://lod.nal.usda.gov/nalt/7259
+xref: http://www.eionet.europa.eu/gemet/concept/10140
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_7815  ! topography
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2594 ! environmental factors
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4958 ! mountain climate
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_31887
+name: respiratory quotient
+def: "The ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of time" []
+synonym: "RQ" RELATED []
+xref: http://lod.nal.usda.gov/nalt/61123
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32430
+name: dressing percentage
+synonym: "carcass dressing percentage" RELATED []
+xref: http://lod.nal.usda.gov/nalt/22331
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32444
+name: soil water constants
+xref: http://cat.aii.caas.cn/concept/c_45950
+xref: http://cat.aii.caas.cn/concept/c_45952
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_7182  ! soil chemicophysical properties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32445
+name: field capacity
+def: "The maximum amount of water that a particular soil can hold" []
+xref: http://cat.aii.caas.cn/concept/c_44832
+xref: http://lod.nal.usda.gov/nalt/40100
+is_a: http://aims.fao.org/aos/agrovoc/c_32444  ! soil water constants
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32476
+name: harvesting frequency
+synonym: "cutting frequency" RELATED []
+synonym: "harvesting intervals" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_32532 ! regrowth
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32541
+name: saponification number
+def: "The number of milligrams of potassiumB hydroxide required to saponify one gram of a given ester, esp. a glyceride. " []
+xref: http://cat.aii.caas.cn/concept/c_56632
+xref: http://lod.nal.usda.gov/nalt/274
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32626
+name: wilting point
+def: "The soil water content below which plants wilt and are unable to recover." []
+xref: http://lod.nal.usda.gov/nalt/57491
+is_a: http://aims.fao.org/aos/agrovoc/c_32444  ! soil water constants
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3295
+name: glycaemia
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330058
+name: indicators
+xref: http://aims.fao.org/aos/asfa/c_6603
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/75790
+xref: http://lod.gesis.org/thesoz/concept/10047129
+xref: http://www.eionet.europa.eu/gemet/concept/4196
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330493
+name: measure
+def: "Number or quantity that records a directly observable value or performance. All measures have a unit attached to them: inch, centimeter, dollar, liter, etc." []
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330588
+name: area
+xref: http://aims.fao.org/aos/asfa/c_4076
+xref: http://lod.gesis.org/thesoz/concept/10034788
+xref: http://lod.nal.usda.gov/nalt/11981
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330609
+name: yield gap
+is_a: http://aims.fao.org/aos/agrovoc/c_15501  ! economic indicators
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330626
+name: benefit-cost ratio
+is_a: http://aims.fao.org/aos/agrovoc/c_35691  ! economic value
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330765
+name: state level performance
+is_a: http://aims.fao.org/aos/agrovoc/c_35691  ! economic value
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330769
+name: space
+xref: http://dewey.info/class/571.0919/
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330840
+name: seedling rates
+synonym: "number of seedling per hill" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331011
+name: ploidy
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33495
+name: friction coefficient
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_4683  ! mechanical properties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33554
+name: somatic cell count
+xref: http://lod.nal.usda.gov/nalt/52963
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33931
+name: age differences
+xref: http://lod.gesis.org/thesoz/concept/10035360
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33956
+name: blood pH
+xref: http://lod.nal.usda.gov/nalt/2753
+is_a: http://aims.fao.org/aos/agrovoc/c_5753  ! pH
+relationship: influences http://aims.fao.org/aos/agrovoc/c_29138 ! blood physiology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34090
+name: recommended dietary allowances
+synonym: "RDA (recommended daily allowances)" RELATED []
+synonym: "recommended nutrient intake" RELATED []
+xref: http://lod.nal.usda.gov/nalt/33449
+is_a: http://aims.fao.org/aos/agrovoc/c_35725  ! dietary guidelines
+is_a: http://aims.fao.org/aos/agrovoc/c_6461  ! rations
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34064 ! nutrient intake
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34115
+name: sea level
+xref: http://aims.fao.org/aos/asfa/c_8551
+xref: http://d-nb.info/gnd/4169254-8
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/19470
+xref: http://www.eionet.europa.eu/gemet/concept/7513
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_29685 ! water levels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34204
+name: environmental air temperature
+is_a: http://aims.fao.org/aos/agrovoc/c_230  ! air temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34205
+name: environmental water temperature
+is_a: http://aims.fao.org/aos/agrovoc/c_16063  ! water temperature
+is_a: http://aims.fao.org/aos/agrovoc/c_2598  ! environmental temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34237
+name: dihaploidy
+xref: http://d-nb.info/gnd/4449166-9
+is_a: http://aims.fao.org/aos/agrovoc/c_1597  ! chromosome number
+is_a: http://aims.fao.org/aos/agrovoc/c_331011  ! ploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34265
+name: economic injury levels
+def: "The level of pest infestation below which the cost of further reducing the pest population exceeds the additional revenue or value of other benefits such reduction would achieve." []
+synonym: "economic damage thresholds" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4438 ! losses
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34328
+name: primary productivity
+xref: http://lod.nal.usda.gov/nalt/362
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3014 ! food chains
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7969 ! trophic levels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34790
+name: breast height diameter
+is_a: http://aims.fao.org/aos/agrovoc/c_16072  ! diameter
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3490
+name: haploidy
+synonym: "haploids" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_53252
+xref: http://cat.aii.caas.cn/concept/c_7970
+xref: http://cat.aii.caas.cn/concept/c_8047
+xref: http://d-nb.info/gnd/4023407-1
+is_a: http://aims.fao.org/aos/agrovoc/c_331011  ! ploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34901
+name: soil pH
+def: "An index of the acidity or alkalinity of the soil." []
+synonym: "soil acidity" RELATED []
+synonym: "soil alkalinity" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_46014
+xref: http://lod.nal.usda.gov/nalt/2736
+is_a: http://aims.fao.org/aos/agrovoc/c_5753  ! pH
+is_a: http://aims.fao.org/aos/agrovoc/c_7182  ! soil chemicophysical properties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34980
+name: acceptable daily intake
+def: "the maximum amount of any substance that can be safely ingested by a human. Ingestion that exceeds this amount may cause toxic effects. This term is usually applied to additives, residues, or chemicals not normally found in foods." []
+synonym: "ADI (acceptable daily intake)" RELATED []
+synonym: "tolerable daily intake" RELATED []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/89600
+xref: http://lod.nal.usda.gov/nalt/137381
+xref: http://www.eionet.europa.eu/gemet/concept/91
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3519
+name: heat
+synonym: "high temperature" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6356
+xref: http://cat.aii.caas.cn/concept/c_37440
+xref: http://d-nb.info/gnd/4160049-6
+xref: http://dewey.info/class/536/
+xref: http://lod.nal.usda.gov/nalt/44778
+is_a: http://aims.fao.org/aos/agrovoc/c_7657  ! temperature
+relationship: influences http://aims.fao.org/aos/agrovoc/c_29577 ! warm season
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35196
+name: Leaf Area Index
+synonym: "LAI" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_53118
+xref: http://lod.nal.usda.gov/nalt/49411
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1262 ! canopy
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2741 ! evapotranspiration
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5812 ! photosynthesis
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7871 ! transpiration
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35328
+name: surface area
+synonym: "surface measure" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_2921
+xref: http://d-nb.info/gnd/4042907-6
+xref: http://lod.nal.usda.gov/nalt/11983
+is_a: http://aims.fao.org/aos/agrovoc/c_330588  ! area
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35330
+name: body size
+xref: http://aims.fao.org/aos/asfa/c_4419
+xref: http://lod.nal.usda.gov/nalt/117
+is_a: http://aims.fao.org/aos/agrovoc/c_980  ! body measurements
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35331
+name: body surface area
+xref: http://cat.aii.caas.cn/concept/c_44621
+is_a: http://aims.fao.org/aos/agrovoc/c_980  ! body measurements
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3536
+name: height
+xref: http://aims.fao.org/aos/asfa/c_6378
+xref: http://lod.nal.usda.gov/nalt/10123
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+relationship: influences http://aims.fao.org/aos/agrovoc/c_11492 ! height classes (in forestry)
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35388
+name: runoff
+def: "Surface runoff is the water flow that occurs when soil is infiltrated to full capacity and excess water from rain, snowmelt, or other sources flows over the land." []
+xref: http://aims.fao.org/aos/asfa/c_8435
+xref: http://d-nb.info/gnd/4000114-3
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/33550
+xref: http://lod.nal.usda.gov/nalt/5471
+xref: http://www.eionet.europa.eu/gemet/concept/7340
+is_a: http://aims.fao.org/aos/agrovoc/c_7206  ! soil water balance
+relationship: causes http://aims.fao.org/aos/agrovoc/c_36778 ! losses from soil
+relationship: causes http://aims.fao.org/aos/agrovoc/c_8318 ! water erosion
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_6698 ! runoff irrigation
+relationship: produces http://aims.fao.org/aos/agrovoc/c_6697 ! runoff water
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35389
+name: subsurface runoff
+def: "Subsurface runoff is the water that infiltrates in the vadose zone (unsaturated zone), from rain, snowmelt, or other sources, and moves laterally towards the streams. Vadose zone extends from the top of the ground surface to the water table." []
+xref: http://cat.aii.caas.cn/concept/c_9140
+is_a: http://aims.fao.org/aos/agrovoc/c_35388  ! runoff
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35691
+name: economic value
+synonym: "economic importance" RELATED []
+xref: http://eurovoc.europa.eu/6786
+xref: http://lod.gesis.org/thesoz/concept/10053651
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2469 ! economic analysis
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2491 ! efficiency
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6178 ! prices
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6214 ! profitability
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35950
+name: hydraulic potential (soil)
+is_a: http://aims.fao.org/aos/agrovoc/c_7210  ! soil water potential
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35951
+name: matric potential (soil)
+is_a: http://aims.fao.org/aos/agrovoc/c_7210  ! soil water potential
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36313
+name: rhizosphere pH
+is_a: http://aims.fao.org/aos/agrovoc/c_34901  ! soil pH
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36550
+name: carrying capacity
+def: "The maximum number of livestock that can be supported in a given area." []
+xref: http://aims.fao.org/aos/asfa/c_4629
+xref: http://eurovoc.europa.eu/5111
+xref: http://lod.nal.usda.gov/nalt/22697
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_49830  ! ability
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24410 ! stocking density
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36571
+name: maximum residue limits
+synonym: "MRL (maximum residue limits)" RELATED []
+xref: http://lod.nal.usda.gov/nalt/51693
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_33995 ! food safety
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36749
+name: respiration rate
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36791
+name: land equivalent ratio
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4182 ! land use
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3689
+name: humidity
+xref: http://aims.fao.org/aos/asfa/c_6443
+xref: http://cat.aii.caas.cn/concept/c_40840
+xref: http://d-nb.info/gnd/4016961-3
+xref: http://id.loc.gov/authorities/sh85062931#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/35580
+xref: http://lod.nal.usda.gov/nalt/46148
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_4886 ! moisture content
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1521 ! chemicophysical properties
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7208 ! soil water content
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8310 ! water availability
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36906
+name: dosage
+xref: http://cat.aii.caas.cn/concept/c_21538
+xref: http://cat.aii.caas.cn/concept/c_52843
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/101550
+xref: http://lod.nal.usda.gov/nalt/34392
+xref: http://www.eionet.europa.eu/gemet/concept/2307
+is_a: http://aims.fao.org/aos/agrovoc/c_16113  ! application rates
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36907 ! dosage effects
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36952
+name: seed moisture content
+def: "When grain absorbs moisture, the percentage of moisture content is given as the weight of the grain when it is dry or when it is wet. " []
+xref: http://cat.aii.caas.cn/concept/c_16945
+is_a: http://aims.fao.org/aos/agrovoc/c_36509  ! seed characteristics
+is_a: http://aims.fao.org/aos/agrovoc/c_4886  ! moisture content
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37235
+name: xylem water potential
+xref: http://lod.nal.usda.gov/nalt/58659
+is_a: http://aims.fao.org/aos/agrovoc/c_24418  ! water potential
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37236
+name: root water potential
+xref: http://lod.nal.usda.gov/nalt/58657
+is_a: http://aims.fao.org/aos/agrovoc/c_24418  ! water potential
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37242
+name: leaf water potential
+xref: http://cat.aii.caas.cn/concept/c_53142
+xref: http://lod.nal.usda.gov/nalt/49435
+is_a: http://aims.fao.org/aos/agrovoc/c_24418  ! water potential
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37246
+name: litter weight
+xref: http://cat.aii.caas.cn/concept/c_47389
+xref: http://lod.nal.usda.gov/nalt/9475
+is_a: http://aims.fao.org/aos/agrovoc/c_8349  ! weight
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37268
+name: overdose
+xref: http://lod.nal.usda.gov/nalt/34393
+is_a: http://aims.fao.org/aos/agrovoc/c_36906  ! dosage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37311
+name: planting depth
+synonym: "depth of planting" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_2190  ! depth
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37543
+name: median effective dose (ED50)
+xref: http://cat.aii.caas.cn/concept/c_1658
+is_a: http://aims.fao.org/aos/agrovoc/c_36906  ! dosage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37544
+name: median lethal dose (LD50)
+synonym: "MLD (median lethal dose)" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_36906  ! dosage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3764
+name: hyperthermia
+xref: http://aims.fao.org/aos/asfa/c_6508
+xref: http://d-nb.info/gnd/4131629-0
+is_a: http://aims.fao.org/aos/agrovoc/c_983  ! body temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37675
+name: wind velocity
+xref: http://cat.aii.caas.cn/concept/c_12854
+is_a: http://aims.fao.org/aos/agrovoc/c_24098  ! velocity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37725
+name: lean body mass
+synonym: "body lean mass" RELATED []
+synonym: "fat free mass" RELATED []
+synonym: "lean content" RELATED []
+xref: http://lod.nal.usda.gov/nalt/18334
+is_a: http://aims.fao.org/aos/agrovoc/c_15846  ! body weight
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3843
+name: induced polyploidy
+synonym: "artificial polyploidy" RELATED []
+synonym: "in vitro polyploidization" RELATED []
+synonym: "induced polyploidization" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_1596  ! chromosome manipulation
+is_a: http://aims.fao.org/aos/agrovoc/c_6094  ! polyploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3892
+name: insolation
+synonym: "sunlight exposure" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6653
+is_a: http://aims.fao.org/aos/agrovoc/c_14415  ! solar radiation
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_15585 ! greenhouse effect
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2566 ! energy balance
+relationship: influences http://aims.fao.org/aos/agrovoc/c_33263 ! soil solarization
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4326 ! lighting
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6420 ! radiation balance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3912
+name: interest rates
+xref: http://cat.aii.caas.cn/concept/c_26977
+xref: http://id.loc.gov/authorities/sh85067247#concept
+xref: http://lod.gesis.org/thesoz/concept/10062960
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28760 ! repayment
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4409 ! loans
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4222
+name: latitude
+xref: http://aims.fao.org/aos/asfa/c_6850
+xref: http://d-nb.info/gnd/4020220-3
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/14600
+xref: http://lod.gesis.org/thesoz/concept/10044210
+xref: http://lod.nal.usda.gov/nalt/26883
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11978073f
+xref: http://www.eionet.europa.eu/gemet/concept/14936
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4260
+name: length
+xref: http://aims.fao.org/aos/asfa/c_6877
+xref: http://cat.aii.caas.cn/concept/c_5058
+xref: http://lod.nal.usda.gov/nalt/49619
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4398
+name: livestock numbers
+synonym: "flock size" RELATED []
+synonym: "herd size" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24410 ! stocking density
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3368 ! grazing intensity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4639
+name: mass
+xref: http://aims.fao.org/aos/asfa/c_7132
+xref: http://cat.aii.caas.cn/concept/c_57859
+xref: http://lod.gesis.org/thesoz/concept/10051776
+xref: http://lod.nal.usda.gov/nalt/51604
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4663
+name: maximum prices
+xref: http://eurovoc.europa.eu/2679
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4732
+name: melting point
+def: "The temperature at which a solid turns into a liquid. As temperature is a measure of the kinetic energy of molecules (how much they are moving around), this means that the molecules are moving too much to stay in one place anymore." []
+synonym: "melting temperature" RELATED []
+synonym: "solidifying point" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7167
+xref: http://cat.aii.caas.cn/concept/c_37933
+xref: http://lod.nal.usda.gov/nalt/52070
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4858
+name: minimum prices
+xref: http://cat.aii.caas.cn/concept/c_1942
+xref: http://d-nb.info/gnd/4170009-0
+xref: http://eurovoc.europa.eu/2681
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4886
+name: moisture content
+synonym: "water content" RELATED []
+xref: http://lod.nal.usda.gov/nalt/24611
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12235857s
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_28410 ! hygroscopicity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4892
+name: molecular weight
+def: "The combined weight (as given on the periodic table) of all the elements in a compound. In chemistry the words mass and weight are both used interchageably" []
+xref: http://aims.fao.org/aos/asfa/c_7293
+xref: http://lod.nal.usda.gov/nalt/53248
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_8349  ! weight
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5443
+name: osmotic pressure
+xref: http://aims.fao.org/aos/asfa/c_7657
+xref: http://cat.aii.caas.cn/concept/c_40286
+xref: http://d-nb.info/gnd/4172912-2
+xref: http://lod.nal.usda.gov/nalt/56337
+is_a: http://aims.fao.org/aos/agrovoc/c_6174  ! pressure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_35750 ! osmotic stress
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5442 ! osmosis
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6644 ! root pressure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5601
+name: particle size
+xref: http://aims.fao.org/aos/asfa/c_7761
+xref: http://cat.aii.caas.cn/concept/c_27130
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/41200
+xref: http://lod.nal.usda.gov/nalt/33651
+is_a: http://aims.fao.org/aos/agrovoc/c_7093  ! size
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5753
+name: pH
+def: "A measure of the acidity of a solution, determined as the negative logarithm of the hydrogen ion concentration, on a scale from 0 to 14." []
+synonym: "hydrogen ion concentration" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7828
+xref: http://d-nb.info/gnd/4189273-2
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/33090
+xref: http://lod.nal.usda.gov/nalt/2772
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_1138 ! buffering capacity
+relationship: influences http://aims.fao.org/aos/agrovoc/c_87 ! acid base equilibrium
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6094
+name: polyploidy
+synonym: "polyploids" RELATED []
+synonym: "spontaneous polyploidization" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_10601
+xref: http://d-nb.info/gnd/4224353-1
+xref: http://id.loc.gov/authorities/sh85104712#concept
+xref: http://lod.nal.usda.gov/nalt/6717
+is_a: http://aims.fao.org/aos/agrovoc/c_331011  ! ploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6112
+name: population density
+xref: http://aims.fao.org/aos/asfa/c_8040
+xref: http://cat.aii.caas.cn/concept/c_37589
+xref: http://cat.aii.caas.cn/concept/c_58494
+xref: http://d-nb.info/gnd/4046802-1
+xref: http://eurovoc.europa.eu/389
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/75390
+xref: http://lod.gesis.org/thesoz/concept/10038795
+xref: http://lod.nal.usda.gov/nalt/58556
+xref: http://www.eionet.europa.eu/gemet/concept/10918
+xref: http://zbw.eu/stw/descriptor/15910-0
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34888 ! population pressure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36550 ! carrying capacity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6174
+name: pressure
+def: "The force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit)" []
+xref: http://aims.fao.org/aos/asfa/c_8088
+xref: http://cat.aii.caas.cn/concept/c_51461
+xref: http://d-nb.info/gnd/4013083-6
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/59930
+xref: http://lod.nal.usda.gov/nalt/13659
+xref: http://www.eionet.europa.eu/gemet/concept/6593
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_693 ! atmospheric pressure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6177
+name: price formation
+xref: http://d-nb.info/gnd/4047103-2
+xref: http://eurovoc.europa.eu/1072
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28746 ! price stabilization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6178
+name: prices
+xref: http://cat.aii.caas.cn/concept/c_22159
+xref: http://cat.aii.caas.cn/concept/c_47910
+xref: http://d-nb.info/gnd/4047097-0
+xref: http://eurovoc.europa.eu/2632
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/65680
+xref: http://lod.gesis.org/thesoz/concept/10034835
+xref: http://lod.nal.usda.gov/nalt/28157
+xref: http://www.eionet.europa.eu/gemet/concept/6602
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16593 ! price indices
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1922 ! costs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6198
+name: producer prices
+synonym: "farmgate prices" RELATED []
+xref: http://d-nb.info/gnd/4384419-4
+xref: http://eurovoc.europa.eu/2638
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6461
+name: rations
+xref: http://d-nb.info/gnd/4314223-0
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: includes http://aims.fao.org/aos/agrovoc/c_35059 ! complete feeds
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2261 ! diet
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2838 ! feeding
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4543 ! malnutrition
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7522 ! supplementary feeding
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6482
+name: redox potential
+def: "A measure of the ability of the natural environment to bring about an oxidation or a reduction process." []
+synonym: "oxidation reduction potential" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_8270
+xref: http://d-nb.info/gnd/4076577-5
+xref: http://lod.nal.usda.gov/nalt/56439
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_27587 ! oxidoreductions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6496
+name: relative humidity
+synonym: "air moisture" RELATED []
+synonym: "atmospheric moisture" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_8296
+xref: http://cat.aii.caas.cn/concept/c_49167
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/83700
+xref: http://lod.nal.usda.gov/nalt/46149
+is_a: http://aims.fao.org/aos/agrovoc/c_3689  ! humidity
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3007 ! fog
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6944
+name: sowing rates
+synonym: "seeding rates" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_3394
+xref: http://d-nb.info/gnd/4310456-3
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6112 ! population density
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7014
+name: sex ratio
+synonym: "male female ratio" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_8719
+xref: http://cat.aii.caas.cn/concept/c_50719
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/11950
+xref: http://lod.gesis.org/thesoz/concept/10039134
+xref: http://lod.nal.usda.gov/nalt/42551
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_6115  ! population structure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7093
+name: size
+xref: http://aims.fao.org/aos/asfa/c_8838
+xref: http://cat.aii.caas.cn/concept/c_5763
+xref: http://cat.aii.caas.cn/concept/c_7732
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7106
+name: slaughter weight
+xref: http://cat.aii.caas.cn/concept/c_45677
+xref: http://cat.aii.caas.cn/concept/c_56454
+xref: http://d-nb.info/gnd/4494325-8
+xref: http://lod.nal.usda.gov/nalt/9416
+is_a: http://aims.fao.org/aos/agrovoc/c_15846  ! body weight
+relationship: influences http://aims.fao.org/aos/agrovoc/c_15996 ! meat yield
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7197
+name: soil temperature
+def: "The temperature measured at a given soil depth, typically at 2, 4, 8, and sometimes 20 and 40 in." []
+xref: http://cat.aii.caas.cn/concept/c_45967
+xref: http://cat.aii.caas.cn/concept/c_46027
+xref: http://cat.aii.caas.cn/concept/c_9133
+xref: http://d-nb.info/gnd/4146172-1
+xref: http://lod.nal.usda.gov/nalt/61641
+is_a: http://aims.fao.org/aos/agrovoc/c_7182  ! soil chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_7657  ! temperature
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16599 ! root temperature
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7200 ! soil thermal regimes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7206
+name: soil water balance
+def: "The balance at any location between the inputb precipitation, (P)band the outputs: evapotranspiration (E) and runboff (R):P = E + R." []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/132980
+xref: http://lod.nal.usda.gov/nalt/40115
+is_a: http://aims.fao.org/aos/agrovoc/c_34125  ! soil hydraulic properties
+is_a: http://aims.fao.org/aos/agrovoc/c_8311  ! water balance
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7210 ! soil water potential
+relationship: usingValue http://aims.fao.org/aos/agrovoc/c_32444 ! soil water constants
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7208
+name: soil water content
+def: "The ratio of the volume of contained water in a soil compared with the entire soil volume." []
+synonym: "soil moisture" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_45868
+xref: http://d-nb.info/gnd/4236526-0
+xref: http://lod.nal.usda.gov/nalt/21959
+is_a: http://aims.fao.org/aos/agrovoc/c_7206  ! soil water balance
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7182 ! soil chemicophysical properties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7210
+name: soil water potential
+def: "Total soil water potential is defined as the amount of work per unit quantity of pure water that must be done by external forces to transfer reversibly and isothermally an infinitesimal amount of water from the standard state to the soil at the point under consideration." []
+synonym: "suction pressure (soil)" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_45957
+xref: http://cat.aii.caas.cn/concept/c_46025
+xref: http://lod.nal.usda.gov/nalt/63393
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_7182  ! soil chemicophysical properties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7212
+name: soil water retention
+xref: http://cat.aii.caas.cn/concept/c_45836
+xref: http://lod.nal.usda.gov/nalt/63394
+is_a: http://aims.fao.org/aos/agrovoc/c_7206  ! soil water balance
+relationship: hasSymptom http://aims.fao.org/aos/agrovoc/c_25304 ! water holding capacity
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5718 ! permeability
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7208 ! soil water content
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7269
+name: sowing depth
+synonym: "seed depth" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_3399
+xref: http://d-nb.info/gnd/4308229-4
+is_a: http://aims.fao.org/aos/agrovoc/c_2190  ! depth
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7272
+name: spacing
+def: "The density of planting, sowing" []
+synonym: "plant geometry" RELATED []
+synonym: "planting density" RELATED []
+synonym: "planting distance" RELATED []
+synonym: "row distance" RELATED []
+synonym: "sowing distance" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_24421
+xref: http://d-nb.info/gnd/4228463-6
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2018 ! cultivation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34848 ! high density planting
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5992 ! planting
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6944 ! sowing rates
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7281
+name: specific gravity
+def: "The density of a substance relative to the density of water" []
+xref: http://aims.fao.org/aos/asfa/c_8954
+xref: http://cat.aii.caas.cn/concept/c_2475
+xref: http://lod.nal.usda.gov/nalt/58069
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7657
+name: temperature
+def: "A measurement of heat." []
+xref: http://aims.fao.org/aos/asfa/c_9297
+xref: http://cat.aii.caas.cn/concept/c_47154
+xref: http://d-nb.info/gnd/4059427-0
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/11870
+xref: http://lod.nal.usda.gov/nalt/5861
+xref: http://www.eionet.europa.eu/gemet/concept/8366
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+is_a: http://aims.fao.org/aos/agrovoc/c_7718  ! thermal properties
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_989 ! boiling point
+relationship: influences http://aims.fao.org/aos/agrovoc/c_14855 ! thermotropism
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7690
+name: tetraploidy
+synonym: "tetraploids" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_43011
+xref: http://d-nb.info/gnd/4315313-6
+is_a: http://aims.fao.org/aos/agrovoc/c_6094  ! polyploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7726
+name: thickness
+xref: http://aims.fao.org/aos/asfa/c_9384
+xref: http://cat.aii.caas.cn/concept/c_18587
+xref: http://d-nb.info/gnd/4728042-6
+xref: http://lod.nal.usda.gov/nalt/52492
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7939
+name: triploidy
+xref: http://cat.aii.caas.cn/concept/c_38455
+xref: http://d-nb.info/gnd/4309091-6
+xref: http://lod.nal.usda.gov/nalt/59169
+is_a: http://aims.fao.org/aos/agrovoc/c_6094  ! polyploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8288
+name: volume
+xref: http://aims.fao.org/aos/asfa/c_9743
+xref: http://cat.aii.caas.cn/concept/c_44631
+xref: http://d-nb.info/gnd/4136953-1
+xref: http://lod.nal.usda.gov/nalt/52494
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8311
+name: water balance
+synonym: "evaporative demand" RELATED []
+synonym: "water budget" RELATED []
+synonym: "water saturation" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9767
+xref: http://cat.aii.caas.cn/concept/c_42414
+xref: http://d-nb.info/gnd/4189181-8
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/22220
+xref: http://lod.nal.usda.gov/nalt/46365
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_7871 ! transpiration
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16147 ! plant water relations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8349
+name: weight
+def: "The 'heaviness' of an object, the amount of attraction between two or more masses. Weight is often measured in Kilogrammes but the proper (SI) unit of weight is the Newton. Weight is not the same as mass which is a measure of how much matter or inertia an object has. Weight on the other hand is dependant on two or more masses and is a measure of the force of gravity acting on those two objects." []
+xref: http://aims.fao.org/aos/asfa/c_9896
+xref: http://cat.aii.caas.cn/concept/c_58590
+xref: http://d-nb.info/gnd/4130657-0
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/44460
+xref: http://lod.nal.usda.gov/nalt/18379
+xref: http://www.eionet.europa.eu/gemet/concept/9286
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8386
+name: wholesale prices
+xref: http://eurovoc.europa.eu/2653
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8387
+name: width
+xref: http://aims.fao.org/aos/asfa/c_9919
+xref: http://cat.aii.caas.cn/concept/c_25662
+xref: http://lod.nal.usda.gov/nalt/52495
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8677
+name: agricultural prices
+xref: http://zbw.eu/stw/descriptor/19674-1
+is_a: http://aims.fao.org/aos/agrovoc/c_6178  ! prices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8732
+name: alloploidy
+xref: http://cat.aii.caas.cn/concept/c_53862
+is_a: http://aims.fao.org/aos/agrovoc/c_331011  ! ploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000030
+name: dependency ratio
+is_a: http://aims.fao.org/aos/agrovoc/c_15501  ! economic indicators
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7133 ! social security
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000171
+name: vegetation index
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000181
+name: net primary productivity
+is_a: http://aims.fao.org/aos/agrovoc/c_34328  ! primary productivity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92333
+name: backfat thickness
+is_a: http://aims.fao.org/aos/agrovoc/c_980  ! body measurements
+relationship: influences http://aims.fao.org/aos/agrovoc/c_32877 ! meat performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9423
+name: breeding rations
+is_a: http://aims.fao.org/aos/agrovoc/c_6461  ! rations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_980
+name: body measurements
+xref: http://cat.aii.caas.cn/concept/c_44628
+xref: http://lod.nal.usda.gov/nalt/18354
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+relationship: influences http://aims.fao.org/aos/agrovoc/c_29251 ! body conformation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_983
+name: body temperature
+def: "The measure of the level of heat of a human or animal." []
+synonym: "core temperature (physiology)" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_4420
+xref: http://cat.aii.caas.cn/concept/c_44648
+xref: http://d-nb.info/gnd/4031602-6
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/166240
+xref: http://lod.nal.usda.gov/nalt/118
+is_a: http://aims.fao.org/aos/agrovoc/c_7657  ! temperature
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_989
+name: boiling point
+def: "The temperature at which a liquid boils at sea level" []
+xref: http://aims.fao.org/aos/asfa/c_4426
+xref: http://cat.aii.caas.cn/concept/c_12436
+xref: http://d-nb.info/gnd/4181212-8
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/45340
+xref: http://lod.nal.usda.gov/nalt/18414
+xref: http://www.eionet.europa.eu/gemet/concept/954
+is_a: http://aims.fao.org/aos/agrovoc/c_1521  ! chemicophysical properties
+is_a: http://aims.fao.org/aos/agrovoc/c_330493  ! measure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_a9e7dd7f
+name: territory
+def: "Territory may be viewed as the area where an individual or community lives." []
+is_a: http://aims.fao.org/aos/agrovoc/c_2283  ! dimensions
+

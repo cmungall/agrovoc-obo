@@ -1,0 +1,450 @@
+UBERON:0000002	uterine cervix	http://aims.fao.org/aos/agrovoc/c_9717	uterine cervix	entities	
+UBERON:0000004	nose	http://aims.fao.org/aos/agrovoc/c_5237	nose	entities	
+UBERON:0000007	pituitary gland	http://aims.fao.org/aos/agrovoc/c_5939	pituitary gland	entities	
+UBERON:0000014	zone of skin	http://aims.fao.org/aos/agrovoc/c_7097	skin	entities	
+UBERON:0000019	camera-type eye	http://aims.fao.org/aos/agrovoc/c_2771	eyes	entities	
+UBERON:0000022	feather	http://aims.fao.org/aos/agrovoc/c_2822	feathers	entities	
+UBERON:0000023	wing	http://aims.fao.org/aos/agrovoc/c_8407	wings	entities	
+UBERON:0000025	tube	http://aims.fao.org/aos/agrovoc/c_5925	pipes	objects	
+UBERON:0000029	lymph node	http://aims.fao.org/aos/agrovoc/c_12287	lymph nodes	entities	
+UBERON:0000033	head	http://aims.fao.org/aos/agrovoc/c_3509	head	entities	
+UBERON:0000037	tertiary ovarian follicle	http://aims.fao.org/aos/agrovoc/c_32466	graafian follicles	entities	
+UBERON:0000042	serous membrane	http://aims.fao.org/aos/agrovoc/c_6984	serosa	entities	
+UBERON:0000043	tendon	http://aims.fao.org/aos/agrovoc/c_7663	tendons	entities	
+UBERON:0000045	ganglion	http://aims.fao.org/aos/agrovoc/c_3187	ganglia	entities	
+UBERON:0000056	ureter	http://aims.fao.org/aos/agrovoc/c_8095	ureter	entities	
+UBERON:0000057	urethra	http://aims.fao.org/aos/agrovoc/c_8096	urethra	entities	
+UBERON:0000059	large intestine	http://aims.fao.org/aos/agrovoc/c_23815	large intestine	entities	
+UBERON:0000060	anatomical wall	http://aims.fao.org/aos/agrovoc/c_8297	walls	entities	
+UBERON:0000062	organ	http://aims.fao.org/aos/agrovoc/c_330894	organization	activities	
+UBERON:0000062	organ	http://aims.fao.org/aos/agrovoc/c_37968	organizations	entities	
+UBERON:0000062	organ	http://aims.fao.org/aos/agrovoc/c_49904	organisms	organisms	
+UBERON:0000062	organ	http://aims.fao.org/aos/agrovoc/c_50296	regional organizations	entities	
+UBERON:0000068	embryo stage	http://aims.fao.org/aos/agrovoc/c_330665	embryo stage	stages	
+UBERON:0000069	larval stage	http://aims.fao.org/aos/agrovoc/c_330661	larval stage	stages	
+UBERON:0000070	pupal stage	http://aims.fao.org/aos/agrovoc/c_330664	pupal stage	stages	
+UBERON:0000071	death stage	http://aims.fao.org/aos/agrovoc/c_2138	death	phenomena	,stages	
+UBERON:0000079	male reproductive system	http://aims.fao.org/aos/agrovoc/c_4536	male genital system	entities	
+UBERON:0000086	zona pellucida	http://aims.fao.org/aos/agrovoc/c_37308	zona pellucida	entities	
+UBERON:0000088	trophoblast	http://aims.fao.org/aos/agrovoc/c_25388	animal embryos	entities	
+UBERON:0000094	membrane organ	http://aims.fao.org/aos/agrovoc/c_28457	membranes	entities	
+UBERON:0000104	life cycle	http://aims.fao.org/aos/agrovoc/c_4317	life cycle	stages	
+UBERON:0000104	life cycle	http://aims.fao.org/aos/agrovoc/c_4428	longevity	properties	
+UBERON:0000105	life cycle stage	http://aims.fao.org/aos/agrovoc/c_2230	developmental stages	stages	
+UBERON:0000105	life cycle stage	http://aims.fao.org/aos/agrovoc/c_330995	stages	stages	
+UBERON:0000106	zygote stage	http://aims.fao.org/aos/agrovoc/c_330662	zygote stage	stages	
+UBERON:0000119	cell layer	http://aims.fao.org/aos/agrovoc/c_4233	layering	activities	
+UBERON:0000125	neural nucleus	http://aims.fao.org/aos/agrovoc/c_5260	nucleus	entities	
+UBERON:0000128	olivary body	http://aims.fao.org/aos/agrovoc/c_12926	olives	products	
+UBERON:0000158	membranous layer	http://aims.fao.org/aos/agrovoc/c_28457	membranes	entities	
+UBERON:0000160	intestine	http://aims.fao.org/aos/agrovoc/c_3924	intestines	entities	
+UBERON:0000162	cloaca	http://aims.fao.org/aos/agrovoc/c_9901	cloaca	entities	
+UBERON:0000165	mouth	http://aims.fao.org/aos/agrovoc/c_4960	mouth	entities	
+UBERON:0000170	pair of lungs	http://aims.fao.org/aos/agrovoc/c_4462	lungs	entities	
+UBERON:0000172	vomit	http://aims.fao.org/aos/agrovoc/c_15243	vomiting	phenomena	
+UBERON:0000173	amniotic fluid	http://aims.fao.org/aos/agrovoc/c_34211	amniotic fluid	entities	
+UBERON:0000174	excreta	http://aims.fao.org/aos/agrovoc/c_2749	excreta	substances	
+UBERON:0000178	blood	http://aims.fao.org/aos/agrovoc/c_959	blood	entities	
+UBERON:0000210	tetrapod parietal bone	http://aims.fao.org/aos/agrovoc/c_15205	Violales	organisms	
+UBERON:0000211	ligament	http://aims.fao.org/aos/agrovoc/c_4319	ligaments	entities	
+UBERON:0000305	amnion	http://aims.fao.org/aos/agrovoc/c_8771	amnion	entities	
+UBERON:0000310	breast	http://aims.fao.org/aos/agrovoc/c_4562	mammary glands	entities	
+UBERON:0000312	inner cambium layer of periosteum	http://aims.fao.org/aos/agrovoc/c_1225	cambium	entities	
+UBERON:0000323	late embryo	http://aims.fao.org/aos/agrovoc/c_3006	foetus	entities	
+UBERON:0000326	pancreatic juice	http://aims.fao.org/aos/agrovoc/c_13072	pancreatic juice	entities	
+UBERON:0000329	hair root	http://aims.fao.org/aos/agrovoc/c_6642	root hairs	entities	
+UBERON:0000344	mucosa	http://aims.fao.org/aos/agrovoc/c_4967	mucous membrane	entities	
+UBERON:0000345	myelin	http://aims.fao.org/aos/agrovoc/c_50136	myelin	substances	
+UBERON:0000347	myelin sheath	http://aims.fao.org/aos/agrovoc/c_50135	myelin sheath	entities	
+UBERON:0000353	parenchyma	http://aims.fao.org/aos/agrovoc/c_5582	parenchyma	entities	
+UBERON:0000358	blastocyst	http://aims.fao.org/aos/agrovoc/c_31776	Blastocystis	organisms	
+UBERON:0000388	epiglottis	http://aims.fao.org/aos/agrovoc/c_10637	epiglottis	entities	
+UBERON:0000456	bodily secretion	http://aims.fao.org/aos/agrovoc/c_6922	secretion	phenomena	
+UBERON:0000464	anatomical space	http://aims.fao.org/aos/agrovoc/c_330769	space	measure	
+UBERON:0000467	anatomical system	http://aims.fao.org/aos/agrovoc/c_330985	systems	systems	
+UBERON:0000468	multicellular organism	http://aims.fao.org/aos/agrovoc/c_31917	animal structure	properties	
+UBERON:0000470	cell part	http://aims.fao.org/aos/agrovoc/c_331009	cell components	entities	
+UBERON:0000473	testis	http://aims.fao.org/aos/agrovoc/c_37146	Orchis	organisms	
+UBERON:0000473	testis	http://aims.fao.org/aos/agrovoc/c_7682	testes	entities	
+UBERON:0000474	female reproductive system	http://aims.fao.org/aos/agrovoc/c_2850	female genital system	entities	
+UBERON:0000475	organism subdivision	http://aims.fao.org/aos/agrovoc/c_50164	bodies	groups	
+UBERON:0000475	organism subdivision	http://aims.fao.org/aos/agrovoc/c_981	body parts	entities	
+UBERON:0000475	organism subdivision	http://aims.fao.org/aos/agrovoc/c_982	body regions	entities	
+UBERON:0000479	tissue	http://aims.fao.org/aos/agrovoc/c_49880	tissue	entities	
+UBERON:0000483	epithelium	http://aims.fao.org/aos/agrovoc/c_2624	epithelium	entities	
+UBERON:0000910	chyme	http://aims.fao.org/aos/agrovoc/c_9852	chyme	substances	
+UBERON:0000911	chyle	http://aims.fao.org/aos/agrovoc/c_9851	chyle	entities	
+UBERON:0000912	mucus	http://aims.fao.org/aos/agrovoc/c_4972	mucus	entities	
+UBERON:0000915	thoracic segment of trunk	http://aims.fao.org/aos/agrovoc/c_7735	thorax	entities	
+UBERON:0000916	abdomen	http://aims.fao.org/aos/agrovoc/c_9	abdomen	entities	
+UBERON:0000922	embryo	http://aims.fao.org/aos/agrovoc/c_50199	development organizations	entities	
+UBERON:0000945	stomach	http://aims.fao.org/aos/agrovoc/c_7422	stomach	entities	
+UBERON:0000947	aorta	http://aims.fao.org/aos/agrovoc/c_33939	aorta	entities	
+UBERON:0000948	heart	http://aims.fao.org/aos/agrovoc/c_3516	heart	entities	
+UBERON:0000955	brain	http://aims.fao.org/aos/agrovoc/c_1053	brain	entities	
+UBERON:0000959	optic chiasma	http://aims.fao.org/aos/agrovoc/c_12952	optic chiasma	entities	
+UBERON:0000964	cornea	http://aims.fao.org/aos/agrovoc/c_10112	cornea	entities	
+UBERON:0000965	lens of camera-type eye	http://aims.fao.org/aos/agrovoc/c_12137	eye lens	entities	
+UBERON:0000965	lens of camera-type eye	http://aims.fao.org/aos/agrovoc/c_24043	Lens	organisms	
+UBERON:0000966	retina	http://aims.fao.org/aos/agrovoc/c_13899	retina	entities	
+UBERON:0000974	neck	http://aims.fao.org/aos/agrovoc/c_5097	neck	entities	
+UBERON:0000975	sternum	http://aims.fao.org/aos/agrovoc/c_7404	sternum	entities	
+UBERON:0000976	humerus	http://aims.fao.org/aos/agrovoc/c_11637	humerus	entities	
+UBERON:0000977	pleura	http://aims.fao.org/aos/agrovoc/c_6014	pleura	entities	
+UBERON:0000978	leg	http://aims.fao.org/aos/agrovoc/c_12129	legs	entities	
+UBERON:0000979	tibia	http://aims.fao.org/aos/agrovoc/c_14885	tibia	entities	
+UBERON:0000981	femur	http://aims.fao.org/aos/agrovoc/c_10785	femur	entities	
+UBERON:0000983	metatarsus region	http://aims.fao.org/aos/agrovoc/c_12517	metatarsus	entities	
+UBERON:0000989	penis	http://aims.fao.org/aos/agrovoc/c_5673	penis	entities	
+UBERON:0000990	reproductive system	http://aims.fao.org/aos/agrovoc/c_27961	genitalia	entities	
+UBERON:0000991	gonad	http://aims.fao.org/aos/agrovoc/c_34291	gonads	entities	
+UBERON:0000992	female gonad	http://aims.fao.org/aos/agrovoc/c_5456	ovaries	entities	
+UBERON:0000993	oviduct	http://aims.fao.org/aos/agrovoc/c_5461	oviducts	entities	
+UBERON:0000995	uterus	http://aims.fao.org/aos/agrovoc/c_8125	uterus	entities	
+UBERON:0000996	vagina	http://aims.fao.org/aos/agrovoc/c_8142	vagina	entities	
+UBERON:0000997	mammalian vulva	http://aims.fao.org/aos/agrovoc/c_8292	vulva	entities	
+UBERON:0000998	seminal vesicle	http://aims.fao.org/aos/agrovoc/c_24416	vesicular glands	entities	
+UBERON:0001004	respiratory system	http://aims.fao.org/aos/agrovoc/c_6531	respiratory system	entities	
+UBERON:0001007	digestive system	http://aims.fao.org/aos/agrovoc/c_2275	digestive system	entities	
+UBERON:0001008	renal system	http://aims.fao.org/aos/agrovoc/c_8099	urinary tract	entities	
+UBERON:0001011	hemolymph	http://aims.fao.org/aos/agrovoc/c_16558	haemolymph	entities	
+UBERON:0001013	adipose tissue	http://aims.fao.org/aos/agrovoc/c_129	adipose tissue	entities	
+UBERON:0001015	musculature	http://aims.fao.org/aos/agrovoc/c_5003	muscles	entities	
+UBERON:0001016	nervous system	http://aims.fao.org/aos/agrovoc/c_5138	nervous system	entities	
+UBERON:0001017	central nervous system	http://aims.fao.org/aos/agrovoc/c_1438	central nervous system	entities	
+UBERON:0001021	nerve	http://aims.fao.org/aos/agrovoc/c_5137	nerves	entities	
+UBERON:0001032	sensory system	http://aims.fao.org/aos/agrovoc/c_6971	sense organs	entities	
+UBERON:0001037	strand of hair	http://aims.fao.org/aos/agrovoc/c_3471	hair	entities	
+UBERON:0001040	yolk sac	http://aims.fao.org/aos/agrovoc/c_15464	yolk sac	entities	
+UBERON:0001043	esophagus	http://aims.fao.org/aos/agrovoc/c_5319	oesophagus	entities	
+UBERON:0001048	primordium	http://aims.fao.org/aos/agrovoc/c_1132	budding	activities	
+UBERON:0001048	primordium	http://aims.fao.org/aos/agrovoc/c_1135	buds	entities	
+UBERON:0001052	rectum	http://aims.fao.org/aos/agrovoc/c_13772	rectum	entities	
+UBERON:0001054	Malpighian tubule	http://aims.fao.org/aos/agrovoc/c_16568	malpighian tubules	entities	
+UBERON:0001066	intervertebral disk	http://aims.fao.org/aos/agrovoc/c_11814	intervertebral disks	entities	
+UBERON:0001074	pericardial cavity	http://aims.fao.org/aos/agrovoc/c_13240	pericardial cavity	entities	
+UBERON:0001088	urine	http://aims.fao.org/aos/agrovoc/c_8103	urine	entities	,substances	
+UBERON:0001089	sweat	http://aims.fao.org/aos/agrovoc/c_7548	sweat	entities	,substances	
+UBERON:0001090	synovial fluid	http://aims.fao.org/aos/agrovoc/c_7573	synovial fluid	entities	
+UBERON:0001103	diaphragm	http://aims.fao.org/aos/agrovoc/c_24397	diaphragm	entities	
+UBERON:0001130	vertebral column	http://aims.fao.org/aos/agrovoc/c_7306	spine	entities	
+UBERON:0001132	parathyroid gland	http://aims.fao.org/aos/agrovoc/c_5580	parathyroid gland	entities	
+UBERON:0001133	cardiac muscle tissue	http://aims.fao.org/aos/agrovoc/c_34055	myocardium	entities	
+UBERON:0001136	mesothelium	http://aims.fao.org/aos/agrovoc/c_6984	serosa	entities	
+UBERON:0001137	dorsum	http://aims.fao.org/aos/agrovoc/c_762	back	entities	
+UBERON:0001153	caecum	http://aims.fao.org/aos/agrovoc/c_9683	cecum	entities	
+UBERON:0001155	colon	http://aims.fao.org/aos/agrovoc/c_10010	colon	entities	
+UBERON:0001166	pylorus	http://aims.fao.org/aos/agrovoc/c_13687	pylorus	entities	
+UBERON:0001211	Peyer's patch	http://aims.fao.org/aos/agrovoc/c_34879	peyer patches	entities	
+UBERON:0001224	renal pelvis	http://aims.fao.org/aos/agrovoc/c_13807	renal pelvis	entities	
+UBERON:0001235	adrenal cortex	http://aims.fao.org/aos/agrovoc/c_10121	adrenal cortex	entities	
+UBERON:0001245	anus	http://aims.fao.org/aos/agrovoc/c_520	anus	entities	
+UBERON:0001255	urinary bladder	http://aims.fao.org/aos/agrovoc/c_949	bladder	entities	
+UBERON:0001264	pancreas	http://aims.fao.org/aos/agrovoc/c_5526	pancreas	entities	
+UBERON:0001273	ilium	http://aims.fao.org/aos/agrovoc/c_11706	ilium	entities	
+UBERON:0001274	ischium	http://aims.fao.org/aos/agrovoc/c_11842	ischium	entities	
+UBERON:0001275	pubis	http://aims.fao.org/aos/agrovoc/c_13660	pubis	entities	
+UBERON:0001295	endometrium	http://aims.fao.org/aos/agrovoc/c_10601	endometrium	entities	
+UBERON:0001296	myometrium	http://aims.fao.org/aos/agrovoc/c_12748	myometrium	entities	
+UBERON:0001299	glans penis	http://aims.fao.org/aos/agrovoc/c_792	Balanus	organisms	
+UBERON:0001300	scrotum	http://aims.fao.org/aos/agrovoc/c_6885	scrotum	entities	
+UBERON:0001301	epididymis	http://aims.fao.org/aos/agrovoc/c_10635	epididymis	entities	
+UBERON:0001305	ovarian follicle	http://aims.fao.org/aos/agrovoc/c_32465	ovarian follicles	entities	
+UBERON:0001348	brown adipose tissue	http://aims.fao.org/aos/agrovoc/c_9455	brown adipose tissue	entities	
+UBERON:0001350	coccyx	http://aims.fao.org/aos/agrovoc/c_9957	coccyx	entities	
+UBERON:0001352	external acoustic meatus	http://aims.fao.org/aos/agrovoc/c_8999	auditory meatus	entities	
+UBERON:0001359	cerebrospinal fluid	http://aims.fao.org/aos/agrovoc/c_1475	cerebrospinal fluid	entities	
+UBERON:0001424	ulna	http://aims.fao.org/aos/agrovoc/c_15073	ulna	entities	
+UBERON:0001432	distal carpal bone 3	http://aims.fao.org/aos/agrovoc/c_1271	capital	entities	
+UBERON:0001432	distal carpal bone 3	http://aims.fao.org/aos/agrovoc/c_1275	capitalism	systems	
+UBERON:0001443	chest	http://aims.fao.org/aos/agrovoc/c_7735	thorax	entities	
+UBERON:0001446	fibula	http://aims.fao.org/aos/agrovoc/c_10829	fibula	entities	
+UBERON:0001460	arm	http://aims.fao.org/aos/agrovoc/c_330914	arms	entities	
+UBERON:0001467	shoulder	http://aims.fao.org/aos/agrovoc/c_7047	shoulders	products	
+UBERON:0001473	lymphatic vessel	http://aims.fao.org/aos/agrovoc/c_12290	lymphatic vessels	entities	
+UBERON:0001474	bone element	http://aims.fao.org/aos/agrovoc/c_1001	bones	entities	
+UBERON:0001555	digestive tract	http://aims.fao.org/aos/agrovoc/c_2744	evisceration	activities	
+UBERON:0001631	thoracic duct	http://aims.fao.org/aos/agrovoc/c_14867	thoracic duct	entities	
+UBERON:0001633	basilar artery	http://aims.fao.org/aos/agrovoc/c_754	BA	substances	
+UBERON:0001637	artery	http://aims.fao.org/aos/agrovoc/c_8948	arteries	entities	
+UBERON:0001689	malleus bone	http://aims.fao.org/aos/agrovoc/c_48463	Malleus malleus	organisms	
+UBERON:0001690	ear	http://aims.fao.org/aos/agrovoc/c_2436	ears	entities	
+UBERON:0001705	nail	http://aims.fao.org/aos/agrovoc/c_1658	claws	entities	
+UBERON:0001707	nasal cavity	http://aims.fao.org/aos/agrovoc/c_12772	nasal cavity	entities	
+UBERON:0001711	eyelid	http://aims.fao.org/aos/agrovoc/c_10720	eyelids	entities	
+UBERON:0001716	secondary palate	http://aims.fao.org/aos/agrovoc/c_13032	palatability	properties	
+UBERON:0001723	tongue	http://aims.fao.org/aos/agrovoc/c_7809	tongue	entities	
+UBERON:0001737	larynx	http://aims.fao.org/aos/agrovoc/c_4205	larynx	entities	
+UBERON:0001753	cementum	http://aims.fao.org/aos/agrovoc/c_1426	cement	substances	
+UBERON:0001769	iris	http://aims.fao.org/aos/agrovoc/c_3947	Iris	organisms	
+UBERON:0001771	pupil	http://aims.fao.org/aos/agrovoc/c_7473	students	groups	
+UBERON:0001810	nerve plexus	http://aims.fao.org/aos/agrovoc/c_6019	plexus	entities	
+UBERON:0001811	conjunctiva	http://aims.fao.org/aos/agrovoc/c_10074	conjunctiva	entities	
+UBERON:0001820	sweat gland	http://aims.fao.org/aos/agrovoc/c_14720	sweat glands	entities	
+UBERON:0001821	sebaceous gland	http://aims.fao.org/aos/agrovoc/c_14155	sebaceous glands	entities	
+UBERON:0001825	paranasal sinus	http://aims.fao.org/aos/agrovoc/c_16811	sinusitis	phenomena	
+UBERON:0001825	paranasal sinus	http://aims.fao.org/aos/agrovoc/c_7081	sinuses	entities	
+UBERON:0001827	secretion of lacrimal gland	http://aims.fao.org/aos/agrovoc/c_7641	tears	entities	
+UBERON:0001828	gingiva	http://aims.fao.org/aos/agrovoc/c_11159	gingiva	entities	
+UBERON:0001828	gingiva	http://aims.fao.org/aos/agrovoc/c_3441	gums	products	,substances	
+UBERON:0001831	parotid gland	http://aims.fao.org/aos/agrovoc/c_6753	salivary glands	entities	
+UBERON:0001836	saliva	http://aims.fao.org/aos/agrovoc/c_6752	saliva	entities	
+UBERON:0001851	cortex	http://aims.fao.org/aos/agrovoc/c_1908	cortex	entities	
+UBERON:0001866	sebum	http://aims.fao.org/aos/agrovoc/c_6917	sebum	entities	
+UBERON:0001872	parietal lobe	http://aims.fao.org/aos/agrovoc/c_15205	Violales	organisms	
+UBERON:0001886	choroid plexus	http://aims.fao.org/aos/agrovoc/c_13460	choroid plexus	entities	
+UBERON:0001893	telencephalon	http://aims.fao.org/aos/agrovoc/c_9713	cerebrum	entities	
+UBERON:0001896	medulla oblongata	http://aims.fao.org/aos/agrovoc/c_12476	medulla oblongata	entities	
+UBERON:0001898	hypothalamus	http://aims.fao.org/aos/agrovoc/c_11691	hypothalamus	entities	
+UBERON:0001905	pineal body	http://aims.fao.org/aos/agrovoc/c_5888	pineal body	entities	
+UBERON:0001911	mammary gland	http://aims.fao.org/aos/agrovoc/c_4562	mammary glands	entities	
+UBERON:0001913	milk	http://aims.fao.org/aos/agrovoc/c_4826	milk	entities	,products	
+UBERON:0001914	colostrum	http://aims.fao.org/aos/agrovoc/c_1772	colostrum	entities	,products	
+UBERON:0001928	preoptic area	http://aims.fao.org/aos/agrovoc/c_6035	Poa	organisms	
+UBERON:0001954	Ammon's horn	http://aims.fao.org/aos/agrovoc/c_41730	Hippocampus hippocampus	organisms	
+UBERON:0001961	mucosa-associated lymphoid tissue	http://aims.fao.org/aos/agrovoc/c_4547	malt	products	
+UBERON:0001968	semen	http://aims.fao.org/aos/agrovoc/c_6961	semen	entities	
+UBERON:0001969	blood plasma	http://aims.fao.org/aos/agrovoc/c_9320	blood plasma	entities	
+UBERON:0001970	bile	http://aims.fao.org/aos/agrovoc/c_902	bile	entities	
+UBERON:0001971	gastric juice	http://aims.fao.org/aos/agrovoc/c_33498	gastric acid	entities	
+UBERON:0001977	serum	http://aims.fao.org/aos/agrovoc/c_9323	blood serum	entities	
+UBERON:0001987	placenta	http://aims.fao.org/aos/agrovoc/c_5944	placenta	entities	
+UBERON:0001988	feces	http://aims.fao.org/aos/agrovoc/c_2772	faeces	substances	
+UBERON:0002030	nipple	http://aims.fao.org/aos/agrovoc/c_14813	teats	entities	
+UBERON:0002037	cerebellum	http://aims.fao.org/aos/agrovoc/c_9711	cerebellum	entities	
+UBERON:0002046	thyroid gland	http://aims.fao.org/aos/agrovoc/c_7753	thyroid gland	entities	
+UBERON:0002050	embryonic structure	http://aims.fao.org/aos/agrovoc/c_331448	embryonic structures	entities	
+UBERON:0002067	dermis	http://aims.fao.org/aos/agrovoc/c_7097	skin	entities	
+UBERON:0002082	cardiac ventricle	http://aims.fao.org/aos/agrovoc/c_37346	heart ventricles	entities	
+UBERON:0002100	trunk	http://aims.fao.org/aos/agrovoc/c_15017	trunks	entities	
+UBERON:0002101	limb	http://aims.fao.org/aos/agrovoc/c_4338	limbs	entities	
+UBERON:0002106	spleen	http://aims.fao.org/aos/agrovoc/c_7314	spleen	entities	
+UBERON:0002107	liver	http://aims.fao.org/aos/agrovoc/c_4395	liver	entities	
+UBERON:0002108	small intestine	http://aims.fao.org/aos/agrovoc/c_23814	small intestine	entities	
+UBERON:0002109	pair of nares	http://aims.fao.org/aos/agrovoc/c_12856	nostrils	entities	
+UBERON:0002110	gall bladder	http://aims.fao.org/aos/agrovoc/c_3173	gall bladder	entities	
+UBERON:0002113	kidney	http://aims.fao.org/aos/agrovoc/c_4099	kidneys	entities	
+UBERON:0002114	duodenum	http://aims.fao.org/aos/agrovoc/c_10486	duodenum	entities	
+UBERON:0002115	jejunum	http://aims.fao.org/aos/agrovoc/c_11900	jejunum	entities	
+UBERON:0002116	ileum	http://aims.fao.org/aos/agrovoc/c_11704	ileum	entities	
+UBERON:0002127	inferior olivary complex	http://aims.fao.org/aos/agrovoc/c_47607	Oliva oliva	organisms	
+UBERON:0002141	parvocellular oculomotor nucleus	http://aims.fao.org/aos/agrovoc/c_2746	ewes	organisms	
+UBERON:0002145	interpeduncular nucleus	http://aims.fao.org/aos/agrovoc/c_3939	Ips	organisms	
+UBERON:0002162	area postrema	http://aims.fao.org/aos/agrovoc/c_8867	apes	organisms	
+UBERON:0002185	bronchus	http://aims.fao.org/aos/agrovoc/c_1110	bronchi	entities	
+UBERON:0002196	adenohypophysis	http://aims.fao.org/aos/agrovoc/c_8620	adenohypophysis	entities	
+UBERON:0002198	neurohypophysis	http://aims.fao.org/aos/agrovoc/c_12807	neurohypophysis	entities	
+UBERON:0002199	integument	http://aims.fao.org/aos/agrovoc/c_3904	integument	entities	
+UBERON:0002204	musculoskeletal system	http://aims.fao.org/aos/agrovoc/c_5005	musculoskeletal system	entities	
+UBERON:0002224	thoracic cavity	http://aims.fao.org/aos/agrovoc/c_35336	thoracic cavity	entities	
+UBERON:0002228	rib	http://aims.fao.org/aos/agrovoc/c_6598	Costae	entities	
+UBERON:0002240	spinal cord	http://aims.fao.org/aos/agrovoc/c_7305	spinal cord	entities	
+UBERON:0002268	olfactory organ	http://aims.fao.org/aos/agrovoc/c_5344	olfactory organs	entities	
+UBERON:0002280	otolith	http://aims.fao.org/aos/agrovoc/c_26883	statoliths	entities	
+UBERON:0002299	alveolus of lung	http://aims.fao.org/aos/agrovoc/c_8746	alveoli	entities	
+UBERON:0002323	coelemic cavity lumen	http://aims.fao.org/aos/agrovoc/c_978	body cavities	entities	
+UBERON:0002349	myocardium	http://aims.fao.org/aos/agrovoc/c_34055	myocardium	entities	
+UBERON:0002355	pelvic region of trunk	http://aims.fao.org/aos/agrovoc/c_5666	pelvis	entities	
+UBERON:0002356	perineum	http://aims.fao.org/aos/agrovoc/c_5706	perineum	entities	
+UBERON:0002358	peritoneum	http://aims.fao.org/aos/agrovoc/c_5712	peritoneum	entities	
+UBERON:0002361	pia mater	http://aims.fao.org/aos/agrovoc/c_13348	pia mater	entities	
+UBERON:0002363	dura mater	http://aims.fao.org/aos/agrovoc/c_10487	dura mater	entities	
+UBERON:0002364	tympanic membrane	http://aims.fao.org/aos/agrovoc/c_15044	tympanic membrane	entities	
+UBERON:0002365	exocrine gland	http://aims.fao.org/aos/agrovoc/c_27975	exocrine glands	entities	
+UBERON:0002367	prostate gland	http://aims.fao.org/aos/agrovoc/c_24407	prostate	entities	
+UBERON:0002368	endocrine gland	http://aims.fao.org/aos/agrovoc/c_2559	endocrine glands	entities	
+UBERON:0002369	adrenal gland	http://aims.fao.org/aos/agrovoc/c_135	adrenal glands	entities	
+UBERON:0002370	thymus	http://aims.fao.org/aos/agrovoc/c_14878	thymus gland	entities	
+UBERON:0002371	bone marrow	http://aims.fao.org/aos/agrovoc/c_998	bone marrow	entities	
+UBERON:0002372	tonsil	http://aims.fao.org/aos/agrovoc/c_14923	tonsillitis	phenomena	
+UBERON:0002372	tonsil	http://aims.fao.org/aos/agrovoc/c_24413	tonsils	entities	
+UBERON:0002384	connective tissue	http://aims.fao.org/aos/agrovoc/c_10076	connective tissue	entities	
+UBERON:0002387	pes	http://aims.fao.org/aos/agrovoc/c_2dff8ae7	Payment for Ecosystem Services	activities	
+UBERON:0002391	lymph	http://aims.fao.org/aos/agrovoc/c_4481	lymph	entities	
+UBERON:0002393	pharyngotympanic tube	http://aims.fao.org/aos/agrovoc/c_10701	eustachian tube	entities	
+UBERON:0002394	bile duct	http://aims.fao.org/aos/agrovoc/c_904	bile ducts	entities	
+UBERON:0002395	talus	http://aims.fao.org/aos/agrovoc/c_681	Astragalus	organisms	
+UBERON:0002396	vomer	http://aims.fao.org/aos/agrovoc/c_8290	Vomer	organisms	
+UBERON:0002402	pleural cavity	http://aims.fao.org/aos/agrovoc/c_13458	pleural cavity	entities	
+UBERON:0002405	immune system	http://aims.fao.org/aos/agrovoc/c_27554	immune system	phenomena	
+UBERON:0002407	pericardium	http://aims.fao.org/aos/agrovoc/c_5702	pericardium	entities	
+UBERON:0002410	autonomic nervous system	http://aims.fao.org/aos/agrovoc/c_723	autonomic nervous system	entities	
+UBERON:0002412	vertebra	http://aims.fao.org/aos/agrovoc/c_15155	vertebrae	entities	
+UBERON:0002415	tail	http://aims.fao.org/aos/agrovoc/c_7591	tail	entities	
+UBERON:0002418	cartilage tissue	http://aims.fao.org/aos/agrovoc/c_1342	cartilage	entities	
+UBERON:0002419	skin gland	http://aims.fao.org/aos/agrovoc/c_7099	skin glands	entities	
+UBERON:0002421	hippocampal formation	http://aims.fao.org/aos/agrovoc/c_41730	Hippocampus hippocampus	organisms	
+UBERON:0002428	limb bone	http://aims.fao.org/aos/agrovoc/c_4336	limb bones	entities	
+UBERON:0002430	lateral hypothalamic area	http://aims.fao.org/aos/agrovoc/c_4304	LH	substances	
+UBERON:0002466	intestine secretion	http://aims.fao.org/aos/agrovoc/c_11817	intestinal juice	entities	
+UBERON:0002470	autopod region	http://aims.fao.org/aos/agrovoc/c_13475	pods	entities	
+UBERON:0002481	bone tissue	http://aims.fao.org/aos/agrovoc/c_1002	boning	activities	
+UBERON:0002488	helix	http://aims.fao.org/aos/agrovoc/c_11495	Helix	organisms	
+UBERON:0002512	corpus luteum	http://aims.fao.org/aos/agrovoc/c_1905	corpus luteum	entities	
+UBERON:0002537	hermaphrodite gonad	http://aims.fao.org/aos/agrovoc/c_27074	ovotestis	entities	
+UBERON:0002542	scale	http://aims.fao.org/aos/agrovoc/c_128d5eb6	scale	activities	,subjects	
+UBERON:0002548	larva	http://aims.fao.org/aos/agrovoc/c_8769	ammocetes	stages	
+UBERON:0002620	tuber cinereum	http://aims.fao.org/aos/agrovoc/c_31690	Tuberales	organisms	
+UBERON:0002620	tuber cinereum	http://aims.fao.org/aos/agrovoc/c_7998	tubers	entities	
+UBERON:0002685	anteroventral nucleus of thalamus	http://aims.fao.org/aos/agrovoc/c_9012	Aves	organisms	
+UBERON:0002706	posterior nucleus of hypothalamus	http://aims.fao.org/aos/agrovoc/c_5753	pH	measure	,properties	
+UBERON:0002707	corticospinal tract	http://aims.fao.org/aos/agrovoc/c_1476	cerebrospinal tracts	entities	
+UBERON:0002746	intermediate periventricular nucleus	http://aims.fao.org/aos/agrovoc/c_3939	Ips	organisms	
+UBERON:0002912	marginal sulcus	http://aims.fao.org/aos/agrovoc/c_12421	mass spectrometry	methods	
+UBERON:0002961	archicortex	http://aims.fao.org/aos/agrovoc/c_41730	Hippocampus hippocampus	organisms	
+UBERON:0003055	periderm	http://aims.fao.org/aos/agrovoc/c_5704	periderm	entities	
+UBERON:0003062	primitive knot	http://aims.fao.org/aos/agrovoc/c_330894	organization	activities	
+UBERON:0003062	primitive knot	http://aims.fao.org/aos/agrovoc/c_37968	organizations	entities	
+UBERON:0003062	primitive knot	http://aims.fao.org/aos/agrovoc/c_49904	organisms	organisms	
+UBERON:0003062	primitive knot	http://aims.fao.org/aos/agrovoc/c_50296	regional organizations	entities	
+UBERON:0003100	female organism	http://aims.fao.org/aos/agrovoc/c_15969	females	organisms	
+UBERON:0003101	male organism	http://aims.fao.org/aos/agrovoc/c_15995	males	organisms	
+UBERON:0003103	compound organ	http://aims.fao.org/aos/agrovoc/c_5384	organic compounds	substances	
+UBERON:0003124	chorion	http://aims.fao.org/aos/agrovoc/c_9836	chorion	entities	
+UBERON:0003126	trachea	http://aims.fao.org/aos/agrovoc/c_7836	trachea	entities	
+UBERON:0003129	skull	http://aims.fao.org/aos/agrovoc/c_7104	skull	entities	
+UBERON:0003133	reproductive organ	http://aims.fao.org/aos/agrovoc/c_27961	genitalia	entities	
+UBERON:0003142	prepupa	http://aims.fao.org/aos/agrovoc/c_36539	prepupae	stages	
+UBERON:0003143	pupa	http://aims.fao.org/aos/agrovoc/c_6374	pupae	stages	
+UBERON:0003221	phalanx	http://aims.fao.org/aos/agrovoc/c_13275	phalanges	entities	
+UBERON:0003672	dentition	http://aims.fao.org/aos/agrovoc/c_7650	teeth	entities	
+UBERON:0003684	abdominal cavity	http://aims.fao.org/aos/agrovoc/c_34979	abdominal cavity	entities	
+UBERON:0003685	cranial suture	http://aims.fao.org/aos/agrovoc/c_16466	sutures	activities	
+UBERON:0003706	laryngeal vocal fold	http://aims.fao.org/aos/agrovoc/c_15236	vocal cords	entities	
+UBERON:0003876	hippocampal field	http://aims.fao.org/aos/agrovoc/c_41730	Hippocampus hippocampus	organisms	
+UBERON:0003917	arthropod fat body	http://aims.fao.org/aos/agrovoc/c_129	adipose tissue	entities	
+UBERON:0004114	tympanic cavity	http://aims.fao.org/aos/agrovoc/c_15057	tympanic cavity	entities	
+UBERON:0004122	genitourinary system	http://aims.fao.org/aos/agrovoc/c_8107	urogenital system	entities	
+UBERON:0004339	vault of skull	http://aims.fao.org/aos/agrovoc/c_37149	Scutellaria	organisms	
+UBERON:0004452	carpal region	http://aims.fao.org/aos/agrovoc/c_9638	carpus	entities	
+UBERON:0004453	metacarpus region	http://aims.fao.org/aos/agrovoc/c_12514	metacarpus	entities	
+UBERON:0004529	anatomical projection	http://aims.fao.org/aos/agrovoc/c_13586	processes	processes	
+UBERON:0004529	anatomical projection	http://aims.fao.org/aos/agrovoc/c_7306	spine	entities	
+UBERON:0004535	cardiovascular system	http://aims.fao.org/aos/agrovoc/c_1317	cardiovascular system	entities	
+UBERON:0004537	blood vasculature	http://aims.fao.org/aos/agrovoc/c_971	blood vessels	entities	
+UBERON:0004739	pronephric glomerulus	http://aims.fao.org/aos/agrovoc/c_31772	Glomus	organisms	
+UBERON:0004907	lower digestive tract	http://aims.fao.org/aos/agrovoc/c_2744	evisceration	activities	
+UBERON:0005052	gizzard	http://aims.fao.org/aos/agrovoc/c_3268	gizzard	entities	
+UBERON:0005079	eggshell	http://aims.fao.org/aos/agrovoc/c_2500	egg shell	properties	
+UBERON:0005094	beak	http://aims.fao.org/aos/agrovoc/c_35010	beak	entities	
+UBERON:0005346	cerebellum vermis lobule VIIb	http://aims.fao.org/aos/agrovoc/c_31690	Tuberales	organisms	
+UBERON:0005346	cerebellum vermis lobule VIIb	http://aims.fao.org/aos/agrovoc/c_7998	tubers	entities	
+UBERON:0005352	spermatic cord	http://aims.fao.org/aos/agrovoc/c_7284	spermatic cord	entities	
+UBERON:0005434	cervical region	http://aims.fao.org/aos/agrovoc/c_5097	neck	entities	
+UBERON:0005462	lower back	http://aims.fao.org/aos/agrovoc/c_4421	loins	products	
+UBERON:0005630	fetal membrane	http://aims.fao.org/aos/agrovoc/c_10805	foetal membranes	entities	
+UBERON:0006077	subdivision of vertebral column	http://aims.fao.org/aos/agrovoc/c_8196	vertebrates	organisms	
+UBERON:0006314	bodily fluid	http://aims.fao.org/aos/agrovoc/c_979	body fluids	entities	
+UBERON:0006333	snout	http://aims.fao.org/aos/agrovoc/c_14365	snout	entities	
+UBERON:0006517	kidney calyx	http://aims.fao.org/aos/agrovoc/c_1221	calyx	entities	
+UBERON:0006530	seminal fluid	http://aims.fao.org/aos/agrovoc/c_6961	semen	entities	
+UBERON:0006558	lymphatic part of lymphoid system	http://aims.fao.org/aos/agrovoc/c_4483	lymphatic system	entities	
+UBERON:0006562	pharynx	http://aims.fao.org/aos/agrovoc/c_5761	pharynx	entities	
+UBERON:0006611	exoskeleton	http://aims.fao.org/aos/agrovoc/c_2754	exoskeleton	entities	
+UBERON:0006612	shell	http://aims.fao.org/aos/agrovoc/c_7032	shell	entities	
+UBERON:0006723	cochlear modiolus	http://aims.fao.org/aos/agrovoc/c_48073	Modiolus modiolus	organisms	
+UBERON:0006723	cochlear modiolus	http://aims.fao.org/aos/agrovoc/c_4884	Modiolus	organisms	
+UBERON:0006820	body of sternum	http://aims.fao.org/aos/agrovoc/c_3270	Gladiolus	organisms	
+UBERON:0006849	scapula	http://aims.fao.org/aos/agrovoc/c_14111	scapula	entities	
+UBERON:0006860	swim bladder	http://aims.fao.org/aos/agrovoc/c_15924	swim bladder	entities	
+UBERON:0006911	digestive system fluid or secretion	http://aims.fao.org/aos/agrovoc/c_2274	digestive juices	entities	
+UBERON:0006967	horn	http://aims.fao.org/aos/agrovoc/c_3665	horns	entities	
+UBERON:0006971	antler	http://aims.fao.org/aos/agrovoc/c_8864	antlers	entities	
+UBERON:0007021	sexually immature organism	http://aims.fao.org/aos/agrovoc/c_25393	juveniles	entities	
+UBERON:0007023	adult organism	http://aims.fao.org/aos/agrovoc/c_139	adults	entities	
+UBERON:0007113	venom	http://aims.fao.org/aos/agrovoc/c_8187	venoms	substances	
+UBERON:0007197	hermaphroditic organism	http://aims.fao.org/aos/agrovoc/c_3571	hermaphroditism	phenomena	
+UBERON:0007220	late embryonic stage	http://aims.fao.org/aos/agrovoc/c_3006	foetus	entities	
+UBERON:0007222	late adult stage	http://aims.fao.org/aos/agrovoc/c_28629	elderly	entities	
+UBERON:0007311	sputum	http://aims.fao.org/aos/agrovoc/c_10712	expectorants	substances	
+UBERON:0007356	crop	http://aims.fao.org/aos/agrovoc/c_1972	crops	organisms	
+UBERON:0007357	proventriculus	http://aims.fao.org/aos/agrovoc/c_6273	proventriculus	entities	
+UBERON:0007358	abomasum	http://aims.fao.org/aos/agrovoc/c_21	abomasum	entities	
+UBERON:0007361	ruminant reticulum	http://aims.fao.org/aos/agrovoc/c_6538	reticulum	entities	
+UBERON:0007362	omasum	http://aims.fao.org/aos/agrovoc/c_5346	omasum	entities	
+UBERON:0007365	rumen	http://aims.fao.org/aos/agrovoc/c_6693	rumen	entities	
+UBERON:0007375	roof of mouth	http://aims.fao.org/aos/agrovoc/c_13032	palatability	properties	
+UBERON:0007376	outer epithelium	http://aims.fao.org/aos/agrovoc/c_2617	epidermis	entities	
+UBERON:0007378	egg yolk	http://aims.fao.org/aos/agrovoc/c_2501	egg yolk	products	
+UBERON:0007379	egg	http://aims.fao.org/aos/agrovoc/c_2502	eggs	products	
+UBERON:0007380	dermal scale	http://aims.fao.org/aos/agrovoc/c_6838	scales	entities	
+UBERON:0007622	pecten oculi	http://aims.fao.org/aos/agrovoc/c_5649	Pecten	organisms	
+UBERON:0007623	comb and wattle	http://aims.fao.org/aos/agrovoc/c_1323688791863	Acacia polystachya	organisms	
+UBERON:0007688	anlage	http://aims.fao.org/aos/agrovoc/c_2894	fields	resources	
+UBERON:0007780	exudate	http://aims.fao.org/aos/agrovoc/c_24101	exudation	phenomena	
+UBERON:0007780	exudate	http://aims.fao.org/aos/agrovoc/c_26779	exudates	substances	
+UBERON:0007795	ascitic fluid	http://aims.fao.org/aos/agrovoc/c_8971	ascites	phenomena	
+UBERON:0007808	adipose tissue of abdominal region	http://aims.fao.org/aos/agrovoc/c_33269	abdominal fat	entities	
+UBERON:0007823	appendage girdle region	http://aims.fao.org/aos/agrovoc/c_6606	girdling	activities	
+UBERON:0007844	cartilage element	http://aims.fao.org/aos/agrovoc/c_1342	cartilage	entities	
+UBERON:0008260	spine appendage	http://aims.fao.org/aos/agrovoc/c_7306	spine	entities	
+UBERON:0008269	nacre	http://aims.fao.org/aos/agrovoc/c_4951	mother of pearl	products	
+UBERON:0008286	feather calamus	http://aims.fao.org/aos/agrovoc/c_43258	Calamus calamus	organisms	
+UBERON:0008338	plantar part of pes	http://aims.fao.org/aos/agrovoc/c_330074	Plantae	organisms	
+UBERON:0008338	plantar part of pes	http://aims.fao.org/aos/agrovoc/c_7227	soles	organisms	
+UBERON:0008878	palmar part of manus	http://aims.fao.org/aos/agrovoc/c_15807	Arecaceae	organisms	
+UBERON:0008897	fin	http://aims.fao.org/aos/agrovoc/c_15902	fins	entities	
+UBERON:0008944	albumen	http://aims.fao.org/aos/agrovoc/c_10549	egg white	products	
+UBERON:0008944	albumen	http://aims.fao.org/aos/agrovoc/c_247	albumins	substances	
+UBERON:0008960	melon organ	http://aims.fao.org/aos/agrovoc/c_12487	melons	products	
+UBERON:0008979	carcass	http://aims.fao.org/aos/agrovoc/c_1310	carcasses	products	
+UBERON:0009034	stomach region	http://aims.fao.org/aos/agrovoc/c_7422	stomach	entities	
+UBERON:0009060	air sac	http://aims.fao.org/aos/agrovoc/c_229	air sacs	entities	
+UBERON:0009074	syrinx organ	http://aims.fao.org/aos/agrovoc/c_14757	syrinx	entities	
+UBERON:0009145	pharyngeal region of foregut	http://aims.fao.org/aos/agrovoc/c_13281	pharyngitis	phenomena	
+UBERON:0009569	subdivision of trunk	http://aims.fao.org/aos/agrovoc/c_15017	trunks	entities	
+UBERON:0009870	zone of stomach	http://aims.fao.org/aos/agrovoc/c_7422	stomach	entities	
+UBERON:0009879	tarsal skeleton	http://aims.fao.org/aos/agrovoc/c_14794	tarsus	entities	
+UBERON:0009880	carpal skeleton	http://aims.fao.org/aos/agrovoc/c_9638	carpus	entities	
+UBERON:0010008	placental cotyledon	http://aims.fao.org/aos/agrovoc/c_1930	cotyledons	entities	
+UBERON:0010154	inner lining mucosa of the abomasum	http://aims.fao.org/aos/agrovoc/c_24075	rennet	substances	
+UBERON:0010166	coat of hair	http://aims.fao.org/aos/agrovoc/c_8436	wool	substances	
+UBERON:0010207	nictitating membrane	http://aims.fao.org/aos/agrovoc/c_12826	nictitating membrane	entities	
+UBERON:0010210	blood clot	http://aims.fao.org/aos/agrovoc/c_962	blood coagulation	phenomena	
+UBERON:0010264	hepatopancreas	http://aims.fao.org/aos/agrovoc/c_34294	hepatopancreas	entities	
+UBERON:0010305	region of conjunctiva	http://aims.fao.org/aos/agrovoc/c_10074	conjunctiva	entities	
+UBERON:0010515	brille	http://aims.fao.org/aos/agrovoc/c_1090	brill	organisms	
+UBERON:0010743	meningeal cluster	http://aims.fao.org/aos/agrovoc/c_4738	meninges	entities	
+UBERON:0010754	germinal center	http://aims.fao.org/aos/agrovoc/c_6643	root nodulation	phenomena	
+UBERON:0011146	silk gland	http://aims.fao.org/aos/agrovoc/c_34337	silk glands	entities	
+UBERON:0011150	pharyngeal arch derived gill	http://aims.fao.org/aos/agrovoc/c_3262	gills	entities	
+UBERON:0011252	scent gland	http://aims.fao.org/aos/agrovoc/c_14116	scent glands	entities	
+UBERON:0011302	tunicate tunic	http://aims.fao.org/aos/agrovoc/c_6900	sea squirts	organisms	
+UBERON:0011386	facial modiolus	http://aims.fao.org/aos/agrovoc/c_48073	Modiolus modiolus	organisms	
+UBERON:0011386	facial modiolus	http://aims.fao.org/aos/agrovoc/c_4884	Modiolus	organisms	
+UBERON:0011651	ventral head of rib	http://aims.fao.org/aos/agrovoc/c_27966	capitulum	entities	
+UBERON:0011810	collection of feathers	http://aims.fao.org/aos/agrovoc/c_13466	plumage	entities	
+UBERON:0012112	ingested food	http://aims.fao.org/aos/agrovoc/c_3022	food intake	phenomena	
+UBERON:0012126	fibulare	http://aims.fao.org/aos/agrovoc/c_681	Astragalus	organisms	
+UBERON:0012131	centrale	http://aims.fao.org/aos/agrovoc/c_1440	centralization	activities	
+UBERON:0012245	silk	http://aims.fao.org/aos/agrovoc/c_7063	silk	substances	
+UBERON:0012316	primitive palate	http://aims.fao.org/aos/agrovoc/c_13032	palatability	properties	
+UBERON:0012356	pedal acropodium region	http://aims.fao.org/aos/agrovoc/c_14912	toes	entities	
+UBERON:0012464	cloacal vent	http://aims.fao.org/aos/agrovoc/c_8189	ventilators	objects	
+UBERON:0013196	strand of wool	http://aims.fao.org/aos/agrovoc/c_8436	wool	substances	
+UBERON:0013198	cocoon	http://aims.fao.org/aos/agrovoc/c_36538	cocoons	products	
+UBERON:0013216	udder	http://aims.fao.org/aos/agrovoc/c_15065	udders	entities	
+UBERON:0013496	unbarbed keratin-coated spine	http://aims.fao.org/aos/agrovoc/c_7306	spine	entities	
+UBERON:0013702	body proper	http://aims.fao.org/aos/agrovoc/c_50164	bodies	groups	
+UBERON:0013702	body proper	http://aims.fao.org/aos/agrovoc/c_982	body regions	entities	
+UBERON:0014405	nymph stage	http://aims.fao.org/aos/agrovoc/c_5282	nymphs	stages	
+UBERON:0014454	visceral abdominal adipose tissue	http://aims.fao.org/aos/agrovoc/c_33269	abdominal fat	entities	
+UBERON:0014594	tuberomammillary nucleus ventral part	http://aims.fao.org/aos/agrovoc/c_16053	tobacco mosaic tobamovirus	organisms	,substances	
+UBERON:0014856	cysticercus stage	http://aims.fao.org/aos/agrovoc/c_7589	Taenia	organisms	
+UBERON:0014858	crustacean post-larval stage	http://aims.fao.org/aos/agrovoc/c_25208	postlarval stages	stages	
+UBERON:0014864	caterpillar stage	http://aims.fao.org/aos/agrovoc/c_9669	caterpillars	stages	
+UBERON:0015018	malleus endochondral element	http://aims.fao.org/aos/agrovoc/c_48463	Malleus malleus	organisms	
+UBERON:0015599	genu of corpus callosum	http://aims.fao.org/aos/agrovoc/c_11125	genus	groups	
+UBERON:0016566	pit	http://aims.fao.org/aos/agrovoc/c_5938	pits	entities	
+UBERON:0018387	cestode	http://aims.fao.org/aos/agrovoc/c_1481	Cestoda	organisms	
+UBERON:0018391	chemoreceptor	http://aims.fao.org/aos/agrovoc/c_32644	chemoreceptors	entities	
+UBERON:0018707	bladder organ	http://aims.fao.org/aos/agrovoc/c_949	bladder	entities	
+UBERON:0019143	intramuscular adipose tissue	http://aims.fao.org/aos/agrovoc/c_331321	intramuscular fat	entities	
+UBERON:0022303	nervous system cell part layer	http://aims.fao.org/aos/agrovoc/c_4233	layering	activities	
+UBERON:0034896	ansa peduncularis	http://aims.fao.org/aos/agrovoc/c_8867	apes	organisms	
+UBERON:0034919	juvenile stage	http://aims.fao.org/aos/agrovoc/c_330660	juvenile stage	stages	
+UBERON:0035942	space between upper and lower jaws	http://aims.fao.org/aos/agrovoc/c_940	bites	phenomena	
+UBERON:0035944	life-death temporal boundary	http://aims.fao.org/aos/agrovoc/c_2138	death	phenomena	,stages	
+UBERON:0035946	start of neonate stage	http://aims.fao.org/aos/agrovoc/c_5604	parturition	phenomena	
+UBERON:1000010	mole	http://aims.fao.org/aos/agrovoc/c_4893	moles	organisms	
+UBERON:2001053	future internal carotid artery	http://aims.fao.org/aos/agrovoc/c_33980	pica	phenomena	

@@ -1,0 +1,58 @@
+PDO:0000001	plant disease	http://aims.fao.org/aos/agrovoc/c_5962	plant diseases
+PDO:0000018	Xanthomonas oryzae pv. oryzicola	http://aims.fao.org/aos/agrovoc/c_330601	Xanthomonas oryzae pv. oryzicola
+PDO:0000022	Burkholderia glumae	http://aims.fao.org/aos/agrovoc/c_33831	Pseudomonas glumae
+PDO:0000025	Pseudomonas fuscovaginae	http://aims.fao.org/aos/agrovoc/c_33829	Pseudomonas fuscovaginae
+PDO:0000036	Gaeumannomyces graminis	http://aims.fao.org/aos/agrovoc/c_24640	Gaeumannomyces graminis
+PDO:0000037	rice downy mildew fungal disease	http://aims.fao.org/aos/agrovoc/c_10450	downy mildews
+PDO:0000050	Passalora janseana	http://aims.fao.org/aos/agrovoc/c_33654	Cercospora oryzae
+PDO:0000062	Pseudomonas syringae subsp. syringae	http://aims.fao.org/aos/agrovoc/c_26650	Pseudomonas syringae
+PDO:0000071	host plant	http://aims.fao.org/aos/agrovoc/c_11621	host plants
+PDO:0000088	Rhizoctonia solani	http://aims.fao.org/aos/agrovoc/c_33858	Rhizoctonia solani
+PDO:0000094	Pseudomonas	http://aims.fao.org/aos/agrovoc/c_6304	Pseudomonas
+PDO:0000095	Xanthomonas	http://aims.fao.org/aos/agrovoc/c_8455	Xanthomonas
+PDO:0000096	Poaceae	http://aims.fao.org/aos/agrovoc/c_3354	Poaceae
+PDO:0000097	Oryza	http://aims.fao.org/aos/agrovoc/c_5435	Oryza
+PDO:0000098	Oryza sativa	http://aims.fao.org/aos/agrovoc/c_5438	Oryza sativa
+PDO:0000099	Triticum	http://aims.fao.org/aos/agrovoc/c_7950	Triticum
+PDO:0000100	Zea	http://aims.fao.org/aos/agrovoc/c_27440	Zea
+PDO:0000101	Zea_mays	http://aims.fao.org/aos/agrovoc/c_8504	Zea mays
+PDO:0000102	Hordeum	http://aims.fao.org/aos/agrovoc/c_3660	Hordeum
+PDO:0000103	Hordeum vulgare	http://aims.fao.org/aos/agrovoc/c_3662	Hordeum vulgare
+PDO:0000106	Colletotrichum graminicola	http://aims.fao.org/aos/agrovoc/c_34526	Colletotrichum graminicola
+PDO:0000109	Pythium graminicola	http://aims.fao.org/aos/agrovoc/c_27344	Pythium graminicola
+PDO:0000110	Typhula idahoensis	http://aims.fao.org/aos/agrovoc/c_27409	Typhula idahoensis
+PDO:0000114	Athelia rolfsii	http://aims.fao.org/aos/agrovoc/c_34700	Corticium rolfsii
+PDO:0000115	Pyrenophora tritici-repentis	http://aims.fao.org/aos/agrovoc/c_34568	Pyrenophora tritici repentis
+PDO:0000116	Triticum_aestivum	http://aims.fao.org/aos/agrovoc/c_7951	Triticum aestivum
+PDO:0000132	barley yellow dwarf virus	http://aims.fao.org/aos/agrovoc/c_15942	barley yellow dwarf luteovirus
+PDO:0000164	Bacillus subtilis	http://aims.fao.org/aos/agrovoc/c_15940	Bacillus subtilis
+PDO:0000169	Fusarium fujikuroi	http://aims.fao.org/aos/agrovoc/c_16511	Gibberella fujikuroi
+http://aims.fao.org/aos/agrovoc/c_10450	downy mildews	PDO:0000037	rice downy mildew fungal disease
+http://aims.fao.org/aos/agrovoc/c_11621	host plants	PDO:0000071	host plant
+http://aims.fao.org/aos/agrovoc/c_15940	Bacillus subtilis	PDO:0000164	Bacillus subtilis
+http://aims.fao.org/aos/agrovoc/c_15942	barley yellow dwarf luteovirus	PDO:0000132	barley yellow dwarf virus
+http://aims.fao.org/aos/agrovoc/c_16511	Gibberella fujikuroi	PDO:0000169	Fusarium fujikuroi
+http://aims.fao.org/aos/agrovoc/c_24640	Gaeumannomyces graminis	PDO:0000036	Gaeumannomyces graminis
+http://aims.fao.org/aos/agrovoc/c_26650	Pseudomonas syringae	PDO:0000062	Pseudomonas syringae subsp. syringae
+http://aims.fao.org/aos/agrovoc/c_27344	Pythium graminicola	PDO:0000109	Pythium graminicola
+http://aims.fao.org/aos/agrovoc/c_27409	Typhula idahoensis	PDO:0000110	Typhula idahoensis
+http://aims.fao.org/aos/agrovoc/c_27440	Zea	PDO:0000100	Zea
+http://aims.fao.org/aos/agrovoc/c_330601	Xanthomonas oryzae pv. oryzicola	PDO:0000018	Xanthomonas oryzae pv. oryzicola
+http://aims.fao.org/aos/agrovoc/c_3354	Poaceae	PDO:0000096	Poaceae
+http://aims.fao.org/aos/agrovoc/c_33654	Cercospora oryzae	PDO:0000050	Passalora janseana
+http://aims.fao.org/aos/agrovoc/c_33829	Pseudomonas fuscovaginae	PDO:0000025	Pseudomonas fuscovaginae
+http://aims.fao.org/aos/agrovoc/c_33831	Pseudomonas glumae	PDO:0000022	Burkholderia glumae
+http://aims.fao.org/aos/agrovoc/c_33858	Rhizoctonia solani	PDO:0000088	Rhizoctonia solani
+http://aims.fao.org/aos/agrovoc/c_34526	Colletotrichum graminicola	PDO:0000106	Colletotrichum graminicola
+http://aims.fao.org/aos/agrovoc/c_34568	Pyrenophora tritici repentis	PDO:0000115	Pyrenophora tritici-repentis
+http://aims.fao.org/aos/agrovoc/c_34700	Corticium rolfsii	PDO:0000114	Athelia rolfsii
+http://aims.fao.org/aos/agrovoc/c_3660	Hordeum	PDO:0000102	Hordeum
+http://aims.fao.org/aos/agrovoc/c_3662	Hordeum vulgare	PDO:0000103	Hordeum vulgare
+http://aims.fao.org/aos/agrovoc/c_5435	Oryza	PDO:0000097	Oryza
+http://aims.fao.org/aos/agrovoc/c_5438	Oryza sativa	PDO:0000098	Oryza sativa
+http://aims.fao.org/aos/agrovoc/c_5962	plant diseases	PDO:0000001	plant disease
+http://aims.fao.org/aos/agrovoc/c_6304	Pseudomonas	PDO:0000094	Pseudomonas
+http://aims.fao.org/aos/agrovoc/c_7950	Triticum	PDO:0000099	Triticum
+http://aims.fao.org/aos/agrovoc/c_7951	Triticum aestivum	PDO:0000116	Triticum_aestivum
+http://aims.fao.org/aos/agrovoc/c_8455	Xanthomonas	PDO:0000095	Xanthomonas
+http://aims.fao.org/aos/agrovoc/c_8504	Zea mays	PDO:0000101	Zea_mays

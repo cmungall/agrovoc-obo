@@ -1,0 +1,3414 @@
+format-version: 1.2
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_0e0e555b
+name: unclaimed lands
+def: "Unclaimed land is land for which there is no owner or claimant." []
+is_a: http://aims.fao.org/aos/agrovoc/c_16205  ! waste land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10081
+name: seed potatoes
+xref: http://cat.aii.caas.cn/concept/c_58501
+xref: http://d-nb.info/gnd/4174077-4
+is_a: http://aims.fao.org/aos/agrovoc/c_7004  ! sets
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1081
+name: breeds (animals)
+def: "A group of animals of a specific species which have been developed by people over a period of time so that they have desirable characteristics." []
+synonym: "animal breeds" RELATED []
+synonym: "breeds" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_34579
+xref: http://d-nb.info/gnd/4048440-3
+is_a: http://aims.fao.org/aos/agrovoc/c_37418  ! animal genetic resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6376 ! pure lines
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10981
+name: foreign workers
+xref: http://lod.gesis.org/thesoz/concept/10036060
+xref: http://zbw.eu/stw/descriptor/11268-3
+is_a: http://aims.fao.org/aos/agrovoc/c_4821  ! migrant labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11116
+name: gene banks
+synonym: "DNA sequence databanks" RELATED []
+synonym: "genebanks" RELATED []
+synonym: "genetic material banks" RELATED []
+synonym: "nucleotide sequence databanks " RELATED []
+synonym: "seed banks (genetics)" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6107
+xref: http://cat.aii.caas.cn/concept/c_21162
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/38810
+xref: http://lod.nal.usda.gov/nalt/7766
+xref: http://www.eionet.europa.eu/gemet/concept/3613
+is_a: http://aims.fao.org/aos/agrovoc/c_3218  ! genetic resources
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_3212 ! gene pools
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_36739 ! germplasm collections
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_24833 ! databases
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11788
+name: inputs
+xref: http://cat.aii.caas.cn/concept/c_45537
+xref: http://lod.gesis.org/thesoz/concept/10047569
+is_a: http://aims.fao.org/aos/agrovoc/c_9001017  ! resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1199
+name: calcium fertilizers
+xref: http://cat.aii.caas.cn/concept/c_13763
+xref: http://d-nb.info/gnd/4330448-5
+xref: http://lod.nal.usda.gov/nalt/21109
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_200 ! liming materials
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12212
+name: livestock breeds
+xref: http://cat.aii.caas.cn/concept/c_21792
+is_a: http://aims.fao.org/aos/agrovoc/c_1081  ! breeds (animals)
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13185
+name: pedigree livestock
+xref: http://cat.aii.caas.cn/concept/c_58508
+is_a: http://aims.fao.org/aos/agrovoc/c_1081  ! breeds (animals)
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_6491 ! registration
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13609
+name: property
+xref: http://cat.aii.caas.cn/concept/c_3674
+xref: http://d-nb.info/gnd/4006023-8
+xref: http://dewey.info/class/346.04/
+xref: http://lod.gesis.org/thesoz/concept/10038800
+xref: http://zbw.eu/stw/descriptor/10005-5
+is_a: http://aims.fao.org/aos/agrovoc/c_2476  ! economic resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1374841039020
+name: degraded forest land
+is_a: http://aims.fao.org/aos/agrovoc/c_24843  ! forest land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13767
+name: real estate
+xref: http://lod.gesis.org/thesoz/concept/10047074
+xref: http://zbw.eu/stw/descriptor/12029-2
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13929
+name: peatlands
+xref: http://d-nb.info/gnd/4201357-4
+xref: http://lod.nal.usda.gov/nalt/18404
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_5647 ! peat
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_5648 ! peat soils
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1415210059453
+name: community seed bank
+is_a: http://aims.fao.org/aos/agrovoc/c_11116  ! gene banks
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14931
+name: torrents
+xref: http://d-nb.info/gnd/4066092-8
+is_a: http://aims.fao.org/aos/agrovoc/c_25317  ! surface water
+is_a: http://aims.fao.org/aos/agrovoc/c_5834  ! physiographic features
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6617 ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15203
+name: vineyards
+xref: http://cat.aii.caas.cn/concept/c_35197
+xref: http://d-nb.info/gnd/4065141-1
+xref: http://lod.nal.usda.gov/nalt/5375
+is_a: http://aims.fao.org/aos/agrovoc/c_16212  ! cultivated land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1546
+name: child labour
+xref: http://d-nb.info/gnd/4128152-4
+xref: http://eurovoc.europa.eu/4552
+xref: http://zbw.eu/stw/descriptor/11201-0
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8490 ! young workers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16111
+name: planting stock
+synonym: "nursery plants" RELATED []
+synonym: "nursery stock" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_31343
+xref: http://d-nb.info/gnd/4130085-3
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16189
+name: leys
+synonym: "temporary pastures" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7270  ! sown pastures
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_6662 ! crop rotation
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_4303 ! ley farming
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16205
+name: waste land
+synonym: "wasteland" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_19735
+xref: http://id.loc.gov/authorities/sh85145420#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4931 ! moors
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16212
+name: cultivated land
+xref: http://cat.aii.caas.cn/concept/c_15105
+is_a: http://aims.fao.org/aos/agrovoc/c_2808  ! farmland
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_25194 ! irrigated land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16526
+name: bioenergy
+xref: http://cat.aii.caas.cn/concept/c_40588
+xref: http://d-nb.info/gnd/4145596-4
+xref: http://eurovoc.europa.eu/4892
+xref: http://lod.gesis.org/thesoz/concept/10086222
+xref: http://lod.nal.usda.gov/nalt/17247
+xref: http://zbw.eu/stw/descriptor/14171-3
+is_a: http://aims.fao.org/aos/agrovoc/c_25719  ! renewable energy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1693
+name: coal
+xref: http://aims.fao.org/aos/asfa/c_4595
+xref: http://aims.fao.org/aos/asfa/c_4813
+xref: http://d-nb.info/gnd/4031641-5
+xref: http://dewey.info/class/662.6/
+xref: http://eurovoc.europa.eu/5261
+xref: http://eurovoc.europa.eu/5386
+xref: http://lod.nal.usda.gov/nalt/27354
+xref: http://lod.nal.usda.gov/nalt/3913
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11941871n
+xref: http://www.eionet.europa.eu/gemet/concept/1160
+xref: http://www.eionet.europa.eu/gemet/concept/1500
+xref: http://zbw.eu/stw/descriptor/14200-1
+xref: http://zbw.eu/stw/descriptor/14608-4
+is_a: http://aims.fao.org/aos/agrovoc/c_4852  ! mineral resources
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_3136 ! fuels
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_3393 ! growing media
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1782
+name: common lands
+synonym: "commonages" RELATED []
+synonym: "commons" RELATED []
+synonym: "communal lands" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_15284
+xref: http://eurovoc.europa.eu/4876
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_6604 ! right of access
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_7669 ! tenure
+relationship: includes http://aims.fao.org/aos/agrovoc/c_15955 ! communal forests
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1795
+name: composts
+xref: http://cat.aii.caas.cn/concept/c_10484
+xref: http://d-nb.info/gnd/4032016-9
+is_a: http://aims.fao.org/aos/agrovoc/c_4592  ! organic fertilizers
+relationship: hasComposition http://aims.fao.org/aos/agrovoc/c_24064 ! plant litter
+relationship: hasComposition http://aims.fao.org/aos/agrovoc/c_4238 ! leaf mould
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_15956 ! composting
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1797
+name: compound fertilizers
+synonym: "binary fertilizers" RELATED []
+synonym: "blended fertilizers" RELATED []
+synonym: "mixed fertilizers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_13571
+xref: http://cat.aii.caas.cn/concept/c_13572
+xref: http://lod.nal.usda.gov/nalt/28395
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_18948
+name: arable land
+xref: http://d-nb.info/gnd/4141288-6
+xref: http://eurovoc.europa.eu/4448
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_568 ! arable soils
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2048
+name: cuttings
+xref: http://cat.aii.caas.cn/concept/c_35748
+xref: http://d-nb.info/gnd/4128388-0
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_27784 ! propagation by microcuttings
+relationship: hasPropagationProcess http://aims.fao.org/aos/agrovoc/c_4866 ! mist propagation
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6857 ! scions
+relationship: produces http://aims.fao.org/aos/agrovoc/c_7289 ! sphaeroblasts
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_22d01a32
+name: state property
+def: "State property is property owned by the state." []
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24053
+name: multipurpose breeds
+synonym: "dual purpose breeds" RELATED []
+xref: http://d-nb.info/gnd/4169340-1
+is_a: http://aims.fao.org/aos/agrovoc/c_1081  ! breeds (animals)
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4833 ! milk yielding animals
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7101 ! skin producing animals
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8438 ! wool producing animals
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_4670 ! meat animals
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_8446 ! working animals
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24056
+name: nonrenewable resources
+xref: http://aims.fao.org/aos/asfa/c_7481
+xref: http://cat.aii.caas.cn/concept/c_3553
+xref: http://lod.nal.usda.gov/nalt/54414
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24103
+name: wild animals
+synonym: "feral animals" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_53000
+xref: http://d-nb.info/gnd/4135893-4
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/25840
+xref: http://lod.nal.usda.gov/nalt/9150
+xref: http://www.eionet.europa.eu/gemet/concept/9310
+xref: http://zbw.eu/stw/descriptor/14170-5
+is_a: http://aims.fao.org/aos/agrovoc/c_444  ! animals
+is_a: http://aims.fao.org/aos/agrovoc/c_8389  ! wildlife
+relationship: includes http://aims.fao.org/aos/agrovoc/c_24916 ! Wild goats
+relationship: includes http://aims.fao.org/aos/agrovoc/c_36677 ! feral herds
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6244 ! Protected species
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24124
+name: wadi
+xref: http://d-nb.info/gnd/4188814-5
+is_a: http://aims.fao.org/aos/agrovoc/c_25317  ! surface water
+is_a: http://aims.fao.org/aos/agrovoc/c_5834  ! physiographic features
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24126
+name: wild plants
+xref: http://cat.aii.caas.cn/concept/c_53006
+xref: http://d-nb.info/gnd/4122416-4
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/32950
+xref: http://lod.nal.usda.gov/nalt/58692
+xref: http://www.eionet.europa.eu/gemet/concept/9323
+is_a: http://aims.fao.org/aos/agrovoc/c_5993  ! plants
+is_a: http://aims.fao.org/aos/agrovoc/c_8389  ! wildlife
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6244 ! Protected species
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24131
+name: Wild boar
+xref: http://cat.aii.caas.cn/concept/c_53043
+xref: http://d-nb.info/gnd/4066129-5
+is_a: http://aims.fao.org/aos/agrovoc/c_24103  ! wild animals
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_3182 ! game mammals
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24518
+name: stecklings
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2476
+name: economic resources
+xref: http://cat.aii.caas.cn/concept/c_23843
+xref: http://eurovoc.europa.eu/3533
+xref: http://lod.nal.usda.gov/nalt/35751
+is_a: http://aims.fao.org/aos/agrovoc/c_9001017  ! resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1271 ! capital
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3684 ! human resources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1134 ! budgets
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6207 ! production possibilities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24843
+name: forest land
+xref: http://cat.aii.caas.cn/concept/c_27525
+xref: http://cat.aii.caas.cn/concept/c_27582
+xref: http://d-nb.info/gnd/4297634-0
+xref: http://dewey.info/class/333.75/
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24887
+name: raw materials
+xref: http://aims.fao.org/aos/asfa/c_8250
+xref: http://cat.aii.caas.cn/concept/c_55833
+xref: http://d-nb.info/gnd/4436712-0
+xref: http://eurovoc.europa.eu/1839
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/51200
+xref: http://lod.gesis.org/thesoz/concept/10056692
+xref: http://lod.nal.usda.gov/nalt/627
+xref: http://www.eionet.europa.eu/gemet/concept/6967
+xref: http://zbw.eu/stw/descriptor/14047-4
+is_a: http://aims.fao.org/aos/agrovoc/c_9001017  ! resources
+relationship: isDerivedFrom http://aims.fao.org/aos/agrovoc/c_5091 ! natural resources
+relationship: produces http://aims.fao.org/aos/agrovoc/c_6211 ! products
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24975
+name: biofertilizers
+xref: http://lod.nal.usda.gov/nalt/69901
+is_a: http://aims.fao.org/aos/agrovoc/c_4592  ! organic fertilizers
+relationship: controls http://aims.fao.org/aos/agrovoc/c_4238 ! leaf mould
+relationship: hasComposition http://aims.fao.org/aos/agrovoc/c_27939 ! nitrogen fixing bacteria
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25025
+name: liquid fuels
+is_a: http://aims.fao.org/aos/agrovoc/c_3136  ! fuels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25082
+name: solid fuels
+is_a: http://aims.fao.org/aos/agrovoc/c_3136  ! fuels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25194
+name: irrigated land
+xref: http://cat.aii.caas.cn/concept/c_15968
+xref: http://cat.aii.caas.cn/concept/c_15969
+is_a: http://aims.fao.org/aos/agrovoc/c_2808  ! farmland
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_3954 ! irrigation
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3953 ! irrigated soils
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25278
+name: forest workers
+xref: http://d-nb.info/gnd/4117578-5
+is_a: http://aims.fao.org/aos/agrovoc/c_8445  ! workers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25317
+name: surface water
+xref: http://aims.fao.org/aos/asfa/c_9198
+xref: http://eurovoc.europa.eu/610
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/10780
+xref: http://lod.nal.usda.gov/nalt/38228
+xref: http://www.eionet.europa.eu/gemet/concept/8229
+is_a: http://aims.fao.org/aos/agrovoc/c_37897  ! land cover
+is_a: http://aims.fao.org/aos/agrovoc/c_8325  ! water resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8309 ! water
+relationship: influences http://aims.fao.org/aos/agrovoc/c_25305 ! water harvesting
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25560
+name: aquifers
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/21000
+xref: http://lod.nal.usda.gov/nalt/11568
+xref: http://www.eionet.europa.eu/gemet/concept/518
+is_a: http://aims.fao.org/aos/agrovoc/c_8325  ! water resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25612
+name: hydroelectric power
+xref: http://aims.fao.org/aos/asfa/c_6468
+xref: http://eurovoc.europa.eu/751
+xref: http://lod.nal.usda.gov/nalt/31694
+is_a: http://aims.fao.org/aos/agrovoc/c_28005  ! electrical energy
+is_a: http://aims.fao.org/aos/agrovoc/c_8322  ! water power
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2570
+name: energy sources
+synonym: "power" RELATED []
+xref: http://d-nb.info/gnd/4014720-4
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/48990
+xref: http://www.eionet.europa.eu/gemet/concept/2741
+xref: http://zbw.eu/stw/descriptor/14176-0
+is_a: http://aims.fao.org/aos/agrovoc/c_9001017  ! resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_15583 ! fuel crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25712
+name: liquid gas fertilizers
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25719
+name: renewable energy
+synonym: "alternative energy" RELATED []
+xref: http://eurovoc.europa.eu/754
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/65880
+xref: http://lod.gesis.org/thesoz/concept/10035290
+xref: http://zbw.eu/stw/descriptor/18024-3
+is_a: http://aims.fao.org/aos/agrovoc/c_2565  ! energy
+is_a: http://aims.fao.org/aos/agrovoc/c_6502  ! renewable resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26787
+name: high yielding breeds
+is_a: http://aims.fao.org/aos/agrovoc/c_1081  ! breeds (animals)
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26807
+name: producer gas
+is_a: http://aims.fao.org/aos/agrovoc/c_3136  ! fuels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27453
+name: artificial seeds
+synonym: "synthetic seeds" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_37581
+xref: http://d-nb.info/gnd/4377221-3
+xref: http://lod.nal.usda.gov/nalt/12613
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+relationship: hasPropagationProcess http://aims.fao.org/aos/agrovoc/c_15952 ! cloning
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_27607 ! somatic embryos
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27465
+name: biofuels
+synonym: "biomass fuels" RELATED []
+xref: http://d-nb.info/gnd/4145658-0
+xref: http://lod.nal.usda.gov/nalt/17321
+xref: http://zbw.eu/stw/descriptor/18009-6
+is_a: http://aims.fao.org/aos/agrovoc/c_16526  ! bioenergy
+is_a: http://aims.fao.org/aos/agrovoc/c_3136  ! fuels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27626
+name: vitroplants
+synonym: "in vitro plantlets" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27870
+name: inorganic fertilizers
+synonym: "mineral fertilizers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_47607
+xref: http://cat.aii.caas.cn/concept/c_47608
+xref: http://d-nb.info/gnd/4170023-5
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2788
+name: family labour
+xref: http://d-nb.info/gnd/4409335-4
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27894
+name: fertilizer pesticide combinations
+is_a: http://aims.fao.org/aos/agrovoc/c_2864  ! fertilizer combinations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27896
+name: fish manure
+xref: http://cat.aii.caas.cn/concept/c_55196
+is_a: http://aims.fao.org/aos/agrovoc/c_4592  ! organic fertilizers
+relationship: isDerivedFrom http://aims.fao.org/aos/agrovoc/c_2933 ! fish wastes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27904
+name: magnesium fertilizers
+xref: http://cat.aii.caas.cn/concept/c_30710
+xref: http://lod.nal.usda.gov/nalt/34339
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27917
+name: sulphur fertilizers
+synonym: "sulfur fertilizers" RELATED []
+xref: http://d-nb.info/gnd/4459790-3
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27970
+name: dwarf varieties
+synonym: "dwarf cultivars" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_199
+xref: http://cat.aii.caas.cn/concept/c_230
+is_a: http://aims.fao.org/aos/agrovoc/c_8157  ! varieties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2798
+name: farm inputs
+synonym: "agricultural inputs" RELATED []
+xref: http://d-nb.info/gnd/4175804-3
+xref: http://lod.nal.usda.gov/nalt/5407
+is_a: http://aims.fao.org/aos/agrovoc/c_11788  ! inputs
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_1271 ! capital
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_3136 ! fuels
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_3566 ! herbicides
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_4128 ! labour
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_5739 ! pesticides
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2843 ! feeds
+relationship: influences http://aims.fao.org/aos/agrovoc/c_10743 ! farm buildings
+relationship: influences http://aims.fao.org/aos/agrovoc/c_33560 ! sustainability
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34370 ! low input agriculture
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28001
+name: agricultural resources
+xref: http://cat.aii.caas.cn/concept/c_33720
+xref: http://cat.aii.caas.cn/concept/c_33740
+xref: http://lod.nal.usda.gov/nalt/5467
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_440 ! animal resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_7187 ! soil resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8325 ! water resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3050 ! forest resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4179 ! land resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5979 ! plant resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28006
+name: energy resources
+xref: http://aims.fao.org/aos/asfa/c_5572
+xref: http://eurovoc.europa.eu/3538
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/35830
+xref: http://lod.nal.usda.gov/nalt/36169
+xref: http://www.eionet.europa.eu/gemet/concept/2738
+xref: http://zbw.eu/stw/descriptor/11813-4
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16121 ! energy consumption
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28008
+name: forest range
+is_a: http://aims.fao.org/aos/agrovoc/c_6448  ! rangelands
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28012
+name: marine resources
+xref: http://aims.fao.org/aos/asfa/c_7117
+xref: http://lod.nal.usda.gov/nalt/133003
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2808
+name: farmland
+synonym: "agricultural land" RELATED []
+synonym: "cropland" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33429
+xref: http://cat.aii.caas.cn/concept/c_44824
+xref: http://d-nb.info/gnd/4034421-6
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_18948 ! arable land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28123
+name: production forests
+synonym: "commercial forests" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_23783
+xref: http://d-nb.info/gnd/4113600-7
+is_a: http://aims.fao.org/aos/agrovoc/c_3050  ! forest resources
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_3049 ! forest products
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_24843 ! forest land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28126
+name: protected forests
+synonym: "reserved forests" RELATED []
+xref: http://d-nb.info/gnd/4200595-4
+is_a: http://aims.fao.org/aos/agrovoc/c_3050  ! forest resources
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_5092 ! nature conservation
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28136 ! forest reserves
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28127
+name: protective forests
+synonym: "protection forests" RELATED []
+synonym: "shelterwood ban forests" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_11897
+xref: http://cat.aii.caas.cn/concept/c_11898
+xref: http://d-nb.info/gnd/4053659-2
+is_a: http://aims.fao.org/aos/agrovoc/c_3050  ! forest resources
+relationship: controls http://aims.fao.org/aos/agrovoc/c_34821 ! environmental degradation
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_15898 ! environmental protection
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_2652 ! erosion control
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_7171 ! soil stabilization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2852
+name: female labour
+xref: http://d-nb.info/gnd/4018210-1
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8420 ! women
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2864
+name: fertilizer combinations
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_3566 ! herbicides
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_5739 ! pesticides
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2867
+name: fertilizers
+synonym: "fertilisers" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5769
+xref: http://cat.aii.caas.cn/concept/c_12262
+xref: http://cat.aii.caas.cn/concept/c_19337
+xref: http://d-nb.info/gnd/4131714-2
+xref: http://lod.nal.usda.gov/nalt/5568
+xref: http://zbw.eu/stw/descriptor/13427-6
+is_a: http://aims.fao.org/aos/agrovoc/c_2798  ! farm inputs
+relationship: causes http://aims.fao.org/aos/agrovoc/c_10797 ! fertilizer injury
+relationship: causes http://aims.fao.org/aos/agrovoc/c_7183 ! soil pollution
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_24975 ! biofertilizers
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_3008 ! foliar application
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_6936 ! seed pelleting
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28689
+name: factory workers
+synonym: "industrial workers" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_8445  ! workers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28742
+name: peasant workers
+xref: http://d-nb.info/gnd/4171369-2
+is_a: http://aims.fao.org/aos/agrovoc/c_8445  ! workers
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_5596 ! part time farming
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_5323 ! off farm employment
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28811
+name: full time workers
+xref: http://cat.aii.caas.cn/concept/c_57254
+is_a: http://aims.fao.org/aos/agrovoc/c_8445  ! workers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28841
+name: bonded work
+xref: http://eurovoc.europa.eu/3884
+is_a: http://aims.fao.org/aos/agrovoc/c_28847  ! compulsory labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28847
+name: compulsory labour
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1820 ! constraints
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2894
+name: fields
+synonym: "plots" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5775
+xref: http://d-nb.info/gnd/4153899-7
+xref: http://lod.nal.usda.gov/nalt/5371
+is_a: http://aims.fao.org/aos/agrovoc/c_16212  ! cultivated land
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5626 ! pastures
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2929
+name: fish ponds
+xref: http://aims.fao.org/aos/asfa/c_5825
+xref: http://cat.aii.caas.cn/concept/c_55189
+xref: http://d-nb.info/gnd/4205630-5
+xref: http://lod.nal.usda.gov/nalt/6352
+is_a: http://aims.fao.org/aos/agrovoc/c_6105  ! ponds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2942
+name: fishery resources
+xref: http://aims.fao.org/aos/asfa/c_5860
+xref: http://cat.aii.caas.cn/concept/c_42344
+xref: http://cat.aii.caas.cn/concept/c_55298
+xref: http://eurovoc.europa.eu/3544
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/30760
+xref: http://lod.nal.usda.gov/nalt/133002
+xref: http://www.eionet.europa.eu/gemet/concept/3241
+xref: http://zbw.eu/stw/descriptor/18343-1
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8325 ! water resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29699
+name: Caspian Sea
+xref: http://cat.aii.caas.cn/concept/c_26824
+xref: http://eurovoc.europa.eu/5735
+xref: http://lod.nal.usda.gov/nalt/105783
+xref: http://www.eionet.europa.eu/gemet/concept/14843
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29700
+name: Great Lakes
+xref: http://lod.nal.usda.gov/nalt/648
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29701
+name: Lake Albert
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29702
+name: Lake Chad
+xref: http://cat.aii.caas.cn/concept/c_56754
+xref: http://lod.nal.usda.gov/nalt/105787
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29703
+name: Lake Constance
+xref: http://lod.nal.usda.gov/nalt/105792
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29704
+name: Lake Edward
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29705
+name: Lake Erie
+xref: http://lod.nal.usda.gov/nalt/43796
+is_a: http://aims.fao.org/aos/agrovoc/c_29700  ! Great Lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29706
+name: Lake Geneva
+synonym: "Lake Leman" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_37823
+xref: http://lod.nal.usda.gov/nalt/105791
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29707
+name: Lake Huron
+xref: http://lod.nal.usda.gov/nalt/43797
+is_a: http://aims.fao.org/aos/agrovoc/c_29700  ! Great Lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29708
+name: Lake Kariba
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29709
+name: Lake Kivu
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29711
+name: Lake Lugano
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29712
+name: Lake Maggiore
+xref: http://lod.nal.usda.gov/nalt/105790
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29713
+name: Lake Michigan
+xref: http://lod.nal.usda.gov/nalt/43798
+is_a: http://aims.fao.org/aos/agrovoc/c_29700  ! Great Lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29714
+name: Lake Mweru
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29715
+name: Lake Nyasa
+synonym: "Lake Malawi" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_32650
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29717
+name: Neusiedler Lake
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29718
+name: Lake Ontario
+xref: http://lod.nal.usda.gov/nalt/43799
+is_a: http://aims.fao.org/aos/agrovoc/c_29700  ! Great Lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29719
+name: Lake Turkana
+synonym: "Lake Rudolf" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29721
+name: Lake Scutari
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29722
+name: Lake St Clair
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29723
+name: Lake Superior
+xref: http://lod.nal.usda.gov/nalt/43800
+is_a: http://aims.fao.org/aos/agrovoc/c_29700  ! Great Lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29724
+name: Lake Tanganyika
+xref: http://cat.aii.caas.cn/concept/c_44123
+xref: http://lod.nal.usda.gov/nalt/105785
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+relationship: surroundedBy http://aims.fao.org/aos/agrovoc/c_1159 ! Burundi
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29725
+name: Lake Titicaca
+xref: http://cat.aii.caas.cn/concept/c_8713
+xref: http://lod.nal.usda.gov/nalt/105788
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29726
+name: Lake Victoria
+xref: http://cat.aii.caas.cn/concept/c_46898
+xref: http://lod.nal.usda.gov/nalt/105784
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29727
+name: Amazon River
+xref: http://cat.aii.caas.cn/concept/c_51737
+xref: http://lod.nal.usda.gov/nalt/105800
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29728
+name: Blue Nile River
+is_a: http://aims.fao.org/aos/agrovoc/c_29739  ! Nile River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29729
+name: Danube River
+xref: http://cat.aii.caas.cn/concept/c_10752
+xref: http://id.loc.gov/authorities/sh85035769#concept
+xref: http://lod.nal.usda.gov/nalt/105925
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29730
+name: Elbe River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29731
+name: Euphrates River
+xref: http://cat.aii.caas.cn/concept/c_55071
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29732
+name: Ganges River
+xref: http://cat.aii.caas.cn/concept/c_18032
+xref: http://lod.nal.usda.gov/nalt/105927
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29733
+name: Jordan River
+xref: http://eurovoc.europa.eu/1532
+xref: http://lod.gesis.org/thesoz/concept/10035866
+xref: http://lod.nal.usda.gov/nalt/44688
+xref: http://sws.geonames.org/248816/
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29734
+name: Mekong River
+xref: http://cat.aii.caas.cn/concept/c_30524
+xref: http://lod.nal.usda.gov/nalt/105930
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29735
+name: Meuse River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29736
+name: Mosel River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29737
+name: Muonio River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29738
+name: Niagara River
+xref: http://lod.nal.usda.gov/nalt/105794
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29739
+name: Nile River
+xref: http://cat.aii.caas.cn/concept/c_32642
+xref: http://lod.nal.usda.gov/nalt/105799
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29740
+name: Niger River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29741
+name: Oder River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29742
+name: Parana River
+xref: http://lod.nal.usda.gov/nalt/105924
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29743
+name: Rhine River
+xref: http://cat.aii.caas.cn/concept/c_26060
+xref: http://lod.nal.usda.gov/nalt/105933
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29744
+name: Rhone River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29745
+name: St Lawrence River
+synonym: "Saint Lawrence River" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_40746
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29746
+name: Senegal River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29747
+name: Tigris River
+xref: http://cat.aii.caas.cn/concept/c_8942
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29748
+name: Uruguay River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29749
+name: Yukon River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29751
+name: Congo River
+xref: http://id.loc.gov/authorities/sh85031104#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29752
+name: Zambezi River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2f114c12
+name: personal property
+def: "Personal property is a moveable good belonging to somebody." []
+is_a: http://aims.fao.org/aos/agrovoc/c_9000082  ! individual land property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3026
+name: food resources
+xref: http://aims.fao.org/aos/asfa/c_5964
+xref: http://eurovoc.europa.eu/465
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3017 ! food crops
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3028 ! food stocks
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5979 ! plant resources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_10967 ! food security
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3029 ! food supply
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_16489 ! food rationing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3050
+name: forest resources
+xref: http://cat.aii.caas.cn/concept/c_27623
+xref: http://cat.aii.caas.cn/concept/c_39182
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/15000
+xref: http://lod.nal.usda.gov/nalt/41177
+xref: http://www.eionet.europa.eu/gemet/concept/3438
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_24843 ! forest land
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8325 ! water resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3048 ! forest plantations
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4179 ! land resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5979 ! plant resources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_440 ! animal resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3136
+name: fuels
+xref: http://aims.fao.org/aos/asfa/c_6052
+xref: http://lod.nal.usda.gov/nalt/17362
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119763148
+is_a: http://aims.fao.org/aos/agrovoc/c_28006  ! energy resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3137
+name: fuelwood
+synonym: "firewood" RELATED []
+xref: http://d-nb.info/gnd/4008182-5
+xref: http://lod.nal.usda.gov/nalt/17336
+xref: http://zbw.eu/stw/descriptor/18203-3
+is_a: http://aims.fao.org/aos/agrovoc/c_27465  ! biofuels
+is_a: http://aims.fao.org/aos/agrovoc/c_8421  ! wood
+relationship: produces http://aims.fao.org/aos/agrovoc/c_1503 ! charcoal
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3179
+name: game
+synonym: "hunted animals" RELATED []
+xref: http://d-nb.info/gnd/4066089-8
+is_a: http://aims.fao.org/aos/agrovoc/c_24103  ! wild animals
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_29108 ! useful animals
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_24130 ! restocking
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3180
+name: game birds
+xref: http://d-nb.info/gnd/4016599-1
+xref: http://lod.nal.usda.gov/nalt/17601
+is_a: http://aims.fao.org/aos/agrovoc/c_3179  ! game
+is_a: http://aims.fao.org/aos/agrovoc/c_935  ! birds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3181
+name: game fishes
+xref: http://aims.fao.org/aos/asfa/c_6066
+xref: http://lod.nal.usda.gov/nalt/70030
+is_a: http://aims.fao.org/aos/agrovoc/c_3179  ! game
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3182
+name: game mammals
+synonym: "big game" RELATED []
+xref: http://d-nb.info/gnd/4158645-1
+is_a: http://aims.fao.org/aos/agrovoc/c_3179  ! game
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3212
+name: gene pools
+xref: http://aims.fao.org/aos/asfa/c_6109
+is_a: http://aims.fao.org/aos/agrovoc/c_3218  ! genetic resources
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_33949 ! biodiversity
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_3249 ! germplasm
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3218
+name: genetic resources
+xref: http://cat.aii.caas.cn/concept/c_53501
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/32460
+xref: http://lod.nal.usda.gov/nalt/9219
+xref: http://www.eionet.europa.eu/gemet/concept/3632
+is_a: http://aims.fao.org/aos/agrovoc/c_92341  ! biological resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_424 ! animal collections
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_5957 ! plant collections
+relationship: includes http://aims.fao.org/aos/agrovoc/c_15733 ! new species
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28001 ! agricultural resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2942 ! fishery resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3050 ! forest resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_33952 ! genetic diversity as resource
+relationship: includes http://aims.fao.org/aos/agrovoc/c_440 ! animal resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5979 ! plant resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3238
+name: geothermal energy
+xref: http://aims.fao.org/aos/asfa/c_6172
+xref: http://cat.aii.caas.cn/concept/c_9110
+xref: http://d-nb.info/gnd/4020286-0
+xref: http://eurovoc.europa.eu/749
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/16830
+xref: http://lod.nal.usda.gov/nalt/42803
+xref: http://www.eionet.europa.eu/gemet/concept/3658
+xref: http://zbw.eu/stw/descriptor/14180-2
+is_a: http://aims.fao.org/aos/agrovoc/c_25719  ! renewable energy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32489
+name: lignite
+xref: http://eurovoc.europa.eu/1656
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/53330
+xref: http://lod.nal.usda.gov/nalt/27356
+xref: http://www.eionet.europa.eu/gemet/concept/4818
+xref: http://zbw.eu/stw/descriptor/14194-5
+is_a: http://aims.fao.org/aos/agrovoc/c_4852  ! mineral resources
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_27871 ! inorganic amendments
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_3136 ! fuels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3249
+name: germplasm
+synonym: "genetic material" RELATED []
+synonym: "germplasm resources" RELATED []
+xref: http://d-nb.info/gnd/4373804-7
+xref: http://lod.nal.usda.gov/nalt/42649
+is_a: http://aims.fao.org/aos/agrovoc/c_3218  ! genetic resources
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_33949 ! biodiversity
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3185 ! gametes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32624
+name: videorecorders
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11932394z
+is_a: http://aims.fao.org/aos/agrovoc/c_709  ! audiovisual aids
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32886
+name: land varieties
+synonym: "autochthonous varieties" RELATED []
+synonym: "endemic varieties" RELATED []
+synonym: "indigenous varieties" RELATED []
+synonym: "plant land races" RELATED []
+synonym: "primitive cultivars" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33397
+xref: http://cat.aii.caas.cn/concept/c_8986
+xref: http://d-nb.info/gnd/4416055-0
+is_a: http://aims.fao.org/aos/agrovoc/c_8157  ! varieties
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_16022 ! provenance
+relationship: includes http://aims.fao.org/aos/agrovoc/c_35386 ! autochthonous crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32892
+name: introduced breeds
+synonym: "exotic breeds" RELATED []
+synonym: "imported breeds" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_1081  ! breeds (animals)
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4177 ! land races
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32896
+name: introduced varieties
+synonym: "exotic varieties" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_23603
+xref: http://cat.aii.caas.cn/concept/c_54147
+xref: http://cat.aii.caas.cn/concept/c_54151
+is_a: http://aims.fao.org/aos/agrovoc/c_8157  ! varieties
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_5971 ! plant introduction
+relationship: influences http://aims.fao.org/aos/agrovoc/c_32886 ! land varieties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32928
+name: multipurpose varieties
+is_a: http://aims.fao.org/aos/agrovoc/c_8157  ! varieties
+relationship: includes http://aims.fao.org/aos/agrovoc/c_33512 ! multipurpose trees
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330055
+name: Rio Dulce River
+is_a: http://aims.fao.org/aos/agrovoc/c_50092  ! Central American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330593
+name: area specific variety
+is_a: http://aims.fao.org/aos/agrovoc/c_32886  ! land varieties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330594
+name: alkaline area variety
+is_a: http://aims.fao.org/aos/agrovoc/c_330593  ! area specific variety
+relationship: growsln http://aims.fao.org/aos/agrovoc/c_268 ! alkaline soils
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330776
+name: hilly area variety
+is_a: http://aims.fao.org/aos/agrovoc/c_330593  ! area specific variety
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330790
+name: irrigated areas variety
+is_a: http://aims.fao.org/aos/agrovoc/c_330593  ! area specific variety
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330872
+name: resistance varieties
+is_a: http://aims.fao.org/aos/agrovoc/c_8157  ! varieties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330978
+name: educational resources
+xref: http://lod.nal.usda.gov/nalt/35873
+is_a: http://aims.fao.org/aos/agrovoc/c_9001017  ! resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331544
+name: foundation seed
+is_a: http://aims.fao.org/aos/agrovoc/c_6927  ! seed
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331545
+name: certified seed
+is_a: http://aims.fao.org/aos/agrovoc/c_6927  ! seed
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331594
+name: forest genetic resources
+is_a: http://aims.fao.org/aos/agrovoc/c_3218  ! genetic resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33458
+name: breeders seed
+is_a: http://aims.fao.org/aos/agrovoc/c_6927  ! seed
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33497
+name: Gambia River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33543
+name: seedless varieties
+xref: http://lod.nal.usda.gov/nalt/58538
+is_a: http://aims.fao.org/aos/agrovoc/c_8157  ! varieties
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_33546 ! seedlessness
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3369
+name: grazing lands
+xref: http://lod.nal.usda.gov/nalt/132634
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3366 ! grasslands
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3375
+name: green manures
+xref: http://cat.aii.caas.cn/concept/c_28703
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/24120
+xref: http://lod.nal.usda.gov/nalt/28617
+xref: http://www.eionet.europa.eu/gemet/concept/3766
+is_a: http://aims.fao.org/aos/agrovoc/c_4592  ! organic fertilizers
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_8251 ! Vigna vexillata
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33949
+name: biodiversity
+synonym: "biological diversity" RELATED []
+synonym: "ecosystem diversity" RELATED []
+synonym: "species diversity" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_4316
+xref: http://eurovoc.europa.eu/5463
+xref: http://lod.gesis.org/thesoz/concept/10065031
+xref: http://lod.nal.usda.gov/nalt/5559
+xref: http://www.eionet.europa.eu/gemet/concept/827
+xref: http://zbw.eu/stw/descriptor/19625-0
+is_a: http://aims.fao.org/aos/agrovoc/c_92341  ! biological resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_7280 ! species
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2482 ! ecosystems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33952
+name: genetic diversity as resource
+is_a: http://aims.fao.org/aos/agrovoc/c_33949  ! biodiversity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34007
+name: fallow
+xref: http://cat.aii.caas.cn/concept/c_50845
+xref: http://d-nb.info/gnd/4007908-9
+xref: http://eurovoc.europa.eu/1521
+xref: http://lod.nal.usda.gov/nalt/30185
+is_a: http://aims.fao.org/aos/agrovoc/c_2808  ! farmland
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2784 ! fallow systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34008
+name: green fallow
+is_a: http://aims.fao.org/aos/agrovoc/c_34007  ! fallow
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34009
+name: bare fallow
+is_a: http://aims.fao.org/aos/agrovoc/c_34007  ! fallow
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3414
+name: guano
+xref: http://aims.fao.org/aos/asfa/c_6290
+xref: http://cat.aii.caas.cn/concept/c_16810
+xref: http://cat.aii.caas.cn/concept/c_16811
+xref: http://cat.aii.caas.cn/concept/c_16812
+xref: http://cat.aii.caas.cn/concept/c_32935
+xref: http://cat.aii.caas.cn/concept/c_32936
+xref: http://d-nb.info/gnd/4158493-4
+is_a: http://aims.fao.org/aos/agrovoc/c_4592  ! organic fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3432
+name: Gulf of Aden
+xref: http://cat.aii.caas.cn/concept/c_51635
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_8365  ! Western Indian Ocean
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3433
+name: Gulf of Alaska
+xref: http://cat.aii.caas.cn/concept/c_72
+xref: http://lod.nal.usda.gov/nalt/105776
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_5228  ! Northeast Pacific
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_240 ! Alaska
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3434
+name: Gulf of Bothnia
+xref: http://cat.aii.caas.cn/concept/c_3231
+xref: http://lod.nal.usda.gov/nalt/105758
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_800  ! Baltic Sea
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3435
+name: Gulf of Finland
+xref: http://cat.aii.caas.cn/concept/c_12620
+xref: http://lod.nal.usda.gov/nalt/105759
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_800  ! Baltic Sea
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3436
+name: Gulf of Mexico
+xref: http://cat.aii.caas.cn/concept/c_31747
+xref: http://lod.nal.usda.gov/nalt/649
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_8362  ! Western Central Atlantic
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34813
+name: diesel oil
+is_a: http://aims.fao.org/aos/agrovoc/c_3136  ! fuels
+is_a: http://aims.fao.org/aos/agrovoc/c_5747  ! petroleum
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34891
+name: rice fields
+xref: http://aims.fao.org/aos/asfa/c_8371
+xref: http://cat.aii.caas.cn/concept/c_8569
+xref: http://cat.aii.caas.cn/concept/c_8586
+xref: http://d-nb.info/gnd/4332653-5
+is_a: http://aims.fao.org/aos/agrovoc/c_2894  ! fields
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_13936 ! ricefield aquaculture
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_5498 ! paddy soil
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35013
+name: biodiesel
+xref: http://lod.nal.usda.gov/nalt/67732
+is_a: http://aims.fao.org/aos/agrovoc/c_27465  ! biofuels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35106
+name: feed resources
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2829 ! feed crops
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5979 ! plant resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35755
+name: microcuttings
+is_a: http://aims.fao.org/aos/agrovoc/c_2048  ! cuttings
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3612
+name: high yielding varieties
+xref: http://cat.aii.caas.cn/concept/c_14568
+xref: http://lod.nal.usda.gov/nalt/30659
+is_a: http://aims.fao.org/aos/agrovoc/c_8157  ! varieties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3627
+name: hired labour
+xref: http://cat.aii.caas.cn/concept/c_57599
+xref: http://d-nb.info/gnd/4036230-9
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36416
+name: dwarf breeds (animals)
+is_a: http://aims.fao.org/aos/agrovoc/c_1081  ! breeds (animals)
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36418
+name: dwarfing rootstocks
+xref: http://cat.aii.caas.cn/concept/c_205
+xref: http://cat.aii.caas.cn/concept/c_207
+xref: http://cat.aii.caas.cn/concept/c_238
+is_a: http://aims.fao.org/aos/agrovoc/c_6653  ! rootstocks
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_2421 ! dwarfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3684
+name: human resources
+xref: http://aims.fao.org/aos/asfa/c_6441
+xref: http://cat.aii.caas.cn/concept/c_26238
+xref: http://lod.gesis.org/thesoz/concept/10054400
+xref: http://lod.nal.usda.gov/nalt/36911
+xref: http://zbw.eu/stw/descriptor/12314-3
+is_a: http://aims.fao.org/aos/agrovoc/c_9001017  ! resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36873
+name: state land
+is_a: http://aims.fao.org/aos/agrovoc/c_4172  ! land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37197
+name: ammonium fertilizers
+xref: http://cat.aii.caas.cn/concept/c_453
+xref: http://cat.aii.caas.cn/concept/c_478
+xref: http://lod.nal.usda.gov/nalt/7963
+is_a: http://aims.fao.org/aos/agrovoc/c_5195  ! nitrogen fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37418
+name: animal genetic resources
+xref: http://lod.nal.usda.gov/nalt/9218
+is_a: http://aims.fao.org/aos/agrovoc/c_3218  ! genetic resources
+relationship: benefitsFrom http://aims.fao.org/aos/agrovoc/c_24116 ! animal introduction
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37419
+name: plant genetic resources
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/192220
+xref: http://lod.nal.usda.gov/nalt/42651
+is_a: http://aims.fao.org/aos/agrovoc/c_3218  ! genetic resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37469
+name: nitrate fertilizers
+xref: http://cat.aii.caas.cn/concept/c_49640
+xref: http://lod.nal.usda.gov/nalt/7973
+is_a: http://aims.fao.org/aos/agrovoc/c_5195  ! nitrogen fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37916
+name: wood energy
+synonym: "dendroenergy" RELATED []
+synonym: "forest energy" RELATED []
+synonym: "wood-based energy" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_16526  ! bioenergy
+relationship: isDerivedFrom http://aims.fao.org/aos/agrovoc/c_3137 ! fuelwood
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37966
+name: cultural heritage
+xref: http://eurovoc.europa.eu/2278
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/104250
+xref: http://lod.gesis.org/thesoz/concept/10050242
+xref: http://lod.nal.usda.gov/nalt/2174
+xref: http://www.eionet.europa.eu/gemet/concept/1912
+is_a: http://aims.fao.org/aos/agrovoc/c_9001017  ! resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_35704 ! indigenous knowledge
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37967
+name: natural heritage
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/12830
+xref: http://www.eionet.europa.eu/gemet/concept/5507
+is_a: http://aims.fao.org/aos/agrovoc/c_33949  ! biodiversity
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_16141 ! nature reserves
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37977
+name: agrobiodiversity
+is_a: http://aims.fao.org/aos/agrovoc/c_33949  ! biodiversity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3922
+name: interstocks
+xref: http://cat.aii.caas.cn/concept/c_58251
+xref: http://cat.aii.caas.cn/concept/c_58252
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_6857 ! scions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4128
+name: labour
+synonym: "labor" RELATED []
+synonym: "work (labour)" RELATED []
+xref: http://d-nb.info/gnd/4002567-6
+xref: http://lod.gesis.org/thesoz/concept/10035425
+is_a: http://aims.fao.org/aos/agrovoc/c_4590  ! manpower
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4160
+name: lakes
+synonym: "open water" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6823
+xref: http://cat.aii.caas.cn/concept/c_18803
+xref: http://d-nb.info/gnd/4054084-4
+xref: http://lod.nal.usda.gov/nalt/48975
+is_a: http://aims.fao.org/aos/agrovoc/c_25317  ! surface water
+is_a: http://aims.fao.org/aos/agrovoc/c_3876  ! inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4172
+name: land
+xref: http://cat.aii.caas.cn/concept/c_45692
+xref: http://d-nb.info/gnd/4166521-1
+xref: http://dewey.info/class/333.73/
+xref: http://lod.gesis.org/thesoz/concept/10039664
+xref: http://lod.nal.usda.gov/nalt/1580
+xref: http://zbw.eu/stw/descriptor/12015-6
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4177
+name: land races
+synonym: "autochthonous breeds" RELATED []
+synonym: "endemic breeds" RELATED []
+synonym: "indigenous breeds" RELATED []
+synonym: "land breeds" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_1081  ! breeds (animals)
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_27505 ! Ecotypes
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_16022 ! provenance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4179
+name: land resources
+xref: http://aims.fao.org/aos/asfa/c_8247
+xref: http://cat.aii.caas.cn/concept/c_45764
+xref: http://lod.nal.usda.gov/nalt/28597
+is_a: http://aims.fao.org/aos/agrovoc/c_24056  ! nonrenewable resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_33934 ! agricultural soils
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7187 ! soil resources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_15991 ! land classification
+relationship: influences http://aims.fao.org/aos/agrovoc/c_15992 ! land suitability
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36776 ! land evaluation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37897 ! land cover
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37899 ! land use planning
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4182 ! land use
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_41b77c02
+name: communal territory
+def: "The concept of communal territory is principally related to agrarian economies based on peasant agriculture where there has been a strong identification of the land within a commune's area with the peasants of the commune working that land." []
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4372
+name: liquid fertilizers
+synonym: "fertilizer solutions" RELATED []
+synonym: "suspension fertilizers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_53211
+xref: http://d-nb.info/gnd/4242770-8
+xref: http://lod.nal.usda.gov/nalt/39959
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_440
+name: animal resources
+xref: http://cat.aii.caas.cn/concept/c_10006
+xref: http://eurovoc.europa.eu/3528
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/60270
+xref: http://www.eionet.europa.eu/gemet/concept/445
+is_a: http://aims.fao.org/aos/agrovoc/c_92341  ! biological resources
+relationship: benefitsFrom http://aims.fao.org/aos/agrovoc/c_24116 ! animal introduction
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_435 ! animal population
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2942 ! fishery resources
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_3026 ! food resources
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_35106 ! feed resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4538
+name: male labour
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_4733 ! men
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4590
+name: manpower
+synonym: "labour force" RELATED []
+synonym: "work force" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_37596
+xref: http://d-nb.info/gnd/4002623-1
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/104400
+xref: http://lod.gesis.org/thesoz/concept/10036282
+xref: http://www.eionet.europa.eu/gemet/concept/5004
+is_a: http://aims.fao.org/aos/agrovoc/c_3684  ! human resources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28713 ! labour market
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28715 ! labour requirements
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28841 ! bonded work
+relationship: isPartOf http://aims.fao.org/aos/agrovoc/c_28788 ! working population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4592
+name: organic fertilizers
+synonym: "humate fertilizers" RELATED []
+synonym: "manures (fertilizers)" RELATED []
+synonym: "organic manure" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7625
+xref: http://cat.aii.caas.cn/concept/c_54942
+xref: http://d-nb.info/gnd/4131715-4
+xref: http://lod.nal.usda.gov/nalt/9313
+xref: http://zbw.eu/stw/descriptor/19020-6
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_2810 ! farmyard manure
+relationship: hasComposition http://aims.fao.org/aos/agrovoc/c_2933 ! fish wastes
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_25990 ! manure spreaders
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_4238 ! leaf mould
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4603
+name: marginal land
+xref: http://d-nb.info/gnd/4158137-4
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/13980
+xref: http://www.eionet.europa.eu/gemet/concept/5023
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+relationship: developsInto http://aims.fao.org/aos/agrovoc/c_16205 ! waste land
+relationship: includes http://aims.fao.org/aos/agrovoc/c_16212 ! cultivated land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4806
+name: micronutrient fertilizers
+synonym: "secondary fertilizers" RELATED []
+synonym: "trace element fertilizers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_46791
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+relationship: controls http://aims.fao.org/aos/agrovoc/c_7833 ! trace element deficiencies
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1011 ! borax
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1869 ! copper sulphate
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2861 ! ferrous sulphate
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4571 ! manganese sulphate
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6140 ! potassium chloride
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7147 ! sodium molybdate
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8519 ! zinc sulphate
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4821
+name: migrant labour
+synonym: "migrant workers" RELATED []
+xref: http://d-nb.info/gnd/4211385-4
+xref: http://id.loc.gov/authorities/sh85085067#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/96280
+xref: http://www.eionet.europa.eu/gemet/concept/5234
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6910 ! seasonal labour
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_3627 ! hired labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4851
+name: mineral oils
+xref: http://eurovoc.europa.eu/1267
+xref: http://id.loc.gov/authorities/sh85085568#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/29270
+xref: http://lod.nal.usda.gov/nalt/53075
+xref: http://www.eionet.europa.eu/gemet/concept/12394
+is_a: http://aims.fao.org/aos/agrovoc/c_5334  ! oils
+is_a: http://aims.fao.org/aos/agrovoc/c_5747  ! petroleum
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4852
+name: mineral resources
+xref: http://aims.fao.org/aos/asfa/c_7262
+xref: http://cat.aii.caas.cn/concept/c_25710
+xref: http://eurovoc.europa.eu/3546
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/41800
+xref: http://lod.nal.usda.gov/nalt/53076
+xref: http://www.eionet.europa.eu/gemet/concept/5274
+xref: http://zbw.eu/stw/descriptor/18388-0
+is_a: http://aims.fao.org/aos/agrovoc/c_24056  ! nonrenewable resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_6628 ! rock
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_4857 ! minerals
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4876
+name: mixed pastures
+xref: http://cat.aii.caas.cn/concept/c_20680
+is_a: http://aims.fao.org/aos/agrovoc/c_5626  ! pastures
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49937
+name: Hari River
+synonym: "Hari Rud" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49939
+name: Hooghly River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49940
+name: Huallaga River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49941
+name: Huaura River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49942
+name: Hudson River
+xref: http://lod.nal.usda.gov/nalt/650
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49943
+name: Inambari River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49944
+name: Indian River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49945
+name: Indus River
+xref: http://lod.nal.usda.gov/nalt/105926
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49946
+name: Itiquis River
+is_a: http://aims.fao.org/aos/agrovoc/c_50092  ! Central American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49947
+name: Juba River
+synonym: "Jubba River" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49949
+name: Kabul River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49950
+name: Kafue River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49951
+name: Kagera River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49952
+name: Khomokhoana River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49953
+name: Kilombero River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49954
+name: Kokcha River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49955
+name: Komati River
+synonym: "Incomati River" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49957
+name: Kosi River
+synonym: "Koshi River" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49958
+name: Kouris River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49959
+name: Kuribrong River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49960
+name: Kumgang River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49961
+name: La Villa River
+is_a: http://aims.fao.org/aos/agrovoc/c_50092  ! Central American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49962
+name: Lar River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49963
+name: Lesse River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49964
+name: Limay River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49965
+name: Limpopo River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49966
+name: Litani River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49967
+name: Llobregat River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49968
+name: Logone River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49969
+name: Luangwa River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49970
+name: Madeira River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49971
+name: Magdalena River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49982
+name: marine energy
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/106900
+is_a: http://aims.fao.org/aos/agrovoc/c_25719  ! renewable energy
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_8322 ! water power
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50011
+name: Mahaweli Ganga River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50012
+name: Mangoky River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50013
+name: Mangoro River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50014
+name: Mantaro River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50015
+name: Maranon River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50016
+name: Martha Brae River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50017
+name: Abu Ali River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50018
+name: Acheloos River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50019
+name: Adraskand River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50020
+name: Agno River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50021
+name: Agrio River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50022
+name: Agusan River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50023
+name: Alberche River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50024
+name: Amakura River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50025
+name: Anambra River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50026
+name: Anapodaris River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50027
+name: Angat River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50028
+name: Apure River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50029
+name: Arka River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50030
+name: Artibonite River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50031
+name: Athi River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50032
+name: Aucayacu River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50033
+name: Awash River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50034
+name: Bague River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50035
+name: Balikh River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50036
+name: Bani River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50037
+name: Bared River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50038
+name: Bekaa River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50039
+name: Berbice River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50040
+name: Beskonak River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50041
+name: Bicol River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50042
+name: Blackwater River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50043
+name: Bogota River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50044
+name: Bou Regreg River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50045
+name: Bougouriba River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50046
+name: Cane River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50047
+name: Canje River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50048
+name: Carare River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50049
+name: Caroni River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50050
+name: Cauca River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50051
+name: Cauvery River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50052
+name: Chambal River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50053
+name: Chambeshi River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50054
+name: Chao Phraya River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50055
+name: Chari River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50056
+name: Chee River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50057
+name: Chira River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50058
+name: Chiriyacu River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50059
+name: Choluteca River
+is_a: http://aims.fao.org/aos/agrovoc/c_50092  ! Central American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50060
+name: Coatzacoalcos River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50061
+name: Cobre River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50062
+name: Cojedes River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50063
+name: Colorado River
+xref: http://lod.nal.usda.gov/nalt/644
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50064
+name: Columbia River
+xref: http://id.loc.gov/authorities/sh85028740#concept
+xref: http://lod.nal.usda.gov/nalt/645
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50065
+name: Comoe River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50066
+name: Connecticut River
+xref: http://id.loc.gov/authorities/sh85031179#concept
+xref: http://lod.nal.usda.gov/nalt/646
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50067
+name: Courantyne River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50068
+name: Cuyuni River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50069
+name: Dabus River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50070
+name: Demerara River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50071
+name: Dez River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50072
+name: Dinder River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50073
+name: Duero River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50074
+name: Ebro River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50075
+name: Escondido River
+is_a: http://aims.fao.org/aos/agrovoc/c_50092  ! Central American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50076
+name: Essequibo River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_7254  ! South American inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50077
+name: Estere River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50078
+name: Farah River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50079
+name: Flumendosa River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50080
+name: Fraser River
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50081
+name: Gal Oya River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50082
+name: Gash River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50083
+name: Gediz River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50084
+name: Ghazni River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50085
+name: Giuba River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50086
+name: Godavari River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50087
+name: Gonjancham River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50088
+name: Guadalquivir River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50089
+name: Guadiana Menor River
+is_a: http://aims.fao.org/aos/agrovoc/c_2726  ! European inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50090
+name: Hableh River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50091
+name: Hadhramaut River
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50093
+name: Gulf of Aqaba
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_6480  ! Red Sea
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50094
+name: Gulf of Asinara
+is_a: http://aims.fao.org/aos/agrovoc/c_4699  ! Mediterranean Sea
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50095
+name: Gulf of Cadiz
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_689  ! Atlantic Ocean
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50096
+name: Gulf of California
+xref: http://lod.nal.usda.gov/nalt/125291
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_5493  ! Pacific Ocean
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50097
+name: Golfo di Genova
+synonym: "Gulf of Genoa" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_4699  ! Mediterranean Sea
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50098
+name: Gulf of Guinea
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_689  ! Atlantic Ocean
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50099
+name: Gulf of Lion
+is_a: http://aims.fao.org/aos/agrovoc/c_4699  ! Mediterranean Sea
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50100
+name: Gulf of Moro
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_9691  ! Celebes Sea
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50101
+name: Gulf of Naples
+is_a: http://aims.fao.org/aos/agrovoc/c_4699  ! Mediterranean Sea
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50102
+name: Gulf of Oman
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_565  ! Arabian Sea
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50103
+name: Gulf of Paria
+is_a: http://aims.fao.org/aos/agrovoc/c_1321  ! Caribbean Sea
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50104
+name: Gulf of San Jorge
+is_a: http://aims.fao.org/aos/agrovoc/c_29121  ! South Atlantic
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50105
+name: Gulf of San Matias
+is_a: http://aims.fao.org/aos/agrovoc/c_29121  ! South Atlantic
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50106
+name: Gulf of Saronikos
+is_a: http://aims.fao.org/aos/agrovoc/c_147  ! Aegean Sea
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50107
+name: Gulf of Saint Lawrence
+is_a: http://aims.fao.org/aos/agrovoc/c_29120  ! North Atlantic
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+relationship: spatiallyIncludes http://aims.fao.org/aos/agrovoc/c_29745 ! St Lawrence River
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50108
+name: Gulf of Suez
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_6480  ! Red Sea
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50109
+name: Gulf of Tehuantepec
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_5493  ! Pacific Ocean
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50110
+name: Gulf of Thailand
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_7258  ! South China Sea
+relationship: surroundedBy http://aims.fao.org/aos/agrovoc/c_7701 ! Thailand
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50111
+name: Gulf of Venezuela
+is_a: http://aims.fao.org/aos/agrovoc/c_1321  ! Caribbean Sea
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50112
+name: gulfs
+synonym: "gulf" RELATED []
+xref: http://eurovoc.europa.eu/1171
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/11320
+xref: http://www.eionet.europa.eu/gemet/concept/3800
+is_a: http://aims.fao.org/aos/agrovoc/c_25317  ! surface water
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50138
+name: paddocks
+is_a: http://aims.fao.org/aos/agrovoc/c_5626  ! pastures
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50146
+name: renewable bioresources
+xref: http://lod.gesis.org/thesoz/concept/10065163
+is_a: http://aims.fao.org/aos/agrovoc/c_6502  ! renewable resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5087
+name: natural gas
+synonym: "lp-gas (liquid petroleum gas)" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7377
+xref: http://d-nb.info/gnd/4015143-8
+xref: http://eurovoc.europa.eu/1141
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/51140
+xref: http://lod.gesis.org/thesoz/concept/10042078
+xref: http://lod.nal.usda.gov/nalt/41716
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119315274
+xref: http://www.eionet.europa.eu/gemet/concept/5503
+xref: http://zbw.eu/stw/descriptor/14196-1
+is_a: http://aims.fao.org/aos/agrovoc/c_3136  ! fuels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5089
+name: natural pastures
+xref: http://d-nb.info/gnd/4395725-0
+is_a: http://aims.fao.org/aos/agrovoc/c_5626  ! pastures
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3366 ! grasslands
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5717 ! permanent pastures
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5091
+name: natural resources
+xref: http://aims.fao.org/aos/asfa/c_7380
+xref: http://cat.aii.caas.cn/concept/c_59770
+xref: http://eurovoc.europa.eu/3549
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/50110
+xref: http://lod.nal.usda.gov/nalt/5468
+xref: http://www.eionet.europa.eu/gemet/concept/5521
+xref: http://zbw.eu/stw/descriptor/15745-3
+is_a: http://aims.fao.org/aos/agrovoc/c_9001017  ! resources
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_926 ! biomass
+relationship: includes http://aims.fao.org/aos/agrovoc/c_16141 ! nature reserves
+relationship: includes http://aims.fao.org/aos/agrovoc/c_34268 ! indigenous organisms
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8388 ! wilderness areas
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2476 ! economic resources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36649 ! biological production
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6207 ! production possibilities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5195
+name: nitrogen fertilizers
+xref: http://cat.aii.caas.cn/concept/c_8269
+xref: http://d-nb.info/gnd/4183260-7
+xref: http://lod.nal.usda.gov/nalt/7966
+xref: http://zbw.eu/stw/descriptor/14049-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_5187 ! nitrates
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_5192 ! nitrogen
+relationship: includes http://aims.fao.org/aos/agrovoc/c_354 ! ammonium sulphate
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8090 ! urea
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_351 ! ammonium compounds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5198
+name: nitrogen phosphorus fertilizers
+xref: http://cat.aii.caas.cn/concept/c_8280
+xref: http://cat.aii.caas.cn/concept/c_8281
+xref: http://lod.nal.usda.gov/nalt/7981
+is_a: http://aims.fao.org/aos/agrovoc/c_1797  ! compound fertilizers
+relationship: includes http://aims.fao.org/aos/agrovoc/c_353 ! ammonium phosphate
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_5195 ! nitrogen fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5199
+name: nitrogen potassium fertilizers
+xref: http://cat.aii.caas.cn/concept/c_8276
+xref: http://cat.aii.caas.cn/concept/c_8277
+xref: http://lod.nal.usda.gov/nalt/28398
+is_a: http://aims.fao.org/aos/agrovoc/c_1797  ! compound fertilizers
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_5195 ! nitrogen fertilizers
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_6138 ! potash fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5201
+name: nitrophosphates
+xref: http://lod.nal.usda.gov/nalt/54904
+is_a: http://aims.fao.org/aos/agrovoc/c_5198  ! nitrogen phosphorus fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5250
+name: NPK fertilizers
+synonym: "ternary compounds (fertilizers)" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_8282
+xref: http://cat.aii.caas.cn/concept/c_8283
+xref: http://lod.nal.usda.gov/nalt/15592
+is_a: http://aims.fao.org/aos/agrovoc/c_1797  ! compound fertilizers
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_5800 ! phosphate fertilizers
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_5195 ! nitrogen fertilizers
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_6138 ! potash fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5379
+name: orchards
+xref: http://cat.aii.caas.cn/concept/c_16627
+xref: http://d-nb.info/gnd/4121403-1
+xref: http://lod.nal.usda.gov/nalt/5372
+is_a: http://aims.fao.org/aos/agrovoc/c_16212  ! cultivated land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5392
+name: organomineral fertilizers
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5595
+name: part time labour
+xref: http://cat.aii.caas.cn/concept/c_1626
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+relationship: causes http://aims.fao.org/aos/agrovoc/c_8058 ! underemployment
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_5596 ! part time farming
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6910 ! seasonal labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5626
+name: pastures
+synonym: "pasture resources" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_32141
+xref: http://cat.aii.caas.cn/concept/c_32148
+xref: http://cat.aii.caas.cn/concept/c_4227
+xref: http://d-nb.info/gnd/4128980-8
+xref: http://lod.nal.usda.gov/nalt/5373
+is_a: http://aims.fao.org/aos/agrovoc/c_3369  ! grazing lands
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_2829 ! feed crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5647
+name: peat
+xref: http://aims.fao.org/aos/asfa/c_7783
+xref: http://cat.aii.caas.cn/concept/c_32665
+xref: http://cat.aii.caas.cn/concept/c_32674
+xref: http://cat.aii.caas.cn/concept/c_4282
+xref: http://cat.aii.caas.cn/concept/c_4386
+xref: http://cat.aii.caas.cn/concept/c_4424
+xref: http://d-nb.info/gnd/4185722-7
+xref: http://eurovoc.europa.eu/4469
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/26200
+xref: http://lod.nal.usda.gov/nalt/57128
+xref: http://www.eionet.europa.eu/gemet/concept/6081
+xref: http://zbw.eu/stw/descriptor/14211-3
+is_a: http://aims.fao.org/aos/agrovoc/c_4852  ! mineral resources
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_12965 ! organic amendments
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_3136 ! fuels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5716
+name: permanent labour
+xref: http://cat.aii.caas.cn/concept/c_15710
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28811 ! full time workers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5717
+name: permanent pastures
+xref: http://cat.aii.caas.cn/concept/c_54644
+is_a: http://aims.fao.org/aos/agrovoc/c_5626  ! pastures
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5724
+name: Persian Gulf
+xref: http://cat.aii.caas.cn/concept/c_3266
+xref: http://lod.gesis.org/thesoz/concept/10034511
+xref: http://lod.nal.usda.gov/nalt/105766
+is_a: http://aims.fao.org/aos/agrovoc/c_50112  ! gulfs
+is_a: http://aims.fao.org/aos/agrovoc/c_8365  ! Western Indian Ocean
+relationship: surroundedBy http://aims.fao.org/aos/agrovoc/c_29178 ! Gulf states
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5746
+name: petrol
+synonym: "gasoline" RELATED []
+xref: http://d-nb.info/gnd/4144507-7
+xref: http://eurovoc.europa.eu/3771
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/48850
+xref: http://www.eionet.europa.eu/gemet/concept/6156
+xref: http://zbw.eu/stw/descriptor/14212-1
+is_a: http://aims.fao.org/aos/agrovoc/c_5747  ! petroleum
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5747
+name: petroleum
+synonym: "crude oil" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7822
+xref: http://dewey.info/class/665.5/
+xref: http://eurovoc.europa.eu/2366
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/42230
+xref: http://lod.nal.usda.gov/nalt/17688
+xref: http://www.eionet.europa.eu/gemet/concept/6161
+xref: http://zbw.eu/stw/descriptor/14197-6
+is_a: http://aims.fao.org/aos/agrovoc/c_4852  ! mineral resources
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_5332 ! oil spills
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_5557 ! paraffin
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_3136 ! fuels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5800
+name: phosphate fertilizers
+synonym: "phosphorus fertilizers" RELATED []
+xref: http://zbw.eu/stw/descriptor/14045-1
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_5198 ! nitrogen phosphorus fertilizers
+relationship: hasComposition http://aims.fao.org/aos/agrovoc/c_5801 ! phosphates (salts)
+relationship: hasComposition http://aims.fao.org/aos/agrovoc/c_5804 ! phosphorus
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5805
+name: phosphorus potassium fertilizers
+xref: http://cat.aii.caas.cn/concept/c_27726
+xref: http://lod.nal.usda.gov/nalt/28399
+is_a: http://aims.fao.org/aos/agrovoc/c_1797  ! compound fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5979
+name: plant resources
+xref: http://cat.aii.caas.cn/concept/c_57719
+xref: http://eurovoc.europa.eu/3153
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/46910
+xref: http://www.eionet.europa.eu/gemet/concept/8919
+is_a: http://aims.fao.org/aos/agrovoc/c_92341  ! biological resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5975 ! plant population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6
+name: abandoned land
+synonym: "derelict land" RELATED []
+synonym: "idle land" RELATED []
+xref: http://eurovoc.europa.eu/4444
+xref: http://lod.nal.usda.gov/nalt/1579
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_7038 ! shifting cultivation
+relationship: includes http://aims.fao.org/aos/agrovoc/c_16205 ! waste land
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2795 ! farm closures
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4603 ! marginal land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_60fbd8f7
+name: independent experts
+def: "An independent expert is a specialist appointed to decide a settlement when the parties are unable to reach agreement on an issue in contention." []
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6105
+name: ponds
+xref: http://aims.fao.org/aos/asfa/c_8036
+xref: http://cat.aii.caas.cn/concept/c_5745
+xref: http://d-nb.info/gnd/4134177-6
+xref: http://lod.nal.usda.gov/nalt/39513
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11961397c
+is_a: http://aims.fao.org/aos/agrovoc/c_25317  ! surface water
+is_a: http://aims.fao.org/aos/agrovoc/c_5834  ! physiographic features
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6138
+name: potash fertilizers
+synonym: "potassium fertilizers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_44174
+xref: http://d-nb.info/gnd/4163050-6
+xref: http://zbw.eu/stw/descriptor/14034-6
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+relationship: isMadeFrom http://aims.fao.org/aos/agrovoc/c_7561 ! sylvinite
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6144
+name: potting composts
+is_a: http://aims.fao.org/aos/agrovoc/c_1795  ! composts
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_3393 ! growing media
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6224
+name: propagation materials
+xref: http://cat.aii.caas.cn/concept/c_11712
+xref: http://lod.nal.usda.gov/nalt/12615
+is_a: http://aims.fao.org/aos/agrovoc/c_2798  ! farm inputs
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_1135 ! buds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_62487b4a
+name: rights of clearance
+def: "Right of clearance is the agreement granted by the first occupant for cutting bush and continuously cultivating." []
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_63323
+name: Lake Hovsgol
+synonym: "HC6vsgC6l Nuur" RELATED []
+synonym: "Lake Hoevsgoel" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+is_a: http://aims.fao.org/aos/agrovoc/c_667  ! Asian inland waters
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6448
+name: rangelands
+xref: http://lod.nal.usda.gov/nalt/28610
+is_a: http://aims.fao.org/aos/agrovoc/c_3369  ! grazing lands
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_6447 ! rangeland soils
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6463
+name: ratoons
+xref: http://cat.aii.caas.cn/concept/c_15068
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+relationship: produces http://aims.fao.org/aos/agrovoc/c_5325 ! offshoots
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6472
+name: reclaimed land
+synonym: "dyked land" RELATED []
+synonym: "polders" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_24829
+xref: http://eurovoc.europa.eu/4450
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_6473 ! reclaimed soil
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6502
+name: renewable resources
+xref: http://aims.fao.org/aos/asfa/c_8309
+xref: http://cat.aii.caas.cn/concept/c_25234
+xref: http://cat.aii.caas.cn/concept/c_25293
+xref: http://d-nb.info/gnd/4152831-1
+xref: http://eurovoc.europa.eu/3551
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/44790
+xref: http://lod.gesis.org/thesoz/concept/10065163
+xref: http://lod.nal.usda.gov/nalt/54415
+xref: http://www.eionet.europa.eu/gemet/concept/7108
+xref: http://zbw.eu/stw/descriptor/18286-1
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_926 ! biomass
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6617
+name: rivers
+synonym: "brooks" RELATED []
+synonym: "streams" RELATED []
+synonym: "tributaries" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_8405
+xref: http://cat.aii.caas.cn/concept/c_22626
+xref: http://d-nb.info/gnd/4131972-2
+xref: http://lod.gesis.org/thesoz/concept/10064173
+xref: http://lod.nal.usda.gov/nalt/21953
+xref: http://zbw.eu/stw/descriptor/15868-1
+is_a: http://aims.fao.org/aos/agrovoc/c_25317  ! surface water
+is_a: http://aims.fao.org/aos/agrovoc/c_3876  ! inland waters
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8330 ! waterfalls
+relationship: influences http://aims.fao.org/aos/agrovoc/c_35294 ! riparian zones
+relationship: produces http://aims.fao.org/aos/agrovoc/c_2170 ! deltas
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6630
+name: rock phosphate
+synonym: "mineral phosphate" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_27725
+xref: http://lod.nal.usda.gov/nalt/10644
+is_a: http://aims.fao.org/aos/agrovoc/c_5800  ! phosphate fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6653
+name: rootstocks
+synonym: "grafting stocks" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_15085
+xref: http://cat.aii.caas.cn/concept/c_57140
+xref: http://d-nb.info/gnd/4263446-5
+xref: http://lod.nal.usda.gov/nalt/43597
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3342 ! graft compatibility
+relationship: produces http://aims.fao.org/aos/agrovoc/c_6652 ! rootstock crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6697
+name: runoff water
+xref: http://cat.aii.caas.cn/concept/c_24023
+is_a: http://aims.fao.org/aos/agrovoc/c_25317  ! surface water
+relationship: affects http://aims.fao.org/aos/agrovoc/c_7206 ! soil water balance
+relationship: causes http://aims.fao.org/aos/agrovoc/c_2980 ! flooding
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8309 ! water
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6857
+name: scions
+xref: http://cat.aii.caas.cn/concept/c_23067
+xref: http://lod.nal.usda.gov/nalt/43598
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_3342 ! graft compatibility
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6887
+name: scrublands
+synonym: "shrublands" RELATED []
+xref: http://id.loc.gov/authorities/sh85122147#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6910
+name: seasonal labour
+xref: http://d-nb.info/gnd/4452733-0
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6927
+name: seed
+synonym: "true seed" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_58524
+xref: http://d-nb.info/gnd/4051115-7
+xref: http://eurovoc.europa.eu/4081
+xref: http://zbw.eu/stw/descriptor/14079-5
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_14172 ! seed quality
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_14174 ! seed storage life
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_15179 ! seed viability
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_26821 ! seed size
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_36509 ! seed characteristics
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6935
+name: seed mixtures
+xref: http://lod.nal.usda.gov/nalt/30131
+is_a: http://aims.fao.org/aos/agrovoc/c_6927  ! seed
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7004
+name: sets
+synonym: "setts" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_58472
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+relationship: produces http://aims.fao.org/aos/agrovoc/c_6463 ! ratoons
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_709
+name: audiovisual aids
+is_a: http://aims.fao.org/aos/agrovoc/c_330919  ! objects
+is_a: http://aims.fao.org/aos/agrovoc/c_330978  ! educational resources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_9000043 ! educational technologies
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7095
+name: skilled labour
+xref: http://d-nb.info/gnd/4113499-0
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7110
+name: slow release fertilizers
+synonym: "controlled release fertilizers" RELATED []
+synonym: "delayed action fertilizers" RELATED []
+synonym: "prolonged action fertilizers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_19709
+xref: http://cat.aii.caas.cn/concept/c_19710
+xref: http://cat.aii.caas.cn/concept/c_19714
+xref: http://cat.aii.caas.cn/concept/c_45649
+xref: http://d-nb.info/gnd/4308009-1
+xref: http://lod.nal.usda.gov/nalt/28796
+is_a: http://aims.fao.org/aos/agrovoc/c_2867  ! fertilizers
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_34247 ! controlled release
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_3068 ! formulations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7187
+name: soil resources
+xref: http://eurovoc.europa.eu/3536
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/19050
+xref: http://lod.nal.usda.gov/nalt/63435
+xref: http://www.eionet.europa.eu/gemet/concept/7886
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_33934 ! agricultural soils
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7222
+name: solar energy
+synonym: "solar activity" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_44042
+xref: http://d-nb.info/gnd/4055572-0
+xref: http://eurovoc.europa.eu/756
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/37990
+xref: http://lod.gesis.org/thesoz/concept/10042047
+xref: http://lod.nal.usda.gov/nalt/61072
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11931977s
+xref: http://www.eionet.europa.eu/gemet/concept/7906
+xref: http://zbw.eu/stw/descriptor/14186-4
+is_a: http://aims.fao.org/aos/agrovoc/c_25719  ! renewable energy
+relationship: isDerivedFrom http://aims.fao.org/aos/agrovoc/c_14415 ! solar radiation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7270
+name: sown pastures
+xref: http://lod.nal.usda.gov/nalt/57058
+is_a: http://aims.fao.org/aos/agrovoc/c_16212  ! cultivated land
+is_a: http://aims.fao.org/aos/agrovoc/c_5626  ! pastures
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7289
+name: sphaeroblasts
+xref: http://cat.aii.caas.cn/concept/c_36898
+is_a: http://aims.fao.org/aos/agrovoc/c_6224  ! propagation materials
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_72efbdb8
+name: notary
+def: "The notary is both a conveyancing lawyer and a public official responsible for seeing that the conveyance is properly undertaken. The notary is a vital part of the system of land transactions in many jurisdictions in continental Europe. The notary is bound by a strict code of ethics, enforced by the relevant national bodies." []
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7521
+name: superphosphate
+xref: http://cat.aii.caas.cn/concept/c_16654
+xref: http://d-nb.info/gnd/4382523-0
+xref: http://lod.nal.usda.gov/nalt/65239
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11981988g
+is_a: http://aims.fao.org/aos/agrovoc/c_5800  ! phosphate fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7639
+name: teaching materials
+xref: http://eurovoc.europa.eu/3278
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/61330
+xref: http://lod.gesis.org/thesoz/concept/10050859
+xref: http://www.eionet.europa.eu/gemet/concept/13311
+is_a: http://aims.fao.org/aos/agrovoc/c_330978  ! educational resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_709 ! audiovisual aids
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_778a14cf
+name: commons
+def: "The term commons is most frequently used to refer to those natural resources that are held in common by a community." []
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8072
+name: unskilled labour
+xref: http://d-nb.info/gnd/4159875-1
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8157
+name: varieties
+def: "A taxonomic subdivision of a species consisting of naturally occurring or selectively bred populations or individuals that differ from the remainder of the species in certain minor characteristics." []
+synonym: "cultigens" RELATED []
+synonym: "cultivars" RELATED []
+synonym: "cultivated varieties" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33730
+xref: http://cat.aii.caas.cn/concept/c_34158
+xref: http://cat.aii.caas.cn/concept/c_34563
+xref: http://cat.aii.caas.cn/concept/c_58470
+xref: http://d-nb.info/gnd/4130364-7
+xref: http://lod.nal.usda.gov/nalt/28029
+is_a: http://aims.fao.org/aos/agrovoc/c_3218  ! genetic resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6376 ! pure lines
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8257
+name: virgin land
+xref: http://cat.aii.caas.cn/concept/c_40394
+xref: http://cat.aii.caas.cn/concept/c_40406
+xref: http://cat.aii.caas.cn/concept/c_40407
+xref: http://cat.aii.caas.cn/concept/c_40408
+xref: http://cat.aii.caas.cn/concept/c_6239
+is_a: http://aims.fao.org/aos/agrovoc/c_4179  ! land resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8322
+name: water power
+synonym: "hydropower" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9789
+xref: http://cat.aii.caas.cn/concept/c_42502
+xref: http://d-nb.info/gnd/4189214-8
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/56080
+xref: http://lod.nal.usda.gov/nalt/68237
+xref: http://www.eionet.europa.eu/gemet/concept/4122
+xref: http://zbw.eu/stw/descriptor/14189-5
+is_a: http://aims.fao.org/aos/agrovoc/c_25719  ! renewable energy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8325
+name: water resources
+synonym: "groundwater inventories" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9799
+xref: http://eurovoc.europa.eu/3535
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/62510
+xref: http://lod.nal.usda.gov/nalt/11570
+xref: http://www.eionet.europa.eu/gemet/concept/9221
+is_a: http://aims.fao.org/aos/agrovoc/c_24056  ! nonrenewable resources
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_25202 ! rainwater
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_3876 ! inland waters
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8320 ! water management
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16065 ! water use
+relationship: influences http://aims.fao.org/aos/agrovoc/c_26835 ! water yield
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8310 ! water availability
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8326
+name: water springs
+synonym: "springs" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9805
+xref: http://d-nb.info/gnd/4135952-5
+is_a: http://aims.fao.org/aos/agrovoc/c_25317  ! surface water
+is_a: http://aims.fao.org/aos/agrovoc/c_5834  ! physiographic features
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_3102 ! freshwater
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8330
+name: waterfalls
+synonym: "cascades" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_35329
+xref: http://d-nb.info/gnd/4136969-5
+is_a: http://aims.fao.org/aos/agrovoc/c_25317  ! surface water
+is_a: http://aims.fao.org/aos/agrovoc/c_5834  ! physiographic features
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8389
+name: wildlife
+xref: http://eurovoc.europa.eu/3150
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/12180
+xref: http://lod.nal.usda.gov/nalt/17463
+xref: http://www.eionet.europa.eu/gemet/concept/9313
+is_a: http://aims.fao.org/aos/agrovoc/c_92341  ! biological resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8394
+name: wind power
+synonym: "wind energy" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9930
+xref: http://cat.aii.caas.cn/concept/c_12830
+xref: http://d-nb.info/gnd/4079329-1
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/37220
+xref: http://lod.gesis.org/thesoz/concept/10063564
+xref: http://lod.nal.usda.gov/nalt/61073
+xref: http://www.eionet.europa.eu/gemet/concept/9335
+is_a: http://aims.fao.org/aos/agrovoc/c_25719  ! renewable energy
+relationship: isDerivedFrom http://aims.fao.org/aos/agrovoc/c_8401 ! winds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8445
+name: workers
+xref: http://cat.aii.caas.cn/concept/c_15174
+xref: http://d-nb.info/gnd/4112560-5
+xref: http://lod.gesis.org/thesoz/concept/10035924
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11975814d
+xref: http://zbw.eu/stw/descriptor/11286-1
+is_a: http://aims.fao.org/aos/agrovoc/c_4590  ! manpower
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8490
+name: young workers
+xref: http://eurovoc.europa.eu/1529
+xref: http://lod.gesis.org/thesoz/concept/10048380
+xref: http://zbw.eu/stw/descriptor/11275-6
+is_a: http://aims.fao.org/aos/agrovoc/c_8445  ! workers
+is_a: http://aims.fao.org/aos/agrovoc/c_8491  ! youth
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8684
+name: agricultural workers
+synonym: "farm workers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33703
+xref: http://d-nb.info/gnd/4034217-7
+xref: http://zbw.eu/stw/descriptor/11276-4
+is_a: http://aims.fao.org/aos/agrovoc/c_8445  ! workers
+is_a: http://aims.fao.org/aos/agrovoc/c_8676  ! agricultural population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_88c1b116
+name: willing seller
+def: "A willing seller is one who is neither eager nor reluctant to sell." []
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000022
+name: common property
+xref: http://cat.aii.caas.cn/concept/c_16463
+xref: http://lod.gesis.org/thesoz/concept/10041546
+xref: http://zbw.eu/stw/descriptor/11044-4
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000082
+name: individual land property
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9001017
+name: resources
+xref: http://cat.aii.caas.cn/concept/c_59373
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/30770
+xref: http://www.eionet.europa.eu/gemet/concept/7168
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9024771d
+name: communal ownership
+def: "Communal ownership is a commonly used term to describe those situations where rights to use resources are held by a community." []
+is_a: http://aims.fao.org/aos/agrovoc/c_778a14cf  ! commons
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92341
+name: biological resources
+synonym: "living resources" RELATED []
+xref: http://dewey.info/class/333.95/
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/47220
+xref: http://lod.nal.usda.gov/nalt/17323
+xref: http://www.eionet.europa.eu/gemet/concept/873
+is_a: http://aims.fao.org/aos/agrovoc/c_5091  ! natural resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92371
+name: Lake Volta
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_4160  ! lakes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92372
+name: Missouri River
+xref: http://lod.nal.usda.gov/nalt/654
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92373
+name: Mississippi River
+xref: http://lod.nal.usda.gov/nalt/653
+is_a: http://aims.fao.org/aos/agrovoc/c_5220  ! North American inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92374
+name: Orinoco River
+xref: http://lod.nal.usda.gov/nalt/105928
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92375
+name: Okavango River
+is_a: http://aims.fao.org/aos/agrovoc/c_169  ! African inland waters
+is_a: http://aims.fao.org/aos/agrovoc/c_6617  ! rivers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9262
+name: biogas
+xref: http://aims.fao.org/aos/asfa/c_4323
+xref: http://cat.aii.caas.cn/concept/c_56877
+xref: http://d-nb.info/gnd/4006796-8
+xref: http://eurovoc.europa.eu/4900
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/59220
+xref: http://lod.nal.usda.gov/nalt/6479
+xref: http://www.eionet.europa.eu/gemet/concept/832
+is_a: http://aims.fao.org/aos/agrovoc/c_27465  ! biofuels
+relationship: hasComposition http://aims.fao.org/aos/agrovoc/c_4784 ! methane
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_8683 ! agricultural wastes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9660
+name: casual labour
+xref: http://cat.aii.caas.cn/concept/c_27645
+is_a: http://aims.fao.org/aos/agrovoc/c_4128  ! labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_c208d7f3
+name: eminent domain
+def: "The term derives from the state's position as having ultimate power over the land, which may reach the process of compulsory acquisition or expropriation of the land." []
+is_a: http://aims.fao.org/aos/agrovoc/c_36873  ! state land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_da192f3f
+name: property law
+def: "Property law is the generic term within which falls the legal framework dealing with property, its use, ownership, regulation and disposition. As such, property law applies both to real property and personal property, and is distinguished from land law which applies only to real property." []
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_f7cf8606
+name: dowry (land)
+def: "A dowry is the property that forms a part of a marriage agreement." []
+is_a: http://aims.fao.org/aos/agrovoc/c_13609  ! property
+

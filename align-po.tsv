@@ -1,0 +1,340 @@
+PO:0000003	whole plant	http://aims.fao.org/aos/agrovoc/c_15672	genets
+PO:0000003	whole plant	http://aims.fao.org/aos/agrovoc/c_1769	colonialism
+PO:0000003	whole plant	http://aims.fao.org/aos/agrovoc/c_26823	shrubs
+PO:0000003	whole plant	http://aims.fao.org/aos/agrovoc/c_3222	genetics
+PO:0000003	whole plant	http://aims.fao.org/aos/agrovoc/c_6945	seedlings
+PO:0000003	whole plant	http://aims.fao.org/aos/agrovoc/c_7887	trees
+PO:0000005	cultured plant cell	http://aims.fao.org/aos/agrovoc/c_7178	cell culture
+PO:0000006	plant protoplast	http://aims.fao.org/aos/agrovoc/c_13629	protoplasts
+PO:0000009	cultured plant callus	http://aims.fao.org/aos/agrovoc/c_9550	callus culture
+PO:0000010	cultured plant embryo	http://aims.fao.org/aos/agrovoc/c_2544	embryo culture
+PO:0000022	plant cuticle	http://aims.fao.org/aos/agrovoc/c_27982	plant cuticle
+PO:0000031	lenticel	http://aims.fao.org/aos/agrovoc/c_37284	lenticels
+PO:0000046	seminal root	http://aims.fao.org/aos/agrovoc/c_24812	adventitious roots
+PO:0000055	bud	http://aims.fao.org/aos/agrovoc/c_1132	budding
+PO:0000055	bud	http://aims.fao.org/aos/agrovoc/c_1135	buds
+PO:0000282	trichome	http://aims.fao.org/aos/agrovoc/c_128d5eb6	scale
+PO:0000282	trichome	http://aims.fao.org/aos/agrovoc/c_3471	hair
+PO:0000301	tracheid	http://aims.fao.org/aos/agrovoc/c_7837	tracheids
+PO:0000423	plant zygote	http://aims.fao.org/aos/agrovoc/c_8542	zygotes
+PO:0001097	plant zygote stage	http://aims.fao.org/aos/agrovoc/c_330662	zygote stage
+PO:0002000	stomatal complex	http://aims.fao.org/aos/agrovoc/c_7423	stomata
+PO:0003023	root nodule	http://aims.fao.org/aos/agrovoc/c_27601	root nodules
+PO:0003023	root nodule	http://aims.fao.org/aos/agrovoc/c_6643	root nodulation
+PO:0003024	stolon	http://aims.fao.org/aos/agrovoc/c_7421	stolons
+PO:0004003	phellem	http://aims.fao.org/aos/agrovoc/c_27981	phellem
+PO:0004011	initial cell	http://aims.fao.org/aos/agrovoc/c_50239	initiatives
+PO:0004512	heartwood	http://aims.fao.org/aos/agrovoc/c_3518	heartwood
+PO:0004513	sapwood	http://aims.fao.org/aos/agrovoc/c_6800	sapwood
+PO:0004515	early wood	http://aims.fao.org/aos/agrovoc/c_3399	growth rings
+PO:0004516	late wood	http://aims.fao.org/aos/agrovoc/c_35930	latewood
+PO:0004518	bark	http://aims.fao.org/aos/agrovoc/c_820	bark
+PO:0004534	ray secondary xylem parenchyma	http://aims.fao.org/aos/agrovoc/c_1064	Brassica juncea
+PO:0004542	rhizome	http://aims.fao.org/aos/agrovoc/c_6565	rhizomes
+PO:0004544	root-borne shoot system	http://aims.fao.org/aos/agrovoc/c_24411	suckers
+PO:0004544	root-borne shoot system	http://aims.fao.org/aos/agrovoc/c_7490	suckering
+PO:0004545	shoot-borne shoot system	http://aims.fao.org/aos/agrovoc/c_24411	suckers
+PO:0004545	shoot-borne shoot system	http://aims.fao.org/aos/agrovoc/c_7490	suckering
+PO:0004701	short shoot	http://aims.fao.org/aos/agrovoc/c_32599	spurs
+PO:0005001	basal axillary shoot system	http://aims.fao.org/aos/agrovoc/c_6462	ratooning
+PO:0005001	basal axillary shoot system	http://aims.fao.org/aos/agrovoc/c_6463	ratoons
+PO:0005020	vascular bundle	http://aims.fao.org/aos/agrovoc/c_8159	vascular bundles
+PO:0005046	periderm	http://aims.fao.org/aos/agrovoc/c_5704	periderm
+PO:0005050	phelloderm	http://aims.fao.org/aos/agrovoc/c_13296	phelloderm
+PO:0005052	plant callus	http://aims.fao.org/aos/agrovoc/c_24576	callus
+PO:0005352	xylem	http://aims.fao.org/aos/agrovoc/c_8471	xylem
+PO:0005360	aleurone layer	http://aims.fao.org/aos/agrovoc/c_33935	aleurone layer
+PO:0005417	phloem	http://aims.fao.org/aos/agrovoc/c_5787	phloem
+PO:0005421	parenchyma	http://aims.fao.org/aos/agrovoc/c_5582	parenchyma
+PO:0005423	collenchyma	http://aims.fao.org/aos/agrovoc/c_1760	collenchyma
+PO:0005427	sclerenchyma	http://aims.fao.org/aos/agrovoc/c_6861	sclerenchyma
+PO:0005597	cambium	http://aims.fao.org/aos/agrovoc/c_1225	cambium
+PO:0005599	cork cambium	http://aims.fao.org/aos/agrovoc/c_13297	phellogen
+PO:0005665	resin canal	http://aims.fao.org/aos/agrovoc/c_28101	resin canals
+PO:0005679	epidermis	http://aims.fao.org/aos/agrovoc/c_2617	epidermis
+PO:0005708	cortex	http://aims.fao.org/aos/agrovoc/c_1908	cortex
+PO:0005848	secondary xylem	http://aims.fao.org/aos/agrovoc/c_8421	wood
+PO:0006070	mesophyll	http://aims.fao.org/aos/agrovoc/c_4761	mesophyll
+PO:0006073	intercalary meristem	http://aims.fao.org/aos/agrovoc/c_3909	intercalary meristems
+PO:0006109	pith	http://aims.fao.org/aos/agrovoc/c_5935	pith
+PO:0007014	booting stage	http://aims.fao.org/aos/agrovoc/c_330641	booting stage
+PO:0007041	inflorescence emergence stage	http://aims.fao.org/aos/agrovoc/c_3510	heading
+PO:0007073	2 formation of axillary shoot stage	http://aims.fao.org/aos/agrovoc/c_7773	tillering
+PO:0007616	flowering stage	http://aims.fao.org/aos/agrovoc/c_330768	flowering stage
+PO:0007631	plant embryo development stage	http://aims.fao.org/aos/agrovoc/c_330665	embryo stage
+PO:0008032	stomatal pore	http://aims.fao.org/aos/agrovoc/c_7423	stomata
+PO:0009001	fruit	http://aims.fao.org/aos/agrovoc/c_3119	fruit
+PO:0009002	plant cell	http://aims.fao.org/aos/agrovoc/c_1414	cell structure
+PO:0009005	root	http://aims.fao.org/aos/agrovoc/c_6649	rooting
+PO:0009005	root	http://aims.fao.org/aos/agrovoc/c_6651	roots
+PO:0009006	shoot system	http://aims.fao.org/aos/agrovoc/c_14261	shoots
+PO:0009007	portion of plant tissue	http://aims.fao.org/aos/agrovoc/c_49880	tissue
+PO:0009008	plant organ	http://aims.fao.org/aos/agrovoc/c_330894	organization
+PO:0009008	plant organ	http://aims.fao.org/aos/agrovoc/c_37968	organizations
+PO:0009008	plant organ	http://aims.fao.org/aos/agrovoc/c_49904	organisms
+PO:0009008	plant organ	http://aims.fao.org/aos/agrovoc/c_50296	regional organizations
+PO:0009009	plant embryo	http://aims.fao.org/aos/agrovoc/c_2543	plant embryos
+PO:0009010	seed	http://aims.fao.org/aos/agrovoc/c_6927	seed
+PO:0009011	plant structure	http://aims.fao.org/aos/agrovoc/c_13439	plant structure
+PO:0009012	plant structure development stage	http://aims.fao.org/aos/agrovoc/c_5959	plant developmental stages
+PO:0009013	portion of meristem tissue	http://aims.fao.org/aos/agrovoc/c_4754	meristems
+PO:0009015	portion of vascular tissue	http://aims.fao.org/aos/agrovoc/c_8161	vascular tissues
+PO:0009029	stamen	http://aims.fao.org/aos/agrovoc/c_14560	stamens
+PO:0009034	flower bract	http://aims.fao.org/aos/agrovoc/c_1491	chaff
+PO:0009035	nectary	http://aims.fao.org/aos/agrovoc/c_5099	nectaries
+PO:0009039	glume	http://aims.fao.org/aos/agrovoc/c_3289	glumes
+PO:0009046	flower	http://aims.fao.org/aos/agrovoc/c_2992	flowering
+PO:0009046	flower	http://aims.fao.org/aos/agrovoc/c_2993	flowers
+PO:0009047	stem	http://aims.fao.org/aos/agrovoc/c_7390	stems
+PO:0009049	inflorescence	http://aims.fao.org/aos/agrovoc/c_27966	capitulum
+PO:0009049	inflorescence	http://aims.fao.org/aos/agrovoc/c_3509	head
+PO:0009051	spikelet	http://aims.fao.org/aos/agrovoc/c_7301	spikelets
+PO:0009054	inflorescence bract	http://aims.fao.org/aos/agrovoc/c_3699	husking
+PO:0009054	inflorescence bract	http://aims.fao.org/aos/agrovoc/c_37743	husks
+PO:0009055	bract	http://aims.fao.org/aos/agrovoc/c_128d5eb6	scale
+PO:0009058	perianth	http://aims.fao.org/aos/agrovoc/c_5701	perianth
+PO:0009059	corolla	http://aims.fao.org/aos/agrovoc/c_1901	corolla
+PO:0009060	calyx	http://aims.fao.org/aos/agrovoc/c_1221	calyx
+PO:0009061	androecium	http://aims.fao.org/aos/agrovoc/c_406	androecium
+PO:0009062	gynoecium	http://aims.fao.org/aos/agrovoc/c_3451	gynoecium
+PO:0009066	anther	http://aims.fao.org/aos/agrovoc/c_478	anthers
+PO:0009072	plant ovary	http://aims.fao.org/aos/agrovoc/c_27985	plant ovaries
+PO:0009073	stigma	http://aims.fao.org/aos/agrovoc/c_14591	stigma
+PO:0009074	style	http://aims.fao.org/aos/agrovoc/c_7063	silk
+PO:0009084	pericarp	http://aims.fao.org/aos/agrovoc/c_25199	pericarp
+PO:0009085	exocarp	http://aims.fao.org/aos/agrovoc/c_27974	exocarp
+PO:0009086	endocarp	http://aims.fao.org/aos/agrovoc/c_27972	endocarp
+PO:0009087	mesocarp	http://aims.fao.org/aos/agrovoc/c_27979	mesocarp
+PO:0009088	seed coat	http://aims.fao.org/aos/agrovoc/c_6936	seed pelleting
+PO:0009089	endosperm	http://aims.fao.org/aos/agrovoc/c_247	albumins
+PO:0009089	endosperm	http://aims.fao.org/aos/agrovoc/c_2561	endosperm
+PO:0020021	integument	http://aims.fao.org/aos/agrovoc/c_3904	integument
+PO:0020030	cotyledon	http://aims.fao.org/aos/agrovoc/c_1930	cotyledons
+PO:0020031	radicle	http://aims.fao.org/aos/agrovoc/c_6423	radicle
+PO:0020032	plumule	http://aims.fao.org/aos/agrovoc/c_6029	plumule
+PO:0020033	coleoptile	http://aims.fao.org/aos/agrovoc/c_24007	coleoptiles
+PO:0020035	epicotyl	http://aims.fao.org/aos/agrovoc/c_2613	epicotyls
+PO:0020038	petiole	http://aims.fao.org/aos/agrovoc/c_5744	petioles
+PO:0020057	testa	http://aims.fao.org/aos/agrovoc/c_7681	testa
+PO:0020061	coma	http://aims.fao.org/aos/agrovoc/c_10025	coma
+PO:0020100	hypocotyl	http://aims.fao.org/aos/agrovoc/c_3770	hypocotyls
+PO:0020104	leaf sheath	http://aims.fao.org/aos/agrovoc/c_36777	leaf sheaths
+PO:0020123	root cap	http://aims.fao.org/aos/agrovoc/c_6640	root cap
+PO:0020127	primary root	http://aims.fao.org/aos/agrovoc/c_330864	primary root
+PO:0020136	ear inflorescence	http://aims.fao.org/aos/agrovoc/c_2436	ears
+PO:0020144	apical meristem	http://aims.fao.org/aos/agrovoc/c_528	apical meristems
+PO:0020145	lateral meristem	http://aims.fao.org/aos/agrovoc/c_27978	lateral meristem
+PO:0020147	root apical meristem	http://aims.fao.org/aos/agrovoc/c_6443	rams
+PO:0025017	plant spore	http://aims.fao.org/aos/agrovoc/c_7324	spores
+PO:0025022	collective leaf structure	http://aims.fao.org/aos/agrovoc/c_2056	cycling
+PO:0025023	collective phyllome structure	http://aims.fao.org/aos/agrovoc/c_2056	cycling
+PO:0025025	root system	http://aims.fao.org/aos/agrovoc/c_16034	root systems
+PO:0025042	subterranean tuber axillary vegetative bud	http://aims.fao.org/aos/agrovoc/c_2771	eyes
+PO:0025073	branch	http://aims.fao.org/aos/agrovoc/c_1057	branching
+PO:0025073	branch	http://aims.fao.org/aos/agrovoc/c_23995	branches
+PO:0025078	placenta	http://aims.fao.org/aos/agrovoc/c_5944	placenta
+PO:0025083	strobilus	http://aims.fao.org/aos/agrovoc/c_15957	cones
+PO:0025094	sporangium	http://aims.fao.org/aos/agrovoc/c_35193	sporangia
+PO:0025099	embryo plant structure	http://aims.fao.org/aos/agrovoc/c_2543	plant embryos
+PO:0025104	first order inflorescence axis	http://aims.fao.org/aos/agrovoc/c_1064	Brassica juncea
+PO:0025132	canal	http://aims.fao.org/aos/agrovoc/c_26763	canals
+PO:0025169	prickle	http://aims.fao.org/aos/agrovoc/c_20762	barbel
+PO:0025172	thorn	http://aims.fao.org/aos/agrovoc/c_20762	barbel
+PO:0025173	spine leaf	http://aims.fao.org/aos/agrovoc/c_20762	barbel
+PO:0025174	spine stipule	http://aims.fao.org/aos/agrovoc/c_20762	barbel
+PO:0025197	stele	http://aims.fao.org/aos/agrovoc/c_7386	stele
+PO:0025281	pollen	http://aims.fao.org/aos/agrovoc/c_6070	pollen
+PO:0025302	somatic plant embryo	http://aims.fao.org/aos/agrovoc/c_27607	somatic embryos
+PO:0025323	flower fascicle	http://aims.fao.org/aos/agrovoc/c_24825	bundling
+PO:0025324	banner petal	http://aims.fao.org/aos/agrovoc/c_7366	standardizing
+PO:0025324	banner petal	http://aims.fao.org/aos/agrovoc/c_7367	standards
+PO:0025349	awn	http://aims.fao.org/aos/agrovoc/c_9023	awns
+PO:0025355	corm	http://aims.fao.org/aos/agrovoc/c_24154	cormel
+PO:0025356	bulb	http://aims.fao.org/aos/agrovoc/c_1144	bulbs
+PO:0025361	leaf tendril	http://aims.fao.org/aos/agrovoc/c_7664	tendrils
+PO:0025362	leaflet tendril	http://aims.fao.org/aos/agrovoc/c_7664	tendrils
+PO:0025363	leaf apex tendril	http://aims.fao.org/aos/agrovoc/c_7664	tendrils
+PO:0025364	branch tendril	http://aims.fao.org/aos/agrovoc/c_7664	tendrils
+PO:0025365	stem apex tendril	http://aims.fao.org/aos/agrovoc/c_7664	tendrils
+PO:0025366	leaf rachis tendril	http://aims.fao.org/aos/agrovoc/c_7664	tendrils
+PO:0025367	prophyll tendril	http://aims.fao.org/aos/agrovoc/c_7664	tendrils
+PO:0025407	plant fiber cell	http://aims.fao.org/aos/agrovoc/c_2879	fibres
+PO:0025411	ray system	http://aims.fao.org/aos/agrovoc/c_1064	Brassica juncea
+PO:0025472	reaction wood	http://aims.fao.org/aos/agrovoc/c_24890	reaction wood
+PO:0025473	compression wood	http://aims.fao.org/aos/agrovoc/c_28094	improved wood
+PO:0025522	tuber	http://aims.fao.org/aos/agrovoc/c_7998	tubers
+PO:0025603	plant resin	http://aims.fao.org/aos/agrovoc/c_3439	gum plants
+PO:0025603	plant resin	http://aims.fao.org/aos/agrovoc/c_5343	oleoresins
+PO:0030027	thallus	http://aims.fao.org/aos/agrovoc/c_27995	thallus
+PO:0030040	sporangium base	http://aims.fao.org/aos/agrovoc/c_5939	pituitary gland
+PO:0030072	costa	http://aims.fao.org/aos/agrovoc/c_6598	Costae
+http://aims.fao.org/aos/agrovoc/c_10025	coma	PO:0020061	coma
+http://aims.fao.org/aos/agrovoc/c_1057	branching	PO:0025073	branch
+http://aims.fao.org/aos/agrovoc/c_1064	Brassica juncea	PO:0004534	ray secondary xylem parenchyma
+http://aims.fao.org/aos/agrovoc/c_1064	Brassica juncea	PO:0025104	first order inflorescence axis
+http://aims.fao.org/aos/agrovoc/c_1064	Brassica juncea	PO:0025411	ray system
+http://aims.fao.org/aos/agrovoc/c_1132	budding	PO:0000055	bud
+http://aims.fao.org/aos/agrovoc/c_1135	buds	PO:0000055	bud
+http://aims.fao.org/aos/agrovoc/c_1144	bulbs	PO:0025356	bulb
+http://aims.fao.org/aos/agrovoc/c_1221	calyx	PO:0009060	calyx
+http://aims.fao.org/aos/agrovoc/c_1225	cambium	PO:0005597	cambium
+http://aims.fao.org/aos/agrovoc/c_128d5eb6	scale	PO:0000282	trichome
+http://aims.fao.org/aos/agrovoc/c_128d5eb6	scale	PO:0009055	bract
+http://aims.fao.org/aos/agrovoc/c_13296	phelloderm	PO:0005050	phelloderm
+http://aims.fao.org/aos/agrovoc/c_13297	phellogen	PO:0005599	cork cambium
+http://aims.fao.org/aos/agrovoc/c_13439	plant structure	PO:0009011	plant structure
+http://aims.fao.org/aos/agrovoc/c_13629	protoplasts	PO:0000006	plant protoplast
+http://aims.fao.org/aos/agrovoc/c_1414	cell structure	PO:0009002	plant cell
+http://aims.fao.org/aos/agrovoc/c_14261	shoots	PO:0009006	shoot system
+http://aims.fao.org/aos/agrovoc/c_14560	stamens	PO:0009029	stamen
+http://aims.fao.org/aos/agrovoc/c_14591	stigma	PO:0009073	stigma
+http://aims.fao.org/aos/agrovoc/c_1491	chaff	PO:0009034	flower bract
+http://aims.fao.org/aos/agrovoc/c_15672	genets	PO:0000003	whole plant
+http://aims.fao.org/aos/agrovoc/c_15957	cones	PO:0025083	strobilus
+http://aims.fao.org/aos/agrovoc/c_16034	root systems	PO:0025025	root system
+http://aims.fao.org/aos/agrovoc/c_1760	collenchyma	PO:0005423	collenchyma
+http://aims.fao.org/aos/agrovoc/c_1769	colonialism	PO:0000003	whole plant
+http://aims.fao.org/aos/agrovoc/c_1901	corolla	PO:0009059	corolla
+http://aims.fao.org/aos/agrovoc/c_1908	cortex	PO:0005708	cortex
+http://aims.fao.org/aos/agrovoc/c_1930	cotyledons	PO:0020030	cotyledon
+http://aims.fao.org/aos/agrovoc/c_2056	cycling	PO:0025022	collective leaf structure
+http://aims.fao.org/aos/agrovoc/c_2056	cycling	PO:0025023	collective phyllome structure
+http://aims.fao.org/aos/agrovoc/c_20762	barbel	PO:0025169	prickle
+http://aims.fao.org/aos/agrovoc/c_20762	barbel	PO:0025172	thorn
+http://aims.fao.org/aos/agrovoc/c_20762	barbel	PO:0025173	spine leaf
+http://aims.fao.org/aos/agrovoc/c_20762	barbel	PO:0025174	spine stipule
+http://aims.fao.org/aos/agrovoc/c_23995	branches	PO:0025073	branch
+http://aims.fao.org/aos/agrovoc/c_24007	coleoptiles	PO:0020033	coleoptile
+http://aims.fao.org/aos/agrovoc/c_24154	cormel	PO:0025355	corm
+http://aims.fao.org/aos/agrovoc/c_2436	ears	PO:0020136	ear inflorescence
+http://aims.fao.org/aos/agrovoc/c_24411	suckers	PO:0004544	root-borne shoot system
+http://aims.fao.org/aos/agrovoc/c_24411	suckers	PO:0004545	shoot-borne shoot system
+http://aims.fao.org/aos/agrovoc/c_24576	callus	PO:0005052	plant callus
+http://aims.fao.org/aos/agrovoc/c_247	albumins	PO:0009089	endosperm
+http://aims.fao.org/aos/agrovoc/c_24812	adventitious roots	PO:0000046	seminal root
+http://aims.fao.org/aos/agrovoc/c_24825	bundling	PO:0025323	flower fascicle
+http://aims.fao.org/aos/agrovoc/c_24890	reaction wood	PO:0025472	reaction wood
+http://aims.fao.org/aos/agrovoc/c_25199	pericarp	PO:0009084	pericarp
+http://aims.fao.org/aos/agrovoc/c_2543	plant embryos	PO:0009009	plant embryo
+http://aims.fao.org/aos/agrovoc/c_2543	plant embryos	PO:0025099	embryo plant structure
+http://aims.fao.org/aos/agrovoc/c_2544	embryo culture	PO:0000010	cultured plant embryo
+http://aims.fao.org/aos/agrovoc/c_2561	endosperm	PO:0009089	endosperm
+http://aims.fao.org/aos/agrovoc/c_2613	epicotyls	PO:0020035	epicotyl
+http://aims.fao.org/aos/agrovoc/c_2617	epidermis	PO:0005679	epidermis
+http://aims.fao.org/aos/agrovoc/c_26763	canals	PO:0025132	canal
+http://aims.fao.org/aos/agrovoc/c_26823	shrubs	PO:0000003	whole plant
+http://aims.fao.org/aos/agrovoc/c_27601	root nodules	PO:0003023	root nodule
+http://aims.fao.org/aos/agrovoc/c_27607	somatic embryos	PO:0025302	somatic plant embryo
+http://aims.fao.org/aos/agrovoc/c_2771	eyes	PO:0025042	subterranean tuber axillary vegetative bud
+http://aims.fao.org/aos/agrovoc/c_27966	capitulum	PO:0009049	inflorescence
+http://aims.fao.org/aos/agrovoc/c_27972	endocarp	PO:0009086	endocarp
+http://aims.fao.org/aos/agrovoc/c_27974	exocarp	PO:0009085	exocarp
+http://aims.fao.org/aos/agrovoc/c_27978	lateral meristem	PO:0020145	lateral meristem
+http://aims.fao.org/aos/agrovoc/c_27979	mesocarp	PO:0009087	mesocarp
+http://aims.fao.org/aos/agrovoc/c_27981	phellem	PO:0004003	phellem
+http://aims.fao.org/aos/agrovoc/c_27982	plant cuticle	PO:0000022	plant cuticle
+http://aims.fao.org/aos/agrovoc/c_27985	plant ovaries	PO:0009072	plant ovary
+http://aims.fao.org/aos/agrovoc/c_27995	thallus	PO:0030027	thallus
+http://aims.fao.org/aos/agrovoc/c_28094	improved wood	PO:0025473	compression wood
+http://aims.fao.org/aos/agrovoc/c_28101	resin canals	PO:0005665	resin canal
+http://aims.fao.org/aos/agrovoc/c_2879	fibres	PO:0025407	plant fiber cell
+http://aims.fao.org/aos/agrovoc/c_2992	flowering	PO:0009046	flower
+http://aims.fao.org/aos/agrovoc/c_2993	flowers	PO:0009046	flower
+http://aims.fao.org/aos/agrovoc/c_3119	fruit	PO:0009001	fruit
+http://aims.fao.org/aos/agrovoc/c_3222	genetics	PO:0000003	whole plant
+http://aims.fao.org/aos/agrovoc/c_32599	spurs	PO:0004701	short shoot
+http://aims.fao.org/aos/agrovoc/c_3289	glumes	PO:0009039	glume
+http://aims.fao.org/aos/agrovoc/c_330641	booting stage	PO:0007014	booting stage
+http://aims.fao.org/aos/agrovoc/c_330662	zygote stage	PO:0001097	plant zygote stage
+http://aims.fao.org/aos/agrovoc/c_330665	embryo stage	PO:0007631	plant embryo development stage
+http://aims.fao.org/aos/agrovoc/c_330768	flowering stage	PO:0007616	flowering stage
+http://aims.fao.org/aos/agrovoc/c_330864	primary root	PO:0020127	primary root
+http://aims.fao.org/aos/agrovoc/c_330894	organization	PO:0009008	plant organ
+http://aims.fao.org/aos/agrovoc/c_33935	aleurone layer	PO:0005360	aleurone layer
+http://aims.fao.org/aos/agrovoc/c_3399	growth rings	PO:0004515	early wood
+http://aims.fao.org/aos/agrovoc/c_3439	gum plants	PO:0025603	plant resin
+http://aims.fao.org/aos/agrovoc/c_3451	gynoecium	PO:0009062	gynoecium
+http://aims.fao.org/aos/agrovoc/c_3471	hair	PO:0000282	trichome
+http://aims.fao.org/aos/agrovoc/c_3509	head	PO:0009049	inflorescence
+http://aims.fao.org/aos/agrovoc/c_3510	heading	PO:0007041	inflorescence emergence stage
+http://aims.fao.org/aos/agrovoc/c_3518	heartwood	PO:0004512	heartwood
+http://aims.fao.org/aos/agrovoc/c_35193	sporangia	PO:0025094	sporangium
+http://aims.fao.org/aos/agrovoc/c_35930	latewood	PO:0004516	late wood
+http://aims.fao.org/aos/agrovoc/c_36777	leaf sheaths	PO:0020104	leaf sheath
+http://aims.fao.org/aos/agrovoc/c_3699	husking	PO:0009054	inflorescence bract
+http://aims.fao.org/aos/agrovoc/c_37284	lenticels	PO:0000031	lenticel
+http://aims.fao.org/aos/agrovoc/c_3770	hypocotyls	PO:0020100	hypocotyl
+http://aims.fao.org/aos/agrovoc/c_37743	husks	PO:0009054	inflorescence bract
+http://aims.fao.org/aos/agrovoc/c_37968	organizations	PO:0009008	plant organ
+http://aims.fao.org/aos/agrovoc/c_3904	integument	PO:0020021	integument
+http://aims.fao.org/aos/agrovoc/c_3909	intercalary meristems	PO:0006073	intercalary meristem
+http://aims.fao.org/aos/agrovoc/c_406	androecium	PO:0009061	androecium
+http://aims.fao.org/aos/agrovoc/c_4754	meristems	PO:0009013	portion of meristem tissue
+http://aims.fao.org/aos/agrovoc/c_4761	mesophyll	PO:0006070	mesophyll
+http://aims.fao.org/aos/agrovoc/c_478	anthers	PO:0009066	anther
+http://aims.fao.org/aos/agrovoc/c_49880	tissue	PO:0009007	portion of plant tissue
+http://aims.fao.org/aos/agrovoc/c_49904	organisms	PO:0009008	plant organ
+http://aims.fao.org/aos/agrovoc/c_50239	initiatives	PO:0004011	initial cell
+http://aims.fao.org/aos/agrovoc/c_50296	regional organizations	PO:0009008	plant organ
+http://aims.fao.org/aos/agrovoc/c_5099	nectaries	PO:0009035	nectary
+http://aims.fao.org/aos/agrovoc/c_528	apical meristems	PO:0020144	apical meristem
+http://aims.fao.org/aos/agrovoc/c_5343	oleoresins	PO:0025603	plant resin
+http://aims.fao.org/aos/agrovoc/c_5582	parenchyma	PO:0005421	parenchyma
+http://aims.fao.org/aos/agrovoc/c_5701	perianth	PO:0009058	perianth
+http://aims.fao.org/aos/agrovoc/c_5704	periderm	PO:0005046	periderm
+http://aims.fao.org/aos/agrovoc/c_5744	petioles	PO:0020038	petiole
+http://aims.fao.org/aos/agrovoc/c_5787	phloem	PO:0005417	phloem
+http://aims.fao.org/aos/agrovoc/c_5935	pith	PO:0006109	pith
+http://aims.fao.org/aos/agrovoc/c_5939	pituitary gland	PO:0030040	sporangium base
+http://aims.fao.org/aos/agrovoc/c_5944	placenta	PO:0025078	placenta
+http://aims.fao.org/aos/agrovoc/c_5959	plant developmental stages	PO:0009012	plant structure development stage
+http://aims.fao.org/aos/agrovoc/c_6029	plumule	PO:0020032	plumule
+http://aims.fao.org/aos/agrovoc/c_6070	pollen	PO:0025281	pollen
+http://aims.fao.org/aos/agrovoc/c_6423	radicle	PO:0020031	radicle
+http://aims.fao.org/aos/agrovoc/c_6443	rams	PO:0020147	root apical meristem
+http://aims.fao.org/aos/agrovoc/c_6462	ratooning	PO:0005001	basal axillary shoot system
+http://aims.fao.org/aos/agrovoc/c_6463	ratoons	PO:0005001	basal axillary shoot system
+http://aims.fao.org/aos/agrovoc/c_6565	rhizomes	PO:0004542	rhizome
+http://aims.fao.org/aos/agrovoc/c_6598	Costae	PO:0030072	costa
+http://aims.fao.org/aos/agrovoc/c_6640	root cap	PO:0020123	root cap
+http://aims.fao.org/aos/agrovoc/c_6643	root nodulation	PO:0003023	root nodule
+http://aims.fao.org/aos/agrovoc/c_6649	rooting	PO:0009005	root
+http://aims.fao.org/aos/agrovoc/c_6651	roots	PO:0009005	root
+http://aims.fao.org/aos/agrovoc/c_6800	sapwood	PO:0004513	sapwood
+http://aims.fao.org/aos/agrovoc/c_6861	sclerenchyma	PO:0005427	sclerenchyma
+http://aims.fao.org/aos/agrovoc/c_6927	seed	PO:0009010	seed
+http://aims.fao.org/aos/agrovoc/c_6936	seed pelleting	PO:0009088	seed coat
+http://aims.fao.org/aos/agrovoc/c_6945	seedlings	PO:0000003	whole plant
+http://aims.fao.org/aos/agrovoc/c_7063	silk	PO:0009074	style
+http://aims.fao.org/aos/agrovoc/c_7178	cell culture	PO:0000005	cultured plant cell
+http://aims.fao.org/aos/agrovoc/c_7301	spikelets	PO:0009051	spikelet
+http://aims.fao.org/aos/agrovoc/c_7324	spores	PO:0025017	plant spore
+http://aims.fao.org/aos/agrovoc/c_7366	standardizing	PO:0025324	banner petal
+http://aims.fao.org/aos/agrovoc/c_7367	standards	PO:0025324	banner petal
+http://aims.fao.org/aos/agrovoc/c_7386	stele	PO:0025197	stele
+http://aims.fao.org/aos/agrovoc/c_7390	stems	PO:0009047	stem
+http://aims.fao.org/aos/agrovoc/c_7421	stolons	PO:0003024	stolon
+http://aims.fao.org/aos/agrovoc/c_7423	stomata	PO:0002000	stomatal complex
+http://aims.fao.org/aos/agrovoc/c_7423	stomata	PO:0008032	stomatal pore
+http://aims.fao.org/aos/agrovoc/c_7490	suckering	PO:0004544	root-borne shoot system
+http://aims.fao.org/aos/agrovoc/c_7490	suckering	PO:0004545	shoot-borne shoot system
+http://aims.fao.org/aos/agrovoc/c_7664	tendrils	PO:0025361	leaf tendril
+http://aims.fao.org/aos/agrovoc/c_7664	tendrils	PO:0025362	leaflet tendril
+http://aims.fao.org/aos/agrovoc/c_7664	tendrils	PO:0025363	leaf apex tendril
+http://aims.fao.org/aos/agrovoc/c_7664	tendrils	PO:0025364	branch tendril
+http://aims.fao.org/aos/agrovoc/c_7664	tendrils	PO:0025365	stem apex tendril
+http://aims.fao.org/aos/agrovoc/c_7664	tendrils	PO:0025366	leaf rachis tendril
+http://aims.fao.org/aos/agrovoc/c_7664	tendrils	PO:0025367	prophyll tendril
+http://aims.fao.org/aos/agrovoc/c_7681	testa	PO:0020057	testa
+http://aims.fao.org/aos/agrovoc/c_7773	tillering	PO:0007073	2 formation of axillary shoot stage
+http://aims.fao.org/aos/agrovoc/c_7837	tracheids	PO:0000301	tracheid
+http://aims.fao.org/aos/agrovoc/c_7887	trees	PO:0000003	whole plant
+http://aims.fao.org/aos/agrovoc/c_7998	tubers	PO:0025522	tuber
+http://aims.fao.org/aos/agrovoc/c_8159	vascular bundles	PO:0005020	vascular bundle
+http://aims.fao.org/aos/agrovoc/c_8161	vascular tissues	PO:0009015	portion of vascular tissue
+http://aims.fao.org/aos/agrovoc/c_820	bark	PO:0004518	bark
+http://aims.fao.org/aos/agrovoc/c_8421	wood	PO:0005848	secondary xylem
+http://aims.fao.org/aos/agrovoc/c_8471	xylem	PO:0005352	xylem
+http://aims.fao.org/aos/agrovoc/c_8542	zygotes	PO:0000423	plant zygote
+http://aims.fao.org/aos/agrovoc/c_9023	awns	PO:0025349	awn
+http://aims.fao.org/aos/agrovoc/c_9550	callus culture	PO:0000009	cultured plant callus

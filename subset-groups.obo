@@ -1,0 +1,2086 @@
+format-version: 1.2
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1020
+name: botanical gardens
+def: "A place where a wide variety of plants are cultivated for scientific, educational, and ornamental purposes, often including a library, a herbarium, and greenhouses; an arboretum." []
+xref: http://cat.aii.caas.cn/concept/c_57715
+xref: http://d-nb.info/gnd/4146403-5
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/44380
+xref: http://lod.nal.usda.gov/nalt/18781
+xref: http://www.eionet.europa.eu/gemet/concept/969
+is_a: http://aims.fao.org/aos/agrovoc/c_5957  ! plant collections
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1022
+name: botanists
+def: "Someone who studies plants as a scientific or leisure activity." []
+xref: http://aims.fao.org/aos/asfa/c_4441
+xref: http://d-nb.info/gnd/4146402-3
+xref: http://dewey.info/class/580.92/
+xref: http://lod.nal.usda.gov/nalt/18789
+is_a: http://aims.fao.org/aos/agrovoc/c_924  ! biologists
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2466 ! ecologists
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5955 ! plant breeders
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10224
+name: customs unions
+def: "an association of nations to promote free trade within the union and set common tariffs for nations that are not members - wordnet.princeton.edu/perl/webwn" []
+xref: http://eurovoc.europa.eu/4600
+xref: http://id.loc.gov/authorities/sh85034980#concept
+xref: http://lod.gesis.org/thesoz/concept/10062998
+xref: http://zbw.eu/stw/descriptor/10628-4
+is_a: http://aims.fao.org/aos/agrovoc/c_2480  ! economic unions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10258
+name: cytologists
+def: "Cytologists/cell biologists study cell structure (e.g. the organelles they contain), life cycle, division and function (physiology) and eventual death." []
+is_a: http://aims.fao.org/aos/agrovoc/c_924  ! biologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_2091 ! cytology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10272
+name: dairy herds
+xref: http://lod.nal.usda.gov/nalt/31624
+is_a: http://aims.fao.org/aos/agrovoc/c_3569  ! herds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10277
+name: dams (mothers)
+xref: http://lod.nal.usda.gov/nalt/9026
+is_a: http://aims.fao.org/aos/agrovoc/c_4952  ! mothers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10629
+name: entomologists
+xref: http://aims.fao.org/aos/asfa/c_5582
+xref: http://lod.nal.usda.gov/nalt/37355
+is_a: http://aims.fao.org/aos/agrovoc/c_8528  ! zoologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_2588 ! entomology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10913
+name: flocks
+def: " A group of animals that live, travel, or feed together." []
+xref: http://lod.nal.usda.gov/nalt/9096
+is_a: http://aims.fao.org/aos/agrovoc/c_3569  ! herds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11125
+name: genus
+def: "A taxonomic category ranking used in biological classification that is below a family and above a species level, and includes group(s) of species that are structurally similar or phylogenetically related." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11126
+name: geomorphologists
+is_a: http://aims.fao.org/aos/agrovoc/c_3231  ! geologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11492
+name: height classes (in forestry)
+is_a: http://aims.fao.org/aos/agrovoc/c_28173  ! tree classes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11537
+name: herpetologists
+is_a: http://aims.fao.org/aos/agrovoc/c_8528  ! zoologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_3573 ! herpetology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11562
+name: histologists
+def: "A medical scientist who specializes in the study of the structure of organ tissues, including the composition of cells and their organization into various body tissues." []
+is_a: http://aims.fao.org/aos/agrovoc/c_924  ! biologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11698
+name: ichthyologists
+xref: http://aims.fao.org/aos/asfa/c_6560
+is_a: http://aims.fao.org/aos/agrovoc/c_8528  ! zoologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11972
+name: kibbutzim
+def: "A collective farm or settlement in modern Israel." []
+xref: http://lod.gesis.org/thesoz/concept/10048758
+is_a: http://aims.fao.org/aos/agrovoc/c_1786  ! communes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12359
+name: mammalogists
+xref: http://aims.fao.org/aos/asfa/c_7066
+is_a: http://aims.fao.org/aos/agrovoc/c_8528  ! zoologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_4559 ! mammalogy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12601
+name: mineralogists
+xref: http://id.loc.gov/authorities/sh85085588#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_3231  ! geologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12735
+name: mycologists
+is_a: http://aims.fao.org/aos/agrovoc/c_1022  ! botanists
+relationship: study http://aims.fao.org/aos/agrovoc/c_5019 ! mycology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12907
+name: human offspring
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13035
+name: palaeontologists
+def: "Scientists who studies paleontology, learning about the forms of life that existed in former geologic periods, chiefly by studying fossils. " []
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+relationship: study http://aims.fao.org/aos/agrovoc/c_5509 ! palaeontology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13112
+name: parasitologists
+is_a: http://aims.fao.org/aos/agrovoc/c_924  ! biologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_5578 ! parasitology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13269
+name: petrologists
+is_a: http://aims.fao.org/aos/agrovoc/c_3231  ! geologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13436
+name: plant pathologists
+is_a: http://aims.fao.org/aos/agrovoc/c_1022  ! botanists
+relationship: study http://aims.fao.org/aos/agrovoc/c_5974 ! plant pathology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13567
+name: pressure groups
+def: "An interest group that endeavors to influence public policy and especially governmental legislation, regarding its particular concerns and priorities." []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/35250
+xref: http://lod.gesis.org/thesoz/concept/10047732
+xref: http://www.eionet.europa.eu/gemet/concept/6594
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13631
+name: protozoologists
+is_a: http://aims.fao.org/aos/agrovoc/c_8528  ! zoologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_6270 ! protozoology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13701
+name: quadruplets
+def: "One of four offspring born in a single birth." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7050  ! siblings
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1374058972358
+name: forest managers
+is_a: http://aims.fao.org/aos/agrovoc/c_4566  ! managers
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_16129 ! forest management
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14182
+name: seismologists
+def: "A geophysicist who studies earthquakes and the mechanical characteristics of the Earth" []
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+relationship: study http://aims.fao.org/aos/agrovoc/c_6950 ! seismology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1423211760123
+name: variety (taxa)
+def: "A formal rank in botanical taxonomic nomenclature" []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_143
+name: advisory officers
+synonym: "extension workers" RELATED []
+xref: http://d-nb.info/gnd/4112711-0
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_2762 ! extension activities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14314
+name: sisters
+xref: http://lod.nal.usda.gov/nalt/63054
+is_a: http://aims.fao.org/aos/agrovoc/c_7050  ! siblings
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14343
+name: smallholders
+synonym: "small farmers" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_2805  ! farmers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14569
+name: state forests
+xref: http://cat.aii.caas.cn/concept/c_16513
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/36440
+xref: http://lod.nal.usda.gov/nalt/41195
+xref: http://www.eionet.europa.eu/gemet/concept/10694
+is_a: http://aims.fao.org/aos/agrovoc/c_28136  ! forest reserves
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14719
+name: swarms
+def: "A large number of insects such as bees or locusts flying as a group." []
+synonym: "hiving swarms" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_12473
+xref: http://lod.nal.usda.gov/nalt/47376
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_7546 ! swarming
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14998
+name: triplets
+def: "one of three offspring produced at one birth." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7050  ! siblings
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15054
+name: twins
+def: "one of two babies born to a mother at the same time" []
+xref: http://cat.aii.caas.cn/concept/c_42240
+xref: http://lod.nal.usda.gov/nalt/41513
+is_a: http://aims.fao.org/aos/agrovoc/c_7050  ! siblings
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15082
+name: undergraduates
+is_a: http://aims.fao.org/aos/agrovoc/c_7473  ! students
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15215
+name: virologists
+def: "A scientist or doctor who studies or specializes in viruses." []
+is_a: http://aims.fao.org/aos/agrovoc/c_4799  ! microbiologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1523
+name: chemists
+def: "A scientist who specialises in the study of chemistry." []
+xref: http://d-nb.info/gnd/4009836-9
+xref: http://dewey.info/class/540.92/
+xref: http://lod.nal.usda.gov/nalt/24716
+xref: http://zbw.eu/stw/descriptor/13959-1
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15520
+name: social groups
+def: "A group of people or animals living together in an organised way." []
+synonym: "people (sociology)" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_40029
+xref: http://dewey.info/class/305/
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/88020
+xref: http://www.eionet.europa.eu/gemet/concept/7796
+xref: http://zbw.eu/stw/descriptor/15714-0
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_49823 ! individuals
+relationship: includes http://aims.fao.org/aos/agrovoc/c_37955 ! associations
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3911 ! interest groups
+relationship: includes http://aims.fao.org/aos/agrovoc/c_50184 ! community organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15550
+name: leaders
+def: "One who is in charge or in command of others." []
+xref: http://lod.gesis.org/thesoz/concept/10044457
+xref: http://zbw.eu/stw/descriptor/15823-2
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_4236 ! leadership
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16019
+name: progeny
+def: "The young or children produced by any living thing." []
+synonym: "progeny forms" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_18549
+xref: http://cat.aii.caas.cn/concept/c_18577
+xref: http://lod.nal.usda.gov/nalt/803
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1547 ! children
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16047
+name: subspecies
+def: "A taxonomic group that is a division of a species; usually arises as a consequence of geographical isolation within a species." []
+xref: http://cat.aii.caas.cn/concept/c_51778
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16092
+name: F2 hybrids
+def: "A cross between two F1 hybrids. This second-generation cross does not produce consistent or vigorous plants." []
+is_a: http://aims.fao.org/aos/agrovoc/c_3707  ! hybrids
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16166
+name: biotypes
+xref: http://cat.aii.caas.cn/concept/c_40616
+xref: http://lod.nal.usda.gov/nalt/17552
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16574
+name: animal offspring
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16575
+name: plant offspring
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1670
+name: climatologists
+def: "A scientist who specialises in the study of the climate." []
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+relationship: study http://aims.fao.org/aos/agrovoc/c_1671 ! climatology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1678
+name: clones
+xref: http://aims.fao.org/aos/asfa/c_4801
+xref: http://cat.aii.caas.cn/concept/c_47695
+xref: http://d-nb.info/gnd/4308778-4
+xref: http://lod.nal.usda.gov/nalt/26945
+is_a: http://aims.fao.org/aos/agrovoc/c_6376  ! pure lines
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1756
+name: collections
+def: "The process of gathering something together." []
+xref: http://aims.fao.org/aos/asfa/c_4865
+xref: http://cat.aii.caas.cn/concept/c_3728
+xref: http://cat.aii.caas.cn/concept/c_41570
+xref: http://d-nb.info/gnd/4128844-0
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: includes http://aims.fao.org/aos/agrovoc/c_551 ! aquaria
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1784
+name: common markets
+def: "An economic unit, typically formed of nations, intended to eliminate or markedly reduce trade barriers among its members." []
+xref: http://cat.aii.caas.cn/concept/c_15369
+xref: http://d-nb.info/gnd/4200279-5
+xref: http://eurovoc.europa.eu/1792
+xref: http://lod.nal.usda.gov/nalt/28204
+is_a: http://aims.fao.org/aos/agrovoc/c_2480  ! economic unions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1786
+name: communes
+xref: http://cat.aii.caas.cn/concept/c_37603
+xref: http://d-nb.info/gnd/4031882-5
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb13340864c
+is_a: http://aims.fao.org/aos/agrovoc/c_6700  ! rural communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1975
+name: crossbreds
+def: "To produce (an organism) by the mating of individuals of different breeds, varieties, or species; hybridize." []
+xref: http://cat.aii.caas.cn/concept/c_56372
+xref: http://lod.nal.usda.gov/nalt/9220
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2133
+name: daughters
+synonym: "female offspring" RELATED []
+xref: http://d-nb.info/gnd/4060290-4
+xref: http://lod.nal.usda.gov/nalt/24919
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11931405j
+is_a: http://aims.fao.org/aos/agrovoc/c_12907  ! human offspring
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_23989
+name: agronomists
+def: "A person who studies the cultivation of crops and provides advice to farmers." []
+xref: http://cat.aii.caas.cn/concept/c_33447
+xref: http://d-nb.info/gnd/4203194-1
+xref: http://lod.nal.usda.gov/nalt/68609
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24039
+name: inbred lines
+def: "succeeding generations of animals all derived by breeding from the same group of closely related individuals." []
+xref: http://cat.aii.caas.cn/concept/c_23628
+xref: http://d-nb.info/gnd/4314842-6
+xref: http://lod.nal.usda.gov/nalt/47079
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_27530 ! genetic distance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24059
+name: pathotypes
+def: "An infrasubspecific classification of a pathogen distinguished from others of the species by its pathogenicity on a specific host(s)." []
+xref: http://lod.nal.usda.gov/nalt/17557
+is_a: http://aims.fao.org/aos/agrovoc/c_16166  ! biotypes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24081
+name: seed stands
+synonym: "seed orchards" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_28080  ! forest stands
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6941 ! seed trees
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24203
+name: mixed forest stands
+is_a: http://aims.fao.org/aos/agrovoc/c_28080  ! forest stands
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2466
+name: ecologists
+def: "A biologist who studies the relation between organisms and their environment " []
+xref: http://aims.fao.org/aos/asfa/c_5461
+xref: http://lod.nal.usda.gov/nalt/35717
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8528 ! zoologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_2467 ! ecology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2480
+name: economic unions
+def: "An agreement among two or more nations to eliminate trade barriers with each other, to adopt a common trade policy with other nations, to allow free movement of resources among the countries, ..." []
+xref: http://eurovoc.europa.eu/4601
+xref: http://zbw.eu/stw/descriptor/10627-6
+is_a: http://aims.fao.org/aos/agrovoc/c_50323  ! unions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24884
+name: plus trees
+xref: http://lod.nal.usda.gov/nalt/137428
+is_a: http://aims.fao.org/aos/agrovoc/c_28173  ! tree classes
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_5776 ! phenotypes
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3612 ! high yielding varieties
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_6951 ! selection
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25216
+name: bambusetum
+is_a: http://aims.fao.org/aos/agrovoc/c_5957  ! plant collections
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_803 ! Bambusa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25256
+name: palmetum
+def: "The Palmetum is a botanical garden featuring only one family of plants, the Palm tree" []
+is_a: http://aims.fao.org/aos/agrovoc/c_5957  ! plant collections
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_15807 ! Arecaceae
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25285
+name: museums
+def: "A building where old, interesting and valuable objects are stored and displayed to the public." []
+xref: http://aims.fao.org/aos/asfa/c_7361
+xref: http://lod.gesis.org/thesoz/concept/10037433
+xref: http://zbw.eu/stw/descriptor/13357-1
+is_a: http://aims.fao.org/aos/agrovoc/c_1756  ! collections
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25292
+name: agrometeorologists
+is_a: http://aims.fao.org/aos/agrovoc/c_4782  ! meteorologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2573
+name: engineers
+def: "One who is trained or professionally engaged in a branch of engineering." []
+xref: http://aims.fao.org/aos/asfa/c_5577
+xref: http://d-nb.info/gnd/4026955-3
+xref: http://eurovoc.europa.eu/1435
+xref: http://lod.nal.usda.gov/nalt/37144
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11932114x
+xref: http://zbw.eu/stw/descriptor/13960-2
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2678
+name: ethnic groups
+synonym: "ethnicity" RELATED []
+xref: http://d-nb.info/gnd/4153095-0
+xref: http://eurovoc.europa.eu/1202
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11939090f
+xref: http://zbw.eu/stw/descriptor/15918-5
+is_a: http://aims.fao.org/aos/agrovoc/c_3683  ! human population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27492
+name: composite populations
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27609
+name: somatic hybrids
+synonym: "cybrids" RELATED []
+synonym: "cytoplasmic hybrids" RELATED []
+xref: http://d-nb.info/gnd/4377227-4
+is_a: http://aims.fao.org/aos/agrovoc/c_3707  ! hybrids
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27623
+name: variants
+def: "something that differs in some characteristic from the class to which it belongs." []
+xref: http://cat.aii.caas.cn/concept/c_21189
+xref: http://cat.aii.caas.cn/concept/c_2860
+xref: http://d-nb.info/gnd/4199570-3
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2785
+name: families
+def: "A group of people, or of some other animals, composed of parents and offspring." []
+xref: http://cat.aii.caas.cn/concept/c_21816
+xref: http://d-nb.info/gnd/4016397-0
+xref: http://dewey.info/class/362.82/
+xref: http://lod.nal.usda.gov/nalt/24920
+is_a: http://aims.fao.org/aos/agrovoc/c_15520  ! social groups
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_5585 ! parents
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_15502 ! family size
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3683 ! human population
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6115 ! population structure
+relationship: produces http://aims.fao.org/aos/agrovoc/c_16019 ! progeny
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2805
+name: farmers
+def: "Those who works on or operates a farm." []
+synonym: "growers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33405
+xref: http://d-nb.info/gnd/4034399-6
+xref: http://eurovoc.europa.eu/936
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/93620
+xref: http://lod.nal.usda.gov/nalt/39491
+xref: http://zbw.eu/stw/descriptor/13436-5
+is_a: http://aims.fao.org/aos/agrovoc/c_8676  ! agricultural population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28080
+name: forest stands
+synonym: "forest management units" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_27537
+xref: http://d-nb.info/gnd/4132298-8
+xref: http://lod.nal.usda.gov/nalt/41125
+is_a: http://aims.fao.org/aos/agrovoc/c_5975  ! plant population
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3062 ! forests
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28081
+name: even aged stands
+xref: http://lod.nal.usda.gov/nalt/38822
+is_a: http://aims.fao.org/aos/agrovoc/c_28080  ! forest stands
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28136
+name: forest reserves
+def: "An area of forest set aside and preserved by the government as a wilderness, national park, or the like. " []
+synonym: "reserve stands" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_39176
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/32830
+xref: http://lod.nal.usda.gov/nalt/41193
+xref: http://www.eionet.europa.eu/gemet/concept/3435
+is_a: http://aims.fao.org/aos/agrovoc/c_28080  ! forest stands
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_3050 ! forest resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2815
+name: fathers
+synonym: "fatherhood" RELATED []
+synonym: "male parents" RELATED []
+synonym: "paternal effects" RELATED []
+synonym: "paternity" RELATED []
+synonym: "sires" RELATED []
+xref: http://d-nb.info/gnd/4062386-5
+xref: http://lod.nal.usda.gov/nalt/798
+xref: http://zbw.eu/stw/descriptor/19762-4
+is_a: http://aims.fao.org/aos/agrovoc/c_5585  ! parents
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28173
+name: tree classes
+xref: http://lod.nal.usda.gov/nalt/5078
+is_a: http://aims.fao.org/aos/agrovoc/c_5975  ! plant population
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3052 ! forest trees
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28174
+name: crown classes
+is_a: http://aims.fao.org/aos/agrovoc/c_28173  ! tree classes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28175
+name: stem classes
+is_a: http://aims.fao.org/aos/agrovoc/c_28173  ! tree classes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28176
+name: dominated trees
+xref: http://cat.aii.caas.cn/concept/c_54674
+is_a: http://aims.fao.org/aos/agrovoc/c_28173  ! tree classes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28177
+name: filler trees
+is_a: http://aims.fao.org/aos/agrovoc/c_28173  ! tree classes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28181
+name: uneven aged stands
+synonym: "irregular stands" RELATED []
+xref: http://lod.nal.usda.gov/nalt/64048
+is_a: http://aims.fao.org/aos/agrovoc/c_28080  ! forest stands
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2821
+name: fauna
+xref: http://aims.fao.org/aos/asfa/c_5742
+xref: http://cat.aii.caas.cn/concept/c_10005
+xref: http://cat.aii.caas.cn/concept/c_9975
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/20090
+xref: http://lod.nal.usda.gov/nalt/9588
+xref: http://www.eionet.europa.eu/gemet/concept/3138
+is_a: http://aims.fao.org/aos/agrovoc/c_930  ! biota
+relationship: includes http://aims.fao.org/aos/agrovoc/c_24103 ! wild animals
+relationship: includes http://aims.fao.org/aos/agrovoc/c_34268 ! indigenous organisms
+relationship: includes http://aims.fao.org/aos/agrovoc/c_435 ! animal population
+relationship: includes http://aims.fao.org/aos/agrovoc/c_440 ! animal resources
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7169 ! soil fauna
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28315
+name: consumers
+def: "One that consumes, especially one that acquires goods or services for direct use or ownership rather than for resale or use in production and manufacturing." []
+xref: http://aims.fao.org/aos/asfa/c_4943
+xref: http://cat.aii.caas.cn/concept/c_54660
+xref: http://d-nb.info/gnd/4062632-5
+xref: http://eurovoc.europa.eu/138
+xref: http://lod.gesis.org/thesoz/concept/10048454
+xref: http://lod.nal.usda.gov/nalt/775
+xref: http://zbw.eu/stw/descriptor/10298-6
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37606 ! consumer participation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_50189 ! consumer organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28625
+name: absentee landowners
+is_a: http://aims.fao.org/aos/agrovoc/c_4184  ! landowners
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28771
+name: sociologists
+def: "A social scientist who studies the institutions and development of human society" []
+xref: http://d-nb.info/gnd/4055930-0
+xref: http://lod.gesis.org/thesoz/concept/10058579
+xref: http://lod.nal.usda.gov/nalt/55544
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119372988
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28788
+name: working population
+xref: http://eurovoc.europa.eu/2550
+is_a: http://aims.fao.org/aos/agrovoc/c_3683  ! human population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28816
+name: low income groups
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/76010
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28827
+name: agricultural sociologists
+is_a: http://aims.fao.org/aos/agrovoc/c_28771  ! sociologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28915
+name: minority groups
+def: "A culturally, ethnically, or racially distinct group that coexists with but is subordinate to a more dominant group." []
+synonym: "minorities" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_15520  ! social groups
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_34011 ! disabled persons
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_34113 ! refugees
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2678 ! ethnic groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28949
+name: religious groups
+synonym: "religious organizations" RELATED []
+xref: http://dewey.info/class/391.0088/
+xref: http://eurovoc.europa.eu/3486
+xref: http://lod.gesis.org/thesoz/concept/10046054
+is_a: http://aims.fao.org/aos/agrovoc/c_15520  ! social groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28982
+name: working class
+def: "The socioeconomic class consisting of people who work for wages, especially low wages, including unskilled and semiskilled laborers and their families." []
+xref: http://cat.aii.caas.cn/concept/c_15175
+xref: http://cat.aii.caas.cn/concept/c_47552
+xref: http://dewey.info/class/362.85/
+xref: http://eurovoc.europa.eu/6000
+xref: http://lod.gesis.org/thesoz/concept/10035971
+xref: http://zbw.eu/stw/descriptor/11070-3
+is_a: http://aims.fao.org/aos/agrovoc/c_15520  ! social groups
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_8445 ! workers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28e0dafa
+name: non indigenous peoples
+def: "Non-indigenous refers to an entity or concept that originally comes from outside the area specified." []
+is_a: http://aims.fao.org/aos/agrovoc/c_2678  ! ethnic groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28f78be5
+name: priest of the land
+def: "The priest of the land is responsible for limited functions in relation to land, including setting out the calendar of works on the land." []
+is_a: http://aims.fao.org/aos/agrovoc/c_d08b21b6  ! lineage land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2914
+name: firemen
+def: "One who tends fires; a stoker." []
+synonym: "fire fighters" RELATED []
+synonym: "fire prevention guards" RELATED []
+synonym: "fire wardens" RELATED []
+synonym: "smoke jumpers" RELATED []
+xref: http://d-nb.info/gnd/4154284-8
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_2908 ! fire control
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29225
+name: lineage
+xref: http://cat.aii.caas.cn/concept/c_51355
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16019 ! progeny
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29226
+name: breeding lines
+def: "A group of identical pure-breeding diploid or polyploid organisms, distinguished from other individuals of the same species by some unique phenotype and genotype." []
+xref: http://lod.nal.usda.gov/nalt/19697
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+relationship: produces http://aims.fao.org/aos/agrovoc/c_16019 ! progeny
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29295
+name: farm managers
+xref: http://d-nb.info/gnd/4145051-6
+is_a: http://aims.fao.org/aos/agrovoc/c_4566  ! managers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2936
+name: fishermen
+def: "One who catches fish as an occupation or as a leisure activity." []
+xref: http://aims.fao.org/aos/asfa/c_5835
+xref: http://cat.aii.caas.cn/concept/c_55293
+xref: http://d-nb.info/gnd/4140853-6
+xref: http://eurovoc.europa.eu/2311
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119416028
+xref: http://zbw.eu/stw/descriptor/13873-4
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2983
+name: flora
+xref: http://aims.fao.org/aos/asfa/c_5908
+xref: http://cat.aii.caas.cn/concept/c_57671
+xref: http://cat.aii.caas.cn/concept/c_57718
+xref: http://lod.nal.usda.gov/nalt/17393
+is_a: http://aims.fao.org/aos/agrovoc/c_930  ! biota
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_7172 ! soil flora
+relationship: includes http://aims.fao.org/aos/agrovoc/c_15945 ! botanical composition
+relationship: includes http://aims.fao.org/aos/agrovoc/c_34268 ! indigenous organisms
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5979 ! plant resources
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3054
+name: foresters
+def: "Persons who manages woodland and plantations of trees." []
+xref: http://dewey.info/class/634.9092/
+xref: http://id.loc.gov/authorities/sh85050686#concept
+xref: http://lod.nal.usda.gov/nalt/41224
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3159
+name: F1 hybrids
+def: "The generation resulting from a genetically controlled mating that is successive to the parental generation." []
+is_a: http://aims.fao.org/aos/agrovoc/c_3707  ! hybrids
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_3705 ! heterosis
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3221
+name: geneticists
+def: "A person who specialises in the study of genetics." []
+xref: http://d-nb.info/gnd/4128936-5
+xref: http://lod.nal.usda.gov/nalt/68607
+is_a: http://aims.fao.org/aos/agrovoc/c_924  ! biologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_3222 ! genetics
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3229
+name: geographers
+def: "Persons who specializes in geographical research, delineation, and study. " []
+xref: http://d-nb.info/gnd/4020214-8
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3231
+name: geologists
+def: "Persons who specializes in geologic research and study. " []
+xref: http://aims.fao.org/aos/asfa/c_6151
+xref: http://d-nb.info/gnd/4020226-4
+xref: http://dewey.info/class/551.092/
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119610815
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7189 ! soil scientists
+relationship: study http://aims.fao.org/aos/agrovoc/c_3232 ! geology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3234
+name: geophysicists
+xref: http://d-nb.info/gnd/4350650-1
+xref: http://id.loc.gov/authorities/sh85054184#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_5832  ! physicists
+relationship: study http://aims.fao.org/aos/agrovoc/c_3235 ! geophysics
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32380
+name: archives
+def: "A store of data kept over a long period, usually in compressed form." []
+xref: http://aims.fao.org/aos/asfa/c_4074
+xref: http://cat.aii.caas.cn/concept/c_8312
+xref: http://eurovoc.europa.eu/2492
+xref: http://lod.gesis.org/thesoz/concept/10036724
+xref: http://zbw.eu/stw/descriptor/13341-2
+is_a: http://aims.fao.org/aos/agrovoc/c_1756  ! collections
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32460
+name: F3 hybrids
+is_a: http://aims.fao.org/aos/agrovoc/c_3707  ! hybrids
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32662
+name: economists
+def: "A person who specialises in the study of economics, often one who advises policymakers." []
+xref: http://lod.gesis.org/thesoz/concept/10053624
+xref: http://lod.nal.usda.gov/nalt/5308
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11931937j
+xref: http://zbw.eu/stw/descriptor/14017-6
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: study http://aims.fao.org/aos/agrovoc/c_2481 ! economics
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330886
+name: tenants
+def: "One that pays rent to use or occupy land, a building, or other property owned by another." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330887
+name: population
+def: "The number of people living in a country or town." []
+xref: http://dewey.info/class/304.6/
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/108870
+xref: http://lod.gesis.org/thesoz/concept/10034764
+xref: http://lod.nal.usda.gov/nalt/136981
+xref: http://zbw.eu/stw/descriptor/15909-6
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330934
+name: kingdom (taxa)
+def: "In biology, kingdom is a taxonomic rank that is composed of smaller groups called phyla (or divisions, in plants)." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330935
+name: class (taxa)
+def: "One of the categories into which organisms are divided" []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330936
+name: order (taxa)
+def: "A classification of animals or plants, formed of several families." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330937
+name: family (taxa)
+def: "A taxonomic category of related organisms ranking below an order and above a genus. A family usually consists of several genera." []
+synonym: "familia" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330940
+name: domain (taxa)
+synonym: "empire (taxa)" RELATED []
+synonym: "superkingdom" RELATED []
+synonym: "superregnum" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330949
+name: phylum
+def: "A taxonomic rank at the level below Kingdom and above Class in biological classification, especially of animals." []
+synonym: "division (taxa)" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330955
+name: subkingdom
+def: "A subdivision of a kingdom of organisms. A subkingdom contains one or more phyla." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330960
+name: superdivision
+synonym: "superphylum" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331071
+name: subfamily
+def: "A subdivision of a family of organisms, containing one or more genera." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331165
+name: suborder
+def: "A taxonomic category of related organisms ranking below an order and containing one or more families." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331205
+name: subphylum
+synonym: "subdivision (taxa)" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331206
+name: subclass
+def: "A taxonomic category of related organisms ranking below a class and containing one or more orders." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331231
+name: superfamily
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331243
+name: species (taxa)
+def: "The lowest taxonomic rank, and the most basic unit or category of biological classification." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331261
+name: superorder
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331265
+name: infraorder
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331310
+name: infraclass
+def: "A taxonomic category of related organisms ranking below a subclass and above an order." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7624  ! taxa
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331405
+name: fishing communities
+synonym: "fishery communities" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_50182  ! communities
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_2936 ! fishermen
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331524
+name: indigenous peoples
+synonym: "native peoples" RELATED []
+xref: http://lod.gesis.org/thesoz/concept/10042818
+xref: http://lod.nal.usda.gov/nalt/1773
+xref: http://zbw.eu/stw/descriptor/19643-5
+is_a: http://aims.fao.org/aos/agrovoc/c_2678  ! ethnic groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331526
+name: tribal peoples
+synonym: "tribes" RELATED []
+xref: http://lod.nal.usda.gov/nalt/47148
+is_a: http://aims.fao.org/aos/agrovoc/c_2678  ! ethnic groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33524
+name: physiological races
+xref: http://cat.aii.caas.cn/concept/c_40451
+xref: http://cat.aii.caas.cn/concept/c_40462
+is_a: http://aims.fao.org/aos/agrovoc/c_16166  ! biotypes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34011
+name: disabled persons
+def: "A person who has a physical disability" []
+synonym: "handicapped persons" RELATED []
+xref: http://eurovoc.europa.eu/1231
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/97820
+xref: http://www.eionet.europa.eu/gemet/concept/2213
+is_a: http://aims.fao.org/aos/agrovoc/c_15520  ! social groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34113
+name: refugees
+def: "People who has left a country because of war, or political or religious persecution" []
+xref: http://lod.gesis.org/thesoz/concept/10043768
+xref: http://zbw.eu/stw/descriptor/15919-3
+is_a: http://aims.fao.org/aos/agrovoc/c_15520  ! social groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35298
+name: soil seed banks
+def: "All the viable seeds present in the soil or mixed to soil debris constitute the soil seed bank." []
+synonym: "buried seeds" RELATED []
+synonym: "soil seed potential" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_35301  ! seed collections
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8347 ! weeds
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6946 ! seeds
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_3212 ! gene pools
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35301
+name: seed collections
+xref: http://aims.fao.org/aos/asfa/c_8638
+is_a: http://aims.fao.org/aos/agrovoc/c_36739  ! germplasm collections
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35302
+name: germplasm banks
+def: "An establishment concerned primarily with the conservation of hereditary genetic material which may be lost through the process of genetic erosion. " []
+xref: http://cat.aii.caas.cn/concept/c_58518
+xref: http://cat.aii.caas.cn/concept/c_58520
+is_a: http://aims.fao.org/aos/agrovoc/c_1756  ! collections
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_36739 ! germplasm collections
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3565
+name: herbaria
+def: "A collection of dried plants mounted, labeled, and systematically arranged for use in scientific study." []
+xref: http://d-nb.info/gnd/4159577-4
+xref: http://lod.nal.usda.gov/nalt/18790
+is_a: http://aims.fao.org/aos/agrovoc/c_5957  ! plant collections
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3569
+name: herds
+def: "A group of cattle or other domestic animals of a single kind kept together for a specific purpose." []
+xref: http://d-nb.info/gnd/4159591-9
+xref: http://lod.nal.usda.gov/nalt/9097
+is_a: http://aims.fao.org/aos/agrovoc/c_435  ! animal population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36677
+name: feral herds
+is_a: http://aims.fao.org/aos/agrovoc/c_3569  ! herds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36739
+name: germplasm collections
+is_a: http://aims.fao.org/aos/agrovoc/c_1756  ! collections
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_3249 ! germplasm
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3677
+name: housewives
+def: "woman who manages her own household as her main occupation." []
+xref: http://d-nb.info/gnd/4023733-3
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_3676 ! households
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36825
+name: physicians
+def: "A registered doctor who is not a surgeon." []
+synonym: "doctors" RELATED []
+xref: http://d-nb.info/gnd/4003157-3
+xref: http://lod.gesis.org/thesoz/concept/10034642
+xref: http://lod.nal.usda.gov/nalt/34271
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11932462m
+xref: http://zbw.eu/stw/descriptor/13370-2
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3683
+name: human population
+synonym: "people (demography)" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_37587
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/95660
+xref: http://lod.nal.usda.gov/nalt/23588
+xref: http://www.eionet.europa.eu/gemet/concept/4056
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_6115 ! population structure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34888 ! population pressure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3676 ! households
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4586 ! mankind
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6111 ! population dynamics
+relationship: influences http://aims.fao.org/aos/agrovoc/c_9000029 ! demographic transition
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3707
+name: hybrids
+def: "An offsprings resulting from the cross between parents of different species or sub-species." []
+synonym: "hybrid varieties" RELATED []
+synonym: "mongrels" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6453
+xref: http://cat.aii.caas.cn/concept/c_56391
+xref: http://d-nb.info/gnd/4026279-0
+xref: http://lod.nal.usda.gov/nalt/30999
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+relationship: includes http://aims.fao.org/aos/agrovoc/c_16340 ! Sudax
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3730
+name: hydrologists
+def: "A person that applies scientific knowledge and mathematical principles to solve water-related problems in society such as problems of quantity, quality, and availability." []
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37888
+name: entrepreneurs
+def: "A person who directs a company and takes commercial risks. He or she sees market opportunities and acts on them for profit." []
+xref: http://eurovoc.europa.eu/3542
+xref: http://lod.gesis.org/thesoz/concept/10060836
+xref: http://zbw.eu/stw/descriptor/13992-3
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: benefitsFrom http://aims.fao.org/aos/agrovoc/c_37887 ! entrepreneurship
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3911
+name: interest groups
+def: "A group of persons working on behalf of or strongly supporting a particular cause, such as an item of legislation, an industry, or a special segment of society." []
+xref: http://eurovoc.europa.eu/1192
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/91340
+xref: http://lod.gesis.org/thesoz/concept/10036052
+xref: http://www.eionet.europa.eu/gemet/concept/4402
+xref: http://zbw.eu/stw/descriptor/10984-3
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: includes http://aims.fao.org/aos/agrovoc/c_37955 ! associations
+relationship: includes http://aims.fao.org/aos/agrovoc/c_50160 ! beekeepers' associations
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7141 ! socioeconomic organization
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_50239 ! initiatives
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_394
+name: ancestry
+def: "Your family going back over many generations." []
+synonym: "granddams" RELATED []
+synonym: "grandsires" RELATED []
+synonym: "parentage" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_60047
+xref: http://d-nb.info/gnd/4141137-7
+xref: http://lod.nal.usda.gov/nalt/8608
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16019 ! progeny
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2785 ! families
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3869 ! genetic inheritance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4184
+name: landowners
+def: "An owner or proprietor of land. " []
+synonym: "landlords" RELATED []
+xref: http://dewey.info/class/333.0092/
+xref: http://lod.nal.usda.gov/nalt/779
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_4172 ! land
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5466 ! ownership
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7669 ! tenure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_422
+name: animal breeders
+xref: http://d-nb.info/gnd/4373346-3
+xref: http://lod.nal.usda.gov/nalt/68610
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_424
+name: animal collections
+is_a: http://aims.fao.org/aos/agrovoc/c_1756  ! collections
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_435
+name: animal population
+xref: http://aims.fao.org/aos/asfa/c_3996
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/34910
+xref: http://www.eionet.europa.eu/gemet/concept/10539
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6111 ! population dynamics
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6115 ! population structure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4566
+name: managers
+def: "Manager is the person responsible for planning and directing the work of a group of individuals, monitoring their work, and taking corrective action when necessary." []
+synonym: "administrators" RELATED []
+xref: http://d-nb.info/gnd/4071497-4
+xref: http://eurovoc.europa.eu/5081
+xref: http://lod.gesis.org/thesoz/concept/10044475
+xref: http://lod.nal.usda.gov/nalt/4283
+xref: http://zbw.eu/stw/descriptor/11302-1
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_45cd8441
+name: local community
+def: "Local community is a traditional collectivity with a range of powers covering a certain geographical area and an autonomous management structure. " []
+is_a: http://aims.fao.org/aos/agrovoc/c_6705  ! rural population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4694
+name: medical auxiliaries
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4750
+name: merchants
+def: "One whose occupation is the wholesale purchase and retail sale of goods for profit." []
+xref: http://d-nb.info/gnd/4128272-3
+xref: http://eurovoc.europa.eu/2045
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4782
+name: meteorologists
+def: "Those who reports and forecasts weather conditions." []
+xref: http://aims.fao.org/aos/asfa/c_7211
+xref: http://d-nb.info/gnd/4398985-8
+xref: http://dewey.info/class/551.5092/
+xref: http://id.loc.gov/authorities/sh85084333#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1670 ! climatologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4799
+name: microbiologists
+def: "A scientist that studies a wide range of microorganisms in various subdisciplines of biology, such as bacteriology, mycology, parasitology, and virology." []
+xref: http://aims.fao.org/aos/asfa/c_7223
+xref: http://d-nb.info/gnd/4039199-1
+is_a: http://aims.fao.org/aos/agrovoc/c_924  ! biologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4952
+name: mothers
+synonym: "female parents" RELATED []
+synonym: "maternal effects" RELATED []
+synonym: "motherhood" RELATED []
+xref: http://d-nb.info/gnd/4040949-1
+xref: http://lod.gesis.org/thesoz/concept/10041962
+xref: http://lod.nal.usda.gov/nalt/800
+xref: http://zbw.eu/stw/descriptor/18970-2
+is_a: http://aims.fao.org/aos/agrovoc/c_5585  ! parents
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_4648 ! maternity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49823
+name: individuals
+synonym: "person" RELATED []
+xref: http://lod.gesis.org/thesoz/concept/10047173
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49916
+name: European Commission
+synonym: "EC" RELATED []
+xref: http://eurovoc.europa.eu/4038
+xref: http://lod.gesis.org/thesoz/concept/10041457
+xref: http://www.eionet.europa.eu/gemet/concept/2993
+is_a: http://aims.fao.org/aos/agrovoc/c_50180  ! commissions
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4253 ! legislation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5013
+name: mutants
+def: " An individual, organism, or new genetic character arising or resulting from mutation." []
+synonym: "sports (plant)" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_45597
+xref: http://cat.aii.caas.cn/concept/c_45600
+xref: http://d-nb.info/gnd/4256709-9
+xref: http://lod.nal.usda.gov/nalt/14079
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+relationship: includes http://aims.fao.org/aos/agrovoc/c_27623 ! variants
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50139
+name: patients
+def: "Bearing or enduring pain, difficulty, provocation, or annoyance with calmness." []
+xref: http://lod.gesis.org/thesoz/concept/10049928
+xref: http://lod.nal.usda.gov/nalt/781
+is_a: http://aims.fao.org/aos/agrovoc/c_49823  ! individuals
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50151
+name: affinity groups
+def: "A group of people who share a common interest, background, or goal." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50310  ! special interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50164
+name: bodies
+def: "A group of individuals regarded as an entity; a corporation." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50179
+name: coalitions
+def: "A group of two or more political parties who come together to form a government, when no single party has an absolute majority." []
+xref: http://lod.gesis.org/thesoz/concept/10045946
+is_a: http://aims.fao.org/aos/agrovoc/c_50164  ! bodies
+relationship: influences http://aims.fao.org/aos/agrovoc/c_11230 ! government
+relationship: influences http://aims.fao.org/aos/agrovoc/c_50319 ! treaties
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50180
+name: commissions
+def: "The act of granting certain powers or the authority to carry out a particular task or duty" []
+is_a: http://aims.fao.org/aos/agrovoc/c_50164  ! bodies
+relationship: influences http://aims.fao.org/aos/agrovoc/c_130 ! administration
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50181
+name: committees
+def: "Agroup of people dealing with a particular subject or problem." []
+xref: http://lod.nal.usda.gov/nalt/68524
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: influences http://aims.fao.org/aos/agrovoc/c_130 ! administration
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50182
+name: communities
+def: "A group of people living in the same locality and under the same government." []
+xref: http://dewey.info/class/307/
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/125300
+xref: http://lod.gesis.org/thesoz/concept/10044966
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: includes http://aims.fao.org/aos/agrovoc/c_50184 ! community organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50194
+name: councils
+def: "An assembly of persons summoned or convened for consultation, deliberation, or advice. " []
+xref: http://lod.gesis.org/thesoz/concept/10049755
+is_a: http://aims.fao.org/aos/agrovoc/c_50220  ! governing bodies
+relationship: influences http://aims.fao.org/aos/agrovoc/c_130 ! administration
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50195
+name: country clubs
+def: "A suburban club for social and sports activities, usually featuring a golf course." []
+xref: http://id.loc.gov/authorities/sh86007242#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50201
+name: economic interest groups
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50203
+name: employees' associations
+def: "An organization, other than a trade union, whose members comprise employees of a single employing organization. The aims of the association may be social, recreational, or professional." []
+synonym: "employee associations" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_37955  ! associations
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50204
+name: employers' organizations
+def: "An organization of employers who work together when discussing wages and working conditions with trade unions, and represent employers in discussions with public organizations and government." []
+synonym: "employers organizations" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_37968  ! organizations
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_50203 ! employees' associations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50212
+name: forest user groups
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3055 ! forestry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50220
+name: governing bodies
+synonym: "governing boards" RELATED []
+xref: http://lod.gesis.org/thesoz/concept/10061562
+is_a: http://aims.fao.org/aos/agrovoc/c_50164  ! bodies
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50227
+name: groups
+def: "A number of individual items or people brought together." []
+xref: http://lod.gesis.org/thesoz/concept/10036244
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50238
+name: informal organizations
+def: "Network of personal and social relationships (alliances, cliques, friendships) that arise as people associate with other people in a work environment." []
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50252
+name: local groups
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50254
+name: marketing groups
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50264
+name: natural resource user groups
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50280
+name: parent teacher groups
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50285
+name: political parties
+def: "A political party is a political organization subscribing to a certain ideology or formed around very special issues." []
+xref: http://dewey.info/class/324.2/
+xref: http://eurovoc.europa.eu/2258
+xref: http://www.eionet.europa.eu/gemet/concept/6387
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+relationship: influences http://aims.fao.org/aos/agrovoc/c_11230 ! government
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50286
+name: poultry producer groups
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50288
+name: produce groups
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50293
+name: public bodies
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/106890
+is_a: http://aims.fao.org/aos/agrovoc/c_50164  ! bodies
+relationship: influences http://aims.fao.org/aos/agrovoc/c_11230 ! government
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50301
+name: savings groups
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50304
+name: secretariats
+def: "An important office and the officials who work in it, usually headed by a Secretary or Secretary-General." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50164  ! bodies
+relationship: influences http://aims.fao.org/aos/agrovoc/c_130 ! administration
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50310
+name: special interest groups
+def: "A community of people who have an interest in one specific area of study and development, e.g. computer-human interaction." []
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50312
+name: sub-committees
+def: "A subordinate committee composed of members appointed from a main committee." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50181  ! committees
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50314
+name: task forces
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50316
+name: technical societies
+is_a: http://aims.fao.org/aos/agrovoc/c_24062  ! professional associations
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50321
+name: ujamaa villages
+def: "A communally organized village in Tanzania." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50158  ! autonomous organizations
+is_a: http://aims.fao.org/aos/agrovoc/c_50182  ! communities
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_16073 ! self help
+relationship: influences http://aims.fao.org/aos/agrovoc/c_10090 ! cooperatives
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50322
+name: unemployed workers' organization
+is_a: http://aims.fao.org/aos/agrovoc/c_50204  ! employers' organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50323
+name: unions
+def: "A combination so formed, especially an alliance or confederation of people, parties, or political entities for mutual interest or benefit." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: includes http://aims.fao.org/aos/agrovoc/c_50334 ! labour organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50328
+name: water user associations
+is_a: http://aims.fao.org/aos/agrovoc/c_50329  ! water user groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50329
+name: water user groups
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5299
+name: oceanographers
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5585
+name: parents
+def: "One who begets, gives birth to, or nurtures and raises a child; a father or mother" []
+xref: http://cat.aii.caas.cn/concept/c_36244
+xref: http://cat.aii.caas.cn/concept/c_36245
+xref: http://cat.aii.caas.cn/concept/c_36249
+xref: http://cat.aii.caas.cn/concept/c_56365
+xref: http://d-nb.info/gnd/4014516-5
+xref: http://lod.gesis.org/thesoz/concept/10034594
+xref: http://lod.nal.usda.gov/nalt/31696
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11957207j
+xref: http://zbw.eu/stw/descriptor/19759-0
+is_a: http://aims.fao.org/aos/agrovoc/c_394  ! ancestry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5646
+name: peasantry
+def: "The social class constituted by peasants." []
+xref: http://d-nb.info/gnd/4004763-5
+xref: http://lod.gesis.org/thesoz/concept/10037693
+xref: http://lod.nal.usda.gov/nalt/57126
+is_a: http://aims.fao.org/aos/agrovoc/c_15520  ! social groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5832
+name: physicists
+def: "A scientist who specializes in physics." []
+xref: http://d-nb.info/gnd/4045968-8
+xref: http://dewey.info/class/530.092/
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5838
+name: physiologists
+def: "A scientist who specialises in the study of the functions of living organisms." []
+xref: http://d-nb.info/gnd/4210087-2
+xref: http://lod.nal.usda.gov/nalt/55541
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_586
+name: arboreta
+def: "A place where an extensive variety of woody plants are cultivated for scientific, educational, and ornamental purposes." []
+xref: http://d-nb.info/gnd/4142942-4
+xref: http://lod.nal.usda.gov/nalt/11813
+is_a: http://aims.fao.org/aos/agrovoc/c_1020  ! botanical gardens
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_587 ! arboriculture
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_7887 ! trees
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5955
+name: plant breeders
+def: "A person who produces new forms of ornamental or crop plants" []
+xref: http://d-nb.info/gnd/4333924-4
+xref: http://lod.nal.usda.gov/nalt/68611
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5957
+name: plant collections
+xref: http://lod.nal.usda.gov/nalt/11815
+is_a: http://aims.fao.org/aos/agrovoc/c_1756  ! collections
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5975
+name: plant population
+def: "The number of plants found in a particular area." []
+synonym: "plant density" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7945
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/43060
+xref: http://www.eionet.europa.eu/gemet/concept/10633
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+relationship: developsInto http://aims.fao.org/aos/agrovoc/c_2983 ! flora
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_15945 ! botanical composition
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_5993 ! plants
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_34910 ! stand characteristics
+relationship: influences http://aims.fao.org/aos/agrovoc/c_25409 ! plant cover
+relationship: influences http://aims.fao.org/aos/agrovoc/c_27989 ! plant strata
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6111 ! population dynamics
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6115 ! population structure
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_32514 ! plant communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6376
+name: pure lines
+def: "A breeds or strains of animals or plants in which certain characters appear in successive generations as a result of inbreeding or self-fertilization." []
+xref: http://cat.aii.caas.cn/concept/c_6518
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_27530 ! genetic distance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6700
+name: rural communities
+synonym: "agricultural communities" RELATED []
+xref: http://dewey.info/class/307.72/
+xref: http://lod.nal.usda.gov/nalt/61827
+is_a: http://aims.fao.org/aos/agrovoc/c_50182  ! communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6705
+name: rural population
+xref: http://cat.aii.caas.cn/concept/c_33357
+xref: http://d-nb.info/gnd/4034229-3
+xref: http://eurovoc.europa.eu/2558
+xref: http://id.loc.gov/authorities/sh85115926#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/95470
+xref: http://lod.gesis.org/thesoz/concept/10034765
+xref: http://lod.nal.usda.gov/nalt/46107
+xref: http://www.eionet.europa.eu/gemet/concept/7352
+xref: http://zbw.eu/stw/descriptor/13454-3
+is_a: http://aims.fao.org/aos/agrovoc/c_3683  ! human population
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_6700 ! rural communities
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_15517 ! rural poverty
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_28953 ! rural unemployment
+relationship: includes http://aims.fao.org/aos/agrovoc/c_14002 ! rural youth
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5646 ! peasantry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_9000177 ! rural disabled
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36748 ! rural conditions
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6706 ! rural settlement
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6855
+name: scientists
+def: "Persons having expert knowledge of one or more sciences, especially a natural or physical science." []
+synonym: "research scientists" RELATED []
+synonym: "researchers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_25181
+xref: http://d-nb.info/gnd/4066567-7
+xref: http://dewey.info/class/509.2/
+xref: http://lod.gesis.org/thesoz/concept/10043895
+xref: http://lod.nal.usda.gov/nalt/17471
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11932033x
+xref: http://zbw.eu/stw/descriptor/13349-0
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_6513 ! research
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6960
+name: selfs
+xref: http://cat.aii.caas.cn/concept/c_45346
+xref: http://cat.aii.caas.cn/concept/c_59717
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7050
+name: siblings
+def: "One of two or more individuals having one or both parents in common; a brother or sister." []
+synonym: "sibs" RELATED []
+xref: http://d-nb.info/gnd/4020578-2
+xref: http://lod.gesis.org/thesoz/concept/10045259
+xref: http://lod.nal.usda.gov/nalt/804
+is_a: http://aims.fao.org/aos/agrovoc/c_16019  ! progeny
+relationship: usingValue http://aims.fao.org/aos/agrovoc/c_7014 ! sex ratio
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_70a14ab3
+name: land inheritance rights
+def: "Legal provisions applying in case of territorial succession. " []
+is_a: http://aims.fao.org/aos/agrovoc/c_331524  ! indigenous peoples
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7138
+name: social workers
+def: "A government employee who works to provide social services to people in need and improve their living standards." []
+xref: http://d-nb.info/gnd/4055680-3
+xref: http://dewey.info/class/361.3092/
+xref: http://eurovoc.europa.eu/4564
+xref: http://id.loc.gov/authorities/sh85124114#concept
+xref: http://lod.gesis.org/thesoz/concept/10044515
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_50171 ! charitable organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7189
+name: soil scientists
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7239
+name: sons
+synonym: "male offspring" RELATED []
+xref: http://d-nb.info/gnd/4203420-6
+xref: http://lod.gesis.org/thesoz/concept/10066951
+xref: http://lod.nal.usda.gov/nalt/24921
+is_a: http://aims.fao.org/aos/agrovoc/c_12907  ! human offspring
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7262
+name: South Pacific Commission
+synonym: "SPC" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_3918  ! international organizations
+is_a: http://aims.fao.org/aos/agrovoc/c_50180  ! commissions
+relationship: formerlyIncludes http://aims.fao.org/aos/agrovoc/c_8068 ! United Kingdom
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_2895 ! Fiji
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_3081 ! France
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_5093 ! Nauru
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_5164 ! New Zealand
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_5555 ! Papua New Guinea
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_6772 ! Samoa
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_714 ! Australia
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_8114 ! USA
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7473
+name: students
+def: "A person who is studying at a college or university" []
+synonym: "pupils" RELATED []
+xref: http://d-nb.info/gnd/4058167-6
+xref: http://dewey.info/class/371.8/
+xref: http://eurovoc.europa.eu/897
+xref: http://id.loc.gov/authorities/sh85129296#concept
+xref: http://lod.gesis.org/thesoz/concept/10037271
+xref: http://lod.nal.usda.gov/nalt/784
+xref: http://zbw.eu/stw/descriptor/11378-3
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7624
+name: taxa
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: isThemeOf http://aims.fao.org/aos/agrovoc/c_7631 ! taxonomy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7630
+name: taxonomists
+def: "A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior." []
+xref: http://aims.fao.org/aos/asfa/c_9274
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+relationship: study http://aims.fao.org/aos/agrovoc/c_7631 ! taxonomy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7637
+name: teachers
+def: "One who teaches, especially one hired to teach." []
+xref: http://d-nb.info/gnd/4035088-5
+xref: http://eurovoc.europa.eu/777
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/106600
+xref: http://lod.gesis.org/thesoz/concept/10038203
+xref: http://lod.nal.usda.gov/nalt/35885
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: benefitsFrom http://aims.fao.org/aos/agrovoc/c_37910 ! teacher training
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7856
+name: trade unions
+def: "A labor union, especially one limited in membership to people in the same trade." []
+synonym: "labour unions" RELATED []
+xref: http://d-nb.info/gnd/4020872-2
+xref: http://eurovoc.europa.eu/3575
+xref: http://lod.gesis.org/thesoz/concept/10034566
+xref: http://zbw.eu/stw/descriptor/11313-3
+is_a: http://aims.fao.org/aos/agrovoc/c_3911  ! interest groups
+is_a: http://aims.fao.org/aos/agrovoc/c_50323  ! unions
+relationship: includes http://aims.fao.org/aos/agrovoc/c_50203 ! employees' associations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8086
+name: urban population
+xref: http://eurovoc.europa.eu/2559
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/80450
+xref: http://lod.gesis.org/thesoz/concept/10039068
+xref: http://lod.nal.usda.gov/nalt/26404
+xref: http://www.eionet.europa.eu/gemet/concept/8834
+xref: http://zbw.eu/stw/descriptor/11971-0
+is_a: http://aims.fao.org/aos/agrovoc/c_3683  ! human population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8175
+name: vegetarians
+def: "People who does not eat meat." []
+xref: http://d-nb.info/gnd/4192305-4
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_331018 ! vegetarianism
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_2840 ! feeding habits
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8203
+name: veterinarians
+def: "A person who practices veterinary medicine." []
+synonym: "veterinary surgeons" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9697
+xref: http://cat.aii.caas.cn/concept/c_41662
+xref: http://d-nb.info/gnd/4128774-5
+xref: http://dewey.info/class/636.089092/
+xref: http://eurovoc.europa.eu/3595
+xref: http://lod.nal.usda.gov/nalt/44744
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8252
+name: villages
+def: " A small group of dwellings in a rural area, usually ranking in size between a hamlet and a town" []
+xref: http://d-nb.info/gnd/4012775-8
+xref: http://lod.gesis.org/thesoz/concept/10041271
+xref: http://lod.nal.usda.gov/nalt/46121
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11939034z
+xref: http://zbw.eu/stw/descriptor/11862-5
+is_a: http://aims.fao.org/aos/agrovoc/c_6700  ! rural communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8528
+name: zoologists
+def: "Ascientist who specialises in zoology" []
+xref: http://aims.fao.org/aos/asfa/c_10005
+xref: http://d-nb.info/gnd/4398977-9
+xref: http://dewey.info/class/590.92/
+xref: http://id.loc.gov/authorities/sh85149982#concept
+xref: http://lod.nal.usda.gov/nalt/55546
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12049604g
+is_a: http://aims.fao.org/aos/agrovoc/c_924  ! biologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_8529 ! zoology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8531
+name: zoos
+def: "A park or an institution in which living animals are kept and usually exhibited to the public. Also called zoological garden." []
+synonym: "zoological gardens" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_10001
+xref: http://d-nb.info/gnd/4067962-7
+xref: http://id.loc.gov/authorities/sh85150003#concept
+xref: http://lod.nal.usda.gov/nalt/9152
+is_a: http://aims.fao.org/aos/agrovoc/c_424  ! animal collections
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_857
+name: bee colonies
+synonym: "honeybee colonies" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_30984
+xref: http://d-nb.info/gnd/4145350-5
+is_a: http://aims.fao.org/aos/agrovoc/c_435  ! animal population
+relationship: hasBreedingMethod http://aims.fao.org/aos/agrovoc/c_7546 ! swarming
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_2389 ! drones
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_6405 ! queen bees
+relationship: hasMember http://aims.fao.org/aos/agrovoc/c_8444 ! worker bees
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3654 ! honey bees
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8585
+name: acarologists
+xref: http://lod.nal.usda.gov/nalt/68433
+is_a: http://aims.fao.org/aos/agrovoc/c_8528  ! zoologists
+relationship: study http://aims.fao.org/aos/agrovoc/c_8586 ! acarology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_85dfd05c
+name: patrilineal
+def: "A patrilineal lineage group is one where the line of descent and membership is transmitted by the male." []
+is_a: http://aims.fao.org/aos/agrovoc/c_331524  ! indigenous peoples
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8676
+name: agricultural population
+xref: http://cat.aii.caas.cn/concept/c_33648
+xref: http://lod.gesis.org/thesoz/concept/10034763
+is_a: http://aims.fao.org/aos/agrovoc/c_6705  ! rural population
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_28828 ! agricultural unemployment
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8684
+name: agricultural workers
+synonym: "farm workers" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33703
+xref: http://d-nb.info/gnd/4034217-7
+xref: http://zbw.eu/stw/descriptor/11276-4
+is_a: http://aims.fao.org/aos/agrovoc/c_8445  ! workers
+is_a: http://aims.fao.org/aos/agrovoc/c_8676  ! agricultural population
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8691
+name: agrostologists
+def: "Persons dealing with a division of systematic botany concerned with the study of grasses." []
+is_a: http://aims.fao.org/aos/agrovoc/c_1022  ! botanists
+relationship: study http://aims.fao.org/aos/agrovoc/c_220 ! agrostology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8787
+name: anatomists
+def: "An expert in or a student of anatomy." []
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11930893h
+is_a: http://aims.fao.org/aos/agrovoc/c_924  ! biologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000107
+name: local communities
+is_a: http://aims.fao.org/aos/agrovoc/c_50182  ! communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000147
+name: self-help groups
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000177
+name: rural disabled
+is_a: http://aims.fao.org/aos/agrovoc/c_34011  ! disabled persons
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9001020
+name: stakeholders
+def: "One who has a share or an interest, as in an enterprise." []
+xref: http://lod.nal.usda.gov/nalt/137842
+xref: http://zbw.eu/stw/descriptor/20261-2
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37968 ! organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9001022
+name: street vendors
+is_a: http://aims.fao.org/aos/agrovoc/c_50227  ! groups
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9001024
+name: urban farmers
+is_a: http://aims.fao.org/aos/agrovoc/c_2805  ! farmers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9001030
+name: women farmers
+is_a: http://aims.fao.org/aos/agrovoc/c_2805  ! farmers
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8420 ! women
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9049
+name: bacteriologists
+def: "A doctor who specialises in the study of bacteria" []
+is_a: http://aims.fao.org/aos/agrovoc/c_4799  ! microbiologists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9202
+name: beef herds
+is_a: http://aims.fao.org/aos/agrovoc/c_3569  ! herds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_924
+name: biologists
+def: "A scientist who studies living organisms " []
+xref: http://aims.fao.org/aos/asfa/c_4364
+xref: http://d-nb.info/gnd/4131826-2
+xref: http://dewey.info/class/570.92/
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/113200
+xref: http://lod.nal.usda.gov/nalt/17470
+is_a: http://aims.fao.org/aos/agrovoc/c_6855  ! scientists
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5955 ! plant breeders
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9259
+name: biochemists
+def: "A scientist who specialises in biochemistry." []
+is_a: http://aims.fao.org/aos/agrovoc/c_1523  ! chemists
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_930
+name: biota
+xref: http://aims.fao.org/aos/asfa/c_4378
+xref: http://d-nb.info/gnd/4252449-0
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/147490
+is_a: http://aims.fao.org/aos/agrovoc/c_330887  ! population
+relationship: includes http://aims.fao.org/aos/agrovoc/c_32514 ! plant communities
+relationship: includes http://aims.fao.org/aos/agrovoc/c_435 ! animal population
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5975 ! plant population
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8389 ! wildlife
+relationship: influences http://aims.fao.org/aos/agrovoc/c_912 ! biocoenosis
+relationship: produces http://aims.fao.org/aos/agrovoc/c_926 ! biomass
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9454
+name: brothers
+xref: http://lod.nal.usda.gov/nalt/20058
+is_a: http://aims.fao.org/aos/agrovoc/c_7050  ! siblings
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9463
+name: bryologists
+is_a: http://aims.fao.org/aos/agrovoc/c_1022  ! botanists
+relationship: study http://aims.fao.org/aos/agrovoc/c_1128 ! bryology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9787
+name: chiefs
+xref: http://cat.aii.caas.cn/concept/c_14497
+is_a: http://aims.fao.org/aos/agrovoc/c_15550  ! leaders
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9948
+name: coancestry
+def: "The degree of relationship between two parents of a diploid individual - McGraw-Hill Dictionary of Scientific and Technical Terms. McGraw-Hill Companies, Inc., 2003. Answers.com 16 Dec. 2008. http://www.answers.com/topic/coancestry" []
+xref: http://cat.aii.caas.cn/concept/c_15377
+xref: http://cat.aii.caas.cn/concept/c_15378
+is_a: http://aims.fao.org/aos/agrovoc/c_394  ! ancestry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_a0982198
+name: matrilineal
+def: "A matrilineal lineage group is one where the line of descent and membership is transmitted by the female." []
+is_a: http://aims.fao.org/aos/agrovoc/c_331524  ! indigenous peoples
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_c0a7f4fb
+name: sacred woods
+def: "A sacred wood is a wood which has a spiritual significance where the land is held by the local spirits and its spiritual character is venerated." []
+is_a: http://aims.fao.org/aos/agrovoc/c_d08b21b6  ! lineage land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_c48aca78
+name: land tenants
+is_a: http://aims.fao.org/aos/agrovoc/c_330886  ! tenants
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_d08b21b6
+name: lineage land
+def: "Lineage land is land available for the use of the members of the lineage." []
+is_a: http://aims.fao.org/aos/agrovoc/c_29225  ! lineage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_e5f9b786
+name: orphans land rights
+def: "Legal framework and provisions under a given land regime, concerning orphans. " []
+is_a: http://aims.fao.org/aos/agrovoc/c_a0982198  ! matrilineal
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_f73955fb
+name: tenant farmers
+def: "A tenant farmer is someone who holds a farm as a farmer or a share cropper." []
+is_a: http://aims.fao.org/aos/agrovoc/c_330886  ! tenants
+

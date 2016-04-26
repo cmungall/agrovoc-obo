@@ -1,0 +1,567 @@
+format-version: 1.2
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12725
+name: mutagenesis
+def: "Process of generating a genetic mutation. It may occur spontaneously or be induced by mutagens." []
+xref: http://aims.fao.org/aos/asfa/c_7364
+xref: http://lod.nal.usda.gov/nalt/10457
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: produces http://aims.fao.org/aos/agrovoc/c_5014 ! mutation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12859
+name: nuclear division
+xref: http://cat.aii.caas.cn/concept/c_48453
+is_a: http://aims.fao.org/aos/agrovoc/c_330999  ! biological processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13325
+name: phylogeny
+def: "The relationships of groups of organisms as reflected by their genetic makeup" []
+xref: http://aims.fao.org/aos/asfa/c_7880
+xref: http://cat.aii.caas.cn/concept/c_48424
+xref: http://d-nb.info/gnd/4076110-1
+xref: http://lod.gesis.org/thesoz/concept/10053744
+xref: http://lod.nal.usda.gov/nalt/38838
+is_a: http://aims.fao.org/aos/agrovoc/c_2745  ! evolution
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13586
+name: processes
+xref: http://lod.gesis.org/thesoz/concept/10034404
+xref: http://zbw.eu/stw/descriptor/19025-3
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1413
+name: cell division
+def: "Method by which a single cell divides to create two cells. This continuous process allows a population of cells to increase in number or maintain its numbers." []
+xref: http://aims.fao.org/aos/asfa/c_4666
+xref: http://cat.aii.caas.cn/concept/c_48446
+xref: http://d-nb.info/gnd/4190668-8
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/21640
+xref: http://lod.nal.usda.gov/nalt/8512
+is_a: http://aims.fao.org/aos/agrovoc/c_330999  ! biological processes
+relationship: causes http://aims.fao.org/aos/agrovoc/c_3394 ! growth
+relationship: includes http://aims.fao.org/aos/agrovoc/c_12859 ! nuclear division
+relationship: influences http://aims.fao.org/aos/agrovoc/c_32403 ! chromosome banding
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_6507 ! reproduction
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15952
+name: cloning
+def: "The formation of one or more genetically identical organisms derived by vegetative reproduction from a single cell. The source nuclear material can be embryo-derived, fetus-derived, or taken from an adult somatic cell." []
+xref: http://aims.fao.org/aos/asfa/c_4802
+xref: http://cat.aii.caas.cn/concept/c_25324
+xref: http://d-nb.info/gnd/4192480-0
+xref: http://eurovoc.europa.eu/6171
+xref: http://id.loc.gov/authorities/sh85027122#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/94760
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11944097v
+xref: http://www.eionet.europa.eu/gemet/concept/1484
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_664 ! asexual reproduction
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1596
+name: chromosome manipulation
+is_a: http://aims.fao.org/aos/agrovoc/c_15974  ! genetic engineering
+is_a: http://aims.fao.org/aos/agrovoc/c_27502  ! DNA cleavage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15975
+name: genetic variation
+def: "The phenotypic and genotypic differences among individuals in a population. [Source: MeSH, 2008]" []
+synonym: "genetic differences" RELATED []
+synonym: "genetic diversity within species" RELATED []
+synonym: "genetic heterogeneity" RELATED []
+synonym: "genetic variability" RELATED []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/23860
+xref: http://lod.nal.usda.gov/nalt/10351
+xref: http://www.eionet.europa.eu/gemet/concept/3634
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_27492 ! composite populations
+relationship: hasSymptom http://aims.fao.org/aos/agrovoc/c_34258 ! DNA fingerprinting
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1501 ! biological properties
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3225 ! genotypes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5013 ! mutants
+relationship: produces http://aims.fao.org/aos/agrovoc/c_27623 ! variants
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_17857
+name: replication
+xref: http://aims.fao.org/aos/asfa/c_8313
+xref: http://cat.aii.caas.cn/concept/c_13606
+xref: http://cat.aii.caas.cn/concept/c_13612
+xref: http://d-nb.info/gnd/4153174-7
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24031
+name: genetic polymorphism
+def: "The degree to which an agent possesses a specific destructive action on certain cells or the possession of such action." []
+xref: http://id.loc.gov/authorities/sh85053865#concept
+xref: http://lod.nal.usda.gov/nalt/17293
+is_a: http://aims.fao.org/aos/agrovoc/c_15975  ! genetic variation
+is_a: http://aims.fao.org/aos/agrovoc/c_6088  ! polymorphism
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24863
+name: introgression
+def: "The incorporation of genes from one population to another through hybridization that results in fertile offspring that further hybridize and backcross to parental populations." []
+xref: http://d-nb.info/gnd/4340332-3
+xref: http://lod.nal.usda.gov/nalt/46234
+is_a: http://aims.fao.org/aos/agrovoc/c_15975  ! genetic variation
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_3706 ! hybridization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2745
+name: evolution
+def: "The process of cumulative change over successive generations through which organisms acquire their distinguishing morphological and physiological characteristics.nSource: MeSH, 2008." []
+xref: http://aims.fao.org/aos/asfa/c_5683
+xref: http://cat.aii.caas.cn/concept/c_23594
+xref: http://cat.aii.caas.cn/concept/c_52217
+xref: http://d-nb.info/gnd/4071050-6
+xref: http://dewey.info/class/576.8/
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/20220
+xref: http://lod.gesis.org/thesoz/concept/10042967
+xref: http://lod.nal.usda.gov/nalt/4040
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11931307z
+xref: http://www.eionet.europa.eu/gemet/concept/3026
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+relationship: causes http://aims.fao.org/aos/agrovoc/c_117 ! adaptation
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_37331 ! gene flow
+relationship: study http://aims.fao.org/aos/agrovoc/c_5509 ! palaeontology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27463
+name: bioconversion
+xref: http://d-nb.info/gnd/4145610-5
+xref: http://eurovoc.europa.eu/4890
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+relationship: includes http://aims.fao.org/aos/agrovoc/c_909 ! biochemical pathways
+relationship: includes http://aims.fao.org/aos/agrovoc/c_9261 ! biodegradation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_926 ! biomass
+relationship: influences http://aims.fao.org/aos/agrovoc/c_928 ! biosynthesis
+relationship: produces http://aims.fao.org/aos/agrovoc/c_16526 ! bioenergy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27493
+name: continuous processes
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27495
+name: crossing over
+xref: http://lod.nal.usda.gov/nalt/24805
+is_a: http://aims.fao.org/aos/agrovoc/c_6475  ! recombination
+relationship: causes http://aims.fao.org/aos/agrovoc/c_24003 ! chromosome translocation
+relationship: causes http://aims.fao.org/aos/agrovoc/c_5014 ! mutation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27501
+name: discontinuous processes
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27502
+name: DNA cleavage
+def: "A reaction that severs one of the covalent sugar-phosphate linkages between nucleotides that compose the sugar phosphate backbone of DNA. It is catalyzed enzymatically, chemically or by radiation. Cleavage may be exonucleolytic - removing the end nucleotide, or endonucleolytic - splitting the strand in two.nSource:MeSH,2009." []
+is_a: http://aims.fao.org/aos/agrovoc/c_331094  ! biochemical processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27503
+name: molecular cloning
+def: "The insertion of recombinant DNA molecules from prokaryotic and/or eukaryotic sources into a replicating vehicle, such as a plasmid or virus vector, and the introduction of the resultant hybrid molecules into recipient cells without altering the viability of those cells." []
+xref: http://d-nb.info/gnd/4123275-6
+xref: http://lod.nal.usda.gov/nalt/26948
+is_a: http://aims.fao.org/aos/agrovoc/c_15952  ! cloning
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_3214 ! genes
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_2347 ! DNA
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27527
+name: gene expression
+def: "The process by which a gene produces mRNA and protein, and hence exerts its effect on the phenotype of an organism.n[Source: Glossary of Biotechnology for Food and Agriculture (FAO), 2001. http://www.fao.org/DOCREP/004/Y2775E/y2775e00.htm]" []
+xref: http://aims.fao.org/aos/asfa/c_6108
+xref: http://cat.aii.caas.cn/concept/c_21150
+xref: http://d-nb.info/gnd/4020136-3
+xref: http://lod.nal.usda.gov/nalt/38951
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5776 ! phenotypes
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_35126 ! transcription
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_6258 ! protein synthesis
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27528
+name: gene fusion
+xref: http://lod.nal.usda.gov/nalt/26950
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb13577803t
+is_a: http://aims.fao.org/aos/agrovoc/c_1596  ! chromosome manipulation
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_27502 ! DNA cleavage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27529
+name: gene transposition
+is_a: http://aims.fao.org/aos/agrovoc/c_1596  ! chromosome manipulation
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_24846 ! gene transfer
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27545
+name: hybrid proteins
+is_a: http://aims.fao.org/aos/agrovoc/c_27528  ! gene fusion
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27611
+name: clonal variation
+synonym: "somatic variation" RELATED []
+xref: http://lod.nal.usda.gov/nalt/26943
+is_a: http://aims.fao.org/aos/agrovoc/c_15975  ! genetic variation
+relationship: includes http://aims.fao.org/aos/agrovoc/c_34127 ! somaclonal variation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27694
+name: gene cloning
+def: "The process of producing identical copies (clones) of a gene" []
+xref: http://cat.aii.caas.cn/concept/c_21161
+is_a: http://aims.fao.org/aos/agrovoc/c_27503  ! molecular cloning
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27695
+name: DNA cloning
+is_a: http://aims.fao.org/aos/agrovoc/c_27503  ! molecular cloning
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27742
+name: biological nitrogen fixation
+synonym: "BNF" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_40559
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/44950
+xref: http://www.eionet.europa.eu/gemet/concept/862
+is_a: http://aims.fao.org/aos/agrovoc/c_5196  ! nitrogen fixation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27830
+name: genetic transduction
+def: "The transfer of bacterial DNA by phages from an infected bacterium to another bacterium. This also refers to the transfer of genes into eukaryotic cells by viruses" []
+xref: http://lod.nal.usda.gov/nalt/42661
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28427
+name: inhibition
+xref: http://cat.aii.caas.cn/concept/c_53916
+xref: http://d-nb.info/gnd/4273127-6
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3220
+name: genetic transformation
+def: "The uptake and integration of DNA in a cell, in which the introduced DNA is intended to change the phenotype of the recipient organism in a predictable manner." []
+xref: http://cat.aii.caas.cn/concept/c_53500
+xref: http://lod.nal.usda.gov/nalt/42644
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3215 ! genetic code
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36658 ! biolistics
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_27831 ! transfection
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330999
+name: biological processes
+def: "Biological activities and function of the whole organism in human, animal, microorgansims, and plants, and of the biosphere." []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/31320
+xref: http://www.eionet.europa.eu/gemet/concept/867
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331001
+name: genetic processes
+def: "Those biological processes that are involved in the transmission of hereditary traits from one organism to another." []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/120190
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331037
+name: transformation
+xref: http://lod.gesis.org/thesoz/concept/10045348
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331094
+name: biochemical processes
+def: "Chemical reactions or functions, enzymatic activities, and metabolic pathways of living things" []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/50540
+xref: http://www.eionet.europa.eu/gemet/concept/812
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331373
+name: nutrient transformation
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331546
+name: physiological processes
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331547
+name: physicochemical processes
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/52030
+xref: http://www.eionet.europa.eu/gemet/concept/6233
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331548
+name: plant physiological process
+is_a: http://aims.fao.org/aos/agrovoc/c_331546  ! physiological processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331549
+name: cell physiological processes
+is_a: http://aims.fao.org/aos/agrovoc/c_331546  ! physiological processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331583
+name: carbon sequestration
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/188060
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33465
+name: chromosome pairing
+def: "The alignment of chromosomes at homologous sequences." []
+synonym: "synapsis" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_37357
+xref: http://d-nb.info/gnd/4525101-0
+xref: http://lod.nal.usda.gov/nalt/13546
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34001
+name: genetic divergence
+def: "The evolutionary change in allele frequencies between reproductively isolation populations." []
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34027
+name: growth inhibition
+is_a: http://aims.fao.org/aos/agrovoc/c_28427  ! inhibition
+relationship: affects http://aims.fao.org/aos/agrovoc/c_3394 ! growth
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34074
+name: photoinhibition
+xref: http://lod.nal.usda.gov/nalt/57947
+is_a: http://aims.fao.org/aos/agrovoc/c_28427  ! inhibition
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34127
+name: somaclonal variation
+def: "Epigenetic or genetic changes induced during the callus phase of plant cells cultured in vitro. Sometimes visible as changed phenotype in plants regenerated from culture.n[Source: Glossary of Biotechnology for Food and Agriculture (FAO), 2001. nhttp://www.fao.org/DOCREP/004/Y2775E/y2775e00.htm]" []
+xref: http://d-nb.info/gnd/4541994-2
+xref: http://lod.nal.usda.gov/nalt/42666
+is_a: http://aims.fao.org/aos/agrovoc/c_15975  ! genetic variation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34255
+name: RFLP
+def: "Variation occurring within a species in the presence or length of DNA fragment generated by a specific endonuclease at a specific site in the genome. Such variations are generated by mutations that create or abolish recognition sites for these enzymes or change the length of the fragment." []
+synonym: "Restriction fragment length polymorphism" RELATED []
+xref: http://d-nb.info/gnd/4238815-6
+is_a: http://aims.fao.org/aos/agrovoc/c_24031  ! genetic polymorphism
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_24030 ! genetic markers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_346
+name: amitosis
+xref: http://cat.aii.caas.cn/concept/c_47668
+xref: http://d-nb.info/gnd/4577256-3
+is_a: http://aims.fao.org/aos/agrovoc/c_1413  ! cell division
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_664 ! asexual reproduction
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34786
+name: biotransformation of xenobiotics
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_33568 ! xenobiotics
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35086
+name: DNA replication
+def: "The process of duplicating the DNA to make two identical copies, one of which will be passed along to each daughter cell when the cell divides." []
+xref: http://id.loc.gov/authorities/sh90005926#concept
+xref: http://lod.nal.usda.gov/nalt/34224
+is_a: http://aims.fao.org/aos/agrovoc/c_17857  ! replication
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35087
+name: viral replication
+synonym: "virus replication" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_3167
+is_a: http://aims.fao.org/aos/agrovoc/c_17857  ! replication
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35126
+name: transcription
+xref: http://aims.fao.org/aos/asfa/c_9498
+xref: http://d-nb.info/gnd/4170221-9
+xref: http://id.loc.gov/authorities/sh85136889#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_2347 ! DNA
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35127
+name: DNA transcription
+is_a: http://aims.fao.org/aos/agrovoc/c_35126  ! transcription
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35128
+name: gene transcription
+def: "The biosynthesis of RNA carried out on a template of DNA. The biosynthesis of DNA from an RNA template is called REVERSE TRANSCRIPTION." []
+is_a: http://aims.fao.org/aos/agrovoc/c_35126  ! transcription
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35129
+name: reverse transcription
+xref: http://lod.nal.usda.gov/nalt/53241
+is_a: http://aims.fao.org/aos/agrovoc/c_35126  ! transcription
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35736
+name: gene duplication
+def: "Processes occurring in various organisms by which new genes are copied. Gene duplication may result in a mutagene family; supergenes or pseudogenes." []
+xref: http://cat.aii.caas.cn/concept/c_6007
+xref: http://lod.nal.usda.gov/nalt/42565
+is_a: http://aims.fao.org/aos/agrovoc/c_17857  ! replication
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35995
+name: defense mechanisms
+def: "Unconscious process used by an individual or a group of individuals in order to cope with impulses, feelings or ideas which are not acceptable at their conscious level; various types include reaction formation, projection and self reversal.nSource: MeSH, 2009" []
+xref: http://lod.nal.usda.gov/nalt/17454
+is_a: http://aims.fao.org/aos/agrovoc/c_330999  ! biological processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36094
+name: atmospheric deposition
+def: "A process whereby pollutants are transported from a ground-based source and through atmospheric processes are deposited on a distant land or water surface." []
+xref: http://lod.nal.usda.gov/nalt/2714
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+relationship: causes http://aims.fao.org/aos/agrovoc/c_228 ! air pollution
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36587
+name: natural hybridization
+synonym: "spontaneous hybridization" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_44784
+xref: http://cat.aii.caas.cn/concept/c_59766
+is_a: http://aims.fao.org/aos/agrovoc/c_330999  ! biological processes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2745 ! evolution
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37331
+name: gene flow
+def: "The change in gene frequency in a population due to migration of gametes or individuals ( ANIMAL MIGRATION) across population barriers" []
+xref: http://d-nb.info/gnd/4357304-6
+xref: http://lod.nal.usda.gov/nalt/42575
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37333
+name: genetic drift
+def: "The fluctuation of the allele frequency from one generation to the next. Source: MeSH, 2008" []
+xref: http://aims.fao.org/aos/asfa/c_6115
+xref: http://cat.aii.caas.cn/concept/c_53477
+xref: http://lod.nal.usda.gov/nalt/42625
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_331020 ! allele frequency
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3843
+name: induced polyploidy
+synonym: "artificial polyploidy" RELATED []
+synonym: "in vitro polyploidization" RELATED []
+synonym: "induced polyploidization" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_1596  ! chromosome manipulation
+is_a: http://aims.fao.org/aos/agrovoc/c_6094  ! polyploidy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4706
+name: meiosis
+synonym: "reduction division" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7163
+xref: http://cat.aii.caas.cn/concept/c_22469
+xref: http://d-nb.info/gnd/4169347-4
+xref: http://lod.nal.usda.gov/nalt/23390
+is_a: http://aims.fao.org/aos/agrovoc/c_1413  ! cell division
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_33465 ! chromosome pairing
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_6947 ! segregation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4870
+name: mitosis
+synonym: "endomitosis" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7273
+xref: http://cat.aii.caas.cn/concept/c_54996
+xref: http://d-nb.info/gnd/4170185-9
+xref: http://lod.nal.usda.gov/nalt/23393
+is_a: http://aims.fao.org/aos/agrovoc/c_1413  ! cell division
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50275
+name: organizational change
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/172860
+xref: http://lod.gesis.org/thesoz/concept/10053878
+xref: http://zbw.eu/stw/descriptor/12105-5
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37968 ! organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5196
+name: nitrogen fixation
+def: "The process in certain bacteria,fungi, and cyanobacteria converting free atmospheric nitrogen to biologically usable forms of nitrogen, such as ammonia; nitrates; and amino compounds." []
+synonym: "dinitrogen fixation" RELATED []
+synonym: "nif" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7462
+xref: http://cat.aii.caas.cn/concept/c_15708
+xref: http://d-nb.info/gnd/4183273-5
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/49120
+xref: http://lod.nal.usda.gov/nalt/17288
+xref: http://www.eionet.europa.eu/gemet/concept/5611
+is_a: http://aims.fao.org/aos/agrovoc/c_331094  ! biochemical processes
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_15960 ! Cyanobacteria
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_12834 ! nitrification
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_27500 ! diazotrophy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6475
+name: recombination
+synonym: "genetic recombination" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_8259
+xref: http://cat.aii.caas.cn/concept/c_6023
+xref: http://cat.aii.caas.cn/concept/c_6024
+xref: http://d-nb.info/gnd/4049338-6
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: causes http://aims.fao.org/aos/agrovoc/c_5014 ! mutation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1079 ! breeding methods
+relationship: produces http://aims.fao.org/aos/agrovoc/c_27594 ! recombinant DNA
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_678
+name: assimilation
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/34600
+xref: http://www.eionet.europa.eu/gemet/concept/605
+is_a: http://aims.fao.org/aos/agrovoc/c_13586  ! processes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6947
+name: segregation
+xref: http://aims.fao.org/aos/asfa/c_3851
+xref: http://cat.aii.caas.cn/concept/c_14956
+xref: http://cat.aii.caas.cn/concept/c_14960
+xref: http://lod.gesis.org/thesoz/concept/10057624
+xref: http://zbw.eu/stw/descriptor/16656-4
+is_a: http://aims.fao.org/aos/agrovoc/c_331001  ! genetic processes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1079 ! breeding methods
+

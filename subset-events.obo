@@ -1,0 +1,165 @@
+format-version: 1.2
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10145
+name: educational courses
+is_a: http://aims.fao.org/aos/agrovoc/c_330979  ! events
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1375451385073
+name: disaster recovery
+is_a: http://aims.fao.org/aos/agrovoc/c_92326  ! aid programmes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14195
+name: seminars
+xref: http://id.loc.gov/authorities/sh85119934#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_330979  ! events
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2225
+name: development aid
+synonym: "economic aid" RELATED []
+xref: http://d-nb.info/gnd/4014948-1
+xref: http://eurovoc.europa.eu/3077
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/79000
+xref: http://lod.nal.usda.gov/nalt/5794
+xref: http://www.eionet.europa.eu/gemet/concept/2155
+xref: http://zbw.eu/stw/descriptor/10555-5
+is_a: http://aims.fao.org/aos/agrovoc/c_92326  ! aid programmes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2229 ! development projects
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2471 ! economic development
+relationship: influences http://aims.fao.org/aos/agrovoc/c_50199 ! development organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24024
+name: exhibitions
+xref: http://aims.fao.org/aos/asfa/c_5693
+xref: http://cat.aii.caas.cn/concept/c_56807
+xref: http://d-nb.info/gnd/4129601-1
+xref: http://lod.gesis.org/thesoz/concept/10037431
+xref: http://lod.nal.usda.gov/nalt/5326
+is_a: http://aims.fao.org/aos/agrovoc/c_330979  ! events
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_6744 ! sales promotion
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24094
+name: training programmes
+is_a: http://aims.fao.org/aos/agrovoc/c_50291  ! programmes
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7862 ! training courses
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24273
+name: agricultural shows
+is_a: http://aims.fao.org/aos/agrovoc/c_24024  ! exhibitions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24274
+name: trade fairs
+xref: http://cat.aii.caas.cn/concept/c_39796
+xref: http://zbw.eu/stw/descriptor/12783-3
+is_a: http://aims.fao.org/aos/agrovoc/c_24024  ! exhibitions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29770
+name: emergency relief
+xref: http://d-nb.info/gnd/4172071-4
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/67890
+xref: http://www.eionet.europa.eu/gemet/concept/2657
+is_a: http://aims.fao.org/aos/agrovoc/c_92326  ! aid programmes
+relationship: follows http://aims.fao.org/aos/agrovoc/c_2790 ! famine
+relationship: follows http://aims.fao.org/aos/agrovoc/c_5082 ! disasters
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_34113 ! refugees
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_29771 ! emergency feeding
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3012 ! food aid
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3012
+name: food aid
+synonym: "food relief" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5954
+xref: http://eurovoc.europa.eu/807
+xref: http://lod.nal.usda.gov/nalt/5796
+xref: http://zbw.eu/stw/descriptor/10583-0
+is_a: http://aims.fao.org/aos/agrovoc/c_92326  ! aid programmes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37904 ! right to food
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330979
+name: events
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330987
+name: research programmes
+xref: http://aims.fao.org/aos/asfa/c_8321
+xref: http://eurovoc.europa.eu/2795
+xref: http://lod.nal.usda.gov/nalt/61096
+is_a: http://aims.fao.org/aos/agrovoc/c_50291  ! programmes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37877
+name: extension programmes
+xref: http://lod.nal.usda.gov/nalt/1492
+is_a: http://aims.fao.org/aos/agrovoc/c_2762  ! extension activities
+is_a: http://aims.fao.org/aos/agrovoc/c_50291  ! programmes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_428bec51
+name: development programmes
+is_a: http://aims.fao.org/aos/agrovoc/c_50291  ! programmes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50291
+name: programmes
+xref: http://aims.fao.org/aos/asfa/c_8115
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/96790
+xref: http://lod.gesis.org/thesoz/concept/10038755
+xref: http://www.eionet.europa.eu/gemet/concept/6705
+is_a: http://aims.fao.org/aos/agrovoc/c_330979  ! events
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_50215 ! frameworks
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7642
+name: technical aid
+xref: http://cat.aii.caas.cn/concept/c_21514
+xref: http://d-nb.info/gnd/4184573-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2225  ! development aid
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6212 ! professional services
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7862
+name: training courses
+xref: http://cat.aii.caas.cn/concept/c_34150
+is_a: http://aims.fao.org/aos/agrovoc/c_330979  ! events
+relationship: includes http://aims.fao.org/aos/agrovoc/c_10145 ! educational courses
+relationship: includes http://aims.fao.org/aos/agrovoc/c_14195 ! seminars
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000127
+name: population programme
+is_a: http://aims.fao.org/aos/agrovoc/c_50291  ! programmes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92326
+name: aid programmes
+xref: http://eurovoc.europa.eu/2793
+is_a: http://aims.fao.org/aos/agrovoc/c_50291  ! programmes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_50199 ! development organizations
+relationship: influences http://aims.fao.org/aos/agrovoc/c_50233 ! humanitarian organizations
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92327
+name: disaster relief
+xref: http://id.loc.gov/authorities/sh85038299#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/107890
+xref: http://www.eionet.europa.eu/gemet/concept/2222
+is_a: http://aims.fao.org/aos/agrovoc/c_92326  ! aid programmes
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1375452103016 ! disaster rehabilitation
+relationship: includes http://aims.fao.org/aos/agrovoc/c_92376 ! reconstruction
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_e676a34a
+name: EMPRES
+synonym: "Emergency Prevention System" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_92326  ! aid programmes
+

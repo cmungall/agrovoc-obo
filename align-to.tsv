@@ -1,0 +1,74 @@
+TO:0000013	resistance to disease by mycoplasma-like organism	http://aims.fao.org/aos/agrovoc/c_26802	Phytoplasmas	organisms	
+TO:0000015	oxygen sensitivity	http://aims.fao.org/aos/agrovoc/c_8831	anoxia	state	
+TO:0000030	sedge weed	http://aims.fao.org/aos/agrovoc/c_330793	Sedge weed	organisms	
+TO:0000041	brown rice length	http://aims.fao.org/aos/agrovoc/c_24043	Lens	organisms	
+TO:0000054	animal damage resistance	http://aims.fao.org/aos/agrovoc/c_5731	pest resistance	properties	
+TO:0000072	awn length	http://aims.fao.org/aos/agrovoc/c_9023	awns	entities	
+TO:0000085	leaf rolling	http://aims.fao.org/aos/agrovoc/c_8390	wilting	phenomena	
+TO:0000087	aroma	http://aims.fao.org/aos/agrovoc/c_14344	smell	phenomena	
+TO:0000106	male sterility type	http://aims.fao.org/aos/agrovoc/c_12421	mass spectrometry	methods	
+TO:0000112	disease resistance	http://aims.fao.org/aos/agrovoc/c_2327	disease control	methods	
+TO:0000112	disease resistance	http://aims.fao.org/aos/agrovoc/c_2328	disease resistance	properties	
+TO:0000112	disease resistance	http://aims.fao.org/aos/agrovoc/c_331441	disease tolerance	properties	
+TO:0000128	harvest index	http://aims.fao.org/aos/agrovoc/c_24854	harvest index	measure	
+TO:0000131	leaf water potential	http://aims.fao.org/aos/agrovoc/c_37242	leaf water potential	measure	
+TO:0000164	stress trait	http://aims.fao.org/aos/agrovoc/c_1969	crop losses	entities	
+TO:0000180	spikelet fertility	http://aims.fao.org/aos/agrovoc/c_36747	seed set	stages	
+TO:0000181	seed weight	http://aims.fao.org/aos/agrovoc/c_36510	seed weight	properties	
+TO:0000227	root length	http://aims.fao.org/aos/agrovoc/c_24232	root length	measure	
+TO:0000232	rice cytoplasmic male sterility	http://aims.fao.org/aos/agrovoc/c_1370608591616	CMS	entities	
+TO:0000253	seed dormancy	http://aims.fao.org/aos/agrovoc/c_14168	seed dormancy	phenomena	,state	
+TO:0000259	heat tolerance	http://aims.fao.org/aos/agrovoc/c_11486	heat tolerance	properties	
+TO:0000266	chalky endosperm	http://aims.fao.org/aos/agrovoc/c_4342	limestone	substances	
+TO:0000276	drought tolerance	http://aims.fao.org/aos/agrovoc/c_14914	drought tolerance	properties	
+TO:0000276	drought tolerance	http://aims.fao.org/aos/agrovoc/c_2392	drought resistance	properties	
+TO:0000288	alpha-amylase activity	http://aims.fao.org/aos/agrovoc/c_29487	alpha amylase	substances	
+TO:0000291	carbohydrate content	http://aims.fao.org/aos/agrovoc/c_1298	carbohydrate content	properties	
+TO:0000303	cold tolerance	http://aims.fao.org/aos/agrovoc/c_9994	cold tolerance	properties	
+TO:0000305	glutamine synthetase content	http://aims.fao.org/aos/agrovoc/c_27537	glutamate ammonia ligase	substances	
+TO:0000310	self-incompatibility	http://aims.fao.org/aos/agrovoc/c_24899	self sterility	properties	
+TO:0000311	invertase activity trait	http://aims.fao.org/aos/agrovoc/c_3117	fructofuranosidase	substances	
+TO:0000343	grass weed	http://aims.fao.org/aos/agrovoc/c_330644	grass weed	organisms	
+TO:0000345	seed viability	http://aims.fao.org/aos/agrovoc/c_15179	seed viability	properties	
+TO:0000355	heterosis	http://aims.fao.org/aos/agrovoc/c_3705	heterosis	phenomena	
+TO:0000387	plant trait	http://aims.fao.org/aos/agrovoc/c_25398	plant condition	state	
+TO:0000391	seed size	http://aims.fao.org/aos/agrovoc/c_26821	seed size	properties	
+TO:0000425	anther culturability	http://aims.fao.org/aos/agrovoc/c_8837	anther culture	methods	
+TO:0000430	germination rate	http://aims.fao.org/aos/agrovoc/c_3246	germinability	properties	
+TO:0000435	seed longevity	http://aims.fao.org/aos/agrovoc/c_6934	seed longevity	properties	
+TO:0000437	male sterility	http://aims.fao.org/aos/agrovoc/c_4537	male infertility	phenomena	
+TO:0000480	nutrient sensitivity	http://aims.fao.org/aos/agrovoc/c_34868	nutrient deficiencies	phenomena	
+TO:0000522	stomatal conductance	http://aims.fao.org/aos/agrovoc/c_37253	stomatal conductance	phenomena	
+TO:0000523	stomatal resistance	http://aims.fao.org/aos/agrovoc/c_37254	stomatal resistance	properties	
+TO:0000524	submergence tolerance	http://aims.fao.org/aos/agrovoc/c_16151	water tolerance	properties	
+TO:0000559	plant volume	http://aims.fao.org/aos/agrovoc/c_330769	space	measure	
+TO:0000576	stem length	http://aims.fao.org/aos/agrovoc/c_14581	stem length	measure	
+TO:0000580	cytoplasmic male sterility	http://aims.fao.org/aos/agrovoc/c_27498	cytoplasmic male sterility	phenomena	
+TO:0000598	protein content	http://aims.fao.org/aos/agrovoc/c_6251	protein content	properties	
+TO:0000599	enzyme activity trait	http://aims.fao.org/aos/agrovoc/c_2604	enzyme activity	properties	
+TO:0000602	total fat content	http://aims.fao.org/aos/agrovoc/c_4360	lipid content	properties	
+TO:0000607	ash content	http://aims.fao.org/aos/agrovoc/c_665	ash content	properties	
+TO:0000685	fruit tenderness	http://aims.fao.org/aos/agrovoc/c_16674	tendering	entities	
+TO:0000685	fruit tenderness	http://aims.fao.org/aos/agrovoc/c_28590	tenderness	properties	
+TO:0000685	fruit tenderness	http://aims.fao.org/aos/agrovoc/c_7662	tenderizing	activities	
+TO:0000686	juiciness	http://aims.fao.org/aos/agrovoc/c_34302	juiciness	properties	
+TO:0000698	starchiness	http://aims.fao.org/aos/agrovoc/c_7369	starch	substances	
+TO:0000700	fruit sweetness	http://aims.fao.org/aos/agrovoc/c_15723	sweetness	properties	
+TO:0000728	cell cycle trait	http://aims.fao.org/aos/agrovoc/c_37218	cell cycle	phenomena	
+TO:0000816	inflorescence bract morphology trait	http://aims.fao.org/aos/agrovoc/c_3699	husking	activities	
+TO:0000816	inflorescence bract morphology trait	http://aims.fao.org/aos/agrovoc/c_37743	husks	substances	
+TO:0000852	fruit set	http://aims.fao.org/aos/agrovoc/c_15971	fruiting	stages	
+TO:0001017	water use efficiency	http://aims.fao.org/aos/agrovoc/c_36790	water use efficiency	properties	
+TO:0001026	respiration rate	http://aims.fao.org/aos/agrovoc/c_36749	respiration rate	measure	
+TO:0002611	homeotic development trait	http://aims.fao.org/aos/agrovoc/c_27544	homeotic mutation	phenomena	
+TO:0002647	starch digestibility	http://aims.fao.org/aos/agrovoc/c_2270	digestible starch	properties	
+TO:0002650	phototropism	http://aims.fao.org/aos/agrovoc/c_13320	phototropism	phenomena	
+TO:0002657	oxidative stress	http://aims.fao.org/aos/agrovoc/c_37481	oxidative stress	phenomena	,state	
+TO:0002681	leaf curling	http://aims.fao.org/aos/agrovoc/c_4237	leaf curls	phenomena	
+TO:0002756	shoot habit	http://aims.fao.org/aos/agrovoc/c_5969	plant habit	properties	
+TO:0006001	salt tolerance	http://aims.fao.org/aos/agrovoc/c_24078	salt tolerance	properties	
+TO:0006036	stem elongation	http://aims.fao.org/aos/agrovoc/c_7387	stem elongation	stages	
+TO:0012001	leaf area index	http://aims.fao.org/aos/agrovoc/c_35196	Leaf Area Index	measure	
+TO:0020051	barley leaf scald disease resistance	http://aims.fao.org/aos/agrovoc/c_24895	scald	phenomena	
+TO:0020067	barley yellow dwarf virus disease resistance	http://aims.fao.org/aos/agrovoc/c_15942	barley yellow dwarf luteovirus	organisms	,substances	
+TO:0020093	nitrogen content	http://aims.fao.org/aos/agrovoc/c_5193	nitrogen content	properties	

@@ -1,0 +1,3210 @@
+format-version: 1.2
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10034
+name: common grazing
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_1782 ! common lands
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10176
+name: crop yield
+def: "The amount of plant crop (such as cereal, grain or legume) harvested per unit area for a given time." []
+xref: http://d-nb.info/gnd/4015358-7
+xref: http://eurovoc.europa.eu/3275
+xref: http://lod.nal.usda.gov/nalt/30142
+xref: http://zbw.eu/stw/descriptor/13434-2
+is_a: http://aims.fao.org/aos/agrovoc/c_35199  ! crop performance
+is_a: http://aims.fao.org/aos/agrovoc/c_8488  ! yields
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10274
+name: dairying
+def: "The business of owning and operating a dairy or a dairy farm" []
+is_a: http://aims.fao.org/aos/agrovoc/c_2111  ! dairy industry
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_4829 ! milk production
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10441
+name: double cropping
+def: "Two different crops grown on the same area in one growing season." []
+synonym: "double cropping system" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_11250
+xref: http://cat.aii.caas.cn/concept/c_27368
+xref: http://d-nb.info/gnd/4286941-9
+xref: http://id.loc.gov/authorities/sh85039176#concept
+xref: http://lod.nal.usda.gov/nalt/30184
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1054
+name: brakes
+xref: http://cat.aii.caas.cn/concept/c_57795
+xref: http://cat.aii.caas.cn/concept/c_57797
+xref: http://d-nb.info/gnd/4008148-5
+is_a: http://aims.fao.org/aos/agrovoc/c_8179  ! vehicle systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1088
+name: brewing industry
+synonym: "malt industry" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_32923
+xref: http://lod.gesis.org/thesoz/concept/10039758
+xref: http://lod.nal.usda.gov/nalt/19832
+xref: http://www.eionet.europa.eu/gemet/concept/997
+is_a: http://aims.fao.org/aos/agrovoc/c_895  ! beverage industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28425 ! fermentation industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11230
+name: government
+def: "The act or process of governing, especially the control and administration of public policy in a political unit." []
+synonym: "public institutions" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6229
+xref: http://d-nb.info/gnd/4049012-9
+xref: http://eurovoc.europa.eu/1172
+xref: http://lod.gesis.org/thesoz/concept/10040090
+xref: http://zbw.eu/stw/descriptor/16329-5
+is_a: http://aims.fao.org/aos/agrovoc/c_32526  ! public sector
+relationship: actsUpon http://aims.fao.org/aos/agrovoc/c_50281 ! partly nationalised undertakings
+relationship: controls http://aims.fao.org/aos/agrovoc/c_50221 ! government agencies
+relationship: controls http://aims.fao.org/aos/agrovoc/c_50223 ! government departments
+relationship: controls http://aims.fao.org/aos/agrovoc/c_50225 ! governmental organizations
+relationship: controls http://aims.fao.org/aos/agrovoc/c_50279 ! parastatals
+relationship: controls http://aims.fao.org/aos/agrovoc/c_6345 ! public enterprises
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_50166 ! bureaux
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_50206 ! executive agencies
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_9000015 ! chieftancies
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_37882 ! governance
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_50176 ! civil service
+relationship: influences http://aims.fao.org/aos/agrovoc/c_130 ! administration
+relationship: influences http://aims.fao.org/aos/agrovoc/c_32525 ! private sector
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6353 ! public services
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6966 ! semiprivate organizations
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_50336 ! bureaucracy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1160
+name: bush fallowing
+is_a: http://aims.fao.org/aos/agrovoc/c_2784  ! fallow systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11769
+name: information systems
+def: "Any written, electronic, or graphical method of communicating information. The basis of an information system is the sharing and processing of information and ideas. Computers and telecommunication technologies have become essential information system components." []
+xref: http://aims.fao.org/aos/asfa/c_6630
+xref: http://cat.aii.caas.cn/concept/c_36698
+xref: http://cat.aii.caas.cn/concept/c_50567
+xref: http://d-nb.info/gnd/4072806-7
+xref: http://eurovoc.europa.eu/4359
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/94480
+xref: http://lod.gesis.org/thesoz/concept/10040380
+xref: http://lod.nal.usda.gov/nalt/4420
+xref: http://www.eionet.europa.eu/gemet/concept/4311
+xref: http://zbw.eu/stw/descriptor/15598-4
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_1799 ! computers
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3865 ! information services
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12069
+name: land tenure
+xref: http://lod.nal.usda.gov/nalt/39524
+xref: http://zbw.eu/stw/descriptor/12020-6
+is_a: http://aims.fao.org/aos/agrovoc/c_7669  ! tenure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12312
+name: macrobenthos
+def: "Plants or animals living at the bottom of a lake or the sea whose shortest dimension is equal to or more than 0.5 mm." []
+is_a: http://aims.fao.org/aos/agrovoc/c_878  ! benthos
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12481
+name: meiobenthos
+def: "Meiofauna are small benthic invertebrates that live in both marine and fresh water environments" []
+xref: http://aims.fao.org/aos/asfa/c_7162
+is_a: http://aims.fao.org/aos/agrovoc/c_878  ! benthos
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12522
+name: methodology
+xref: http://aims.fao.org/aos/asfa/c_7216
+xref: http://d-nb.info/gnd/4139716-2
+xref: http://id.loc.gov/authorities/sh85084414#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/104470
+xref: http://lod.gesis.org/thesoz/concept/10043388
+xref: http://lod.nal.usda.gov/nalt/5079
+xref: http://www.eionet.europa.eu/gemet/concept/5203
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_4788 ! methods
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_14816 ! techniques
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_49833 ! best practices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12535
+name: microbenthos
+def: "plants or animals living at the bottom of a lake or the sea whose shortest dimension is equal to or more than 0.1 mm" []
+is_a: http://aims.fao.org/aos/agrovoc/c_878  ! benthos
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12542
+name: microhabitat
+def: "A single small area such as the bark of a tree, where fauna and/or flora live." []
+xref: http://aims.fao.org/aos/asfa/c_7228
+xref: http://cat.aii.caas.cn/concept/c_50059
+xref: http://lod.nal.usda.gov/nalt/44185
+is_a: http://aims.fao.org/aos/agrovoc/c_3456  ! habitats
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12543
+name: micronekton
+def: "Active pelagic crustaceans and other forms intermediate between thrusting nekton and feebler-swimming plankton." []
+is_a: http://aims.fao.org/aos/agrovoc/c_5105  ! nekton
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1261
+name: canning industry
+xref: http://d-nb.info/gnd/4253342-9
+xref: http://lod.nal.usda.gov/nalt/21913
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_1260 ! canning
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1275
+name: capitalism
+def: "An economic system based on private ownership of capital" []
+xref: http://cat.aii.caas.cn/concept/c_59336
+xref: http://d-nb.info/gnd/4029577-1
+xref: http://lod.nal.usda.gov/nalt/21997
+xref: http://zbw.eu/stw/descriptor/11046-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2479  ! economic systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4615 ! market economies
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12844
+name: nomadic husbandry
+is_a: http://aims.fao.org/aos/agrovoc/c_2764  ! extensive husbandry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13337
+name: phytobenthos
+def: "The plants that live on the bottom of the sea, lake or river." []
+xref: http://aims.fao.org/aos/asfa/c_7888
+xref: http://cat.aii.caas.cn/concept/c_8947
+is_a: http://aims.fao.org/aos/agrovoc/c_878  ! benthos
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13344
+name: phytoplankton
+def: "Microscopic plants that float in the sea or in a lake." []
+synonym: "phytoplankton communities" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7890
+xref: http://cat.aii.caas.cn/concept/c_13306
+xref: http://d-nb.info/gnd/4174642-9
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/10010
+xref: http://lod.nal.usda.gov/nalt/11530
+xref: http://www.eionet.europa.eu/gemet/concept/6247
+is_a: http://aims.fao.org/aos/agrovoc/c_5950  ! plankton
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1361789093890
+name: climate-smart agriculture
+synonym: "climate smart agriculture" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1374842133961
+name: forest ecosystems
+is_a: http://aims.fao.org/aos/agrovoc/c_2482  ! ecosystems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1374843345653
+name: forestry sector
+synonym: "forest sector" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_2477  ! economic sectors
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1385
+name: catch cropping
+xref: http://d-nb.info/gnd/4068284-5
+is_a: http://aims.fao.org/aos/agrovoc/c_4986  ! multiple cropping
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_29684 ! catch crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1387
+name: food service industry
+synonym: "catering industry" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_15615 ! human feeding
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_13936
+name: ricefield aquaculture
+def: "Integration of riziculture and pisciculture for the simultaneous production of rice and fish in the same field." []
+synonym: "rizipisciculture" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_212  ! agropisciculture
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14187
+name: selective grazing
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1422957329186
+name: family farming
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14285
+name: silk industry
+xref: http://cat.aii.caas.cn/concept/c_4122
+xref: http://cat.aii.caas.cn/concept/c_42864
+is_a: http://aims.fao.org/aos/agrovoc/c_7696  ! textile industry
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_7063 ! silk
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1437
+name: central government
+def: "the main government in a country, as opposed to local or provincial governments" []
+synonym: "federal government" RELATED []
+xref: http://eurovoc.europa.eu/38
+xref: http://www.eionet.europa.eu/gemet/concept/1259
+is_a: http://aims.fao.org/aos/agrovoc/c_11230  ! government
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1441
+name: centrally planned economies
+synonym: "planned economies" RELATED []
+synonym: "socialist economies" RELATED []
+xref: http://d-nb.info/gnd/4046242-0
+xref: http://lod.nal.usda.gov/nalt/130644
+is_a: http://aims.fao.org/aos/agrovoc/c_2479  ! economic systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14636
+name: studbooks
+synonym: "herdbooks" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_6491  ! registration
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1081 ! breeds (animals)
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1515
+name: chemical industry
+xref: http://cat.aii.caas.cn/concept/c_19341
+xref: http://d-nb.info/gnd/4009848-5
+xref: http://eurovoc.europa.eu/1362
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/18390
+xref: http://lod.nal.usda.gov/nalt/24639
+xref: http://www.eionet.europa.eu/gemet/concept/1310
+xref: http://zbw.eu/stw/descriptor/12996-0
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5335 ! oils industry
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_9752 ! chemical engineering
+relationship: produces http://aims.fao.org/aos/agrovoc/c_1520 ! chemicals
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15487
+name: zoobenthos
+def: "The invertebrate animals that live in or on the seabed, including the intertidal zone." []
+xref: http://aims.fao.org/aos/asfa/c_10004
+xref: http://cat.aii.caas.cn/concept/c_8945
+is_a: http://aims.fao.org/aos/agrovoc/c_878  ! benthos
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15490
+name: zooplankton
+def: "Microscopic animals that live and drift in water." []
+synonym: "zooplankton communities" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_10007
+xref: http://cat.aii.caas.cn/concept/c_13301
+xref: http://d-nb.info/gnd/4067965-2
+xref: http://lod.nal.usda.gov/nalt/58488
+is_a: http://aims.fao.org/aos/agrovoc/c_5950  ! plankton
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15895
+name: meat texture
+xref: http://d-nb.info/gnd/4343231-1
+is_a: http://aims.fao.org/aos/agrovoc/c_32877  ! meat performance
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_15578 ! texture
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15904
+name: large scale farming
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_28720 ! large farms
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15911
+name: organic agriculture
+synonym: "organic farming" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_54962
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/43510
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11930852x
+is_a: http://aims.fao.org/aos/agrovoc/c_28792  ! alternative agriculture
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_24878 ! organic gardening
+relationship: includes http://aims.fao.org/aos/agrovoc/c_36807 ! organic husbandry
+relationship: produces http://aims.fao.org/aos/agrovoc/c_25396 ! health foods
+relationship: produces http://aims.fao.org/aos/agrovoc/c_29261 ! organic foods
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15912
+name: biodynamic agriculture
+def: "A view of agriculture based on a holistic and spiritual understanding of nature and humansb role in it, which considers a farm as a self-contained evolving organism, relying on home-produced feeds and manures with external inputs kept to a minimum." []
+synonym: "biodynamic cultivation" RELATED []
+xref: http://d-nb.info/gnd/4006856-0
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/37280
+is_a: http://aims.fao.org/aos/agrovoc/c_28792  ! alternative agriculture
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15996
+name: meat yield
+is_a: http://aims.fao.org/aos/agrovoc/c_32877  ! meat performance
+is_a: http://aims.fao.org/aos/agrovoc/c_8488  ! yields
+relationship: influences http://aims.fao.org/aos/agrovoc/c_32430 ! dressing percentage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15998
+name: milk yield
+xref: http://cat.aii.caas.cn/concept/c_4939
+xref: http://cat.aii.caas.cn/concept/c_4971
+xref: http://lod.nal.usda.gov/nalt/9414
+is_a: http://aims.fao.org/aos/agrovoc/c_24276  ! milk performance
+is_a: http://aims.fao.org/aos/agrovoc/c_8488  ! yields
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16096
+name: agrosilvopastoral systems
+xref: http://d-nb.info/gnd/4812897-1
+is_a: http://aims.fao.org/aos/agrovoc/c_330982  ! agroforestry systems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_16144 ! pastoralism
+relationship: includes http://aims.fao.org/aos/agrovoc/c_207 ! agroforestry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16097
+name: silvopastoral systems
+xref: http://lod.nal.usda.gov/nalt/5586
+is_a: http://aims.fao.org/aos/agrovoc/c_330982  ! agroforestry systems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_16144 ! pastoralism
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16112
+name: agropastoral systems
+synonym: "agropastoralism" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_16144 ! pastoralism
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_4873 ! mixed farming
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16144
+name: pastoralism
+xref: http://d-nb.info/gnd/4135837-5
+xref: http://lod.nal.usda.gov/nalt/45310
+is_a: http://aims.fao.org/aos/agrovoc/c_2763  ! extensive farming
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_16142 ! nomadism
+relationship: influences http://aims.fao.org/aos/agrovoc/c_433 ! animal husbandry methods
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16337
+name: variety screening
+is_a: http://aims.fao.org/aos/agrovoc/c_7683  ! testing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16504
+name: rubber industry
+xref: http://d-nb.info/gnd/4163517-6
+xref: http://eurovoc.europa.eu/1387
+xref: http://lod.nal.usda.gov/nalt/5362
+xref: http://zbw.eu/stw/descriptor/13004-6
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_6678 ! rubber
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16510
+name: water distribution systems
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/50120
+xref: http://www.eionet.europa.eu/gemet/concept/9165
+is_a: http://aims.fao.org/aos/agrovoc/c_330983  ! distribution systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16544
+name: energy forests
+xref: http://cat.aii.caas.cn/concept/c_32619
+is_a: http://aims.fao.org/aos/agrovoc/c_3048  ! forest plantations
+relationship: produces http://aims.fao.org/aos/agrovoc/c_37916 ! wood energy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1672
+name: climax communities
+xref: http://aims.fao.org/aos/asfa/c_4797
+xref: http://lod.nal.usda.gov/nalt/130682
+is_a: http://aims.fao.org/aos/agrovoc/c_32514  ! plant communities
+relationship: follows http://aims.fao.org/aos/agrovoc/c_2464 ! ecological succession
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3366 ! grasslands
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_17038
+name: pasture feeding
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1713
+name: cocoa industry
+synonym: "chocolate industry" RELATED []
+xref: http://d-nb.info/gnd/4400061-3
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1732
+name: coffee industry
+xref: http://d-nb.info/gnd/4341335-3
+xref: http://zbw.eu/stw/descriptor/18518-6
+is_a: http://aims.fao.org/aos/agrovoc/c_895  ! beverage industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1757
+name: collective farming
+synonym: "ejidos" RELATED []
+synonym: "kolkhozy" RELATED []
+xref: http://d-nb.info/gnd/4501268-4
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_28845 ! collective farms
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_6197 ! producer cooperatives
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1786 ! communes
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1856 ! cooperative activities
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1859 ! cooperative farming
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_1758 ! collectivization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1769
+name: colonialism
+def: "The theory or practice of establishing colonies in other lands." []
+synonym: "imperialism" RELATED []
+xref: http://d-nb.info/gnd/4073624-6
+xref: http://eurovoc.europa.eu/5121
+xref: http://zbw.eu/stw/descriptor/10574-1
+is_a: http://aims.fao.org/aos/agrovoc/c_6064  ! political systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2479 ! economic systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1779
+name: commercial farming
+def: "The production of agricultural goods for sale" []
+xref: http://cat.aii.caas.cn/concept/c_39834
+xref: http://d-nb.info/gnd/4313796-9
+xref: http://eurovoc.europa.eu/577
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_1359 ! cash crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1807
+name: confectionery industry
+xref: http://lod.nal.usda.gov/nalt/28498
+xref: http://zbw.eu/stw/descriptor/13163-0
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1713 ! cocoa industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28416 ! jam industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1835
+name: continuous cropping
+synonym: "monocropping" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_27184
+xref: http://d-nb.info/gnd/4489357-7
+xref: http://lod.nal.usda.gov/nalt/28756
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_4915 ! monoculture
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1839
+name: contract farming
+def: "Contract farming is agricultural production carried out according to an agreement between a buyer and farmers, which establishes conditions for the production and marketing of a farm product or products" []
+xref: http://d-nb.info/gnd/4188088-2
+xref: http://eurovoc.europa.eu/586
+xref: http://zbw.eu/stw/descriptor/21094-4
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1859
+name: cooperative farming
+def: "Cooperative farming is a system where in farmers voluntarily come together,pool their resources in buying inputs,using resources like land ,water and market the produce and divide the earnings." []
+synonym: "group farming" RELATED []
+synonym: "joint farming" RELATED []
+synonym: "moshavim" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_1856  ! cooperative activities
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1871
+name: coppice system
+synonym: "coppice forest" RELATED []
+xref: http://d-nb.info/gnd/4171869-0
+is_a: http://aims.fao.org/aos/agrovoc/c_7070  ! silvicultural systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_19085
+name: zero grazing
+synonym: "soilage (feeding system)" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_2841  ! feeding systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_3374 ! green feed
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1924
+name: cottage industry
+synonym: "home industries" RELATED []
+synonym: "home production" RELATED []
+xref: http://d-nb.info/gnd/4024098-8
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+is_a: http://aims.fao.org/aos/agrovoc/c_397  ! ancillary enterprises
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7822 ! tourism
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1927
+name: cotton industry
+xref: http://d-nb.info/gnd/4319308-0
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/54110
+xref: http://lod.nal.usda.gov/nalt/5344
+xref: http://zbw.eu/stw/descriptor/13127-4
+is_a: http://aims.fao.org/aos/agrovoc/c_7696  ! textile industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1971
+name: cropping systems
+def: "The pattern of crops grown on a given piece of land, or order in which the crops are cultivated over a fixed period." []
+synonym: "cultivation systems" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_15133
+xref: http://cat.aii.caas.cn/concept/c_41815
+xref: http://cat.aii.caas.cn/concept/c_60124
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/32600
+xref: http://lod.nal.usda.gov/nalt/28763
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_1936 ! cover plants
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_29762 ! cultural methods
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_36555 ! alternative methods
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8075 ! upland crops
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_2018 ! cultivation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6209 ! production structure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7170 ! soil fertility
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1d4ea7db
+name: informal property
+def: "Informal property consists in rights that lack formal, official recognition and protection." []
+is_a: http://aims.fao.org/aos/agrovoc/c_c9508190  ! occupancy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_205
+name: AGRIS
+synonym: "International Information System for the Agricultural Sciences and Technology" RELATED []
+xref: http://d-nb.info/gnd/4141654-5
+is_a: http://aims.fao.org/aos/agrovoc/c_11769  ! information systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_207
+name: agroforestry
+synonym: "agrosilvicultural systems" RELATED []
+synonym: "farm forestry" RELATED []
+xref: http://d-nb.info/gnd/4138225-0
+xref: http://eurovoc.europa.eu/6314
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/37190
+xref: http://lod.nal.usda.gov/nalt/5256
+xref: http://www.eionet.europa.eu/gemet/concept/239
+xref: http://zbw.eu/stw/descriptor/18324-5
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_16097 ! silvopastoral systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_1971 ! cropping systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_33512 ! multipurpose trees
+relationship: includes http://aims.fao.org/aos/agrovoc/c_16532 ! community forestry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_208
+name: agroindustrial sector
+synonym: "agribusiness" RELATED []
+synonym: "agrobusiness" RELATED []
+synonym: "agroindustrial relations" RELATED []
+synonym: "food and agricultural sector" RELATED []
+synonym: "food sector" RELATED []
+xref: http://d-nb.info/gnd/4120851-1
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2801 ! agricultural sector
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2477 ! economic sectors
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2111
+name: dairy industry
+synonym: "cheese industry" RELATED []
+synonym: "milk industry" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_38131
+xref: http://d-nb.info/gnd/4039289-2
+xref: http://eurovoc.europa.eu/1406
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/46460
+xref: http://lod.nal.usda.gov/nalt/5345
+xref: http://www.eionet.europa.eu/gemet/concept/1951
+xref: http://zbw.eu/stw/descriptor/13158-0
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+relationship: benefitsFrom http://aims.fao.org/aos/agrovoc/c_10270 ! dairy cooperatives
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_4827 ! milk byproducts
+relationship: includes http://aims.fao.org/aos/agrovoc/c_34761 ! dairies
+relationship: produces http://aims.fao.org/aos/agrovoc/c_4830 ! milk products
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_1166 ! buttermaking
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_1506 ! cheesemaking
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_212
+name: agropisciculture
+xref: http://aims.fao.org/aos/asfa/c_3858
+xref: http://cat.aii.caas.cn/concept/c_33741
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_550 ! aquaculture
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2337
+name: distilling industry
+xref: http://d-nb.info/gnd/4182360-6
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/17570
+xref: http://www.eionet.europa.eu/gemet/concept/2262
+is_a: http://aims.fao.org/aos/agrovoc/c_895  ! beverage industry
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_7309 ! spirits
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24050
+name: milk recording
+xref: http://d-nb.info/gnd/4325382-9
+is_a: http://aims.fao.org/aos/agrovoc/c_24061  ! performance testing
+relationship: measures http://aims.fao.org/aos/agrovoc/c_24276 ! milk performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24061
+name: performance testing
+xref: http://cat.aii.caas.cn/concept/c_40366
+xref: http://d-nb.info/gnd/4258118-7
+is_a: http://aims.fao.org/aos/agrovoc/c_7683  ! testing
+relationship: includes http://aims.fao.org/aos/agrovoc/c_16125 ! feed conversion efficiency
+relationship: measures http://aims.fao.org/aos/agrovoc/c_35199 ! crop performance
+relationship: measures http://aims.fao.org/aos/agrovoc/c_6510 ! reproductive performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24276
+name: milk performance
+synonym: "dairy performance" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_4972
+xref: http://d-nb.info/gnd/4169919-1
+is_a: http://aims.fao.org/aos/agrovoc/c_5698  ! animal performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24403
+name: landlessness
+is_a: http://aims.fao.org/aos/agrovoc/c_28718  ! land ownership
+relationship: affects http://aims.fao.org/aos/agrovoc/c_5646 ! peasantry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2472
+name: economic dualism
+synonym: "dual economies" RELATED []
+xref: http://d-nb.info/gnd/4134109-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2479  ! economic systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2471 ! economic development
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2477
+name: economic sectors
+synonym: "production sectors" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_16470
+xref: http://cat.aii.caas.cn/concept/c_16476
+xref: http://cat.aii.caas.cn/concept/c_23739
+xref: http://d-nb.info/gnd/4191554-9
+xref: http://eurovoc.europa.eu/4006
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/58200
+xref: http://www.eionet.europa.eu/gemet/concept/7554
+xref: http://zbw.eu/stw/descriptor/11784-6
+is_a: http://aims.fao.org/aos/agrovoc/c_2479  ! economic systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_29769 ! economic structure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6923 ! sectoral planning
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2479
+name: economic systems
+synonym: "economies" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_23837
+xref: http://d-nb.info/gnd/4117663-7
+xref: http://eurovoc.europa.eu/3013
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/57690
+xref: http://lod.nal.usda.gov/nalt/21998
+xref: http://www.eionet.europa.eu/gemet/concept/2508
+xref: http://zbw.eu/stw/descriptor/11068-4
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24949 ! economic environment
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34085 ! privatization
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6064 ! political systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7141 ! socioeconomic organization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2482
+name: ecosystems
+xref: http://aims.fao.org/aos/asfa/c_5474
+xref: http://cat.aii.caas.cn/concept/c_40506
+xref: http://d-nb.info/gnd/4043216-6
+xref: http://eurovoc.europa.eu/664
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/29050
+xref: http://lod.nal.usda.gov/nalt/5579
+xref: http://www.eionet.europa.eu/gemet/concept/2519
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_8176 ! vegetation
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_33481 ! ecotones
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_34328 ! primary productivity
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_36230 ! spatial distribution
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_2056 ! cycling
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24833
+name: databases
+synonym: "data bases" RELATED []
+synonym: "databanks" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_42014
+xref: http://d-nb.info/gnd/4011119-2
+xref: http://lod.nal.usda.gov/nalt/31783
+xref: http://zbw.eu/stw/descriptor/16774-5
+is_a: http://aims.fao.org/aos/agrovoc/c_11769  ! information systems
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1756 ! collections
+relationship: includes http://aims.fao.org/aos/agrovoc/c_35655 ! statistical data
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24844
+name: full time farming
+xref: http://d-nb.info/gnd/4323428-8
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_5716 ! permanent labour
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24857
+name: indoor feeding
+xref: http://cat.aii.caas.cn/concept/c_39972
+xref: http://d-nb.info/gnd/4442476-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2841  ! feeding systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24907
+name: terminology
+def: "The set of words or expressions used for a particular subject." []
+xref: http://aims.fao.org/aos/asfa/c_9327
+xref: http://cat.aii.caas.cn/concept/c_41916
+xref: http://d-nb.info/gnd/4059501-8
+xref: http://eurovoc.europa.eu/4441
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/192060
+xref: http://lod.nal.usda.gov/nalt/28257
+xref: http://www.eionet.europa.eu/gemet/concept/8380
+xref: http://zbw.eu/stw/descriptor/19778-3
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24923
+name: mating systems
+def: "Modes of gene transmission from one generation to the next by sexual reproduction." []
+xref: http://lod.nal.usda.gov/nalt/13191
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_1876 ! copulation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24935
+name: off season cultivation
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+relationship: produces http://aims.fao.org/aos/agrovoc/c_32499 ! out of season products
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25214
+name: backyard farming
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25265
+name: relay cropping
+def: "The seeding of one crop into another standing crop, e.g., winter wheat into standing soybeans. A practice of starting one crop in another." []
+xref: http://lod.nal.usda.gov/nalt/30188
+is_a: http://aims.fao.org/aos/agrovoc/c_4986  ! multiple cropping
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25330
+name: drinking water systems
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_10463 ! drinking water
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25332
+name: irrigation systems
+synonym: "irrigation ditches" RELATED []
+synonym: "irrigation networks" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_15993
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/28300
+xref: http://lod.nal.usda.gov/nalt/16017
+xref: http://www.eionet.europa.eu/gemet/concept/11232
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_25340 ! irrigation canals
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_3955 ! irrigation equipment
+relationship: includes http://aims.fao.org/aos/agrovoc/c_26763 ! canals
+relationship: influences http://aims.fao.org/aos/agrovoc/c_25428 ! irrigation schemes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3954 ! irrigation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3957 ! irrigation methods
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_8328 ! water supply
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25673
+name: mountain farming
+xref: http://cat.aii.caas.cn/concept/c_39494
+xref: http://d-nb.info/gnd/4122069-9
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/54490
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25705
+name: strip cropping
+def: "a method of farming in which long thin pieces of land across the contours are planted with different crops in order to reduce soil erosion" []
+xref: http://cat.aii.caas.cn/concept/c_7903
+xref: http://cat.aii.caas.cn/concept/c_8742
+xref: http://lod.nal.usda.gov/nalt/30189
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25706
+name: underplanting
+xref: http://d-nb.info/gnd/4838422-7
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25723
+name: equipment testing
+is_a: http://aims.fao.org/aos/agrovoc/c_7683  ! testing
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28322 ! process control
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_7366 ! standardizing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_264f7edd
+name: conservation agriculture
+def: "Conservation Agriculture (CA) is an approach for managing agro-ecosystems for improved and sustained productivity, increased profits and food security while preserving and enhancing the resource base and the environment. CA is characterised by three linked princliples, namely: n1-      Continuous minimum mechanical disturbance.n2-      Permanent organic soil cover.n3-      Diversification of crop species grown in sequences and/or associations." []
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26800
+name: milkability
+xref: http://cat.aii.caas.cn/concept/c_30898
+xref: http://cat.aii.caas.cn/concept/c_38195
+xref: http://d-nb.info/gnd/4210048-3
+is_a: http://aims.fao.org/aos/agrovoc/c_24276  ! milk performance
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4835 ! milking
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26833
+name: variety trials
+synonym: "varietal screening" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_34587
+xref: http://lod.nal.usda.gov/nalt/5633
+is_a: http://aims.fao.org/aos/agrovoc/c_24061  ! performance testing
+is_a: http://aims.fao.org/aos/agrovoc/c_2758  ! experimentation
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_36850 ! provenance trials
+relationship: influences http://aims.fao.org/aos/agrovoc/c_33964 ! choice of species
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27588
+name: pharmaceutical industry
+def: "The branch of the chemical industry that manufactures drugs." []
+synonym: "drug industry" RELATED []
+xref: http://d-nb.info/gnd/4045696-1
+xref: http://eurovoc.europa.eu/1415
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/58540
+xref: http://lod.gesis.org/thesoz/concept/10036787
+xref: http://www.eionet.europa.eu/gemet/concept/6177
+xref: http://zbw.eu/stw/descriptor/13002-3
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_5760 ! pharmacology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2763
+name: extensive farming
+def: "A system of raising crops and animals, usually on large parcels of land, where a comparatively small amount of production inputs or labor are used per acre." []
+synonym: "extensive production" RELATED []
+xref: http://d-nb.info/gnd/4323853-1
+xref: http://eurovoc.europa.eu/624
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/50740
+xref: http://lod.nal.usda.gov/nalt/38963
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_36552 ! extensive land use
+relationship: includes http://aims.fao.org/aos/agrovoc/c_16112 ! agropastoral systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2764
+name: extensive husbandry
+synonym: "ranching" RELATED []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/57030
+is_a: http://aims.fao.org/aos/agrovoc/c_2763  ! extensive farming
+is_a: http://aims.fao.org/aos/agrovoc/c_433  ! animal husbandry methods
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_16144 ! pastoralism
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2784
+name: fallow systems
+synonym: "fallowing" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_50847
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27947
+name: self feeding
+is_a: http://aims.fao.org/aos/agrovoc/c_8071  ! unrestricted feeding
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2797
+name: farm holidays
+xref: http://d-nb.info/gnd/4187230-7
+is_a: http://aims.fao.org/aos/agrovoc/c_397  ! ancillary enterprises
+is_a: http://aims.fao.org/aos/agrovoc/c_8692  ! agrotourism
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2801
+name: agricultural sector
+synonym: "farm sector" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33482
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/178130
+is_a: http://aims.fao.org/aos/agrovoc/c_2477  ! economic sectors
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_203 ! agriculture
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28053
+name: coppice with standard system
+xref: http://cat.aii.caas.cn/concept/c_58262
+is_a: http://aims.fao.org/aos/agrovoc/c_7070  ! silvicultural systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2807
+name: farming systems
+def: "Different types of farming and methods of cultivation, e.g. shifting cultivation systems, ley systems, systems with permanent upland cultivation, fallow systems, grazing systems and systems with perennial crops." []
+synonym: "agricultural systems" RELATED []
+synonym: "farming" RELATED []
+synonym: "types of farming" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33691
+xref: http://d-nb.info/gnd/4006216-8
+xref: http://eurovoc.europa.eu/4358
+xref: http://lod.nal.usda.gov/nalt/5506
+xref: http://zbw.eu/stw/descriptor/18313-3
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_1971 ! cropping systems
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_28734 ! multiple land use
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2357 ! domestic gardens
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5990 ! plantations
+relationship: influences http://aims.fao.org/aos/agrovoc/c_202 ! agricultural structure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28639 ! agroindustrial complexes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36669 ! agroecosystems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28084
+name: forest products industry
+synonym: "forest industry" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_27516
+xref: http://lod.nal.usda.gov/nalt/41151
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8426 ! wood industry
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_28044 ! destructive distillation of wood
+relationship: produces http://aims.fao.org/aos/agrovoc/c_3049 ! forest products
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2833
+name: feed industry
+synonym: "feed mix industry" RELATED []
+xref: http://d-nb.info/gnd/4128443-4
+xref: http://lod.nal.usda.gov/nalt/5346
+is_a: http://aims.fao.org/aos/agrovoc/c_28831  ! agroindustry
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_16127 ! feed processing
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2923 ! fish industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2841
+name: feeding systems
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16093 ! livestock management
+relationship: influences http://aims.fao.org/aos/agrovoc/c_429 ! animal feeding
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28414
+name: packaging industry
+xref: http://d-nb.info/gnd/4063121-7
+xref: http://lod.gesis.org/thesoz/concept/10047197
+xref: http://zbw.eu/stw/descriptor/12930-2
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_5495 ! packaging
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28416
+name: jam industry
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28420
+name: egg industry
+xref: http://cat.aii.caas.cn/concept/c_8255
+xref: http://lod.nal.usda.gov/nalt/35947
+is_a: http://aims.fao.org/aos/agrovoc/c_28831  ! agroindustry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28421
+name: egg product industry
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_2499 ! egg products
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28422
+name: pasta industry
+xref: http://d-nb.info/gnd/4697812-4
+is_a: http://aims.fao.org/aos/agrovoc/c_784  ! bakery industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28423
+name: refrigeration industry
+xref: http://eurovoc.europa.eu/1390
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/67630
+xref: http://www.eionet.europa.eu/gemet/concept/7043
+xref: http://zbw.eu/stw/descriptor/18619-0
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28425
+name: fermentation industry
+xref: http://lod.nal.usda.gov/nalt/5357
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8404 ! wine industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28627
+name: aesthetic value
+def: "Increment of market or user value attributed to the appearance of a property." []
+synonym: "esthetic value" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_53693
+is_a: http://aims.fao.org/aos/agrovoc/c_28785  ! value systems
+relationship: includes http://aims.fao.org/aos/agrovoc/c_35184 ! ornamental value
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28641
+name: building industry
+xref: http://cat.aii.caas.cn/concept/c_22567
+xref: http://d-nb.info/gnd/4004811-1
+xref: http://eurovoc.europa.eu/3879
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/18710
+xref: http://www.eionet.europa.eu/gemet/concept/1039
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2866
+name: fertilizer industry
+xref: http://cat.aii.caas.cn/concept/c_19296
+xref: http://cat.aii.caas.cn/concept/c_19298
+xref: http://eurovoc.europa.eu/1382
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/38440
+xref: http://lod.nal.usda.gov/nalt/5347
+xref: http://zbw.eu/stw/descriptor/12997-5
+is_a: http://aims.fao.org/aos/agrovoc/c_1515  ! chemical industry
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_27895 ! fertilizer technology
+relationship: produces http://aims.fao.org/aos/agrovoc/c_2867 ! fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28661
+name: cultural values
+xref: http://lod.nal.usda.gov/nalt/30676
+is_a: http://aims.fao.org/aos/agrovoc/c_28785  ! value systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_15520 ! social groups
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2021 ! cultural development
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2678 ! ethnic groups
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28660 ! cultural behaviour
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37966 ! cultural heritage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28718
+name: land ownership
+synonym: "landholding systems" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_45734
+xref: http://cat.aii.caas.cn/concept/c_45746
+xref: http://cat.aii.caas.cn/concept/c_45749
+xref: http://lod.nal.usda.gov/nalt/39519
+is_a: http://aims.fao.org/aos/agrovoc/c_5466  ! ownership
+is_a: http://aims.fao.org/aos/agrovoc/c_7669  ! tenure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_9000090 ! land access
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2874
+name: feudalism
+def: "The medieval system where land was granted by a king to his nobility, and by the nobility to the peasants, on condition that each performed a service for their superior." []
+xref: http://cat.aii.caas.cn/concept/c_12918
+xref: http://d-nb.info/gnd/4131524-8
+xref: http://id.loc.gov/authorities/sh85047983#concept
+xref: http://zbw.eu/stw/descriptor/16250-4
+is_a: http://aims.fao.org/aos/agrovoc/c_6064  ! political systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28766
+name: small scale farming
+xref: http://lod.nal.usda.gov/nalt/39544
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: includes http://aims.fao.org/aos/agrovoc/c_25214 ! backyard farming
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28770
+name: social values
+def: "The accepted mode of conduct and the set of norms, goals, and values binding any social group that serves as a frame of reference for the individual in reaching decisions and achieving a meaningful life." []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/66080
+xref: http://www.eionet.europa.eu/gemet/concept/7821
+xref: http://zbw.eu/stw/descriptor/16642-1
+is_a: http://aims.fao.org/aos/agrovoc/c_28785  ! value systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_33530 ! public opinion
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28785
+name: value systems
+def: "The accepted mode of conduct and the set of norms, goals, and values binding any social group that serves as a frame of reference for the individual in reaching decisions and achieving a meaningful life." []
+xref: http://lod.gesis.org/thesoz/concept/10059829
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_26824 ! socioeconomic environment
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6524 ! resource management
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28792
+name: alternative agriculture
+synonym: "alternative farming" RELATED []
+synonym: "alternative production systems" RELATED []
+synonym: "biological farming" RELATED []
+synonym: "ecological agriculture" RELATED []
+synonym: "permaculture" RELATED []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/55830
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_29103 ! integrated plant production
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2020 ! cultural control
+relationship: includes http://aims.fao.org/aos/agrovoc/c_29762 ! cultural methods
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_15898 ! environmental protection
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_33560 ! sustainability
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36555 ! alternative methods
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36642 ! bioproducts
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28793
+name: local authorities
+def: "A section of elected government which runs an area, e.g. a district council." []
+xref: http://id.loc.gov/authorities/sh85075733#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_50157  ! authorities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28831
+name: agroindustry
+synonym: "agricultural industry" RELATED []
+synonym: "agro-industry" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33330
+xref: http://lod.gesis.org/thesoz/concept/10047202
+xref: http://www.eionet.europa.eu/gemet/concept/240
+xref: http://zbw.eu/stw/descriptor/18320-6
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1927 ! cotton industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28084 ! forest products industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2866 ! fertilizer industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2923 ! fish industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_32675 ! non food industries
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4242 ! leather industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5335 ! oils industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5734 ! pesticide industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7797 ! tobacco industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8437 ! wool industry
+relationship: influences http://aims.fao.org/aos/agrovoc/c_208 ! agroindustrial sector
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28855
+name: democracy
+def: "A  theory or system of government by the people or by the elected representatives of the people." []
+xref: http://eurovoc.europa.eu/381
+xref: http://lod.gesis.org/thesoz/concept/10037672
+xref: http://www.eionet.europa.eu/gemet/concept/2054
+xref: http://zbw.eu/stw/descriptor/16246-2
+is_a: http://aims.fao.org/aos/agrovoc/c_6064  ! political systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28858
+name: dictatorship
+def: "A country ruled by someone with complete power." []
+xref: http://eurovoc.europa.eu/436
+xref: http://lod.gesis.org/thesoz/concept/10041078
+xref: http://zbw.eu/stw/descriptor/16247-0
+is_a: http://aims.fao.org/aos/agrovoc/c_6064  ! political systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28879
+name: federalism
+def: "The system of government which operates in a country which is a federation of semi-autonomous provinces or states, with a central federal government linking them together." []
+xref: http://eurovoc.europa.eu/3042
+xref: http://lod.gesis.org/thesoz/concept/10040121
+xref: http://zbw.eu/stw/descriptor/16314-4
+is_a: http://aims.fao.org/aos/agrovoc/c_6064  ! political systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28913
+name: militarism
+def: "Strong influence or control by military leaders on the government or policies of a country or state." []
+xref: http://eurovoc.europa.eu/1931
+xref: http://id.loc.gov/authorities/sh85085126#concept
+xref: http://lod.gesis.org/thesoz/concept/10052357
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11976800z
+is_a: http://aims.fao.org/aos/agrovoc/c_6064  ! political systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28922
+name: nationalism
+def: "The desire for political independence by people who have the same culture." []
+xref: http://dewey.info/class/320.54/
+xref: http://eurovoc.europa.eu/2033
+xref: http://lod.gesis.org/thesoz/concept/10052957
+xref: http://zbw.eu/stw/descriptor/16416-3
+is_a: http://aims.fao.org/aos/agrovoc/c_6064  ! political systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28956
+name: service industry
+def: "Industry that provides services rather than goods." []
+xref: http://cat.aii.caas.cn/concept/c_13186
+xref: http://eurovoc.europa.eu/1384
+xref: http://lod.nal.usda.gov/nalt/41029
+xref: http://zbw.eu/stw/descriptor/18013-1
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_6989 ! services
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28973
+name: tractor industry
+is_a: http://aims.fao.org/aos/agrovoc/c_4497  ! machinery industry
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_7847 ! tractors
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29158
+name: collectivism
+xref: http://cat.aii.caas.cn/concept/c_21360
+xref: http://eurovoc.europa.eu/6032
+xref: http://id.loc.gov/authorities/sh85028261#concept
+xref: http://lod.gesis.org/thesoz/concept/10049200
+xref: http://zbw.eu/stw/descriptor/16409-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2479  ! economic systems
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_1758 ! collectivization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2923
+name: fish industry
+xref: http://d-nb.info/gnd/4202176-5
+xref: http://lod.nal.usda.gov/nalt/5358
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_29020 ! fish processing
+relationship: produces http://aims.fao.org/aos/agrovoc/c_2941 ! fishery products
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29461
+name: rearing systems
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3014
+name: food chains
+def: "A feeding hierarchy in which organisms in an ecosystem are grouped into trophic (nutritional) levels and are shown in a succession to represent the flow of food energy and the feeding relationships between them." []
+synonym: "food webs" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5956
+xref: http://cat.aii.caas.cn/concept/c_41230
+xref: http://d-nb.info/gnd/4139194-9
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/28020
+xref: http://lod.nal.usda.gov/nalt/40864
+xref: http://www.eionet.europa.eu/gemet/concept/3358
+is_a: http://aims.fao.org/aos/agrovoc/c_2482  ! ecosystems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_917 ! biological competition
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36649 ! biological production
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3020
+name: food industry
+def: "The industry concerned with processing, preparing, preserving, distributing, and serving of foods and beverages." []
+xref: http://cat.aii.caas.cn/concept/c_41208
+xref: http://d-nb.info/gnd/4034889-1
+xref: http://eurovoc.europa.eu/1360
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/66550
+xref: http://lod.nal.usda.gov/nalt/5348
+xref: http://www.eionet.europa.eu/gemet/concept/3368
+xref: http://zbw.eu/stw/descriptor/13160-6
+is_a: http://aims.fao.org/aos/agrovoc/c_28831  ! agroindustry
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_2923 ! fish industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28420 ! egg industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_37969 ! food processing
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5335 ! oils industry
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3030 ! food technology
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_25773 ! food industry equipment
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3038
+name: forced feeding
+xref: http://lod.nal.usda.gov/nalt/9182
+is_a: http://aims.fao.org/aos/agrovoc/c_3837  ! individual feeding
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3046
+name: forest grazing
+def: "The combined use of forestland or woodland for both wood production and animal production by grazing of the coexisting indigenous forage, or vegetation that is managed like indigenous forage.Also called as silvopastoral system." []
+xref: http://d-nb.info/gnd/4139845-2
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3048
+name: forest plantations
+synonym: "artificial forests" RELATED []
+synonym: "artificial stands" RELATED []
+synonym: "cultivated forests" RELATED []
+synonym: "planted forests" RELATED []
+xref: http://eurovoc.europa.eu/1068
+xref: http://lod.nal.usda.gov/nalt/12610
+is_a: http://aims.fao.org/aos/agrovoc/c_7070  ! silvicultural systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_24843 ! forest land
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_34830 ! forest nurseries
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3087
+name: free range husbandry
+xref: http://d-nb.info/gnd/4120951-5
+xref: http://lod.nal.usda.gov/nalt/105821
+is_a: http://aims.fao.org/aos/agrovoc/c_2764  ! extensive husbandry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_31861
+name: surveillance systems
+def: "Aclosed-circuit television system used to maintain close observation of a person or group." []
+xref: http://cat.aii.caas.cn/concept/c_22378
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_31862
+name: control systems
+xref: http://lod.gesis.org/thesoz/concept/10059339
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_31897
+name: sociocultural systems
+synonym: "socio-cultural systems" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32514
+name: plant communities
+def: "The various plant populations (species) that live in the same habitat or environment, typically with one or more dominant species." []
+synonym: "phytocenosis" RELATED []
+synonym: "phytocoenosis" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_57672
+xref: http://d-nb.info/gnd/4045563-4
+xref: http://lod.nal.usda.gov/nalt/355
+is_a: http://aims.fao.org/aos/agrovoc/c_912  ! biocoenosis
+relationship: includes http://aims.fao.org/aos/agrovoc/c_25549 ! companion crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32525
+name: private sector
+def: "Private sector companies are ones that are not owned by the government. This is opposed to the public sector that consists of industries such as education and unemployment insurance. " []
+xref: http://cat.aii.caas.cn/concept/c_42934
+xref: http://cat.aii.caas.cn/concept/c_42938
+xref: http://eurovoc.europa.eu/829
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/76940
+xref: http://lod.gesis.org/thesoz/concept/10053571
+xref: http://lod.nal.usda.gov/nalt/47213
+xref: http://www.eionet.europa.eu/gemet/concept/6640
+xref: http://zbw.eu/stw/descriptor/12064-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2477  ! economic sectors
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6191 ! private enterprises
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32526
+name: public sector
+def: "one of the parts of the economy or the business organisation of a country made up of the government and local authorities, nationalised industries and public services." []
+xref: http://cat.aii.caas.cn/concept/c_16505
+xref: http://cat.aii.caas.cn/concept/c_16512
+xref: http://eurovoc.europa.eu/830
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/65250
+xref: http://lod.gesis.org/thesoz/concept/10053534
+xref: http://lod.nal.usda.gov/nalt/47214
+xref: http://www.eionet.europa.eu/gemet/concept/6816
+xref: http://zbw.eu/stw/descriptor/11722-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2477  ! economic sectors
+relationship: influences http://aims.fao.org/aos/agrovoc/c_50336 ! bureaucracy
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6353 ! public services
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32630
+name: dry feeding
+def: "The feeding of meal to animals without the addition of water. This may cause problems with pigs and poultry." []
+xref: http://cat.aii.caas.cn/concept/c_13881
+is_a: http://aims.fao.org/aos/agrovoc/c_2841  ! feeding systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32631
+name: wet feeding
+xref: http://cat.aii.caas.cn/concept/c_40879
+xref: http://d-nb.info/gnd/4250393-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2841  ! feeding systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32675
+name: non food industries
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_16504 ! rubber industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28084 ! forest products industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4242 ! leather industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5549 ! pulp and paper industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7696 ! textile industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7797 ! tobacco industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_8426 ! wood industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32877
+name: meat performance
+xref: http://cat.aii.caas.cn/concept/c_4969
+xref: http://cat.aii.caas.cn/concept/c_4970
+xref: http://d-nb.info/gnd/4154605-2
+is_a: http://aims.fao.org/aos/agrovoc/c_5698  ! animal performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32ecd29b
+name: land regime
+def: "Land regime is the set of rules concerning the status and use of the land." []
+is_a: http://aims.fao.org/aos/agrovoc/c_28718  ! land ownership
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33057
+name: selective felling
+synonym: "forest thinning" RELATED []
+synonym: "selective cutting" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_56678
+xref: http://cat.aii.caas.cn/concept/c_56680
+is_a: http://aims.fao.org/aos/agrovoc/c_7070  ! silvicultural systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34101 ! selection forests
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330697
+name: nutrient management
+xref: http://lod.nal.usda.gov/nalt/5414
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_16094 ! crop management
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36586 ! DRIS
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330698
+name: Site Specific Nutrient Management
+synonym: "SSNM" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_330697  ! nutrient management
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330787
+name: Integrated Plant Nutrient Management
+synonym: "IPNM" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_330697  ! nutrient management
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330877
+name: screening
+synonym: "screening tests" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_8545
+xref: http://lod.nal.usda.gov/nalt/42889
+is_a: http://aims.fao.org/aos/agrovoc/c_7683  ! testing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330981
+name: natural outcrossing
+synonym: "outcrossing (natural)" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_24923  ! mating systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330982
+name: agroforestry systems
+def: "An agroforestry system is a form of multiple land use where woody perennials (trees, shrubs, bamboos, palm trees, woody lianas) are grown on the same land management unit with crops and/or animals." []
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330983
+name: distribution systems
+xref: http://lod.gesis.org/thesoz/concept/10059832
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330985
+name: systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331102
+name: federations
+def: "A group of organisations which are linked together and have a central body which represents their interests." []
+xref: http://dewey.info/class/321.02/
+xref: http://lod.gesis.org/thesoz/concept/10040120
+xref: http://zbw.eu/stw/descriptor/19681-4
+is_a: http://aims.fao.org/aos/agrovoc/c_6064  ! political systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331327
+name: milk protein yield
+xref: http://lod.nal.usda.gov/nalt/52958
+is_a: http://aims.fao.org/aos/agrovoc/c_15998  ! milk yield
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331328
+name: milk fat yield
+xref: http://lod.nal.usda.gov/nalt/52951
+is_a: http://aims.fao.org/aos/agrovoc/c_15998  ! milk yield
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331393
+name: conventional farming
+def: "Farming that does not use specific organic practices." []
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331584
+name: ecotourism
+is_a: http://aims.fao.org/aos/agrovoc/c_7822  ! tourism
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33452
+name: alley cropping
+def: "A cropping system that involves growing crops in a wide strip, typically 6 meters in width, between lines of closely planted, fast-growing trees or shrubs. These woody species are usually leguminous and are pruned frequently to provide a mulching material and nutrients to the crop in the alley." []
+synonym: "alley farming" RELATED []
+synonym: "hedgerow intercropping" RELATED []
+synonym: "zonal cropping" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_22363
+xref: http://d-nb.info/gnd/4273788-6
+xref: http://lod.nal.usda.gov/nalt/5585
+is_a: http://aims.fao.org/aos/agrovoc/c_3910  ! intercropping
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33484
+name: extensification
+xref: http://d-nb.info/gnd/4196319-2
+is_a: http://aims.fao.org/aos/agrovoc/c_2763  ! extensive farming
+relationship: causes http://aims.fao.org/aos/agrovoc/c_28716 ! land diversion
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6206 ! production policies
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33485
+name: intensification
+xref: http://d-nb.info/gnd/4123437-6
+is_a: http://aims.fao.org/aos/agrovoc/c_3906  ! intensive farming
+relationship: causes http://aims.fao.org/aos/agrovoc/c_28716 ! land diversion
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6206 ! production policies
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_33561
+name: sustainable agriculture
+def: "Use for the practice of agriculture which supports sustained economic profitability, sustained quality and well-being of the environment, efficient use of natural resources, and the overall quality and availability of food and fiber for mankind." []
+xref: http://eurovoc.europa.eu/6308
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/98540
+xref: http://lod.nal.usda.gov/nalt/5307
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_35332 ! sustainable development
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_49913 ! agricultural practices
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3367
+name: grazing systems
+def: "Different methods of pasture management." []
+synonym: "grazing management" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_23678
+xref: http://cat.aii.caas.cn/concept/c_27903
+is_a: http://aims.fao.org/aos/agrovoc/c_2841  ! feeding systems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_1118 ! browsing
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3364 ! grassland management
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34276
+name: knowledge based systems
+xref: http://d-nb.info/gnd/4197554-6
+is_a: http://aims.fao.org/aos/agrovoc/c_11769  ! information systems
+relationship: includes http://aims.fao.org/aos/agrovoc/c_24009 ! computer applications
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_34277 ! expert systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34277
+name: expert systems
+xref: http://cat.aii.caas.cn/concept/c_59124
+xref: http://d-nb.info/gnd/4113491-6
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/79800
+xref: http://lod.nal.usda.gov/nalt/28436
+xref: http://www.eionet.europa.eu/gemet/concept/3054
+xref: http://zbw.eu/stw/descriptor/18003-4
+is_a: http://aims.fao.org/aos/agrovoc/c_11769  ! information systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34370
+name: low input agriculture
+synonym: "low input farming" RELATED []
+synonym: "low input technology" RELATED []
+xref: http://d-nb.info/gnd/4671352-9
+xref: http://lod.nal.usda.gov/nalt/39541
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2763 ! extensive farming
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_3884 ! input output analysis
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3456
+name: habitats
+xref: http://aims.fao.org/aos/asfa/c_6303
+xref: http://cat.aii.caas.cn/concept/c_40430
+xref: http://d-nb.info/gnd/4239536-7
+xref: http://lod.nal.usda.gov/nalt/11506
+is_a: http://aims.fao.org/aos/agrovoc/c_2482  ! ecosystems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_932 ! biotopes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_912 ! biocoenosis
+relationship: influences http://aims.fao.org/aos/agrovoc/c_930 ! biota
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35131
+name: geographical information systems
+def: "An information system for capturing, storing, integrating, analyzing and displaying geospatial data." []
+synonym: "GIS" RELATED []
+synonym: "geographic information systems" RELATED []
+xref: http://eurovoc.europa.eu/7218
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/89110
+is_a: http://aims.fao.org/aos/agrovoc/c_11769  ! information systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36733 ! global positioning systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35184
+name: ornamental value
+xref: http://lod.nal.usda.gov/nalt/56203
+is_a: http://aims.fao.org/aos/agrovoc/c_28785  ! value systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35199
+name: crop performance
+synonym: "plant performance" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_24061  ! performance testing
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8487 ! yield increases
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35208
+name: management information systems
+xref: http://d-nb.info/gnd/4074518-1
+xref: http://eurovoc.europa.eu/4360
+xref: http://lod.nal.usda.gov/nalt/47260
+xref: http://zbw.eu/stw/descriptor/12079-1
+is_a: http://aims.fao.org/aos/agrovoc/c_11769  ! information systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4566 ! managers
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_5209 ! simulation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35215
+name: calving rate
+xref: http://lod.nal.usda.gov/nalt/21467
+is_a: http://aims.fao.org/aos/agrovoc/c_6510  ! reproductive performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35216
+name: kidding rate
+xref: http://lod.nal.usda.gov/nalt/39781
+is_a: http://aims.fao.org/aos/agrovoc/c_6510  ! reproductive performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35217
+name: lambing rate
+xref: http://lod.nal.usda.gov/nalt/39782
+is_a: http://aims.fao.org/aos/agrovoc/c_6510  ! reproductive performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35693
+name: use value
+xref: http://cat.aii.caas.cn/concept/c_41300
+xref: http://d-nb.info/gnd/4132530-8
+is_a: http://aims.fao.org/aos/agrovoc/c_28785  ! value systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8117 ! uses
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35717
+name: postsocialism
+is_a: http://aims.fao.org/aos/agrovoc/c_2479  ! economic systems
+relationship: follows http://aims.fao.org/aos/agrovoc/c_7139 ! socialism
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35811
+name: farrowing rate
+xref: http://cat.aii.caas.cn/concept/c_4995
+xref: http://lod.nal.usda.gov/nalt/39558
+is_a: http://aims.fao.org/aos/agrovoc/c_6510  ! reproductive performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35813
+name: assortative mating
+synonym: "assortative pairing" RELATED []
+xref: http://lod.nal.usda.gov/nalt/13190
+is_a: http://aims.fao.org/aos/agrovoc/c_24923  ! mating systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35927
+name: companion planting
+xref: http://id.loc.gov/authorities/sh85029286#concept
+is_a: http://aims.fao.org/aos/agrovoc/c_4871  ! mixed cropping
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_25549 ! companion crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3611
+name: high forest
+xref: http://d-nb.info/gnd/4210267-4
+xref: http://eurovoc.europa.eu/1065
+is_a: http://aims.fao.org/aos/agrovoc/c_7070  ! silvicultural systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36528
+name: arable farming
+def: "The growing of crops, as opposed to dairy farming, cattle farming, etc." []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/62740
+xref: http://lod.gesis.org/thesoz/concept/10034546
+xref: http://www.eionet.europa.eu/gemet/concept/521
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_18948 ! arable land
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36542
+name: continuous grazing
+def: "The livestock are left in the field for long periods without rotation; a common practice in extensive farming systems where internal parasites are not a problem." []
+xref: http://cat.aii.caas.cn/concept/c_27171
+xref: http://cat.aii.caas.cn/concept/c_27179
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36669
+name: agroecosystems
+def: "A system where communities of plants, microbes and animals inhabiting farmed land, pastures, grasslands or rangelands, interact with each other and their physical environment." []
+xref: http://cat.aii.caas.cn/concept/c_33667
+xref: http://d-nb.info/gnd/4136995-6
+xref: http://lod.nal.usda.gov/nalt/5310
+is_a: http://aims.fao.org/aos/agrovoc/c_2482  ! ecosystems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28001 ! agricultural resources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_33560 ! sustainability
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36733
+name: global positioning systems
+def: "A technology that uses the position of satellites to provide precise location coordinates on the Earth's surface." []
+synonym: "GPS (global positioning systems)" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6208
+xref: http://lod.nal.usda.gov/nalt/42766
+is_a: http://aims.fao.org/aos/agrovoc/c_34276  ! knowledge based systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_14093 ! satellites
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36822
+name: phyllosphere
+def: "The three-dimensional microenvironment surrounding a leaf." []
+xref: http://lod.nal.usda.gov/nalt/49463
+is_a: http://aims.fao.org/aos/agrovoc/c_12542  ! microhabitat
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4243 ! leaves
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36935
+name: informal sector
+xref: http://lod.gesis.org/thesoz/concept/10037531
+xref: http://zbw.eu/stw/descriptor/10501-0
+is_a: http://aims.fao.org/aos/agrovoc/c_2477  ! economic sectors
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_3483 ! handicrafts
+relationship: includes http://aims.fao.org/aos/agrovoc/c_15519 ! small enterprises
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2550 ! employment
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24950 ! sociocultural environment
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7485 ! subsistence farming
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36960
+name: monogamy
+def: "A breeding arrangement where a male and female mate for life." []
+xref: http://lod.nal.usda.gov/nalt/69328
+is_a: http://aims.fao.org/aos/agrovoc/c_24923  ! mating systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3715
+name: hydraulic systems
+synonym: "hydraulic power systems" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6460
+xref: http://cat.aii.caas.cn/concept/c_53234
+xref: http://lod.nal.usda.gov/nalt/37730
+is_a: http://aims.fao.org/aos/agrovoc/c_8179  ! vehicle systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37470
+name: nondestructive testing
+xref: http://aims.fao.org/aos/asfa/c_7473
+xref: http://cat.aii.caas.cn/concept/c_12157
+is_a: http://aims.fao.org/aos/agrovoc/c_7683  ! testing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37869
+name: distance education
+synonym: "distance learning" RELATED []
+synonym: "distance study" RELATED []
+xref: http://dewey.info/class/371.35/
+xref: http://id.loc.gov/authorities/sh85038507#concept
+xref: http://lod.gesis.org/thesoz/concept/10043514
+xref: http://lod.nal.usda.gov/nalt/34083
+is_a: http://aims.fao.org/aos/agrovoc/c_50113  ! educational systems
+relationship: includes http://aims.fao.org/aos/agrovoc/c_1834 ! continuing education
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7638 ! teaching
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8629 ! adult education
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_24906 ! telecommunications
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37871
+name: early warning systems
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/37520
+xref: http://lod.gesis.org/thesoz/concept/10044446
+xref: http://lod.nal.usda.gov/nalt/4423
+xref: http://www.eionet.europa.eu/gemet/concept/2398
+xref: http://zbw.eu/stw/descriptor/12166-6
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3041 ! forecasting
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_11769 ! information systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3837
+name: individual feeding
+xref: http://cat.aii.caas.cn/concept/c_14996
+xref: http://lod.nal.usda.gov/nalt/9184
+is_a: http://aims.fao.org/aos/agrovoc/c_2841  ! feeding systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3848
+name: industry
+def: "All factories, companies or processes involved in the manufacturing of products." []
+xref: http://cat.aii.caas.cn/concept/c_15180
+xref: http://d-nb.info/gnd/4026779-9
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/32810
+xref: http://lod.nal.usda.gov/nalt/5343
+xref: http://www.eionet.europa.eu/gemet/concept/4279
+is_a: http://aims.fao.org/aos/agrovoc/c_6921  ! secondary sector
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_25201 ! factories
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_28657 ! cooperative processing
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_6195 ! processing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3883
+name: input industries
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3906
+name: intensive farming
+def: "A system of raising crops and animals, usually on small parcels of land, where a comparatively large amount of production inputs or labor are used per acre." []
+synonym: "factory farming" RELATED []
+synonym: "industrial agriculture" RELATED []
+synonym: "intensive agriculture" RELATED []
+synonym: "intensive production" RELATED []
+xref: http://d-nb.info/gnd/4324701-5
+xref: http://eurovoc.europa.eu/636
+xref: http://lod.nal.usda.gov/nalt/39540
+xref: http://www.eionet.europa.eu/gemet/concept/4391
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_36551 ! intensive land use
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3907
+name: intensive husbandry
+synonym: "farming not dependent on land" RELATED []
+xref: http://d-nb.info/gnd/4027260-6
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11931962r
+is_a: http://aims.fao.org/aos/agrovoc/c_3906  ! intensive farming
+is_a: http://aims.fao.org/aos/agrovoc/c_433  ! animal husbandry methods
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_2842 ! feedlots
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3910
+name: intercropping
+synonym: "interplanting" RELATED []
+xref: http://lod.nal.usda.gov/nalt/6581
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_29229 ! oversowing
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_25549 ! companion crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4234
+name: laying performance
+xref: http://cat.aii.caas.cn/concept/c_4881
+xref: http://d-nb.info/gnd/4127467-2
+xref: http://lod.nal.usda.gov/nalt/5070
+is_a: http://aims.fao.org/aos/agrovoc/c_5698  ! animal performance
+relationship: influences http://aims.fao.org/aos/agrovoc/c_26941 ! egg yield
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4242
+name: leather industry
+xref: http://cat.aii.caas.cn/concept/c_57801
+xref: http://d-nb.info/gnd/4167095-4
+xref: http://eurovoc.europa.eu/1388
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/57370
+xref: http://lod.nal.usda.gov/nalt/5359
+xref: http://www.eionet.europa.eu/gemet/concept/4738
+xref: http://zbw.eu/stw/descriptor/13136-3
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_3609 ! hides and skins
+relationship: produces http://aims.fao.org/aos/agrovoc/c_4241 ! leather
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_7605 ! tanning
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4303
+name: ley farming
+xref: http://cat.aii.caas.cn/concept/c_4427
+xref: http://d-nb.info/gnd/4153919-9
+is_a: http://aims.fao.org/aos/agrovoc/c_6662  ! crop rotation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4412
+name: local government
+def: "Administration and politics at the level below national government, e.g. county and borough councils." []
+xref: http://dewey.info/class/320.8/
+xref: http://eurovoc.europa.eu/68
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/67880
+xref: http://lod.nal.usda.gov/nalt/43555
+xref: http://www.eionet.europa.eu/gemet/concept/10992
+xref: http://zbw.eu/stw/descriptor/16550-6
+is_a: http://aims.fao.org/aos/agrovoc/c_11230  ! government
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28793 ! local authorities
+relationship: influences http://aims.fao.org/aos/agrovoc/c_9000107 ! local communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4497
+name: machinery industry
+synonym: "agricultural machinery (industry)" RELATED []
+synonym: "agricultural machinery industry" RELATED []
+xref: http://lod.nal.usda.gov/nalt/51012
+xref: http://zbw.eu/stw/descriptor/13058-4
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: produces http://aims.fao.org/aos/agrovoc/c_2631 ! equipment
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4615
+name: market economies
+def: "An economic system in which goods and services are exchanged in a market free from government regulation or direction, and production and consumption of goods and services is driven by consumer demand and producer supply." []
+xref: http://cat.aii.caas.cn/concept/c_41330
+xref: http://d-nb.info/gnd/4037653-9
+xref: http://lod.gesis.org/thesoz/concept/10051731
+is_a: http://aims.fao.org/aos/agrovoc/c_2479  ! economic systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4675
+name: meat industry
+synonym: "knacker industry" RELATED []
+synonym: "slaughtering industry" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_38004
+xref: http://cat.aii.caas.cn/concept/c_38017
+xref: http://d-nb.info/gnd/4389721-6
+xref: http://zbw.eu/stw/descriptor/13155-6
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_4679 ! meat production
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_7107 ! slaughtering
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_4671 ! meat byproducts
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4842
+name: milling industry
+xref: http://lod.nal.usda.gov/nalt/5360
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+relationship: produces http://aims.fao.org/aos/agrovoc/c_4841 ! milling byproducts
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_4840 ! milling
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4871
+name: mixed cropping
+synonym: "mixed planting" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_20714
+xref: http://eurovoc.europa.eu/2544
+xref: http://lod.nal.usda.gov/nalt/30133
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_25549 ! companion crops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4872
+name: mixed economies
+def: "An economic system in which some goods and services are directed and administered by the government and some goods and services are privately owned and are exchanged in a free market." []
+xref: http://cat.aii.caas.cn/concept/c_17236
+is_a: http://aims.fao.org/aos/agrovoc/c_2479  ! economic systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4873
+name: mixed farming
+xref: http://d-nb.info/gnd/4372248-9
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/34990
+xref: http://www.eionet.europa.eu/gemet/concept/5313
+xref: http://zbw.eu/stw/descriptor/19045-4
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_212 ! agropisciculture
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4875
+name: mixed grazing
+xref: http://cat.aii.caas.cn/concept/c_20703
+xref: http://lod.nal.usda.gov/nalt/43778
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4915
+name: monoculture
+xref: http://aims.fao.org/aos/asfa/c_7309
+xref: http://cat.aii.caas.cn/concept/c_8097
+xref: http://d-nb.info/gnd/4137447-2
+xref: http://zbw.eu/stw/descriptor/18986-1
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4931
+name: moors
+def: "An area of often high land that is not cultivated, and is formed of acid soil covered with grass and low shrubs such as heather." []
+synonym: "heathland" RELATED []
+synonym: "moorland" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_56891
+xref: http://d-nb.info/gnd/4159358-3
+is_a: http://aims.fao.org/aos/agrovoc/c_2482  ! ecosystems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49839
+name: knowledge organization system
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49840
+name: relationship scheme
+is_a: http://aims.fao.org/aos/agrovoc/c_49839  ! knowledge organization system
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49841
+name: subject headings
+synonym: "descriptors" RELATED []
+synonym: "index terms" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_49906  ! taxonomy (information management)
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49842
+name: thesaurus
+def: "A book of synonyms, often including related and contrasting words and antonyms." []
+xref: http://aims.fao.org/aos/asfa/c_9383
+xref: http://cat.aii.caas.cn/concept/c_51002
+xref: http://cat.aii.caas.cn/concept/c_58992
+xref: http://eurovoc.europa.eu/4138
+xref: http://lod.gesis.org/thesoz/concept/10060270
+xref: http://www.eionet.europa.eu/gemet/concept/8454
+is_a: http://aims.fao.org/aos/agrovoc/c_49906  ! taxonomy (information management)
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_49841 ! subject headings
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_11729 ! indexing of information
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49843
+name: topic map
+def: "A model of the structure of knowledge which represents a topic, the associations between this topic and other topics and the information sources in which this topic is referred to" []
+is_a: http://aims.fao.org/aos/agrovoc/c_49906  ! taxonomy (information management)
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49844
+name: concept map
+def: "A way of representing knowledge in the form of a diagram, with links indicating the relationships between concepts" []
+is_a: http://aims.fao.org/aos/agrovoc/c_49840  ! relationship scheme
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49845
+name: ontology
+def: "That department of the science of metaphysics which investigates and explains the nature and essential properties and relations of all beings, as such, or the principles and causes of being." []
+xref: http://dewey.info/class/111/
+xref: http://id.loc.gov/authorities/sh85094833#concept
+xref: http://lod.gesis.org/thesoz/concept/10053747
+is_a: http://aims.fao.org/aos/agrovoc/c_49840  ! relationship scheme
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49846
+name: application ontology
+is_a: http://aims.fao.org/aos/agrovoc/c_49845  ! ontology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49847
+name: upper level ontology
+is_a: http://aims.fao.org/aos/agrovoc/c_49845  ! ontology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49848
+name: standard upper level ontology
+is_a: http://aims.fao.org/aos/agrovoc/c_49847  ! upper level ontology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49849
+name: domain ontology
+is_a: http://aims.fao.org/aos/agrovoc/c_49845  ! ontology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49850
+name: term list
+is_a: http://aims.fao.org/aos/agrovoc/c_49839  ! knowledge organization system
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49851
+name: glossary
+def: "A list of often difficult or specialized words with their definitions, often placed at the back of a book." []
+synonym: "glossaries" RELATED []
+xref: http://www.eionet.europa.eu/gemet/concept/3694
+is_a: http://aims.fao.org/aos/agrovoc/c_49850  ! term list
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49852
+name: dictionary
+def: "A book or compact disc containing the words of a language arranged alphabetically with their meanings" []
+synonym: "dictionaries" RELATED []
+xref: http://eurovoc.europa.eu/438
+xref: http://lod.gesis.org/thesoz/concept/10051186
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11931877h
+xref: http://www.eionet.europa.eu/gemet/concept/2173
+is_a: http://aims.fao.org/aos/agrovoc/c_49850  ! term list
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49853
+name: gazetteer
+xref: http://aims.fao.org/aos/asfa/c_6096
+is_a: http://aims.fao.org/aos/agrovoc/c_49852  ! dictionary
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49854
+name: authority file
+synonym: "authority lists" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_49850  ! term list
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4986
+name: multiple cropping
+synonym: "multicropping" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_10626
+xref: http://cat.aii.caas.cn/concept/c_10793
+xref: http://cat.aii.caas.cn/concept/c_13615
+xref: http://id.loc.gov/authorities/sh85088364#concept
+xref: http://lod.nal.usda.gov/nalt/30186
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49868
+name: decision support systems
+def: "A computer-based system that enables management to interrogate the computer system on an ad hoc basis for various kinds of information on the organization and to predict the effect of potential decisions beforehand. Abbreviated DSS." []
+synonym: "decision support tools" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5145
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/70840
+xref: http://lod.nal.usda.gov/nalt/31914
+xref: http://www.eionet.europa.eu/gemet/concept/14893
+is_a: http://aims.fao.org/aos/agrovoc/c_34277  ! expert systems
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_2147 ! decision making
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_37872 ! empowerment
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_24009 ! computer applications
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_3862 ! information processing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49906
+name: taxonomy (information management)
+is_a: http://aims.fao.org/aos/agrovoc/c_49840  ! relationship scheme
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49983
+name: mining
+def: "The process or business of extracting ore or minerals from the ground." []
+xref: http://aims.fao.org/aos/asfa/c_7267
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/19730
+xref: http://lod.gesis.org/thesoz/concept/10038238
+xref: http://lod.nal.usda.gov/nalt/2725
+xref: http://www.eionet.europa.eu/gemet/concept/14837
+xref: http://zbw.eu/stw/descriptor/12980-1
+is_a: http://aims.fao.org/aos/agrovoc/c_36910  ! extraction
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50113
+name: educational systems
+synonym: "education systems" RELATED []
+xref: http://eurovoc.europa.eu/4357
+xref: http://lod.gesis.org/thesoz/concept/10038352
+xref: http://www.eionet.europa.eu/gemet/concept/2557
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16541 ! educational institutions
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2488 ! education
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50157
+name: authorities
+def: "The power to enforce laws, exact obedience, command, determine, or judge." []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/165920
+xref: http://lod.gesis.org/thesoz/concept/10037548
+is_a: http://aims.fao.org/aos/agrovoc/c_11230  ! government
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50185
+name: confederations
+def: "A group of independent states or organisations working together for common aims." []
+xref: http://lod.gesis.org/thesoz/concept/10040122
+is_a: http://aims.fao.org/aos/agrovoc/c_6064  ! political systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50190
+name: contracting authorities
+is_a: http://aims.fao.org/aos/agrovoc/c_50157  ! authorities
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_1840 ! contracts
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50262
+name: municipal governments
+is_a: http://aims.fao.org/aos/agrovoc/c_4412  ! local government
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50278
+name: panchayats
+def: "The Panchayat was a Indian political system that regrouped five villages; four peripheral villages around a central one were laid out as the '5' side of a dice. Each had appointed tasks and responsibilities, such as cart-making or basket-weaving. The central village, usually the largest of the Panchayat, traditionally handled food storage and meetings places for the officials, as well as their residences." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50262  ! municipal governments
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1859 ! cooperative farming
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50311
+name: statutory authorities
+def: "A statutory authority is an Australian body which has the right to enact legislation for specific areas of the law." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50157  ! authorities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50327
+name: water authorities
+xref: http://aims.fao.org/aos/asfa/c_9766
+is_a: http://aims.fao.org/aos/agrovoc/c_50157  ! authorities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5105
+name: nekton
+def: "Actively-swimming aquatic organisms which, unlike plankton, are able to navigate against water currents." []
+synonym: "necton" RELATED []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/146690
+is_a: http://aims.fao.org/aos/agrovoc/c_553  ! aquatic communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5150
+name: neuston
+def: "Organisms such as plankton which float or swim in the surface film of a body of water." []
+xref: http://aims.fao.org/aos/asfa/c_7436
+is_a: http://aims.fao.org/aos/agrovoc/c_553  ! aquatic communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5207
+name: nomenclature
+def: "A system for assigning words and symbols to represent numbers or terms." []
+xref: http://cat.aii.caas.cn/concept/c_31592
+xref: http://d-nb.info/gnd/4126152-5
+xref: http://eurovoc.europa.eu/2066
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/73610
+xref: http://www.eionet.europa.eu/gemet/concept/5664
+is_a: http://aims.fao.org/aos/agrovoc/c_24907  ! terminology
+relationship: follows http://aims.fao.org/aos/agrovoc/c_1653 ! classification
+relationship: follows http://aims.fao.org/aos/agrovoc/c_3791 ! identification
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5263
+name: numerical taxonomy
+xref: http://aims.fao.org/aos/asfa/c_7496
+xref: http://d-nb.info/gnd/4172170-6
+xref: http://lod.nal.usda.gov/nalt/55402
+is_a: http://aims.fao.org/aos/agrovoc/c_49906  ! taxonomy (information management)
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5335
+name: oils industry
+synonym: "fats industry" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: produces http://aims.fao.org/aos/agrovoc/c_25402 ! oil mill byproducts
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5465
+name: owner occupancy
+is_a: http://aims.fao.org/aos/agrovoc/c_7669  ! tenure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5497
+name: controlled grazing
+def: "A system of grazing in which the number of livestock is linked to the pasture available, with moveable fences being erected to restrict the area being grazed" []
+synonym: "paddock grazing" RELATED []
+synonym: "restricted grazing" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_49061
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_553
+name: aquatic communities
+xref: http://aims.fao.org/aos/asfa/c_4060
+xref: http://cat.aii.caas.cn/concept/c_42648
+xref: http://lod.nal.usda.gov/nalt/132653
+is_a: http://aims.fao.org/aos/agrovoc/c_912  ! biocoenosis
+relationship: isComposedOf http://aims.fao.org/aos/agrovoc/c_557 ! aquatic organisms
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5549
+name: pulp and paper industry
+synonym: "cellulose industry" RELATED []
+synonym: "paper industry" RELATED []
+synonym: "pulp industry" RELATED []
+xref: http://eurovoc.europa.eu/1375
+xref: http://lod.nal.usda.gov/nalt/41152
+xref: http://zbw.eu/stw/descriptor/13117-0
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_34861 ! pulp mill effluents
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_26811 ! pulping
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_28116 ! papermaking
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5596
+name: part time farming
+xref: http://eurovoc.europa.eu/559
+xref: http://lod.nal.usda.gov/nalt/39507
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11954278b
+xref: http://zbw.eu/stw/descriptor/13453-5
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_5323 ! off farm employment
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5698
+name: animal performance
+xref: http://cat.aii.caas.cn/concept/c_40365
+xref: http://d-nb.info/gnd/4371043-8
+xref: http://lod.nal.usda.gov/nalt/9077
+is_a: http://aims.fao.org/aos/agrovoc/c_24061  ! performance testing
+relationship: influences http://aims.fao.org/aos/agrovoc/c_16117 ! breeding value
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8487 ! yield increases
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8488 ! yields
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5709
+name: periphyton
+xref: http://aims.fao.org/aos/asfa/c_7806
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/46980
+xref: http://lod.nal.usda.gov/nalt/11518
+xref: http://www.eionet.europa.eu/gemet/concept/6115
+is_a: http://aims.fao.org/aos/agrovoc/c_553  ! aquatic communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5734
+name: pesticide industry
+xref: http://cat.aii.caas.cn/concept/c_33470
+xref: http://lod.nal.usda.gov/nalt/5351
+xref: http://zbw.eu/stw/descriptor/18431-4
+is_a: http://aims.fao.org/aos/agrovoc/c_1515  ! chemical industry
+relationship: produces http://aims.fao.org/aos/agrovoc/c_5739 ! pesticides
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5762
+name: phased planting
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5950
+name: plankton
+def: "The microscopic animals and plants that drift near the surface of the water, belonging to two groups: zooplankton, which are microscopic animals, and phytoplankton, which are microscopic plants capable of photosynthesis." []
+xref: http://aims.fao.org/aos/asfa/c_7929
+xref: http://cat.aii.caas.cn/concept/c_13302
+xref: http://d-nb.info/gnd/4046229-8
+xref: http://eurovoc.europa.eu/2395
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/43480
+xref: http://lod.nal.usda.gov/nalt/11519
+xref: http://www.eionet.europa.eu/gemet/concept/6282
+is_a: http://aims.fao.org/aos/agrovoc/c_553  ! aquatic communities
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4118 ! krill
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6018
+name: pleuston
+def: "Small organisms, as algae or gastropods, floating on or near the surface of a body of water." []
+xref: http://aims.fao.org/aos/asfa/c_7967
+is_a: http://aims.fao.org/aos/agrovoc/c_553  ! aquatic communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6064
+name: political systems
+def: "A political system is composed of the members of a social organization (group) who are in power." []
+xref: http://cat.aii.caas.cn/concept/c_16456
+xref: http://cat.aii.caas.cn/concept/c_57319
+xref: http://d-nb.info/gnd/4046584-6
+xref: http://eurovoc.europa.eu/3025
+xref: http://lod.gesis.org/thesoz/concept/10040669
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: includes http://aims.fao.org/aos/agrovoc/c_28785 ! value systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_11230 ! government
+relationship: influences http://aims.fao.org/aos/agrovoc/c_49988 ! politics
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6068
+name: pollard systems
+xref: http://cat.aii.caas.cn/concept/c_45526
+is_a: http://aims.fao.org/aos/agrovoc/c_7070  ! silvicultural systems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_6069 ! pollarding
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6129
+name: postagricultural sector
+is_a: http://aims.fao.org/aos/agrovoc/c_208  ! agroindustrial sector
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_6195 ! processing
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_7427 ! storage
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2833 ! feed industry
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3020 ! food industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6152
+name: power takeoffs
+xref: http://d-nb.info/gnd/4190533-7
+is_a: http://aims.fao.org/aos/agrovoc/c_7870  ! transmissions
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6158
+name: preagricultural sector
+is_a: http://aims.fao.org/aos/agrovoc/c_208  ! agroindustrial sector
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6180
+name: primary sector
+def: "The part of industry dealing with basic raw materials (such as coal, wood, or farm produce)." []
+xref: http://eurovoc.europa.eu/4008
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/76800
+xref: http://lod.gesis.org/thesoz/concept/10034864
+xref: http://www.eionet.europa.eu/gemet/concept/6619
+is_a: http://aims.fao.org/aos/agrovoc/c_2477  ! economic sectors
+relationship: includes http://aims.fao.org/aos/agrovoc/c_10626 ! enterprises
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2801 ! agricultural sector
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6216
+name: progeny testing
+def: "Evaluation of the genotype of individuals by studying the progeny derived from it by controlled breeding." []
+xref: http://cat.aii.caas.cn/concept/c_18550
+xref: http://cat.aii.caas.cn/concept/c_18551
+xref: http://cat.aii.caas.cn/concept/c_18578
+xref: http://cat.aii.caas.cn/concept/c_18579
+xref: http://d-nb.info/gnd/4280183-7
+xref: http://lod.nal.usda.gov/nalt/5632
+is_a: http://aims.fao.org/aos/agrovoc/c_7683  ! testing
+relationship: follows http://aims.fao.org/aos/agrovoc/c_6951 ! selection
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34099 ! selection responses
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6344
+name: public authorities
+def: "A public authority is a type of public-benefit corporation that takes on a more bureaucratic role, such as the maintenance of public infrastructure, that often has broad powers to regulate or maintain public property." []
+xref: http://eurovoc.europa.eu/2588
+xref: http://lod.gesis.org/thesoz/concept/10053533
+is_a: http://aims.fao.org/aos/agrovoc/c_50157  ! authorities
+relationship: influences http://aims.fao.org/aos/agrovoc/c_28938 ! public administration
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6446
+name: random mating
+def: "The choice of mates coming down to chance." []
+synonym: "uncontrolled mating" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_43684
+xref: http://lod.nal.usda.gov/nalt/51661
+is_a: http://aims.fao.org/aos/agrovoc/c_24923  ! mating systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6489
+name: regional government
+def: "A form of local government which covers a wide area and groups together smaller units of administration." []
+xref: http://d-nb.info/gnd/4409711-6
+xref: http://eurovoc.europa.eu/5120
+xref: http://zbw.eu/stw/descriptor/16324-1
+is_a: http://aims.fao.org/aos/agrovoc/c_11230  ! government
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6491
+name: registration
+xref: http://cat.aii.caas.cn/concept/c_59068
+xref: http://d-nb.info/gnd/4127410-6
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/173950
+xref: http://www.eionet.europa.eu/gemet/concept/7082
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6510
+name: reproductive performance
+synonym: "breeding performance" RELATED []
+synonym: "mating performance" RELATED []
+synonym: "reproductive ability" RELATED []
+synonym: "reproductive capacity" RELATED []
+synonym: "reproductive efficiency" RELATED []
+synonym: "reproductivity" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_11725
+xref: http://cat.aii.caas.cn/concept/c_4999
+xref: http://d-nb.info/gnd/4155508-9
+is_a: http://aims.fao.org/aos/agrovoc/c_5698  ! animal performance
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24195 ! litter size
+relationship: influences http://aims.fao.org/aos/agrovoc/c_27548 ! hyperprolific animals
+relationship: influences http://aims.fao.org/aos/agrovoc/c_35199 ! crop performance
+relationship: influences http://aims.fao.org/aos/agrovoc/c_936 ! birth rate
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6535
+name: restricted feeding
+synonym: "rationing" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_49063
+xref: http://d-nb.info/gnd/4841814-6
+xref: http://lod.nal.usda.gov/nalt/39694
+is_a: http://aims.fao.org/aos/agrovoc/c_2841  ! feeding systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6662
+name: crop rotation
+def: "System of cultivation where different crops are planted in consecutive growing seasons to maintain soil fertility." []
+synonym: "alternate cropping" RELATED []
+synonym: "rotational cropping" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_29130
+xref: http://cat.aii.caas.cn/concept/c_8342
+xref: http://d-nb.info/gnd/4155514-4
+xref: http://eurovoc.europa.eu/6318
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/58310
+xref: http://lod.nal.usda.gov/nalt/30158
+xref: http://www.eionet.europa.eu/gemet/concept/1875
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_1385 ! catch cropping
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_2784 ! fallow systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_6977 ! sequential cropping
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6663
+name: rotational grazing
+def: "The movement of livestock around a number of fields or paddocks in an ordered sequence." []
+synonym: "pasture rest" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_22840
+xref: http://cat.aii.caas.cn/concept/c_29104
+xref: http://d-nb.info/gnd/4366381-3
+xref: http://lod.nal.usda.gov/nalt/43779
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_66afb052
+name: land tenure systems
+def: "The land tenure system is the way and conditions under which land may be used." []
+is_a: http://aims.fao.org/aos/agrovoc/c_12069  ! land tenure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6908
+name: seasonal cropping
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6913
+name: seats
+xref: http://d-nb.info/gnd/4181598-1
+xref: http://lod.nal.usda.gov/nalt/56940
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb14460277s
+is_a: http://aims.fao.org/aos/agrovoc/c_8179  ! vehicle systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5365 ! operator comfort
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6921
+name: secondary sector
+def: "The sector of the economy dealing with industry which produces goods.Also known as industrial sector." []
+synonym: "industrial sector" RELATED []
+xref: http://eurovoc.europa.eu/4016
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/76320
+xref: http://lod.gesis.org/thesoz/concept/10055344
+xref: http://www.eionet.europa.eu/gemet/concept/7548
+is_a: http://aims.fao.org/aos/agrovoc/c_2477  ! economic sectors
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6933
+name: seed industry
+xref: http://d-nb.info/gnd/4797038-8
+xref: http://lod.nal.usda.gov/nalt/5353
+xref: http://zbw.eu/stw/descriptor/12951-1
+is_a: http://aims.fao.org/aos/agrovoc/c_28831  ! agroindustry
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_6937 ! seed production
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_6938 ! seed storage
+relationship: produces http://aims.fao.org/aos/agrovoc/c_6931 ! seed crops
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_6929 ! seed certification
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_6939 ! seed testing
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_6940 ! seed treatment
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6939
+name: seed testing
+synonym: "seed screening" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_58543
+xref: http://cat.aii.caas.cn/concept/c_58547
+xref: http://d-nb.info/gnd/4178798-5
+is_a: http://aims.fao.org/aos/agrovoc/c_7683  ! testing
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_3246 ! germinability
+relationship: isMeansFor http://aims.fao.org/aos/agrovoc/c_6929 ! seed certification
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6977
+name: sequential cropping
+synonym: "successive cropping" RELATED []
+synonym: "triple cropping" RELATED []
+synonym: "triple cropping system" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6998
+name: seston
+def: "Minute living organisms and particles of nonliving matter which float in water and contribute to turbidity." []
+synonym: "tripton" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_8706
+xref: http://d-nb.info/gnd/4488948-3
+is_a: http://aims.fao.org/aos/agrovoc/c_553  ! aquatic communities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7026
+name: share cropping
+synonym: "metayage" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7661  ! tenancy
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6503 ! rent
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7038
+name: shifting cultivation
+def: "An agricultural practice using the rotation of fields rather than of crops. Short cropping periods are followed by long fallows and fertility is maintained by the regeneration of vegetation." []
+synonym: "slash and burn agriculture" RELATED []
+synonym: "swidden cultivation" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_29101
+xref: http://d-nb.info/gnd/4132785-8
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/64360
+xref: http://lod.nal.usda.gov/nalt/20559
+xref: http://www.eionet.europa.eu/gemet/concept/7652
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_1843 ! controlled burning
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_6662 ! crop rotation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7039
+name: shipbuilding
+synonym: "naval engineering" RELATED []
+xref: http://eurovoc.europa.eu/155
+xref: http://lod.gesis.org/thesoz/concept/10057237
+xref: http://www.eionet.europa.eu/gemet/concept/7655
+xref: http://zbw.eu/stw/descriptor/13066-5
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_7040 ! ships
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2954 ! fishing vessels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7070
+name: silvicultural systems
+def: "Long-range harvest and management schemes designed to optimize the growth, regeneration, and administration of particular forest types." []
+synonym: "reproduction methods (silviculture)" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_39185
+xref: http://lod.nal.usda.gov/nalt/63111
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7071 ! silviculture
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7139
+name: socialism
+def: "The idea that in a state the means of production, distribution and exchange should be controlled by the people, that the people should be cared for by the state and that wealth should be shared equally." []
+xref: http://cat.aii.caas.cn/concept/c_40040
+xref: http://d-nb.info/gnd/4055785-6
+xref: http://eurovoc.europa.eu/4188
+xref: http://lod.gesis.org/thesoz/concept/10040693
+xref: http://lod.nal.usda.gov/nalt/131711
+xref: http://zbw.eu/stw/descriptor/11060-6
+is_a: http://aims.fao.org/aos/agrovoc/c_2479  ! economic systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7198
+name: soil analysis
+synonym: "soil testing" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_45855
+xref: http://d-nb.info/gnd/4146122-8
+xref: http://eurovoc.europa.eu/6381
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/79490
+xref: http://lod.nal.usda.gov/nalt/179
+xref: http://www.eionet.europa.eu/gemet/concept/7846
+is_a: http://aims.fao.org/aos/agrovoc/c_7683  ! testing
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_1794 ! chemical composition
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7170 ! soil fertility
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_1513 ! analytical methods
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7207
+name: CARIS
+synonym: "Current Agricultural Research Information System" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_11769  ! information systems
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_24891 ! research projects
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8679 ! agricultural research
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7223
+name: sole cropping
+synonym: "single crop" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_53304
+xref: http://d-nb.info/gnd/4420724-4
+is_a: http://aims.fao.org/aos/agrovoc/c_1971  ! cropping systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7372
+name: starch industry
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/62800
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: produces http://aims.fao.org/aos/agrovoc/c_15524 ! starch products
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7456
+name: strip grazing
+def: "A system of grazing which allows animals access to a small part of the field. The rest of the field is protected by a temporary fence, usually electric." []
+xref: http://cat.aii.caas.cn/concept/c_45135
+xref: http://d-nb.info/gnd/4251259-1
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7485
+name: subsistence farming
+xref: http://d-nb.info/gnd/4058331-4
+xref: http://eurovoc.europa.eu/615
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/59570
+xref: http://lod.nal.usda.gov/nalt/130730
+xref: http://zbw.eu/stw/descriptor/10511-4
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_7113 ! small farms
+relationship: influences http://aims.fao.org/aos/agrovoc/c_10746 ! farm income
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7504
+name: sugar industry
+xref: http://d-nb.info/gnd/4067995-0
+xref: http://eurovoc.europa.eu/1394
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/55940
+xref: http://lod.nal.usda.gov/nalt/5354
+xref: http://www.eionet.europa.eu/gemet/concept/8188
+xref: http://zbw.eu/stw/descriptor/13165-3
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_7498 ! sugar
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7539
+name: suspension systems
+xref: http://cat.aii.caas.cn/concept/c_51135
+xref: http://lod.nal.usda.gov/nalt/56943
+is_a: http://aims.fao.org/aos/agrovoc/c_8179  ! vehicle systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_14260 ! shock absorbers
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6913 ! seats
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7635
+name: tea industry
+xref: http://cat.aii.caas.cn/concept/c_4787
+xref: http://zbw.eu/stw/descriptor/19301-5
+is_a: http://aims.fao.org/aos/agrovoc/c_895  ! beverage industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7661
+name: tenancy
+xref: http://d-nb.info/gnd/4044278-0
+is_a: http://aims.fao.org/aos/agrovoc/c_7669  ! tenure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7669
+name: tenure
+def: "The right to hold property or a position." []
+synonym: "tenure systems" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_202 ! agricultural structure
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6604 ! right of access
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7680
+name: tertiary sector
+def: "The sector of production outside of agriculture and industry, and includes construction, trade, finance, real estate, private services, government, and sometimes transportation." []
+xref: http://cat.aii.caas.cn/concept/c_9204
+xref: http://eurovoc.europa.eu/4021
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/62180
+xref: http://lod.gesis.org/thesoz/concept/10041039
+xref: http://www.eionet.europa.eu/gemet/concept/8403
+is_a: http://aims.fao.org/aos/agrovoc/c_2477  ! economic sectors
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6989 ! services
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7874 ! transport
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2338 ! economic distribution
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7683
+name: testing
+xref: http://aims.fao.org/aos/asfa/c_9338
+xref: http://cat.aii.caas.cn/concept/c_41368
+xref: http://d-nb.info/gnd/4367264-4
+xref: http://eurovoc.europa.eu/867
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/93520
+xref: http://lod.nal.usda.gov/nalt/34991
+is_a: http://aims.fao.org/aos/agrovoc/c_12522  ! methodology
+is_a: http://aims.fao.org/aos/agrovoc/c_2736  ! evaluation
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_32378 ! animal testing alternatives
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_33989 ! trial methods
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_4788 ! methods
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7686
+name: tethered grazing
+xref: http://cat.aii.caas.cn/concept/c_48412
+is_a: http://aims.fao.org/aos/agrovoc/c_3367  ! grazing systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_26845 ! tethers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7696
+name: textile industry
+def: "The aggregate business enterprise of manufacturing textiles." []
+synonym: "fibre industry" RELATED []
+synonym: "industrial weaving" RELATED []
+xref: http://d-nb.info/gnd/4059618-7
+xref: http://eurovoc.europa.eu/1418
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/54670
+xref: http://lod.gesis.org/thesoz/concept/10038081
+xref: http://lod.nal.usda.gov/nalt/5363
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119336078
+xref: http://www.eionet.europa.eu/gemet/concept/8421
+xref: http://zbw.eu/stw/descriptor/13145-2
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_6981 ! sericulture
+relationship: produces http://aims.fao.org/aos/agrovoc/c_7697 ! textiles
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7797
+name: tobacco industry
+def: "An industry that manufactures and sells products containing tobacco." []
+xref: http://cat.aii.caas.cn/concept/c_51967
+xref: http://d-nb.info/gnd/4184297-2
+xref: http://eurovoc.europa.eu/1395
+xref: http://id.loc.gov/authorities/sh85135735#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/60820
+xref: http://lod.nal.usda.gov/nalt/5355
+xref: http://zbw.eu/stw/descriptor/13164-5
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: produces http://aims.fao.org/aos/agrovoc/c_7796 ! tobacco
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7822
+name: tourism
+def: "Tourism can be defined as the act of travel for the purpose of recreation, and the provision of services for this act." []
+xref: http://aims.fao.org/aos/asfa/c_9467
+xref: http://cat.aii.caas.cn/concept/c_28639
+xref: http://cat.aii.caas.cn/concept/c_28644
+xref: http://d-nb.info/gnd/4018406-7
+xref: http://eurovoc.europa.eu/4470
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/48380
+xref: http://lod.gesis.org/thesoz/concept/10044305
+xref: http://lod.nal.usda.gov/nalt/5258
+xref: http://www.eionet.europa.eu/gemet/concept/8522
+xref: http://zbw.eu/stw/descriptor/13644-5
+is_a: http://aims.fao.org/aos/agrovoc/c_28956  ! service industry
+is_a: http://aims.fao.org/aos/agrovoc/c_6477  ! recreation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_784
+name: bakery industry
+xref: http://d-nb.info/gnd/4004152-9
+xref: http://lod.nal.usda.gov/nalt/15572
+xref: http://zbw.eu/stw/descriptor/18440-3
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+relationship: produces http://aims.fao.org/aos/agrovoc/c_785 ! bakery products
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7845
+name: tracks
+xref: http://cat.aii.caas.cn/concept/c_28657
+xref: http://d-nb.info/gnd/4423709-1
+is_a: http://aims.fao.org/aos/agrovoc/c_8179  ! vehicle systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8374 ! wheels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7846
+name: tractor cabs
+synonym: "drivers' cabs" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_22180
+is_a: http://aims.fao.org/aos/agrovoc/c_8179  ! vehicle systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7857
+name: traditional farming
+xref: http://cat.aii.caas.cn/concept/c_6346
+xref: http://lod.nal.usda.gov/nalt/39545
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_28780 ! traditional technology
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_35704 ! indigenous knowledge
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7868
+name: transitional farming
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7870
+name: transmissions
+def: "An automotive assembly of gears and associated parts by which power is transmitted from the engine to a driving axle. Also called gearbox." []
+synonym: "gear boxes" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9510
+xref: http://cat.aii.caas.cn/concept/c_6303
+xref: http://cat.aii.caas.cn/concept/c_6305
+xref: http://d-nb.info/gnd/4020807-2
+is_a: http://aims.fao.org/aos/agrovoc/c_8179  ! vehicle systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_3715 ! hydraulic systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7969
+name: trophic levels
+def: "A position in a food chain or Ecological Pyramid occupied by a group of organisms with similar feeding mode." []
+synonym: "energy levels" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_9544
+xref: http://cat.aii.caas.cn/concept/c_41242
+xref: http://cat.aii.caas.cn/concept/c_54497
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/18880
+xref: http://www.eionet.europa.eu/gemet/concept/8683
+is_a: http://aims.fao.org/aos/agrovoc/c_3014  ! food chains
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2840 ! feeding habits
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36649 ! biological production
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6798 ! saprophytism
+relationship: influences http://aims.fao.org/aos/agrovoc/c_9000181 ! net primary productivity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7fc44e33
+name: security of tenure (land )
+def: "Security of tenure is the guarantee of continued occupancy or use rights whether by virtue of formal rights, customary rules or other forms of assurance." []
+is_a: http://aims.fao.org/aos/agrovoc/c_12069  ! land tenure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8032
+name: tyres
+synonym: "tires" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_8374  ! wheels
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8071
+name: unrestricted feeding
+synonym: "ad libitum feeding" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_1911
+xref: http://cat.aii.caas.cn/concept/c_3580
+xref: http://cat.aii.caas.cn/concept/c_59704
+xref: http://cat.aii.caas.cn/concept/c_59787
+xref: http://cat.aii.caas.cn/concept/c_59802
+xref: http://d-nb.info/gnd/4784331-7
+is_a: http://aims.fao.org/aos/agrovoc/c_2841  ! feeding systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8179
+name: vehicle systems
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_4954 ! engines
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8180 ! vehicles
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8374
+name: wheels
+xref: http://cat.aii.caas.cn/concept/c_5505
+xref: http://d-nb.info/gnd/4176761-5
+xref: http://lod.nal.usda.gov/nalt/50720
+is_a: http://aims.fao.org/aos/agrovoc/c_8179  ! vehicle systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8404
+name: wine industry
+xref: http://lod.nal.usda.gov/nalt/68579
+is_a: http://aims.fao.org/aos/agrovoc/c_895  ! beverage industry
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_8405 ! winemaking
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8426
+name: wood industry
+xref: http://cat.aii.caas.cn/concept/c_31851
+xref: http://d-nb.info/gnd/4025713-7
+xref: http://eurovoc.europa.eu/1386
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_25103 ! woodworking
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_16203 ! wood products
+relationship: includes http://aims.fao.org/aos/agrovoc/c_5549 ! pulp and paper industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8437
+name: wool industry
+xref: http://d-nb.info/gnd/4195231-5
+xref: http://lod.nal.usda.gov/nalt/65677
+xref: http://zbw.eu/stw/descriptor/13149-1
+is_a: http://aims.fao.org/aos/agrovoc/c_7696  ! textile industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_844
+name: battery husbandry
+xref: http://cat.aii.caas.cn/concept/c_28441
+xref: http://cat.aii.caas.cn/concept/c_28442
+xref: http://lod.nal.usda.gov/nalt/16092
+is_a: http://aims.fao.org/aos/agrovoc/c_3907  ! intensive husbandry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8692
+name: agrotourism
+def: "Tourism in which tourists board at farms or in rural villages and experience farming at close hand." []
+synonym: "agritourism" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7822  ! tourism
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_878
+name: benthos
+def: "Underwater organisms that live on or in the bottom of a body of water." []
+synonym: "benthon" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_8946
+xref: http://d-nb.info/gnd/4140346-0
+is_a: http://aims.fao.org/aos/agrovoc/c_553  ! aquatic communities
+relationship: growsln http://aims.fao.org/aos/agrovoc/c_877 ! benthic environment
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_895
+name: beverage industry
+synonym: "fruit juice industry" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_54176
+xref: http://d-nb.info/gnd/4157182-4
+xref: http://eurovoc.europa.eu/1378
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/63630
+xref: http://lod.nal.usda.gov/nalt/16984
+xref: http://www.eionet.europa.eu/gemet/concept/783
+xref: http://zbw.eu/stw/descriptor/13157-2
+is_a: http://aims.fao.org/aos/agrovoc/c_3020  ! food industry
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000017
+name: classification systems
+xref: http://aims.fao.org/aos/asfa/c_4783
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/166800
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_1653 ! classification
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000038
+name: EWFIS
+synonym: "Early Warning and Food Information Systems (EWFIS)" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_11769  ! information systems
+is_a: http://aims.fao.org/aos/agrovoc/c_37871  ! early warning systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000071
+name: global observing systems
+def: "The overall system that obtains standardized observations from all parts of the world, coordinated by the World Meteorological Organisation on behalf of the 185 member countries. " []
+synonym: "GOS" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_31861  ! surveillance systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000081
+name: indigenous tenure systems
+is_a: http://aims.fao.org/aos/agrovoc/c_7669  ! tenure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000089
+name: knowledge and information systems
+is_a: http://aims.fao.org/aos/agrovoc/c_34276  ! knowledge based systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000096
+name: land information systems
+is_a: http://aims.fao.org/aos/agrovoc/c_11769  ! information systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000098
+name: land registration
+is_a: http://aims.fao.org/aos/agrovoc/c_6491  ! registration
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000123
+name: photovoltaic systems
+def: "Photovoltaic systems convert light energy into electricity." []
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_7222 ! solar energy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000128
+name: private education
+xref: http://eurovoc.europa.eu/794
+is_a: http://aims.fao.org/aos/agrovoc/c_50113  ! educational systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000130
+name: public education
+xref: http://eurovoc.europa.eu/796
+xref: http://lod.gesis.org/thesoz/concept/10042706
+is_a: http://aims.fao.org/aos/agrovoc/c_50113  ! educational systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000154
+name: spatial database
+is_a: http://aims.fao.org/aos/agrovoc/c_24833  ! databases
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9001011
+name: municipal authorities
+def: "Municipalities  consist of a group of people living in a defined area. Usually this will be an urban area, but surrounding rural areas may also be included. In most countries, municipalities of various sorts are special corporations defined under state law, and have specific rights and responsibilities." []
+is_a: http://aims.fao.org/aos/agrovoc/c_50157  ! authorities
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_912
+name: biocoenosis
+synonym: "biocenosis" RELATED []
+synonym: "biological communities" RELATED []
+synonym: "ecological associations" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_4313
+xref: http://cat.aii.caas.cn/concept/c_40596
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/35450
+xref: http://www.eionet.europa.eu/gemet/concept/819
+is_a: http://aims.fao.org/aos/agrovoc/c_2482  ! ecosystems
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_27989 ! plant strata
+relationship: includes http://aims.fao.org/aos/agrovoc/c_3014 ! food chains
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6569 ! rhizosphere
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92363
+name: precision agriculture
+synonym: "precision farming" RELATED []
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/151380
+xref: http://lod.nal.usda.gov/nalt/39543
+is_a: http://aims.fao.org/aos/agrovoc/c_2807  ! farming systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_35131 ! geographical information systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36733 ! global positioning systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_92365
+name: manufacturing
+def: "Manufacturing is the transformation of raw materials into finished goods for sale, or intermediate processes involving the production or finishing of semi-manufactures" []
+xref: http://dewey.info/class/670/
+xref: http://lod.gesis.org/thesoz/concept/10043530
+xref: http://lod.nal.usda.gov/nalt/37716
+is_a: http://aims.fao.org/aos/agrovoc/c_3848  ! industry
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_25771 ! industrial equipment
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_932
+name: biotopes
+def: "A small area with uniform biological conditions such as climate, soil or altitude." []
+xref: http://aims.fao.org/aos/asfa/c_4386
+xref: http://cat.aii.caas.cn/concept/c_37298
+xref: http://d-nb.info/gnd/4006907-2
+xref: http://lod.nal.usda.gov/nalt/17551
+is_a: http://aims.fao.org/aos/agrovoc/c_2482  ! ecosystems
+relationship: influences http://aims.fao.org/aos/agrovoc/c_912 ! biocoenosis
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9656
+name: caste systems
+def: "A social structure in which classes are determined by heredity." []
+xref: http://cat.aii.caas.cn/concept/c_8750
+is_a: http://aims.fao.org/aos/agrovoc/c_330985  ! systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_a245096c
+name: encroachment
+def: "encroachment is the illegal occupation or use of portion of land holdings of another. " []
+synonym: "land encroachment" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_28718  ! land ownership
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_b4d51db0
+name: cadastral register
+def: "The term cadastral register may include registers for any of the different types of cadastral systems identified in the definition of cadastres. " []
+is_a: http://aims.fao.org/aos/agrovoc/c_9000096  ! land information systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_bac66d94
+name: grazing contracts
+def: "A grazing contract or licence is a legal contract for an agreement, for example between a farmer and a grazier, specifying the terms under which the latter can use the identified land of the former for grazing purposes." []
+is_a: http://aims.fao.org/aos/agrovoc/c_5497  ! controlled grazing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_c9508190
+name: occupancy
+def: "Occupancy is the effective use/dwelling." []
+is_a: http://aims.fao.org/aos/agrovoc/c_7669  ! tenure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_dec8141f
+name: farm tenancy
+def: "A farm tenancy is a contractual agreement whereby the tenant farmer, the lessee, agrees a tenancy with the landowner, the lessor. The tenancy will identify the piece of land leased, together with the other terms and conditions, including rent." []
+is_a: http://aims.fao.org/aos/agrovoc/c_12069  ! land tenure
+

@@ -1,0 +1,722 @@
+format-version: 1.2
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1072
+name: breadmaking
+xref: http://d-nb.info/gnd/4131388-4
+xref: http://lod.nal.usda.gov/nalt/15574
+is_a: http://aims.fao.org/aos/agrovoc/c_37969  ! food processing
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_24820 ! Bakers' yeast
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_26776 ! doughs
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_4110 ! kneading
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_786 ! baking
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1087
+name: brewing
+xref: http://cat.aii.caas.cn/concept/c_32921
+xref: http://cat.aii.caas.cn/concept/c_32925
+xref: http://d-nb.info/gnd/4122920-4
+xref: http://lod.nal.usda.gov/nalt/6139
+is_a: http://aims.fao.org/aos/agrovoc/c_37969  ! food processing
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_28441 ! Brewers' yeast
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_28577 ! malt substitutes
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_4547 ! malt
+relationship: produces http://aims.fao.org/aos/agrovoc/c_15618 ! wort
+relationship: produces http://aims.fao.org/aos/agrovoc/c_864 ! beers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1092
+name: brining
+xref: http://cat.aii.caas.cn/concept/c_52132
+xref: http://lod.nal.usda.gov/nalt/19842
+is_a: http://aims.fao.org/aos/agrovoc/c_25005  ! food preservation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4494 ! macerating
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_1091 ! brines
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11595
+name: hopping
+is_a: http://aims.fao.org/aos/agrovoc/c_1087  ! brewing
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_11596 ! hops
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1166
+name: buttermaking
+synonym: "churning" RELATED []
+xref: http://d-nb.info/gnd/4009238-0
+is_a: http://aims.fao.org/aos/agrovoc/c_37969  ! food processing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_12355
+name: malting
+xref: http://lod.nal.usda.gov/nalt/19829
+is_a: http://aims.fao.org/aos/agrovoc/c_37969  ! food processing
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_25485 ! malting barley
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1307955710901
+name: nanotechnology
+def: "Nanotechnology (sometimes shortened to " []
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1329377502888
+name: publications
+is_a: http://aims.fao.org/aos/agrovoc/c_4640  ! mass media
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1335513885866
+name: bibliographies
+is_a: http://aims.fao.org/aos/agrovoc/c_1329377502888  ! publications
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_14061
+name: salting
+xref: http://cat.aii.caas.cn/concept/c_52170
+xref: http://lod.nal.usda.gov/nalt/19844
+is_a: http://aims.fao.org/aos/agrovoc/c_25005  ! food preservation
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_26819 ! common salt
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1410336367928
+name: ancestral technology
+synonym: "ancient technology" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1506
+name: cheesemaking
+xref: http://d-nb.info/gnd/4162991-7
+xref: http://id.loc.gov/authorities/sh99005888#concept
+xref: http://lod.nal.usda.gov/nalt/24505
+is_a: http://aims.fao.org/aos/agrovoc/c_37969  ! food processing
+relationship: produces http://aims.fao.org/aos/agrovoc/c_1507 ! cheese
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15855
+name: automation
+xref: http://d-nb.info/gnd/4003957-2
+is_a: http://aims.fao.org/aos/agrovoc/c_4882  ! modernization
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4685 ! mechanization
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_24009 ! computer applications
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16165
+name: biotechnology
+synonym: "bioengineering" RELATED []
+synonym: "biological techniques (bioengineering)" RELATED []
+synonym: "biomedical engineering" RELATED []
+synonym: "biomolecular engineering" RELATED []
+synonym: "biotechniques" RELATED []
+synonym: "microbiological engineering" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_4379
+xref: http://cat.aii.caas.cn/concept/c_40558
+xref: http://cat.aii.caas.cn/concept/c_40569
+xref: http://d-nb.info/gnd/4069491-4
+xref: http://dewey.info/class/660.6/
+xref: http://eurovoc.europa.eu/3797
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/96390
+xref: http://lod.gesis.org/thesoz/concept/10039595
+xref: http://lod.nal.usda.gov/nalt/4632
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119428998
+xref: http://www.eionet.europa.eu/gemet/concept/898
+xref: http://zbw.eu/stw/descriptor/15635-3
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: hasTheme http://aims.fao.org/aos/agrovoc/c_15974 ! genetic engineering
+relationship: hasTheme http://aims.fao.org/aos/agrovoc/c_27461 ! biochemical engineering
+relationship: hasTheme http://aims.fao.org/aos/agrovoc/c_37649 ! enzyme technology
+relationship: hasTheme http://aims.fao.org/aos/agrovoc/c_4891 ! molecular biology
+relationship: influences http://aims.fao.org/aos/agrovoc/c_25246 ! industrial microbiology
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_35030 ! biosafety
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36658 ! biolistics
+relationship: produces http://aims.fao.org/aos/agrovoc/c_35231 ! novel foods
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_27463 ! bioconversion
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_27843 ! biological preservation
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_928 ! biosynthesis
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24009
+name: computer applications
+synonym: "computer systems (applications)" RELATED []
+synonym: "computer techniques" RELATED []
+xref: http://eurovoc.europa.eu/3026
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_24008 ! computer software
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36733 ! global positioning systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_9000152 ! software development
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24906
+name: telecommunications
+xref: http://d-nb.info/gnd/4059360-5
+xref: http://eurovoc.europa.eu/4424
+xref: http://id.loc.gov/authorities/sh85133270#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/106400
+xref: http://lod.gesis.org/thesoz/concept/10049301
+xref: http://lod.nal.usda.gov/nalt/28268
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119335984
+xref: http://www.eionet.europa.eu/gemet/concept/8347
+xref: http://zbw.eu/stw/descriptor/13278-4
+is_a: http://aims.fao.org/aos/agrovoc/c_28653  ! communication technology
+is_a: http://aims.fao.org/aos/agrovoc/c_37866  ! communication
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_3860 ! diffusion of information
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6424 ! radio
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6498 ! remote sensing
+relationship: includes http://aims.fao.org/aos/agrovoc/c_7651 ! television
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24924
+name: videotex
+xref: http://eurovoc.europa.eu/3022
+xref: http://lod.gesis.org/thesoz/concept/10039334
+is_a: http://aims.fao.org/aos/agrovoc/c_24906  ! telecommunications
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25005
+name: food preservation
+synonym: "food conservation" RELATED []
+xref: http://lod.nal.usda.gov/nalt/21908
+xref: http://www.eionet.europa.eu/gemet/concept/3375
+xref: http://zbw.eu/stw/descriptor/18445-0
+is_a: http://aims.fao.org/aos/agrovoc/c_3030  ! food technology
+is_a: http://aims.fao.org/aos/agrovoc/c_6171  ! preservation
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_5623 ! pasteurization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25238
+name: food fortification
+xref: http://lod.nal.usda.gov/nalt/33471
+is_a: http://aims.fao.org/aos/agrovoc/c_5270  ! nutrient improvement
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27450
+name: animal biotechnology
+is_a: http://aims.fao.org/aos/agrovoc/c_16165  ! biotechnology
+relationship: influences http://aims.fao.org/aos/agrovoc/c_423 ! animal breeding
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27509
+name: telematics
+xref: http://eurovoc.europa.eu/4430
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/65310
+xref: http://lod.gesis.org/thesoz/concept/10047319
+xref: http://www.eionet.europa.eu/gemet/concept/8350
+is_a: http://aims.fao.org/aos/agrovoc/c_24906  ! telecommunications
+is_a: http://aims.fao.org/aos/agrovoc/c_36660  ! information technology
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_24009 ! computer applications
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27560
+name: innovation
+synonym: "induced innovation" RELATED []
+xref: http://d-nb.info/gnd/4027089-0
+xref: http://eurovoc.europa.eu/1439
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/89810
+xref: http://lod.gesis.org/thesoz/concept/10047538
+xref: http://www.eionet.europa.eu/gemet/concept/4340
+xref: http://zbw.eu/stw/descriptor/10459-1
+is_a: http://aims.fao.org/aos/agrovoc/c_7643  ! technological changes
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_35231 ! novel foods
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_37468 ! new technology
+relationship: influences http://aims.fao.org/aos/agrovoc/c_4882 ! modernization
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7645 ! technology transfer
+relationship: produces http://aims.fao.org/aos/agrovoc/c_27804 ! new products
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27590
+name: plant biotechnology
+is_a: http://aims.fao.org/aos/agrovoc/c_16165  ! biotechnology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27679
+name: space biotechnology
+is_a: http://aims.fao.org/aos/agrovoc/c_16165  ! biotechnology
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_24581 ! zero gravity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27852
+name: electronic data transmission
+is_a: http://aims.fao.org/aos/agrovoc/c_24906  ! telecommunications
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27895
+name: fertilizer technology
+xref: http://lod.nal.usda.gov/nalt/2743
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_2867 ! fertilizers
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28195
+name: wood technology
+xref: http://cat.aii.caas.cn/concept/c_31896
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/104980
+xref: http://lod.nal.usda.gov/nalt/41185
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: controls http://aims.fao.org/aos/agrovoc/c_28188 ! wood defects
+relationship: influences http://aims.fao.org/aos/agrovoc/c_25103 ! woodworking
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28196
+name: wood conditioning
+synonym: "timber seasoning" RELATED []
+synonym: "wood drying" RELATED []
+synonym: "wood seasoning" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_28195  ! wood technology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28355
+name: mashing
+xref: http://lod.nal.usda.gov/nalt/19830
+is_a: http://aims.fao.org/aos/agrovoc/c_1087  ! brewing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28586
+name: sugar technology
+is_a: http://aims.fao.org/aos/agrovoc/c_3030  ! food technology
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_7498 ! sugar
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_32708 ! sugarcane juice
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_36675 ! sugarbeet juice
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28597
+name: kilning
+is_a: http://aims.fao.org/aos/agrovoc/c_1087  ! brewing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28653
+name: communication technology
+xref: http://lod.gesis.org/thesoz/concept/10039942
+xref: http://lod.gesis.org/thesoz/concept/10047428
+is_a: http://aims.fao.org/aos/agrovoc/c_9000083  ! Information and Communication Technologies (icts)
+relationship: includes http://aims.fao.org/aos/agrovoc/c_142 ! advertising
+relationship: includes http://aims.fao.org/aos/agrovoc/c_4054 ! journalism
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3860 ! diffusion of information
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3878 ! innovation adoption
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7645 ! technology transfer
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_14093 ! satellites
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_37866 ! communication
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_709 ! audiovisual aids
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_28780
+name: traditional technology
+xref: http://eurovoc.europa.eu/3639
+xref: http://lod.nal.usda.gov/nalt/10110
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: includes http://aims.fao.org/aos/agrovoc/c_25704 ! draught animal cultivation
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_34921 ! traditional medicines
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_35704 ! indigenous knowledge
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2899
+name: films
+xref: http://aims.fao.org/aos/asfa/c_5777
+xref: http://d-nb.info/gnd/4017102-4
+is_a: http://aims.fao.org/aos/agrovoc/c_4640  ! mass media
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_5808 ! photography
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29020
+name: fish processing
+synonym: "fish conversion" RELATED []
+xref: http://d-nb.info/gnd/4135772-3
+xref: http://lod.gesis.org/thesoz/concept/10043731
+xref: http://lod.nal.usda.gov/nalt/40162
+is_a: http://aims.fao.org/aos/agrovoc/c_37969  ! food processing
+relationship: hasPractice http://aims.fao.org/aos/agrovoc/c_2046 ! cutting
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_6195 ! processing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3018
+name: food enrichment
+xref: http://lod.nal.usda.gov/nalt/37196
+is_a: http://aims.fao.org/aos/agrovoc/c_5270  ! nutrient improvement
+relationship: follows http://aims.fao.org/aos/agrovoc/c_7522 ! supplementary feeding
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_5278 ! nutritive value
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_32752 ! food supplementation
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_25238 ! food fortification
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3030
+name: food technology
+xref: http://aims.fao.org/aos/asfa/c_5966
+xref: http://cat.aii.caas.cn/concept/c_41209
+xref: http://d-nb.info/gnd/4034901-9
+xref: http://dewey.info/class/664/
+xref: http://eurovoc.europa.eu/4416
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/88460
+xref: http://lod.nal.usda.gov/nalt/40859
+xref: http://www.eionet.europa.eu/gemet/concept/3391
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_6195 ! processing
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36742 ! high pressure technology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32450
+name: fish filleting
+is_a: http://aims.fao.org/aos/agrovoc/c_1002  ! boning
+is_a: http://aims.fao.org/aos/agrovoc/c_29020  ! fish processing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_32752
+name: food supplementation
+is_a: http://aims.fao.org/aos/agrovoc/c_5270  ! nutrient improvement
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331331
+name: minimal processing (of food)
+is_a: http://aims.fao.org/aos/agrovoc/c_37969  ! food processing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331343
+name: periodicals
+xref: http://lod.gesis.org/thesoz/concept/10039627
+is_a: http://aims.fao.org/aos/agrovoc/c_1329377502888  ! publications
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331344
+name: journals
+xref: http://lod.nal.usda.gov/nalt/899
+xref: http://zbw.eu/stw/descriptor/18209-5
+is_a: http://aims.fao.org/aos/agrovoc/c_331343  ! periodicals
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331371
+name: production technology
+xref: http://lod.nal.usda.gov/nalt/9442
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331372
+name: protection technology
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331520
+name: seed technology
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_6927 ! seed
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36660
+name: information technology
+xref: http://cat.aii.caas.cn/concept/c_50553
+xref: http://eurovoc.europa.eu/5188
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/74180
+xref: http://lod.gesis.org/thesoz/concept/10047425
+xref: http://lod.nal.usda.gov/nalt/28270
+xref: http://www.eionet.europa.eu/gemet/concept/4313
+xref: http://zbw.eu/stw/descriptor/16757-5
+is_a: http://aims.fao.org/aos/agrovoc/c_9000083  ! Information and Communication Technologies (icts)
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37829 ! access to information
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3865 ! information services
+relationship: study http://aims.fao.org/aos/agrovoc/c_11769 ! information systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36742
+name: high pressure technology
+synonym: "high pressure treatment" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_6174 ! pressure
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36897
+name: decision support
+synonym: "decision aid" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_24009  ! computer applications
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_2147 ! decision making
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_34276 ! knowledge based systems
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_4881 ! models
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_49868 ! decision support systems
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37468
+name: new technology
+xref: http://eurovoc.europa.eu/3636
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/98040
+xref: http://lod.gesis.org/thesoz/concept/10053171
+xref: http://lod.nal.usda.gov/nalt/28139
+xref: http://www.eionet.europa.eu/gemet/concept/5585
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37649
+name: enzyme technology
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_2603 ! enzymes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37873
+name: energy technology
+synonym: "power technology" RELATED []
+xref: http://eurovoc.europa.eu/4420
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/84370
+xref: http://lod.gesis.org/thesoz/concept/10042072
+xref: http://www.eionet.europa.eu/gemet/concept/2747
+xref: http://zbw.eu/stw/descriptor/18353-5
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_2570 ! energy sources
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2567 ! energy conservation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37969
+name: food processing
+synonym: "processing of foods" RELATED []
+xref: http://d-nb.info/gnd/4167045-0
+xref: http://eurovoc.europa.eu/4498
+xref: http://lod.nal.usda.gov/nalt/2132
+xref: http://zbw.eu/stw/descriptor/18443-4
+is_a: http://aims.fao.org/aos/agrovoc/c_3030  ! food technology
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_28228 ! processed foods
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_3011 ! food additives
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_330694 ! traditional parboiling methods
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_6195 ! processing
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_7402 ! sterilizing
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_3018 ! food enrichment
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_5623 ! pasteurization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_39f65d19
+name: agricultural mechanization
+def: "Application of tools, implements and powered machinery as inputs to achieve agricultural production The term covers the manufacture, distribution, maintenance, repair, management, and utilization of agricultural tools, implements and machines. It applies to agricultural land development, crop production, harvesting and preparation for storage, on farm processing and rural transport. " []
+is_a: http://aims.fao.org/aos/agrovoc/c_4685  ! mechanization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4640
+name: mass media
+xref: http://d-nb.info/gnd/4037875-5
+is_a: http://aims.fao.org/aos/agrovoc/c_28653  ! communication technology
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_3860 ! diffusion of information
+relationship: includes http://aims.fao.org/aos/agrovoc/c_142 ! advertising
+relationship: includes http://aims.fao.org/aos/agrovoc/c_2899 ! films
+relationship: includes http://aims.fao.org/aos/agrovoc/c_32917 ! mass communication
+relationship: includes http://aims.fao.org/aos/agrovoc/c_6352 ! public relations
+relationship: influences http://aims.fao.org/aos/agrovoc/c_33530 ! public opinion
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4685
+name: mechanization
+synonym: "motorization" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7157
+xref: http://cat.aii.caas.cn/concept/c_20907
+xref: http://d-nb.info/gnd/4038177-8
+xref: http://lod.gesis.org/thesoz/concept/10060071
+xref: http://lod.nal.usda.gov/nalt/14025
+xref: http://zbw.eu/stw/descriptor/10454-4
+is_a: http://aims.fao.org/aos/agrovoc/c_4882  ! modernization
+relationship: influences http://aims.fao.org/aos/agrovoc/c_199 ! agricultural development
+relationship: influences http://aims.fao.org/aos/agrovoc/c_3847 ! industrialization
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_2631 ! equipment
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_34919 ! mechanical methods
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4882
+name: modernization
+xref: http://cat.aii.caas.cn/concept/c_49039
+xref: http://d-nb.info/gnd/4120755-5
+xref: http://lod.gesis.org/thesoz/concept/10052611
+xref: http://lod.nal.usda.gov/nalt/35734
+is_a: http://aims.fao.org/aos/agrovoc/c_7643  ! technological changes
+relationship: causes http://aims.fao.org/aos/agrovoc/c_7130 ! social change
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6701 ! rural development
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7645 ! technology transfer
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49980
+name: food irradiation
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/60180
+xref: http://lod.nal.usda.gov/nalt/27776
+xref: http://www.eionet.europa.eu/gemet/concept/3370
+is_a: http://aims.fao.org/aos/agrovoc/c_25005  ! food preservation
+is_a: http://aims.fao.org/aos/agrovoc/c_3951  ! irradiation
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_28524 ! irradiated foods
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_50143
+name: signals
+is_a: http://aims.fao.org/aos/agrovoc/c_28653  ! communication technology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5168
+name: newspapers
+xref: http://d-nb.info/gnd/4067510-5
+xref: http://lod.gesis.org/thesoz/concept/10034416
+xref: http://zbw.eu/stw/descriptor/13670-4
+is_a: http://aims.fao.org/aos/agrovoc/c_331343  ! periodicals
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_3860 ! diffusion of information
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5270
+name: nutrient improvement
+is_a: http://aims.fao.org/aos/agrovoc/c_37969  ! food processing
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_33996 ! supplements
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_544
+name: appropriate technology
+synonym: "intermediate technology" RELATED []
+synonym: "low cost technology" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_4039
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/95310
+xref: http://www.eionet.europa.eu/gemet/concept/498
+xref: http://zbw.eu/stw/descriptor/10487-3
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24950 ! sociocultural environment
+relationship: influences http://aims.fao.org/aos/agrovoc/c_26824 ! socioeconomic environment
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7643 ! technological changes
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7645 ! technology transfer
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5865
+name: pickling
+xref: http://cat.aii.caas.cn/concept/c_51815
+xref: http://lod.nal.usda.gov/nalt/19843
+is_a: http://aims.fao.org/aos/agrovoc/c_25005  ! food preservation
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_1092 ! brining
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5b631d45
+name: labour saving technology
+is_a: http://aims.fao.org/aos/agrovoc/c_4685  ! mechanization
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6133
+name: postharvest technology
+synonym: "postharvest activities" RELATED []
+synonym: "postharvest management" RELATED []
+synonym: "postharvest operation" RELATED []
+synonym: "postharvest systems" RELATED []
+xref: http://d-nb.info/gnd/4226376-1
+xref: http://lod.nal.usda.gov/nalt/59365
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_3485 ! handling
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_7427 ! storage
+relationship: influences http://aims.fao.org/aos/agrovoc/c_36841 ! postharvest decay
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6131 ! postharvest losses
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_36555 ! alternative methods
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6424
+name: radio
+xref: http://d-nb.info/gnd/4050963-1
+is_a: http://aims.fao.org/aos/agrovoc/c_4640  ! mass media
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_709 ! audiovisual aids
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7643
+name: technological changes
+synonym: "technical development" RELATED []
+synonym: "technical progress" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_21494
+xref: http://d-nb.info/gnd/4059252-2
+xref: http://eurovoc.europa.eu/5383
+xref: http://lod.gesis.org/thesoz/concept/10060064
+xref: http://lod.nal.usda.gov/nalt/32861
+xref: http://www.eionet.europa.eu/gemet/concept/8330
+xref: http://zbw.eu/stw/descriptor/10466-4
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2471 ! economic development
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37914 ! technology assessment
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7645 ! technology transfer
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7644
+name: technology
+synonym: "technics" RELATED []
+xref: http://agclass.nal.usda.gov/nalt/2011.xml#1001
+xref: http://cat.aii.caas.cn/concept/c_15222
+xref: http://cat.aii.caas.cn/concept/c_21489
+xref: http://d-nb.info/gnd/4059276-5
+xref: http://eurovoc.europa.eu/4415
+xref: http://id.loc.gov/authorities/sh85133147#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/97000
+xref: http://www.eionet.europa.eu/gemet/concept/8339
+xref: http://zbw.eu/stw/descriptor/10470-6
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_2572 ! technical properties
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_14816 ! techniques
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7651
+name: television
+xref: http://d-nb.info/gnd/4016825-6
+xref: http://dewey.info/class/791.45/
+xref: http://eurovoc.europa.eu/4432
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/87140
+xref: http://lod.gesis.org/thesoz/concept/10043435
+xref: http://lod.nal.usda.gov/nalt/51607
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119336465
+xref: http://www.eionet.europa.eu/gemet/concept/8353
+xref: http://zbw.eu/stw/descriptor/13655-0
+is_a: http://aims.fao.org/aos/agrovoc/c_4640  ! mass media
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_709 ! audiovisual aids
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8405
+name: winemaking
+synonym: "vinification techniques" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_32914
+xref: http://d-nb.info/gnd/4189467-4
+xref: http://d-nb.info/gnd/4376593-2
+xref: http://lod.nal.usda.gov/nalt/6140
+is_a: http://aims.fao.org/aos/agrovoc/c_37969  ! food processing
+relationship: hasProduct http://aims.fao.org/aos/agrovoc/c_28445 ! lees
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_25770 ! winemaking equipment
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_25831 ! fermentation equipment
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_28444 ! Wine yeast
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_28472 ! grape must
+relationship: produces http://aims.fao.org/aos/agrovoc/c_8406 ! wines
+relationship: usesProcess http://aims.fao.org/aos/agrovoc/c_27518 ! alcoholic fermentation
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000043
+name: educational technologies
+xref: http://lod.gesis.org/thesoz/concept/10039497
+xref: http://lod.nal.usda.gov/nalt/28438
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2488 ! education
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7639 ! teaching materials
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000054
+name: environmental information technology
+is_a: http://aims.fao.org/aos/agrovoc/c_36660  ! information technology
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2593 ! environment
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000083
+name: Information and Communication Technologies (icts)
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9000143
+name: rural radio
+is_a: http://aims.fao.org/aos/agrovoc/c_6424  ! radio
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9736
+name: champagnization
+synonym: "bottle fermentation" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_8405  ! winemaking
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9742
+name: chaptalization
+def: "The procedure of adding sugar to grape juice or must prior to or during fermentation. Source:http://www.epicurious.com/tools/winedictionary/entry?id=5845" []
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb15535051f
+is_a: http://aims.fao.org/aos/agrovoc/c_8405  ! winemaking
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_7498 ! sugar
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9861
+name: cinematography
+is_a: http://aims.fao.org/aos/agrovoc/c_7644  ! technology
+relationship: isUsedAs http://aims.fao.org/aos/agrovoc/c_709 ! audiovisual aids
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_5808 ! photography
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_e14f94c5
+name: biostimulants
+def: "A plant biostimulant is any substance or microorganism, in the form in which it is supplied to the user, applied to plants, seeds or the root environment with the Intention to stimulate plant processes benefiting nutrient use efficiency and/or tolerance to abiotic stress, regardless of its nutrient content, or any combination of such substances and/or microorganisms intended for this use." []
+is_a: http://aims.fao.org/aos/agrovoc/c_27590  ! plant biotechnology
+

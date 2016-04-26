@@ -1,0 +1,243 @@
+format-version: 1.2
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1374233854472
+name: dry spells
+is_a: http://aims.fao.org/aos/agrovoc/c_2400  ! dry season
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1375432196418
+name: crop calendar
+synonym: "cropping calendar" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7779  ! timing
+relationship: hasTheme http://aims.fao.org/aos/agrovoc/c_16208 ! sowing date
+relationship: hasTheme http://aims.fao.org/aos/agrovoc/c_1972 ! crops
+relationship: hasTheme http://aims.fao.org/aos/agrovoc/c_24065 ! planting date
+relationship: hasTheme http://aims.fao.org/aos/agrovoc/c_29464 ! harvesting date
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16108
+name: available days
+synonym: "workable days" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7778  ! time
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8449 ! working hours
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16185
+name: hardening
+xref: http://cat.aii.caas.cn/concept/c_10559
+is_a: http://aims.fao.org/aos/agrovoc/c_27921  ! treatment date
+relationship: causes http://aims.fao.org/aos/agrovoc/c_16186 ! induced resistance
+relationship: causes http://aims.fao.org/aos/agrovoc/c_6520 ! resistance to injurious factors
+relationship: influences http://aims.fao.org/aos/agrovoc/c_37740 ! tolerance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16208
+name: sowing date
+synonym: "late sowing" RELATED []
+synonym: "time of seeding" RELATED []
+synonym: "time of sowing" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_3397
+xref: http://d-nb.info/gnd/4178801-1
+xref: http://lod.nal.usda.gov/nalt/43987
+is_a: http://aims.fao.org/aos/agrovoc/c_7779  ! timing
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24065 ! planting date
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16316
+name: frost hardening
+is_a: http://aims.fao.org/aos/agrovoc/c_16185  ! hardening
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_3113 ! frost
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2400
+name: dry season
+xref: http://aims.fao.org/aos/asfa/c_5400
+xref: http://cat.aii.caas.cn/concept/c_13852
+xref: http://d-nb.info/gnd/4671176-4
+xref: http://lod.nal.usda.gov/nalt/34717
+is_a: http://aims.fao.org/aos/agrovoc/c_6911  ! seasons
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_2391 ! drought
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24065
+name: planting date
+xref: http://cat.aii.caas.cn/concept/c_56436
+xref: http://cat.aii.caas.cn/concept/c_56437
+xref: http://d-nb.info/gnd/4597795-1
+xref: http://lod.nal.usda.gov/nalt/58680
+is_a: http://aims.fao.org/aos/agrovoc/c_7779  ! timing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24067
+name: preharvest treatment
+synonym: "preharvest application" RELATED []
+xref: http://lod.nal.usda.gov/nalt/11359
+is_a: http://aims.fao.org/aos/agrovoc/c_27921  ! treatment date
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_1514 ! chemical control
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2412
+name: duration
+xref: http://aims.fao.org/aos/asfa/c_5405
+xref: http://d-nb.info/gnd/4219411-8
+xref: http://lod.gesis.org/thesoz/concept/10036389
+xref: http://lod.nal.usda.gov/nalt/976
+xref: http://zbw.eu/stw/descriptor/19534-3
+is_a: http://aims.fao.org/aos/agrovoc/c_7778  ! time
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26854
+name: lactation duration
+xref: http://lod.nal.usda.gov/nalt/48738
+is_a: http://aims.fao.org/aos/agrovoc/c_2412  ! duration
+relationship: follows http://aims.fao.org/aos/agrovoc/c_24020 ! dry period
+relationship: influences http://aims.fao.org/aos/agrovoc/c_15998 ! milk yield
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24276 ! milk performance
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_27921
+name: treatment date
+synonym: "application date" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7779  ! timing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29032
+name: free time
+synonym: "leisure (free time)" RELATED []
+xref: http://d-nb.info/gnd/4018382-8
+is_a: http://aims.fao.org/aos/agrovoc/c_7778  ! time
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29464
+name: harvesting date
+xref: http://cat.aii.caas.cn/concept/c_3761
+xref: http://cat.aii.caas.cn/concept/c_41566
+is_a: http://aims.fao.org/aos/agrovoc/c_7779  ! timing
+relationship: influences http://aims.fao.org/aos/agrovoc/c_32476 ! harvesting frequency
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29557
+name: cold season
+xref: http://aims.fao.org/aos/asfa/c_4857
+xref: http://cat.aii.caas.cn/concept/c_26456
+xref: http://lod.nal.usda.gov/nalt/27781
+is_a: http://aims.fao.org/aos/agrovoc/c_6911  ! seasons
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_3113 ! frost
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29577
+name: warm season
+synonym: "hot season" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_33808
+xref: http://lod.nal.usda.gov/nalt/46013
+is_a: http://aims.fao.org/aos/agrovoc/c_6911  ! seasons
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330700
+name: time of transplanting
+synonym: "transplanting date" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_7779  ! timing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6911
+name: seasons
+xref: http://aims.fao.org/aos/asfa/c_8584
+xref: http://cat.aii.caas.cn/concept/c_21526
+xref: http://d-nb.info/gnd/4027999-6
+xref: http://dewey.info/class/508.2/
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/102890
+xref: http://lod.nal.usda.gov/nalt/14062
+xref: http://www.eionet.europa.eu/gemet/concept/7529
+is_a: http://aims.fao.org/aos/agrovoc/c_7778  ! time
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_5708 ! periodicity
+relationship: influences http://aims.fao.org/aos/agrovoc/c_24894 ! seasonal variation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_34117 ! seasonality
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_724
+name: autumn
+synonym: "fall" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_4170
+xref: http://cat.aii.caas.cn/concept/c_36808
+xref: http://d-nb.info/gnd/4024461-1
+xref: http://lod.nal.usda.gov/nalt/14061
+is_a: http://aims.fao.org/aos/agrovoc/c_6911  ! seasons
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7336
+name: spring
+xref: http://aims.fao.org/aos/asfa/c_8992
+xref: http://cat.aii.caas.cn/concept/c_6471
+xref: http://lod.nal.usda.gov/nalt/62717
+is_a: http://aims.fao.org/aos/agrovoc/c_6911  ! seasons
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7519
+name: summer
+xref: http://aims.fao.org/aos/asfa/c_9163
+xref: http://cat.aii.caas.cn/concept/c_48792
+xref: http://d-nb.info/gnd/4136980-4
+xref: http://lod.nal.usda.gov/nalt/62718
+is_a: http://aims.fao.org/aos/agrovoc/c_6911  ! seasons
+relationship: includes http://aims.fao.org/aos/agrovoc/c_29577 ! warm season
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7569
+name: synchronization
+is_a: http://aims.fao.org/aos/agrovoc/c_7779  ! timing
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7778
+name: time
+xref: http://cat.aii.caas.cn/concept/c_41107
+xref: http://d-nb.info/gnd/4067461-7
+xref: http://id.loc.gov/authorities/sh85135395#concept
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/95630
+xref: http://www.eionet.europa.eu/gemet/concept/8487
+xref: http://zbw.eu/stw/descriptor/19784-1
+relationship: influences http://aims.fao.org/aos/agrovoc/c_186 ! age
+relationship: influences http://aims.fao.org/aos/agrovoc/c_5708 ! periodicity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7779
+name: timing
+xref: http://cat.aii.caas.cn/concept/c_41105
+xref: http://d-nb.info/gnd/4117707-1
+is_a: http://aims.fao.org/aos/agrovoc/c_7778  ! time
+relationship: actsUpon http://aims.fao.org/aos/agrovoc/c_24935 ! off season cultivation
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2147 ! decision making
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8368
+name: wet season
+synonym: "humid season" RELATED []
+synonym: "rainy season" RELATED []
+xref: http://d-nb.info/gnd/4369836-0
+xref: http://lod.nal.usda.gov/nalt/53417
+is_a: http://aims.fao.org/aos/agrovoc/c_6911  ! seasons
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_3686 ! humid climate
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8410
+name: winter
+xref: http://aims.fao.org/aos/asfa/c_9952
+xref: http://cat.aii.caas.cn/concept/c_9881
+xref: http://d-nb.info/gnd/4066326-7
+xref: http://lod.nal.usda.gov/nalt/62719
+is_a: http://aims.fao.org/aos/agrovoc/c_6911  ! seasons
+relationship: causes http://aims.fao.org/aos/agrovoc/c_29040 ! crop overwintering
+relationship: includes http://aims.fao.org/aos/agrovoc/c_29557 ! cold season
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8449
+name: working hours
+synonym: "working time" RELATED []
+xref: http://d-nb.info/gnd/4130587-5
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/86720
+xref: http://lod.gesis.org/thesoz/concept/10034543
+xref: http://www.eionet.europa.eu/gemet/concept/9371
+is_a: http://aims.fao.org/aos/agrovoc/c_7778  ! time
+relationship: influences http://aims.fao.org/aos/agrovoc/c_29032 ! free time
+relationship: influences http://aims.fao.org/aos/agrovoc/c_8448 ! working conditions
+

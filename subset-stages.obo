@@ -1,0 +1,613 @@
+format-version: 1.2
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1057
+name: branching
+xref: http://cat.aii.caas.cn/concept/c_12590
+xref: http://lod.nal.usda.gov/nalt/19258
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+relationship: produces http://aims.fao.org/aos/agrovoc/c_23995 ! branches
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_10850
+name: fingerlings
+xref: http://aims.fao.org/aos/asfa/c_5789
+xref: http://cat.aii.caas.cn/concept/c_55254
+xref: http://d-nb.info/gnd/4154460-2
+xref: http://lod.nal.usda.gov/nalt/32887
+is_a: http://aims.fao.org/aos/agrovoc/c_2924  ! fish larvae
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11380
+name: grubs
+xref: http://cat.aii.caas.cn/concept/c_35484
+is_a: http://aims.fao.org/aos/agrovoc/c_4204  ! larvae
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_11800
+name: instars
+def: "Any of the larval stages in an insect separated by a molt. Source: http://www.developmentalbiology.net/node/21" []
+xref: http://aims.fao.org/aos/asfa/c_6658
+xref: http://lod.nal.usda.gov/nalt/32893
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_131
+name: adolescence (animals)
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+relationship: hasSymptom http://aims.fao.org/aos/agrovoc/c_7016 ! sexual maturity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_1404740069986
+name: yellow mealworm
+def: "The yellow mealworm is the larval form of Tenebrio molitor. These larvae can grow up to about 30 mms in length, and are the immature stage of a shiny black darkling beetle (family Tenebrionidae)." []
+synonym: "mealworm" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_4204  ! larvae
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15509
+name: necrosis
+def: "The degree to which an agent possesses a specific destructive action on certain cells or the possession of such action." []
+synonym: "gangrene" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_7407
+xref: http://cat.aii.caas.cn/concept/c_19460
+xref: http://d-nb.info/gnd/4171420-9
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/92510
+xref: http://lod.nal.usda.gov/nalt/761
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119508421
+xref: http://www.eionet.europa.eu/gemet/concept/5554
+is_a: http://aims.fao.org/aos/agrovoc/c_49882  ! cell death
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15923
+name: sprouting
+synonym: "bud burst" RELATED []
+synonym: "flushing (plant)" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_30727
+xref: http://d-nb.info/gnd/4251692-4
+xref: http://lod.nal.usda.gov/nalt/58559
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15948
+name: bud initiation
+xref: http://lod.nal.usda.gov/nalt/20264
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15971
+name: fruiting
+synonym: "fructification" RELATED []
+synonym: "fruit set" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_23149
+xref: http://cat.aii.caas.cn/concept/c_23198
+xref: http://d-nb.info/gnd/4293074-1
+xref: http://lod.nal.usda.gov/nalt/7130
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_15981
+name: growth period
+synonym: "growing period" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_40670
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16010
+name: parthenocarpy
+xref: http://cat.aii.caas.cn/concept/c_8069
+xref: http://lod.nal.usda.gov/nalt/41681
+is_a: http://aims.fao.org/aos/agrovoc/c_15971  ! fruiting
+relationship: hasGoalOrProcess http://aims.fao.org/aos/agrovoc/c_664 ! asexual reproduction
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16095
+name: vegetative period
+xref: http://d-nb.info/gnd/4204563-0
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_16116
+name: bolting
+synonym: "running to seed" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_6037
+xref: http://d-nb.info/gnd/4330372-9
+xref: http://lod.nal.usda.gov/nalt/18449
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+relationship: causes http://aims.fao.org/aos/agrovoc/c_3396 ! growth disorders
+relationship: causes http://aims.fao.org/aos/agrovoc/c_7387 ! stem elongation
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_2435 ! precocity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_17160
+name: maggots
+is_a: http://aims.fao.org/aos/agrovoc/c_4204  ! larvae
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_19039
+name: white grub
+is_a: http://aims.fao.org/aos/agrovoc/c_11380  ! grubs
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2138
+name: death
+xref: http://cat.aii.caas.cn/concept/c_42999
+xref: http://d-nb.info/gnd/4060294-1
+xref: http://eurovoc.europa.eu/5291
+xref: http://lod.nal.usda.gov/nalt/739
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+is_a: http://aims.fao.org/aos/agrovoc/c_49871  ! biological phenomena
+relationship: influences http://aims.fao.org/aos/agrovoc/c_29236 ! postmortem changes
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2161
+name: dehiscence
+xref: http://d-nb.info/gnd/4231732-0
+xref: http://lod.nal.usda.gov/nalt/32020
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2230
+name: developmental stages
+synonym: "growth stages" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5246
+xref: http://cat.aii.caas.cn/concept/c_11408
+xref: http://cat.aii.caas.cn/concept/c_11409
+xref: http://cat.aii.caas.cn/concept/c_11410
+xref: http://lod.nal.usda.gov/nalt/4287
+is_a: http://aims.fao.org/aos/agrovoc/c_330995  ! stages
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_921 ! biological development
+relationship: influences http://aims.fao.org/aos/agrovoc/c_2369 ! dormancy
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_24020
+name: dry period
+synonym: "drying off (lactation)" RELATED []
+xref: http://d-nb.info/gnd/4222075-0
+xref: http://lod.nal.usda.gov/nalt/34713
+is_a: http://aims.fao.org/aos/agrovoc/c_3252  ! gestation period
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_25208
+name: postlarval stages
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2547
+name: emergence
+synonym: "seedling emergence" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5547
+xref: http://d-nb.info/gnd/4307091-7
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26785
+name: seed filling
+synonym: "grain filling" RELATED []
+synonym: "pod filling" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_26828
+name: sporulation
+xref: http://lod.gesis.org/thesoz/concept/10039692
+xref: http://lod.nal.usda.gov/nalt/61085
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+relationship: produces http://aims.fao.org/aos/agrovoc/c_7324 ! spores
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2924
+name: fish larvae
+synonym: "fish fry" RELATED []
+synonym: "fry" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_5818
+xref: http://cat.aii.caas.cn/concept/c_55097
+xref: http://cat.aii.caas.cn/concept/c_59311
+xref: http://lod.nal.usda.gov/nalt/40296
+is_a: http://aims.fao.org/aos/agrovoc/c_4204  ! larvae
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_29378
+name: perinatal period
+synonym: "periparturient period" RELATED []
+synonym: "postnatal period" RELATED []
+synonym: "postpartum period" RELATED []
+synonym: "postparturient period" RELATED []
+synonym: "prenatal period" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_46865
+xref: http://lod.nal.usda.gov/nalt/9485
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_2992
+name: flowering
+synonym: "anthesis" RELATED []
+synonym: "blooming" RELATED []
+synonym: "floral initiation" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_24825
+xref: http://d-nb.info/gnd/4494672-7
+xref: http://lod.nal.usda.gov/nalt/9966
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+relationship: follows http://aims.fao.org/aos/agrovoc/c_16116 ! bolting
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3247
+name: germination
+xref: http://aims.fao.org/aos/asfa/c_6184
+xref: http://cat.aii.caas.cn/concept/c_11396
+xref: http://d-nb.info/gnd/4163559-0
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/17450
+xref: http://lod.nal.usda.gov/nalt/42878
+xref: http://www.eionet.europa.eu/gemet/concept/3663
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+relationship: follows http://aims.fao.org/aos/agrovoc/c_6165 ! pregermination
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_3246 ! germinability
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3252
+name: gestation period
+synonym: "gestation length" RELATED []
+synonym: "pregnancy duration" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_19429
+xref: http://cat.aii.caas.cn/concept/c_37678
+xref: http://lod.nal.usda.gov/nalt/9469
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+relationship: hasProperty http://aims.fao.org/aos/agrovoc/c_2412 ! duration
+relationship: includes http://aims.fao.org/aos/agrovoc/c_29378 ! perinatal period
+relationship: influences http://aims.fao.org/aos/agrovoc/c_6169 ! prematurity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330636
+name: vegetative stage
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330637
+name: vegetative lag stage
+is_a: http://aims.fao.org/aos/agrovoc/c_330636  ! vegetative stage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330641
+name: booting stage
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330645
+name: reproductive stage
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330660
+name: juvenile stage
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330661
+name: larval stage
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330662
+name: zygote stage
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330663
+name: foetal stage
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330664
+name: pupal stage
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330665
+name: embryo stage
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330669
+name: insect growth forms
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330685
+name: transplanting stage
+is_a: http://aims.fao.org/aos/agrovoc/c_330636  ! vegetative stage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330756
+name: ripening stage
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330767
+name: sprouting of seed
+is_a: http://aims.fao.org/aos/agrovoc/c_15923  ! sprouting
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330768
+name: flowering stage
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330777
+name: seedling stage
+is_a: http://aims.fao.org/aos/agrovoc/c_330636  ! vegetative stage
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330813
+name: milky stage
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330848
+name: panicle initiation stage
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330995
+name: stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_330996
+name: human developmental stages
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331241
+name: imago
+synonym: "imaginal stage" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_331392
+name: lactation stage
+xref: http://lod.nal.usda.gov/nalt/34715
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_34034
+name: juvenility of plants
+synonym: "juvenile forms in plants" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_31353
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35046
+name: pollen germination
+xref: http://lod.nal.usda.gov/nalt/42879
+is_a: http://aims.fao.org/aos/agrovoc/c_3247  ! germination
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_6070 ! pollen
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3510
+name: heading
+xref: http://aims.fao.org/aos/asfa/c_6352
+xref: http://cat.aii.caas.cn/concept/c_6035
+xref: http://lod.nal.usda.gov/nalt/40654
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35274
+name: preharvest sprouting
+synonym: "sprouting in the ear" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_3247  ! germination
+relationship: affects http://aims.fao.org/aos/agrovoc/c_25512 ! cereal crops
+relationship: causes http://aims.fao.org/aos/agrovoc/c_1969 ! crop losses
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_35364
+name: preruminant stage
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36513
+name: seed germination
+xref: http://cat.aii.caas.cn/concept/c_58532
+xref: http://lod.nal.usda.gov/nalt/4930
+is_a: http://aims.fao.org/aos/agrovoc/c_3247  ! germination
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_6946 ! seeds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36514
+name: spore germination
+xref: http://lod.nal.usda.gov/nalt/42880
+is_a: http://aims.fao.org/aos/agrovoc/c_3247  ! germination
+relationship: hasObjectOfActivity http://aims.fao.org/aos/agrovoc/c_7324 ! spores
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36539
+name: prepupae
+xref: http://lod.nal.usda.gov/nalt/32906
+is_a: http://aims.fao.org/aos/agrovoc/c_6374  ! pupae
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36634
+name: apoptosis
+synonym: "programmed cell death" RELATED []
+xref: http://lod.nal.usda.gov/nalt/11242
+is_a: http://aims.fao.org/aos/agrovoc/c_15509  ! necrosis
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36747
+name: seed set
+xref: http://d-nb.info/gnd/4392063-9
+xref: http://lod.nal.usda.gov/nalt/62755
+is_a: http://aims.fao.org/aos/agrovoc/c_15971  ! fruiting
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36847
+name: postweaning period
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+relationship: follows http://aims.fao.org/aos/agrovoc/c_15291 ! weaning
+relationship: influences http://aims.fao.org/aos/agrovoc/c_429 ! animal feeding
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_36849
+name: preweaning period
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+relationship: follows http://aims.fao.org/aos/agrovoc/c_9418 ! breast feeding
+relationship: influences http://aims.fao.org/aos/agrovoc/c_429 ! animal feeding
+relationship: influences http://aims.fao.org/aos/agrovoc/c_7493 ! suckling
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37520
+name: bud formation
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+relationship: produces http://aims.fao.org/aos/agrovoc/c_1135 ! buds
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_37832
+name: adolescence (human)
+is_a: http://aims.fao.org/aos/agrovoc/c_330996  ! human developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_3841
+name: induced flowering
+synonym: "floral induction" RELATED []
+synonym: "flower induction" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_2992  ! flowering
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4204
+name: larvae
+synonym: "larval stages" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6841
+xref: http://cat.aii.caas.cn/concept/c_55058
+xref: http://cat.aii.caas.cn/concept/c_55087
+xref: http://d-nb.info/gnd/4166781-5
+xref: http://id.loc.gov/authorities/sh85074735#concept
+xref: http://lod.nal.usda.gov/nalt/23027
+xref: http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11932188g
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_425
+name: animal developmental stages
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4317
+name: life cycle
+synonym: "life history" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_6896
+xref: http://cat.aii.caas.cn/concept/c_40422
+xref: http://cat.aii.caas.cn/concept/c_40468
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/45640
+xref: http://lod.gesis.org/thesoz/concept/10050735
+xref: http://www.eionet.europa.eu/gemet/concept/4802
+xref: http://zbw.eu/stw/descriptor/12057-4
+is_a: http://aims.fao.org/aos/agrovoc/c_330995  ! stages
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_12117 ! leaf fall
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_32926 ! animal migration
+relationship: hasComponent http://aims.fao.org/aos/agrovoc/c_923 ! biological rhythms
+relationship: includes http://aims.fao.org/aos/agrovoc/c_921 ! biological development
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_4656
+name: maturity
+synonym: "ripeness" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_41813
+xref: http://cat.aii.caas.cn/concept/c_5644
+xref: http://cat.aii.caas.cn/concept/c_5650
+xref: http://d-nb.info/gnd/4128823-3
+xref: http://lod.gesis.org/thesoz/concept/10042784
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+relationship: hasSymptom http://aims.fao.org/aos/agrovoc/c_13933 ! ripening
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_49882
+name: cell death
+xref: http://lod.nal.usda.gov/nalt/11245
+is_a: http://aims.fao.org/aos/agrovoc/c_2138  ! death
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5282
+name: nymphs
+xref: http://aims.fao.org/aos/asfa/c_7508
+xref: http://cat.aii.caas.cn/concept/c_38306
+xref: http://cat.aii.caas.cn/concept/c_45451
+xref: http://cat.aii.caas.cn/concept/c_57993
+xref: http://d-nb.info/gnd/4232375-7
+xref: http://lod.nal.usda.gov/nalt/32903
+is_a: http://aims.fao.org/aos/agrovoc/c_4204  ! larvae
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_5959
+name: plant developmental stages
+is_a: http://aims.fao.org/aos/agrovoc/c_2230  ! developmental stages
+relationship: influences http://aims.fao.org/aos/agrovoc/c_27921 ! treatment date
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6361
+name: puerperium
+xref: http://cat.aii.caas.cn/concept/c_4973
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6374
+name: pupae
+xref: http://aims.fao.org/aos/asfa/c_8157
+xref: http://cat.aii.caas.cn/concept/c_54651
+xref: http://d-nb.info/gnd/4047870-1
+xref: http://lod.nal.usda.gov/nalt/32909
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+relationship: surroundedBy http://aims.fao.org/aos/agrovoc/c_36538 ! cocoons
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_6649
+name: rooting
+xref: http://d-nb.info/gnd/4351390-6
+xref: http://lod.nal.usda.gov/nalt/58558
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+is_a: http://aims.fao.org/aos/agrovoc/c_8177  ! vegetative propagation
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_3393 ! growing media
+relationship: produces http://aims.fao.org/aos/agrovoc/c_6651 ! roots
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7016
+name: sexual maturity
+synonym: "puberty" RELATED []
+xref: http://aims.fao.org/aos/asfa/c_8725
+xref: http://cat.aii.caas.cn/concept/c_50727
+xref: http://d-nb.info/gnd/4071779-3
+xref: http://lod.nal.usda.gov/nalt/33218
+is_a: http://aims.fao.org/aos/agrovoc/c_4656  ! maturity
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7387
+name: stem elongation
+xref: http://d-nb.info/gnd/4201467-0
+xref: http://lod.nal.usda.gov/nalt/58591
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_7773
+name: tillering
+xref: http://cat.aii.caas.cn/concept/c_12539
+xref: http://lod.nal.usda.gov/nalt/58561
+is_a: http://aims.fao.org/aos/agrovoc/c_5959  ! plant developmental stages
+relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_7426 ! stooling
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_8769
+name: ammocetes
+synonym: "Leptocephalus" RELATED []
+is_a: http://aims.fao.org/aos/agrovoc/c_2924  ! fish larvae
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9445
+name: brooding
+synonym: "natural egg incubation" RELATED []
+xref: http://cat.aii.caas.cn/concept/c_55652
+xref: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/30290
+xref: http://www.eionet.europa.eu/gemet/concept/1014
+is_a: http://aims.fao.org/aos/agrovoc/c_425  ! animal developmental stages
+
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_9669
+name: caterpillars
+is_a: http://aims.fao.org/aos/agrovoc/c_4204  ! larvae
+
