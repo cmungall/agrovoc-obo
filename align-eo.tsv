@@ -1,0 +1,111 @@
+EO:0007003	temperate region	http://aims.fao.org/aos/agrovoc/c_28588	tempering	activities	
+EO:0007022	Liliopsida	http://aims.fao.org/aos/agrovoc/c_330109	Liliopsida	organisms	
+EO:0007028	Echinochloa crus-galli	http://aims.fao.org/aos/agrovoc/c_10527	Echinochloa crus galli	organisms	
+EO:0007029	Typha spp.	http://aims.fao.org/aos/agrovoc/c_15058	Typha	organisms	
+EO:0007031	Mammalia	http://aims.fao.org/aos/agrovoc/c_12358	Mammalia	organisms	
+EO:0007050	soil texture	http://aims.fao.org/aos/agrovoc/c_7199	soil texture	properties	
+EO:0007052	organic matter content	http://aims.fao.org/aos/agrovoc/c_5388	organic matter content	properties	
+EO:0007060	Sphaerulina oryzina treatment	http://aims.fao.org/aos/agrovoc/c_33654	Cercospora oryzae	organisms	
+EO:0007061	tropical region	http://aims.fao.org/aos/agrovoc/c_7979	tropical zones	location	
+EO:0007063	diuron treatment	http://aims.fao.org/aos/agrovoc/c_31347	diuron	substances	
+EO:0007073	Basidiomycota treatment	http://aims.fao.org/aos/agrovoc/c_331216	Basidiomycota	organisms	
+EO:0007081	river bank region	http://aims.fao.org/aos/agrovoc/c_25303	riverbanks	features	
+EO:0007083	Phoma sorghina	http://aims.fao.org/aos/agrovoc/c_33804	Phoma sorghina	organisms	
+EO:0007107	Ascomycota treatment	http://aims.fao.org/aos/agrovoc/c_331215	Ascomycota	organisms	
+EO:0007114	Lepidoptera	http://aims.fao.org/aos/agrovoc/c_4268	Lepidoptera	organisms	
+EO:0007116	Hemiptera insect plant treatment	http://aims.fao.org/aos/agrovoc/c_3585	Heteroptera	organisms	
+EO:0007120	Coleoptera	http://aims.fao.org/aos/agrovoc/c_1747	Coleoptera	organisms	
+EO:0007121	Thysanoptera	http://aims.fao.org/aos/agrovoc/c_7757	Thysanoptera	organisms	
+EO:0007122	Chilo	http://aims.fao.org/aos/agrovoc/c_1549	Chilo	organisms	
+EO:0007146	gravity	http://aims.fao.org/aos/agrovoc/c_24586	gravity	phenomena	
+EO:0007148	Xanthomonas oryzae	http://aims.fao.org/aos/agrovoc/c_24383	Xanthomonas oryzae	organisms	
+EO:0007155	soil type	http://aims.fao.org/aos/agrovoc/c_7204	soil types	entities	
+EO:0007156	clay soil	http://aims.fao.org/aos/agrovoc/c_1659	clay soils	entities	
+EO:0007157	loam soil	http://aims.fao.org/aos/agrovoc/c_4408	loam soils	entities	
+EO:0007158	sandy soil	http://aims.fao.org/aos/agrovoc/c_6781	sandy soils	entities	
+EO:0007177	Pythium myriotylum	http://aims.fao.org/aos/agrovoc/c_27346	Pythium myriotylum	organisms	
+EO:0007178	atmospheric pressure	http://aims.fao.org/aos/agrovoc/c_693	atmospheric pressure	factors	
+EO:0007179	Pythium irregulare	http://aims.fao.org/aos/agrovoc/c_27345	Pythium irregulare	organisms	
+EO:0007181	rainfall	http://aims.fao.org/aos/agrovoc/c_6435	rain	factors	
+EO:0007182	Pythium graminicola	http://aims.fao.org/aos/agrovoc/c_27344	Pythium graminicola	organisms	
+EO:0007195	rice ragged stunt virus	http://aims.fao.org/aos/agrovoc/c_16031	Rice ragged stunt virus	organisms	,substances	
+EO:0007196	light regimen	http://aims.fao.org/aos/agrovoc/c_2135	daylight	phenomena	
+EO:0007196	light regimen	http://aims.fao.org/aos/agrovoc/c_639	artificial light	phenomena	
+EO:0007204	1-naphthaleneacetic acid treatment	http://aims.fao.org/aos/agrovoc/c_5061	NAA	substances	
+EO:0007206	Gaeumannomyces graminis	http://aims.fao.org/aos/agrovoc/c_24640	Gaeumannomyces graminis	organisms	
+EO:0007211	Cochliobolus miyabeanus	http://aims.fao.org/aos/agrovoc/c_34512	Cochliobolus miyabeanus	organisms	
+EO:0007212	Mycoplasma	http://aims.fao.org/aos/agrovoc/c_5020	Mycoplasma	organisms	
+EO:0007226	Magnaporthe grisea	http://aims.fao.org/aos/agrovoc/c_37090	Magnaporthe grisea	organisms	
+EO:0007227	Cochliobolus lunatus	http://aims.fao.org/aos/agrovoc/c_35470	Cochliobolus lunatus	organisms	
+EO:0007229	Gibberella fujikuroi	http://aims.fao.org/aos/agrovoc/c_16511	Gibberella fujikuroi	organisms	
+EO:0007234	Pseudomonas fuscovaginae	http://aims.fao.org/aos/agrovoc/c_33829	Pseudomonas fuscovaginae	organisms	
+EO:0007243	Pseudomonas glumae	http://aims.fao.org/aos/agrovoc/c_33831	Pseudomonas glumae	organisms	
+EO:0007245	Erwinia chrysanthemi	http://aims.fao.org/aos/agrovoc/c_27516	Erwinia chrysanthemi	organisms	
+EO:0007247	Erwinia herbicola	http://aims.fao.org/aos/agrovoc/c_36042	Erwinia herbicola	organisms	
+EO:0007249	Xanthomonas oryzae pv. oryzicola	http://aims.fao.org/aos/agrovoc/c_330601	Xanthomonas oryzae pv. oryzicola	organisms	
+EO:0007250	Recilia dorsalis	http://aims.fao.org/aos/agrovoc/c_30734	Recilia dorsalis	organisms	
+EO:0007252	Sogatella furcifera	http://aims.fao.org/aos/agrovoc/c_30745	Sogatella furcifera	organisms	
+EO:0007254	Pseudomonas avenae	http://aims.fao.org/aos/agrovoc/c_33824	Pseudomonas avenae	organisms	
+EO:0007258	Oebalus pugnax	http://aims.fao.org/aos/agrovoc/c_30692	Oebalus pugnax	organisms	
+EO:0007259	soil water content	http://aims.fao.org/aos/agrovoc/c_7208	soil water content	measure	,properties	
+EO:0007264	Sesamia inferens	http://aims.fao.org/aos/agrovoc/c_30273	Sesamia inferens	organisms	
+EO:0007274	Scirpophaga incertulas	http://aims.fao.org/aos/agrovoc/c_30329	Scirpophaga incertulas	organisms	
+EO:0007279	Chilo suppressalis	http://aims.fao.org/aos/agrovoc/c_27157	Chilo suppressalis	organisms	
+EO:0007285	rainy season	http://aims.fao.org/aos/agrovoc/c_8368	wet season	time	
+EO:0007286	dry season	http://aims.fao.org/aos/agrovoc/c_2400	dry season	time	
+EO:0007289	Hydrellia philippina	http://aims.fao.org/aos/agrovoc/c_30551	Hydrellia philippina	organisms	
+EO:0007291	benzyladenine treatment	http://aims.fao.org/aos/agrovoc/c_754	BA	substances	
+EO:0007298	Sogatodes oryzicola	http://aims.fao.org/aos/agrovoc/c_35609	Tagosodes orizicolus	organisms	
+EO:0007300	Leptocorisa oratorius	http://aims.fao.org/aos/agrovoc/c_30653	Leptocorisa oratorius	organisms	
+EO:0007305	Cnaphalocrocis medinalis	http://aims.fao.org/aos/agrovoc/c_30305	Cnaphalocrocis medinalis	organisms	
+EO:0007311	Orseolia oryzae	http://aims.fao.org/aos/agrovoc/c_30463	Orseolia oryzae	organisms	
+EO:0007313	Pseudaletia separata	http://aims.fao.org/aos/agrovoc/c_30262	Mythimna separata	organisms	
+EO:0007315	zero gravity	http://aims.fao.org/aos/agrovoc/c_24581	zero gravity	phenomena	
+EO:0007317	Nilaparvata lugens	http://aims.fao.org/aos/agrovoc/c_25204	Nilaparvata lugens	organisms	
+EO:0007318	rice yellow mottle virus	http://aims.fao.org/aos/agrovoc/c_34331	Rice yellow mottle sobemovirus	organisms	,substances	
+EO:0007320	Meloidogyne arenaria	http://aims.fao.org/aos/agrovoc/c_31067	Meloidogyne arenaria	organisms	
+EO:0007326	mycoplasma like organism	http://aims.fao.org/aos/agrovoc/c_26802	Phytoplasmas	organisms	
+EO:0007331	Pseudaletia unipuncta	http://aims.fao.org/aos/agrovoc/c_30263	Mythimna unipuncta	organisms	
+EO:0007333	insect plant treatment	http://aims.fao.org/aos/agrovoc/c_3890	Insecta	organisms	
+EO:0007334	Pomacea canaliculata	http://aims.fao.org/aos/agrovoc/c_33400	Pomacea canaliculata	organisms	
+EO:0007335	Mollusca	http://aims.fao.org/aos/agrovoc/c_4898	Mollusca	organisms	
+EO:0007337	Nematoda	http://aims.fao.org/aos/agrovoc/c_5112	Nematoda	organisms	
+EO:0007339	rice tungro spherical virus	http://aims.fao.org/aos/agrovoc/c_34138	Rice tungro virus	organisms	,substances	
+EO:0007341	Fusarium	http://aims.fao.org/aos/agrovoc/c_3156	Fusarium	organisms	
+EO:0007343	Bovinae	http://aims.fao.org/aos/agrovoc/c_1040	Bovinae	organisms	
+EO:0007344	rice tungro bacilliform virus	http://aims.fao.org/aos/agrovoc/c_34138	Rice tungro virus	organisms	,substances	
+EO:0007345	Rodentia	http://aims.fao.org/aos/agrovoc/c_6633	Rodentia	organisms	
+EO:0007347	Aves	http://aims.fao.org/aos/agrovoc/c_9012	Aves	organisms	
+EO:0007349	metazoan plant treatment	http://aims.fao.org/aos/agrovoc/c_330938	Animalia	organisms	
+EO:0007360	barley yellow dwarf virus	http://aims.fao.org/aos/agrovoc/c_15942	barley yellow dwarf luteovirus	organisms	,substances	
+EO:0007367	Aphelenchoides besseyi	http://aims.fao.org/aos/agrovoc/c_30993	Aphelenchoides besseyi	organisms	
+EO:0007371	Meloidogyne javanica	http://aims.fao.org/aos/agrovoc/c_31073	Meloidogyne javanica	organisms	
+EO:0007372	Meloidogyne incognita	http://aims.fao.org/aos/agrovoc/c_31072	Meloidogyne incognita	organisms	
+EO:0007373	mechanical damage	http://aims.fao.org/aos/agrovoc/c_16138	mechanical damage	phenomena	
+EO:0007375	Meloidogyne graminicola	http://aims.fao.org/aos/agrovoc/c_31070	Meloidogyne graminicola	organisms	
+EO:0007377	Athelia rolfsii	http://aims.fao.org/aos/agrovoc/c_34700	Corticium rolfsii	organisms	
+EO:0007379	Thanatephorus cucumeris	http://aims.fao.org/aos/agrovoc/c_35179	Thanatephorus cucumeris	organisms	
+EO:0007385	irrigated land region	http://aims.fao.org/aos/agrovoc/c_25194	irrigated land	resources	
+EO:0007389	Gibberella zeae	http://aims.fao.org/aos/agrovoc/c_35494	Gibberella zeae	organisms	
+EO:0007391	lowland region	http://aims.fao.org/aos/agrovoc/c_4453	lowland	features	
+EO:0007396	flood prone region	http://aims.fao.org/aos/agrovoc/c_2980	flooding	measure	,phenomena	
+EO:0007398	sub-tropical region	http://aims.fao.org/aos/agrovoc/c_14658	subtropical zones	location	
+EO:0007411	Pseudomonas fluorescens	http://aims.fao.org/aos/agrovoc/c_26647	Pseudomonas fluorescens	organisms	
+EO:0007503	1,2-dibromoethane	http://aims.fao.org/aos/agrovoc/c_26778	ethylene dibromide	substances	
+EO:0007524	caffeine	http://aims.fao.org/aos/agrovoc/c_1183	caffeine	substances	
+EO:0007526	colchicine	http://aims.fao.org/aos/agrovoc/c_1741	colchicine	substances	
+EO:0007532	DNA	http://aims.fao.org/aos/agrovoc/c_2347	DNA	substances	
+EO:0007533	ethyl ether	http://aims.fao.org/aos/agrovoc/c_29697	ethyl ether	substances	
+EO:0007534	ethyl methanesulfonate	http://aims.fao.org/aos/agrovoc/c_2552	EMS	substances	
+EO:0007539	formaldehyde	http://aims.fao.org/aos/agrovoc/c_3064	formaldehyde	substances	
+EO:0007540	boric acid	http://aims.fao.org/aos/agrovoc/c_1016	boric acid	substances	
+EO:0007541	hesperidine	http://aims.fao.org/aos/agrovoc/c_35020	hesperidin	substances	
+EO:0007547	iodine	http://aims.fao.org/aos/agrovoc/c_3932	iodine	substances	
+EO:0007550	methyl methanesulfonate	http://aims.fao.org/aos/agrovoc/c_4879	MMS	substances	
+EO:0007555	natural gas	http://aims.fao.org/aos/agrovoc/c_5087	natural gas	resources	
+EO:0007610	3-H	http://aims.fao.org/aos/agrovoc/c_24912	tritium	substances	
+EO:0007619	226-Ra or agr ray	http://aims.fao.org/aos/agrovoc/c_6431	radium	substances	
+EO:0007621	magnetic field	http://aims.fao.org/aos/agrovoc/c_33982	magnetic field	phenomena	
+EO:0007628	X-ray	http://aims.fao.org/aos/agrovoc/c_8453	X rays	phenomena	
+EO:0007631	Sclerospora graminicola	http://aims.fao.org/aos/agrovoc/c_32335	Sclerospora graminicola	organisms	
+EO:0007634	Spodoptera litura	http://aims.fao.org/aos/agrovoc/c_30279	Spodoptera litura	organisms	
