@@ -8,6 +8,7 @@
           ]).
 :- use_module(skos).
 :- use_module(library(semweb/rdf_db)).
+:- use_module(library(semweb/rdfs)).
 :- use_module(library(semweb/rdf_ntriples)).
 
 
@@ -30,6 +31,20 @@ oborel(C,R,D) :-
 oboxref(C,X) :-
         has_exact_match(C,X).
 
+obosubset(C,Label) :-
+        obolabel(C,_),   % ground
+        broaderT(C,D),
+        \+ has_broader(D,_),
+        obolabel(D,DL),
+        makesafe(DL,DL2),
+        concat_atom(Toks,' ',DL2),
+        concat_atom(Toks,' ',Label).
+
+
+broaderT(C,D) :- has_broader(C,D).
+broaderT(C,D) :- has_broader(C,Z),broaderT(Z,D).
+
+    
 makesafe(X,Y) :-
         concat_atom(L,'\n',X),
         concat_atom(L,'\\n',Y).
@@ -38,6 +53,7 @@ makesafe(X,Y) :-
 wterm(C) :-
         concept(C),
         \+ \+ obolabel(C,_),
+        !,
         format('[Term]~n'),
         format('id: ~w~n',[C]),
         uforall(obolabel(C,N),
@@ -50,6 +66,8 @@ wterm(C) :-
                format('synonym: "~w" RELATED []~n',[X])),
         uforall(obosingular(C,X),
                format('synonym: "~w" EXACT []~n',[X])),
+        uforall(obosubset(C,X),
+                format('subset: ~w~n',[X])),
         uforall(oboxref(C,X),
                 format('xref: ~w~n',[X])),
         %uforall((oboxref(C,X),obolabel(X,XN)),
@@ -57,7 +75,9 @@ wterm(C) :-
         uforall((oborel(C,R,D),obolabel(D,DN)),
                 format('relationship: ~w ~w ! ~w~n',[R,D,DN])),
         nl.
-
+wterm(C) :-
+        debug(error,'no class ~w',[C]).
+        
 uforall(T,G) :-
         setof(T,T,L),
         !,
@@ -67,7 +87,8 @@ uforall(_,_).
 
 wfile(FN) :-
         tell(FN),
-        forall(wterm(_),true),
+        setof(C,concept(C),Cs), % ensure sorted
+        forall(member(C,Cs),wterm(C)),
         told.
         
 load_agrovoc :-

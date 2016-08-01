@@ -40,6 +40,36 @@ http://globalbioticinteractions.org/
 
 https://github.com/FoodOntology/foodon/
 
+E.g. https://github.com/FoodOntology/foodon/issues/6
+
 ### MIREOTing Agrovoc into OBO Library ontologies
 
-If we can get permission to publish the obo/owl via a purl we can MIREOT in Agrovoc classes to OBO Library ontologies
+If we can get permission to publish the obo/owl via a purl we can
+MIREOT in Agrovoc classes to OBO Library ontologies (would also need
+CC-BY).
+
+We would want to swap out some agrovoc PURLs with existing OBO purls -
+the above mappings can help with this. For example, we would always
+use an NCBITaxon purl for a taxon, or a PO purl for a plant part, a
+CHEBI purl for a chemical, etc.
+
+However, with MIREOTing we will run into issues of differing semantics:
+
+```
+[Term]
+id: http://aims.fao.org/aos/agrovoc/c_928
+name: biosynthesis
+is_a: http://aims.fao.org/aos/agrovoc/c_27462  ! biochemical reactions
+***relationship: makeUseOf http://aims.fao.org/aos/agrovoc/c_2855 ! fermentation
+```
+
+not compatible with:
+
+```
+id: GO:0006113
+name: fermentation
+namespace: biological_process
+def: "The anaerobic enzymatic conversion of organic compounds, especially carbohydrates, coupling the oxidation and reduction of NAD/H and the generation of adenosine triphosphate (ATP)." [GOC:curators, ISBN:0201090910, ISBN:124925502, MetaCyc:Fermentation]
+```
+
+
